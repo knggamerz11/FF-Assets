@@ -1,0 +1,62 @@
+
+JS_SYS_Mainpage_Hand_A.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Female_Arm_1
+  rotate: true
+  xy: 2, 22
+  size: 123, 141
+  orig: 123, 142
+  offset: 0, 1
+  index: -1
+Female_Finger_1
+  rotate: true
+  xy: 2, 11
+  size: 34, 89
+  orig: 34, 89
+  offset: 0, 0
+  index: -1
+Female_Finger_2
+  rotate: false
+  xy: 138, 130
+  size: 21, 85
+  orig: 21, 85
+  offset: 0, 0
+  index: -1
+Female_Finger_3
+  rotate: 270
+  xy: 37, 5
+  size: 23, 86
+  orig: 23, 87
+  offset: 0, 0
+  index: -1
+Female_Finger_4
+  rotate: false
+  xy: 133, 4
+  size: 27, 77
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+Female_Finger_5
+  rotate: true
+  xy: 2, 51
+  size: 25, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+Female_Hand_1
+  rotate: true
+  xy: 76, 79
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+Hand_Fireplace
+  rotate: false
+  xy: 2, 142
+  size: 135, 77
+  orig: 135, 77
+  offset: 0, 0
+  index: -1

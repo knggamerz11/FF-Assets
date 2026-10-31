@@ -1,0 +1,76 @@
+
+JS_SYS_Mainpage_Decoration_Left_A.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Balloon_15
+  rotate: true
+  xy: 2, 163
+  size: 59, 461
+  orig: 59, 461
+  offset: 0, 0
+  index: -1
+Balloon_16
+  rotate: true
+  xy: 17, 44
+  size: 59, 283
+  orig: 59, 283
+  offset: 0, 0
+  index: -1
+Balloon_17
+  rotate: true
+  xy: 93, 29
+  size: 43, 238
+  orig: 43, 238
+  offset: 0, 0
+  index: -1
+Balloon_18
+  rotate: 270
+  xy: 236, 7
+  size: 41, 218
+  orig: 41, 218
+  offset: 0, 0
+  index: -1
+Balloon_19
+  rotate: true
+  xy: 70, 87
+  size: 45, 314
+  orig: 45, 314
+  offset: 0, 0
+  index: -1
+Balloon_Shadow_6
+  rotate: true
+  xy: 115, 119
+  size: 33, 70
+  orig: 41, 89
+  offset: 0, 19
+  index: -1
+Balloon_Shadow_7
+  rotate: true
+  xy: 80, 5
+  size: 30, 55
+  orig: 40, 76
+  offset: 6, 2
+  index: -1
+Balloon_Shadow_8
+  rotate: true
+  xy: 2, 3
+  size: 43, 79
+  orig: 53, 85
+  offset: 3, 5
+  index: -1
+Flag_04
+  rotate: 180
+  xy: 317, 29
+  size: 178, 193
+  orig: 178, 193
+  offset: 0, 0
+  index: -1
+Flag_07
+  rotate: false
+  xy: 2, 82
+  size: 247, 106
+  orig: 247, 106
+  offset: 0, 0
+  index: -1

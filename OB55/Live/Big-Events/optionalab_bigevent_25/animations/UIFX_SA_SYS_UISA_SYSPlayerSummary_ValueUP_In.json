@@ -1,0 +1,107 @@
+{
+ "name": "UIFX_SA_SYS_UISA_SYSPlayerSummary_ValueUP_In",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [],
+ "scale": [],
+ "float": [
+  {
+   "path": "Mian/Kuangbaodian",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Mian/Menshou",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Mian/Sheng",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.46666666865348816,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Mian/Xishou",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 0.5
+}

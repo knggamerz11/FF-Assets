@@ -1,0 +1,843 @@
+{
+ "name": "UIFX_NB1RE_SYSMain_Out",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [],
+ "scale": [],
+ "float": [
+  {
+   "path": "BgContainer/Bg1",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -77.10444641113281,
+      "outSlope": -77.10444641113281
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "BgContainer/Bg2",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/Ball",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -34.354637145996094,
+      "outSlope": -34.354637145996094
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Black",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -25.329572677612305,
+      "outSlope": -25.329572677612305
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": 0.0,
+      "inSlope": -0.09026700258255005,
+      "outSlope": -0.09026700258255005
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Pink",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -25.329572677612305,
+      "outSlope": -25.329572677612305
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": 0.0,
+      "inSlope": -0.09026700258255005,
+      "outSlope": -0.09026700258255005
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Red",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -25.329572677612305,
+      "outSlope": -25.329572677612305
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": 0.0,
+      "inSlope": -0.09026700258255005,
+      "outSlope": -0.09026700258255005
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_White",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -55.63027572631836,
+      "outSlope": -55.63027572631836
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": -0.09026700258255005,
+      "outSlope": -0.09026700258255005
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/BottomLeft/BottomLeftContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -38.12491989135742,
+      "outSlope": -38.12491989135742
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Center/CenterContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -38.12491989135742,
+      "outSlope": -38.12491989135742
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -38.12491989135742,
+      "outSlope": -38.12491989135742
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Right/RightContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -38.12491989135742,
+      "outSlope": -38.12491989135742
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/TopLeft/TopLeftContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -38.12491989135742,
+      "outSlope": -38.12491989135742
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/TopRight/TopRightContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -38.12491989135742,
+      "outSlope": -38.12491989135742
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Black/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Nine/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Pink/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Red/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_White/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Yellow/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/ShareContainer/ShareLogoContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/ShareContainer/CDNContainer/ShareActivityTimeLabel",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/ShareContainer/CDNContainer/Mask",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/UIFX_Ball",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Black/ChakraEffect",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Pink/ChakraEffect",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Red/ChakraEffect",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_White/ChakraEffect",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Yellow/ChakraEffect",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer/EntranceGrid/RevenueBtn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer/EntranceGrid/RevenueBtn/RevenueBtn/RevenueIcon/Icon-01",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer/EntranceGrid/RevenueBtn/RevenueBtn/RevenueIcon/Icon-02",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer/EntranceGrid/RevenueBtn/RevenueBtn/RevenueIcon/Icon-03",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer/EntranceGrid/RevenueBtn/RevenueBtn/RevenueIcon/UIFX_NB1RE_SYSMain_Btn",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "BgContainer/BGUIFX",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": -29.76877212524414,
+      "outSlope": -29.76877212524414
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Blue",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.9990000128746033,
+      "inSlope": -26.264368057250977,
+      "outSlope": -26.264368057250977
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": 9.999999747378752e-05,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Blue/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 0.13333334028720856
+}

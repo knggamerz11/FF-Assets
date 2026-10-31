@@ -1,0 +1,156 @@
+{
+ "name": "UIFX_SA_SYS_UISA_SYSSummaryDataItem_In",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "ReputationView/IconView/LeftBGSprite",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       28.0,
+       -22.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": [
+       26.340789794921875,
+       -20.603012084960938,
+       0.5
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": [
+       30.083871841430664,
+       -23.0,
+       -0.20000000298023224
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": [
+       26.793861389160156,
+       -19.42211151123047,
+       0.5
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       28.0,
+       -22.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.5,
+      "value": [
+       28.0,
+       -22.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [],
+ "float": [
+  {
+   "path": "UIFX_UP",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 1.5
+}

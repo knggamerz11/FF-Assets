@@ -1,0 +1,546 @@
+{
+ "name": "UIFX_UINB1RESysMain_NormalBoxIcon_Change_4_Ani",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/NewGrandPrizeIcon4Normal",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.10000000894069672,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.30000001192092896,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "euler": [],
+ "position": [
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/NewGrandPrizeIcon4Normal",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       -42.0,
+       16.0,
+       0.0
+      ],
+      "inSlope": [
+       -0.14467871189117432,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -6.0,
+       16.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/OldGrandPrizeIcon4Normal",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       7.0,
+       32.0,
+       0.0
+      ],
+      "inSlope": [
+       -0.6286559104919434,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -6.0,
+       16.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "ChooseBtn",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       18.0,
+       -20.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/NewGrandPrizeIcon4Normal",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/OldGrandPrizeIcon4Normal",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.6000000238418579,
+       0.6000000238418579,
+       0.6000000238418579
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/NewGrandPrizeIcon4Normal",
+   "attribute": "depth",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 31.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/OldGrandPrizeIcon4Normal",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.800000011920929,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/OldGrandPrizeIcon4Normal",
+   "attribute": "depth",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 30.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 0.4000000059604645
+}

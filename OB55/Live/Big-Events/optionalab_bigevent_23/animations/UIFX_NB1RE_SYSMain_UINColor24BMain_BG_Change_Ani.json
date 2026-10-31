@@ -1,0 +1,835 @@
+{
+ "name": "UIFX_NB1RE_SYSMain_UINColor24BMain_BG_Change_Ani",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [],
+ "scale": [],
+ "float": [
+  {
+   "path": "Spark/Spark_Left01",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 17.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 17.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Left01",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Left01",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Left01",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Right01",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 17.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 17.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Right01",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Right01",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Right01",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Dot",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 0.20000000298023224,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.20000000298023224,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Dot",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Dot",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Dot",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Black_Dot",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 11.649999618530273,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 11.649999618530273,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Black_Dot",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 7.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 7.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Black_Dot",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Black_Dot",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Right02",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 3.259999990463257,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 3.259999990463257,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 0.20000000298023224,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.20000000298023224,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 3.259999990463257,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Right02",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Right02",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Spark/Spark_Right02",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 5.0
+}

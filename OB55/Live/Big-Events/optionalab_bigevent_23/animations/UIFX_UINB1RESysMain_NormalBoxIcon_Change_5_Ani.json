@@ -1,0 +1,263 @@
+{
+ "name": "UIFX_UINB1RESysMain_NormalBoxIcon_Change_5_Ani",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/NewGrandPrizeIcon4Normal",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       7.0,
+       32.0,
+       0.0
+      ],
+      "inSlope": [
+       -0.3600101172924042,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -6.0,
+       16.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       1.9444445371627808,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/OldGrandPrizeIcon4Normal",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       -42.0,
+       16.0,
+       0.0
+      ],
+      "inSlope": [
+       4.165131568908691,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -6.0,
+       16.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -11.666666984558105,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "ChooseBtn",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       18.0,
+       -20.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/NewGrandPrizeIcon4Normal",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.6000000238418579,
+       0.6000000238418579,
+       0.6000000238418579
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/OldGrandPrizeIcon4Normal",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/NewGrandPrizeIcon4Normal",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.800000011920929,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/NewGrandPrizeIcon4Normal",
+   "attribute": "depth",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 30.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "NormalBoxAnim/NormalBoxIcon/OldGrandPrizeIcon4Normal",
+   "attribute": "depth",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 31.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 0.4000000059604645
+}

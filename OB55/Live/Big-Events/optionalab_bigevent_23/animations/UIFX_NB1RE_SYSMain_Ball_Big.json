@@ -1,0 +1,785 @@
+{
+ "name": "UIFX_NB1RE_SYSMain_Ball_Big",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [],
+ "scale": [
+  {
+   "path": "Ball_Main",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.06666667014360428,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       583.911376953125,
+       583.911376953125,
+       583.911376953125
+      ]
+     },
+     {
+      "time": 0.30000001192092896,
+      "value": [
+       136.24600219726562,
+       136.24600219726562,
+       136.24600219726562
+      ],
+      "inSlope": [
+       583.911376953125,
+       583.911376953125,
+       583.911376953125
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 3.5,
+      "value": [
+       136.24600219726562,
+       136.24600219726562,
+       136.24600219726562
+      ],
+      "inSlope": [
+       -0.0,
+       -0.0,
+       -0.0
+      ],
+      "outSlope": [
+       -154.1533660888672,
+       -154.1533660888672,
+       -154.1533660888672
+      ]
+     },
+     {
+      "time": 3.799999952316284,
+      "value": [
+       90.0,
+       90.0,
+       90.0
+      ],
+      "inSlope": [
+       -154.1533660888672,
+       -154.1533660888672,
+       -154.1533660888672
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Smoke1",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       124.24000549316406,
+       80.7560043334961,
+       124.24000549316406
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": [
+       100.0,
+       65.0,
+       100.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "Ball_Wind/Dark",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Dark",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Dark",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Dark",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Glow",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.100000023841858,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.100000023841858,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Glow",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Glow",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Glow",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Smoke1",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Smoke1",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Smoke1",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Smoke1",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Smoke2",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Smoke2",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Smoke2",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Smoke2",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Main2",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 3.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 3.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Main2",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 1.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Main2",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Main2",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Line1",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Line1",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Line1",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Line1",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind/Naruto_P_Main2",
+   "attribute": "ShapeModule.radius.value",
+   "classID": 198,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 4.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": 2.130000114440918,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Main",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Boom",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Big",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Ball_Wind",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 3.799999952316284
+}

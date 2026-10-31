@@ -1,0 +1,202 @@
+{
+ "name": "FF_FX_UI_Guide_Box",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [
+  {
+   "path": "Box_Decorate",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.0,
+       0.0,
+       0.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "euler": [],
+ "position": [],
+ "scale": [
+  {
+   "path": "Box_Decorate",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5,
+      "value": [
+       1.0399999618530273,
+       1.100000023841858,
+       1.0399999618530273
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Box_Line",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5,
+      "value": [
+       1.0399999618530273,
+       1.100000023841858,
+       1.0399999618530273
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "Box_Line",
+   "attribute": "mColor.a",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 2,
+ "duration": 0.8999999761581421
+}

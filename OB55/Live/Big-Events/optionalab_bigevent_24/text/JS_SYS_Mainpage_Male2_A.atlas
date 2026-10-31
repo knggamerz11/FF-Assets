@@ -1,0 +1,307 @@
+
+JS_SYS_Mainpage_Male2_A.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Male2_Arm_L1
+  rotate: false
+  xy: 466, 457
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Male2_Arm_L2
+  rotate: true
+  xy: 2, 8
+  size: 37, 83
+  orig: 37, 83
+  offset: 0, 0
+  index: -1
+Male2_Arm_R1
+  rotate: true
+  xy: 324, 5
+  size: 39, 75
+  orig: 42, 79
+  offset: 0, 4
+  index: -1
+Male2_Arm_R2
+  rotate: false
+  xy: 464, 305
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Male2_Clothes_1
+  rotate: 270
+  xy: 284, 28
+  size: 104, 136
+  orig: 104, 136
+  offset: 0, 0
+  index: -1
+Male2_Finger_L1
+  rotate: false
+  xy: 314, 486
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+Male2_Finger_L2
+  rotate: false
+  xy: 384, 365
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Male2_Finger_L3
+  rotate: false
+  xy: 397, 366
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Male2_Finger_L4
+  rotate: false
+  xy: 327, 497
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Male2_Finger_L5
+  rotate: false
+  xy: 295, 276
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+Male2_Finger_R1
+  rotate: false
+  xy: 388, 479
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+Male2_Finger_R2
+  rotate: false
+  xy: 352, 317
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+Male2_Finger_R3
+  rotate: false
+  xy: 284, 376
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Male2_Finger_R4
+  rotate: false
+  xy: 388, 382
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+Male2_Finger_R5
+  rotate: false
+  xy: 315, 467
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+Male2_Foot_L1
+  rotate: false
+  xy: 421, 200
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Male2_Foot_R1
+  rotate: true
+  xy: 469, 257
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+Male2_Hand_L1
+  rotate: false
+  xy: 346, 293
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Male2_Hand_R1
+  rotate: false
+  xy: 284, 394
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Male2_Knife_R1
+  rotate: false
+  xy: 481, 352
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+Male2_Knife_R2
+  rotate: false
+  xy: 431, 156
+  size: 22, 56
+  orig: 22, 56
+  offset: 0, 0
+  index: -1
+Male2_Knife_R3
+  rotate: false
+  xy: 284, 343
+  size: 20, 49
+  orig: 20, 49
+  offset: 0, 0
+  index: -1
+Male2_Leg_L1
+  rotate: false
+  xy: 425, 313
+  size: 39, 98
+  orig: 39, 98
+  offset: 0, 0
+  index: -1
+Male2_Leg_L2
+  rotate: false
+  xy: 436, 414
+  size: 30, 84
+  orig: 30, 84
+  offset: 0, 0
+  index: -1
+Male2_Leg_R1
+  rotate: 180
+  xy: 370, 249
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+Male2_Leg_R2
+  rotate: false
+  xy: 284, 423
+  size: 29, 86
+  orig: 29, 86
+  offset: 0, 0
+  index: -1
+Male2_Light
+  rotate: false
+  xy: 2, 6
+  size: 281, 502
+  orig: 291, 502
+  offset: 10, 0
+  index: -1
+Male2_Light_1
+  rotate: false
+  xy: 77, 5
+  size: 104, 22
+  orig: 104, 22
+  offset: 0, 0
+  index: -1
+Male2_Stairs1
+  rotate: 270
+  xy: 369, 120
+  size: 121, 50
+  orig: 402, 218
+  offset: 156, 168
+  index: -1
+Male2_Top_L1
+  rotate: 180
+  xy: 444, 97
+  size: 54, 158
+  orig: 54, 158
+  offset: 0, 0
+  index: -1
+Male2_Top_R1
+  rotate: 180
+  xy: 409, 3
+  size: 44, 151
+  orig: 71, 167
+  offset: 27, 16
+  index: -1
+Male2_Waist_1
+  rotate: 270
+  xy: 413, 236
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+Male2_blood01
+  rotate: true
+  xy: 452, 37
+  size: 82, 19
+  orig: 82, 19
+  offset: 0, 0
+  index: -1
+Male2_blood02
+  rotate: false
+  xy: 292, 264
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+Male2_blood03
+  rotate: false
+  xy: 329, 474
+  size: 5, 20
+  orig: 5, 20
+  offset: 0, 0
+  index: -1
+Male2_blood03_1
+  rotate: false
+  xy: 284, 326
+  size: 3, 15
+  orig: 3, 15
+  offset: 0, 0
+  index: -1
+Male2_blood04
+  rotate: false
+  xy: 284, 242
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+Male2_blood05
+  rotate: false
+  xy: 306, 284
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+Male2_shadow01_1
+  rotate: 180
+  xy: 395, 379
+  size: 39, 129
+  orig: 39, 129
+  offset: 0, 0
+  index: -1
+Male2_shadow02
+  rotate: false
+  xy: 284, 295
+  size: 114, 214
+  orig: 114, 214
+  offset: 0, 0
+  index: -1
+Male2_shadow03
+  rotate: false
+  xy: 284, 130
+  size: 100, 165
+  orig: 128, 201
+  offset: 14, 20
+  index: -1
+Male2_shadow04
+  rotate: false
+  xy: 284, 263
+  size: 10, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+Male2_shadow05
+  rotate: false
+  xy: 460, 354
+  size: 44, 110
+  orig: 57, 164
+  offset: 0, 0
+  index: -1

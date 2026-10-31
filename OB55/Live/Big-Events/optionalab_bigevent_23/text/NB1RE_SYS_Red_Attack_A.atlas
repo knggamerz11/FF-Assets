@@ -1,0 +1,412 @@
+
+NB1RE_SYS_Red_Attack_A.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Red_Arm_L
+  rotate: false
+  xy: 2, 289
+  size: 221, 116
+  orig: 221, 116
+  offset: 0, 0
+  index: -1
+Red_Body
+  rotate: 180
+  xy: 2, 4
+  size: 278, 183
+  orig: 360, 183
+  offset: 0, 0
+  index: -1
+Red_Clothe_1
+  rotate: true
+  xy: 852, 83
+  size: 239, 55
+  orig: 239, 55
+  offset: 0, 0
+  index: -1
+Red_Clothe_2
+  rotate: false
+  xy: 2, 187
+  size: 563, 323
+  orig: 689, 323
+  offset: 0, 0
+  index: -1
+Red_Clothe_3
+  rotate: false
+  xy: 2, 400
+  size: 291, 110
+  orig: 291, 110
+  offset: 0, 0
+  index: -1
+Red_Clothe_4
+  rotate: false
+  xy: 81, 192
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+Red_Clothe_5
+  rotate: 270
+  xy: 669, 223
+  size: 195, 126
+  orig: 195, 131
+  offset: 0, 5
+  index: -1
+Red_Clothe_6
+  rotate: false
+  xy: 698, 3
+  size: 169, 117
+  orig: 188, 117
+  offset: 0, 0
+  index: -1
+Red_Finger1_1R
+  rotate: false
+  xy: 518, 308
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Red_Finger1_2R
+  rotate: false
+  xy: 123, 485
+  size: 31, 26
+  orig: 36, 29
+  offset: 0, 3
+  index: -1
+Red_Finger1_3R
+  rotate: false
+  xy: 270, 5
+  size: 36, 57
+  orig: 45, 57
+  offset: 9, 0
+  index: -1
+Red_Finger1_L
+  rotate: false
+  xy: 2, 365
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+Red_Finger2_1L
+  rotate: false
+  xy: 219, 463
+  size: 14, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+Red_Finger2_1R
+  rotate: false
+  xy: 339, 3
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Red_Finger2_2L
+  rotate: false
+  xy: 95, 499
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Red_Finger2_2R
+  rotate: false
+  xy: 302, 23
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Red_Finger2_3L
+  rotate: false
+  xy: 212, 499
+  size: 15, 12
+  orig: 32, 13
+  offset: 17, 1
+  index: -1
+Red_Finger2_3R
+  rotate: false
+  xy: 626, 161
+  size: 25, 49
+  orig: 27, 49
+  offset: 2, 0
+  index: -1
+Red_Finger3_1L
+  rotate: false
+  xy: 280, 498
+  size: 10, 13
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+Red_Finger3_1R
+  rotate: false
+  xy: 549, 190
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+Red_Finger3_2L
+  rotate: false
+  xy: 92, 305
+  size: 18, 15
+  orig: 27, 17
+  offset: 9, 2
+  index: -1
+Red_Finger3_2R
+  rotate: false
+  xy: 37, 189
+  size: 37, 33
+  orig: 56, 33
+  offset: 1, 0
+  index: -1
+Red_Finger3_3L
+  rotate: false
+  xy: 76, 296
+  size: 19, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Red_Finger3_3R
+  rotate: false
+  xy: 2, 182
+  size: 35, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Red_Finger4_1L
+  rotate: false
+  xy: 74, 390
+  size: 11, 15
+  orig: 12, 22
+  offset: 1, 0
+  index: -1
+Red_Finger4_1R
+  rotate: false
+  xy: 139, 311
+  size: 17, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Red_Finger4_2L
+  rotate: false
+  xy: 204, 469
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Red_Finger4_2R
+  rotate: false
+  xy: 629, 212
+  size: 27, 27
+  orig: 36, 36
+  offset: 0, 9
+  index: -1
+Red_Finger4_3R
+  rotate: false
+  xy: 50, 380
+  size: 24, 21
+  orig: 37, 38
+  offset: 13, 17
+  index: -1
+Red_Finger5_1L
+  rotate: false
+  xy: 2, 257
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Red_Finger5_1R
+  rotate: false
+  xy: 192, 340
+  size: 30, 27
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Red_Finger5_2L
+  rotate: false
+  xy: 248, 388
+  size: 12, 13
+  orig: 12, 22
+  offset: 0, 9
+  index: -1
+Red_Finger5_2R
+  rotate: false
+  xy: 158, 326
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Red_Foot_R
+  rotate: false
+  xy: 781, 383
+  size: 90, 128
+  orig: 107, 140
+  offset: 17, 12
+  index: -1
+Red_Fringe
+  rotate: false
+  xy: 871, 203
+  size: 75, 223
+  orig: 75, 223
+  offset: 0, 0
+  index: -1
+Red_Hair1
+  rotate: false
+  xy: 2, 5
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Red_Hair10
+  rotate: false
+  xy: 614, 375
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+Red_Hair11
+  rotate: false
+  xy: 114, 302
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Red_Hair2
+  rotate: false
+  xy: 534, 266
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Red_Hair3
+  rotate: false
+  xy: 652, 148
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Red_Hair4
+  rotate: false
+  xy: 220, 354
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Red_Hair5
+  rotate: false
+  xy: 321, 461
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+Red_Hair6
+  rotate: false
+  xy: 422, 461
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+Red_Hair7
+  rotate: false
+  xy: 2, 436
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Red_Hair8
+  rotate: false
+  xy: 2, 287
+  size: 14, 27
+  orig: 14, 28
+  offset: 0, 1
+  index: -1
+Red_Hair9
+  rotate: false
+  xy: 669, 371
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+Red_HairBand
+  rotate: false
+  xy: 2, 388
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+Red_Hand_L
+  rotate: false
+  xy: 161, 481
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+Red_Hand_R
+  rotate: 180
+  xy: 865, 32
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+Red_Head
+  rotate: 180
+  xy: 859, 405
+  size: 86, 106
+  orig: 86, 106
+  offset: 0, 0
+  index: -1
+Red_Leg_L
+  rotate: 180
+  xy: 462, 130
+  size: 329, 381
+  orig: 329, 381
+  offset: 0, 0
+  index: -1
+Red_LowerArm_R
+  rotate: false
+  xy: 559, 181
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+Red_LowerLeg_R
+  rotate: true
+  xy: 749, 191
+  size: 161, 138
+  orig: 205, 231
+  offset: 44, 93
+  index: -1
+Red_PonyTail
+  rotate: false
+  xy: 128, 3
+  size: 600, 229
+  orig: 604, 234
+  offset: 4, 5
+  index: -1
+Red_Sleeve_1R
+  rotate: false
+  xy: 2, 206
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+Red_Sleeve_2R
+  rotate: false
+  xy: 74, 497
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Red_UpperArm_R
+  rotate: true
+  xy: 217, 428
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+Red_UpperLeg_R
+  rotate: false
+  xy: 576, 420
+  size: 213, 91
+  orig: 213, 91
+  offset: 0, 0
+  index: -1

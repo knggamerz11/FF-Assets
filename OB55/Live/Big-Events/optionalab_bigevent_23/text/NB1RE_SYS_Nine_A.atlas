@@ -1,0 +1,454 @@
+
+NB1RE_SYS_Nine_A.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nine_Body
+  rotate: false
+  xy: 2, 371
+  size: 228, 140
+  orig: 815, 366
+  offset: 587, 202
+  index: -1
+Nine_Butt
+  rotate: 270
+  xy: 2, 37
+  size: 140, 108
+  orig: 140, 108
+  offset: 0, 0
+  index: -1
+Nine_Ear_L
+  rotate: true
+  xy: 370, 3
+  size: 202, 192
+  orig: 202, 192
+  offset: 0, 0
+  index: -1
+Nine_Ear_R
+  rotate: false
+  xy: 659, 305
+  size: 52, 188
+  orig: 52, 188
+  offset: 0, 0
+  index: -1
+Nine_Eye_L
+  rotate: false
+  xy: 2, 232
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Nine_Eye_R
+  rotate: false
+  xy: 2, 33
+  size: 21, 17
+  orig: 25, 17
+  offset: 3, 0
+  index: -1
+Nine_Finger1_01L
+  rotate: false
+  xy: 233, 283
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Nine_Finger1_01R
+  rotate: false
+  xy: 174, 491
+  size: 38, 20
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+Nine_Finger1_02L
+  rotate: false
+  xy: 129, 260
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Nine_Finger1_02R
+  rotate: false
+  xy: 192, 334
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Nine_Finger2_01L
+  rotate: false
+  xy: 63, 275
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Nine_Finger2_01R
+  rotate: false
+  xy: 223, 252
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+Nine_Finger2_02L
+  rotate: false
+  xy: 103, 123
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+Nine_Finger2_02R
+  rotate: false
+  xy: 272, 148
+  size: 36, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+Nine_Finger2_03R
+  rotate: false
+  xy: 286, 191
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+Nine_Finger3_01L
+  rotate: false
+  xy: 254, 421
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+Nine_Finger3_02L
+  rotate: false
+  xy: 96, 140
+  size: 43, 29
+  orig: 62, 35
+  offset: 1, 5
+  index: -1
+Nine_Finger4_01L
+  rotate: false
+  xy: 2, 210
+  size: 43, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+Nine_Finger4_02L
+  rotate: false
+  xy: 130, 65
+  size: 33, 18
+  orig: 46, 20
+  offset: 13, 0
+  index: -1
+Nine_Foot_L
+  rotate: false
+  xy: 602, 130
+  size: 78, 108
+  orig: 78, 108
+  offset: 0, 0
+  index: -1
+Nine_Foot_R
+  rotate: false
+  xy: 368, 108
+  size: 43, 97
+  orig: 59, 126
+  offset: 16, 29
+  index: -1
+Nine_Hand_L
+  rotate: false
+  xy: 808, 282
+  size: 80, 45
+  orig: 86, 62
+  offset: 0, 17
+  index: -1
+Nine_Hand_R
+  rotate: false
+  xy: 434, 389
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+Nine_Head_01
+  rotate: true
+  xy: 526, 211
+  size: 144, 107
+  orig: 144, 107
+  offset: 0, 0
+  index: -1
+Nine_Head_02
+  rotate: false
+  xy: 838, 280
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+Nine_Head_03
+  rotate: false
+  xy: 112, 87
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Nine_LowerArm_L
+  rotate: false
+  xy: 441, 227
+  size: 108, 180
+  orig: 108, 180
+  offset: 0, 0
+  index: -1
+Nine_LowerArm_R
+  rotate: false
+  xy: 773, 326
+  size: 64, 185
+  orig: 64, 185
+  offset: 0, 0
+  index: -1
+Nine_LowerLeg_L
+  rotate: false
+  xy: 89, 3
+  size: 55, 46
+  orig: 57, 50
+  offset: 2, 0
+  index: -1
+Nine_LowerLeg_R
+  rotate: false
+  xy: 824, 447
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+Nine_Mouse
+  rotate: false
+  xy: 649, 3
+  size: 76, 72
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+Nine_Nose
+  rotate: false
+  xy: 254, 240
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+Nine_Pupil_L
+  rotate: false
+  xy: 2, 497
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Nine_Pupil_R
+  rotate: false
+  xy: 2, 410
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+Nine_Sole_L
+  rotate: false
+  xy: 179, 360
+  size: 50, 27
+  orig: 53, 28
+  offset: 3, 1
+  index: -1
+Nine_Sole_R
+  rotate: false
+  xy: 247, 443
+  size: 39, 34
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Nine_Tail
+  rotate: true
+  xy: 337, 157
+  size: 353, 106
+  orig: 353, 106
+  offset: 0, 0
+  index: -1
+Nine_Tail1_01
+  rotate: true
+  xy: 588, 3
+  size: 213, 100
+  orig: 215, 100
+  offset: 2, 0
+  index: -1
+Nine_Tail1_02
+  rotate: 270
+  xy: 701, 3
+  size: 304, 51
+  orig: 304, 66
+  offset: 0, 15
+  index: -1
+Nine_Tail3_01
+  rotate: false
+  xy: 2, 227
+  size: 128, 84
+  orig: 128, 84
+  offset: 0, 0
+  index: -1
+Nine_Tail3_02
+  rotate: 270
+  xy: 804, 329
+  size: 181, 157
+  orig: 181, 157
+  offset: 0, 0
+  index: -1
+Nine_Tail4
+  rotate: true
+  xy: 740, 119
+  size: 270, 131
+  orig: 270, 131
+  offset: 0, 0
+  index: -1
+Nine_Tail5_01
+  rotate: false
+  xy: 344, 429
+  size: 215, 82
+  orig: 215, 82
+  offset: 0, 0
+  index: -1
+Nine_Tail5_02
+  rotate: true
+  xy: 629, 238
+  size: 272, 125
+  orig: 272, 125
+  offset: 0, 0
+  index: -1
+Nine_Tail6_01
+  rotate: 270
+  xy: 533, 337
+  size: 164, 144
+  orig: 165, 145
+  offset: 0, 0
+  index: -1
+Nine_Tail6_02
+  rotate: false
+  xy: 749, 3
+  size: 85, 227
+  orig: 86, 227
+  offset: 0, 0
+  index: -1
+Nine_Tail7
+  rotate: 270
+  xy: 232, 123
+  size: 387, 177
+  orig: 387, 177
+  offset: 0, 0
+  index: -1
+Nine_Tail8_01
+  rotate: 180
+  xy: 510, 3
+  size: 92, 215
+  orig: 108, 215
+  offset: 16, 0
+  index: -1
+Nine_Tail8_02
+  rotate: true
+  xy: 282, 3
+  size: 250, 247
+  orig: 251, 248
+  offset: 0, 0
+  index: -1
+Nine_Tail9
+  rotate: true
+  xy: 6, 166
+  size: 345, 248
+  orig: 345, 248
+  offset: 0, 0
+  index: -1
+Nine_Teeth_Dpwn
+  rotate: false
+  xy: 281, 462
+  size: 59, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+Nine_Teeth_Up
+  rotate: false
+  xy: 2, 369
+  size: 68, 30
+  orig: 68, 33
+  offset: 0, 3
+  index: -1
+Nine_Thigh_L
+  rotate: 180
+  xy: 165, 25
+  size: 174, 125
+  orig: 178, 125
+  offset: 0, 0
+  index: -1
+Nine_Thigh_R
+  rotate: 270
+  xy: 133, 84
+  size: 167, 151
+  orig: 167, 151
+  offset: 0, 0
+  index: -1
+Nine_Toe_1L
+  rotate: false
+  xy: 138, 154
+  size: 18, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Nine_Toe_1R
+  rotate: false
+  xy: 111, 46
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Nine_Toe_2L
+  rotate: false
+  xy: 2, 171
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Nine_Toe_2R
+  rotate: false
+  xy: 282, 165
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Nine_Toe_3L
+  rotate: false
+  xy: 161, 278
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Nine_Toe_4L
+  rotate: false
+  xy: 165, 64
+  size: 19, 19
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Nine_Toe_5L
+  rotate: false
+  xy: 243, 308
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Nine_Tongue
+  rotate: false
+  xy: 558, 443
+  size: 43, 68
+  orig: 45, 69
+  offset: 2, 1
+  index: -1
+Nine_UpperArm_L
+  rotate: true
+  xy: 255, 205
+  size: 221, 91
+  orig: 221, 91
+  offset: 0, 0
+  index: -1
+Nine_UpperArm_R
+  rotate: false
+  xy: 2, 293
+  size: 190, 87
+  orig: 190, 87
+  offset: 0, 0
+  index: -1

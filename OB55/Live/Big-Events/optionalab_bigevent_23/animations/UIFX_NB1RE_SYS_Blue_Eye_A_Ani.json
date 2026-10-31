@@ -1,0 +1,2444 @@
+{
+ "name": "UIFX_NB1RE_SYS_Blue_Eye_A_Ani",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "mid/BG/line_up",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.30000001192092896,
+      "value": [
+       -936.0,
+       35.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -936.0,
+       59.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       480.00006103515625,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       480.00006103515625,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5,
+      "value": [
+       -936.0,
+       171.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.1333333253860474,
+      "value": [
+       -936.0,
+       171.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.2000000476837158,
+      "value": [
+       -936.0,
+       187.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_down",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.30000001192092896,
+      "value": [
+       -936.0,
+       41.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -936.0,
+       3.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       -1120.0001220703125,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -1120.0001220703125,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -936.0,
+       -71.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       -1040.0001220703125,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -1040.0001220703125,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": [
+       -936.0,
+       -101.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       -530.0000610351562,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -530.0000610351562,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5,
+      "value": [
+       -936.0,
+       -124.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.1333333253860474,
+      "value": [
+       -936.0,
+       -124.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.2000000476837158,
+      "value": [
+       -936.0,
+       -130.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/Spine",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6333333253860474,
+      "value": [
+       -338.0,
+       27.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": [
+       0.0,
+       27.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [
+  {
+   "path": "mid/BG/di",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.30000001192092896,
+      "value": [
+       0.0,
+       0.0,
+       200.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       3650.0,
+       100.0,
+       200.0
+      ],
+      "inSlope": [
+       0.0,
+       3507.786865234375,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       3507.786865234375,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       3650.0,
+       350.7786560058594,
+       200.0
+      ],
+      "inSlope": [
+       0.0,
+       3288.00048828125,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       3288.00048828125,
+       0.0
+      ]
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": [
+       3650.0,
+       538.4000244140625,
+       200.0
+      ],
+      "inSlope": [
+       0.0,
+       2463.99951171875,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       2463.99951171875,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5,
+      "value": [
+       3650.0,
+       600.0,
+       200.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.1333333253860474,
+      "value": [
+       3650.0,
+       600.0,
+       200.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.2000000476837158,
+      "value": [
+       3650.0,
+       633.6600341796875,
+       200.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_up",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.0,
+       500.0,
+       200.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       43019.9296875,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": [
+       4301.9931640625,
+       395.0,
+       200.0
+      ],
+      "inSlope": [
+       43019.9296875,
+       -696.0,
+       0.0
+      ],
+      "outSlope": [
+       0.01708984375,
+       -696.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5,
+      "value": [
+       4302.0,
+       152.0,
+       200.0
+      ],
+      "inSlope": [
+       0.01708984375,
+       -67.05882263183594,
+       0.0
+      ],
+      "outSlope": [
+       -191.0,
+       -67.05882263183594,
+       0.0
+      ]
+     },
+     {
+      "time": 3.5,
+      "value": [
+       3729.0,
+       95.0,
+       200.0
+      ],
+      "inSlope": [
+       -191.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_down",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.0,
+       500.0,
+       200.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       43209.3125,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": [
+       4320.93115234375,
+       395.0,
+       200.0
+      ],
+      "inSlope": [
+       43209.3125,
+       -722.0,
+       0.0
+      ],
+      "outSlope": [
+       -47.327880859375,
+       -722.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5,
+      "value": [
+       4302.0,
+       139.0,
+       200.0
+      ],
+      "inSlope": [
+       -47.327880859375,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/Spine",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       41.75,
+       41.75,
+       41.75
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": [
+       41.75,
+       41.75,
+       41.75
+      ],
+      "inSlope": [
+       -0.0,
+       -0.0,
+       -0.0
+      ],
+      "outSlope": [
+       16.739049911499023,
+       16.739049911499023,
+       16.739049911499023
+      ]
+     },
+     {
+      "time": 0.8333333134651184,
+      "value": [
+       43.42390441894531,
+       43.42390441894531,
+       43.42390441894531
+      ],
+      "inSlope": [
+       16.739049911499023,
+       16.739049911499023,
+       16.739049911499023
+      ],
+      "outSlope": [
+       -10.022236824035645,
+       -10.022236824035645,
+       -10.022236824035645
+      ]
+     },
+     {
+      "time": 0.9333333373069763,
+      "value": [
+       42.42168045043945,
+       42.42168045043945,
+       42.42168045043945
+      ],
+      "inSlope": [
+       -10.022236824035645,
+       -10.022236824035645,
+       -10.022236824035645
+      ],
+      "outSlope": [
+       127.64271545410156,
+       127.64271545410156,
+       127.64271545410156
+      ]
+     },
+     {
+      "time": 0.9666666388511658,
+      "value": [
+       46.67643356323242,
+       46.67643356323242,
+       46.67643356323242
+      ],
+      "inSlope": [
+       127.64271545410156,
+       127.64271545410156,
+       127.64271545410156
+      ],
+      "outSlope": [
+       -35.99633026123047,
+       -35.99633026123047,
+       -35.99633026123047
+      ]
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": [
+       43.07679748535156,
+       43.07679748535156,
+       43.07679748535156
+      ],
+      "inSlope": [
+       -35.99633026123047,
+       -35.99633026123047,
+       -35.99633026123047
+      ],
+      "outSlope": [
+       216.4987335205078,
+       216.4987335205078,
+       216.4987335205078
+      ]
+     },
+     {
+      "time": 1.100000023841858,
+      "value": [
+       50.29341506958008,
+       50.29341506958008,
+       50.29341506958008
+      ],
+      "inSlope": [
+       216.4987335205078,
+       216.4987335205078,
+       216.4987335205078
+      ],
+      "outSlope": [
+       -131.54779052734375,
+       -131.54779052734375,
+       -131.54779052734375
+      ]
+     },
+     {
+      "time": 1.1333333253860474,
+      "value": [
+       45.90849304199219,
+       45.90849304199219,
+       45.90849304199219
+      ],
+      "inSlope": [
+       -131.54779052734375,
+       -131.54779052734375,
+       -131.54779052734375
+      ],
+      "outSlope": [
+       248.02529907226562,
+       248.02529907226562,
+       248.02529907226562
+      ]
+     },
+     {
+      "time": 1.1666666269302368,
+      "value": [
+       54.175994873046875,
+       54.175994873046875,
+       54.175994873046875
+      ],
+      "inSlope": [
+       248.02529907226562,
+       248.02529907226562,
+       248.02529907226562
+      ],
+      "outSlope": [
+       -233.29966735839844,
+       -233.29966735839844,
+       -233.29966735839844
+      ]
+     },
+     {
+      "time": 1.2000000476837158,
+      "value": [
+       46.39931869506836,
+       46.39931869506836,
+       46.39931869506836
+      ],
+      "inSlope": [
+       -233.29966735839844,
+       -233.29966735839844,
+       -233.29966735839844
+      ],
+      "outSlope": [
+       252.86236572265625,
+       252.86236572265625,
+       252.86236572265625
+      ]
+     },
+     {
+      "time": 1.2333333492279053,
+      "value": [
+       54.82805633544922,
+       54.82805633544922,
+       54.82805633544922
+      ],
+      "inSlope": [
+       252.86236572265625,
+       252.86236572265625,
+       252.86236572265625
+      ],
+      "outSlope": [
+       -240.9547882080078,
+       -240.9547882080078,
+       -240.9547882080078
+      ]
+     },
+     {
+      "time": 1.2666666507720947,
+      "value": [
+       46.79623794555664,
+       46.79623794555664,
+       46.79623794555664
+      ],
+      "inSlope": [
+       -240.9547882080078,
+       -240.9547882080078,
+       -240.9547882080078
+      ],
+      "outSlope": [
+       253.19309997558594,
+       253.19309997558594,
+       253.19309997558594
+      ]
+     },
+     {
+      "time": 1.2999999523162842,
+      "value": [
+       55.236000061035156,
+       55.236000061035156,
+       55.236000061035156
+      ],
+      "inSlope": [
+       253.19309997558594,
+       253.19309997558594,
+       253.19309997558594
+      ],
+      "outSlope": [
+       -244.90704345703125,
+       -244.90704345703125,
+       -244.90704345703125
+      ]
+     },
+     {
+      "time": 1.3333333730697632,
+      "value": [
+       47.072410583496094,
+       47.072410583496094,
+       47.072410583496094
+      ],
+      "inSlope": [
+       -244.90704345703125,
+       -244.90704345703125,
+       -244.90704345703125
+      ],
+      "outSlope": [
+       262.4386901855469,
+       262.4386901855469,
+       262.4386901855469
+      ]
+     },
+     {
+      "time": 1.3666666746139526,
+      "value": [
+       55.82035827636719,
+       55.82035827636719,
+       55.82035827636719
+      ],
+      "inSlope": [
+       262.4386901855469,
+       262.4386901855469,
+       262.4386901855469
+      ],
+      "outSlope": [
+       -256.2547607421875,
+       -256.2547607421875,
+       -256.2547607421875
+      ]
+     },
+     {
+      "time": 1.399999976158142,
+      "value": [
+       47.278541564941406,
+       47.278541564941406,
+       47.278541564941406
+      ],
+      "inSlope": [
+       -256.2547607421875,
+       -256.2547607421875,
+       -256.2547607421875
+      ],
+      "outSlope": [
+       280.3904724121094,
+       280.3904724121094,
+       280.3904724121094
+      ]
+     },
+     {
+      "time": 1.4333332777023315,
+      "value": [
+       56.624881744384766,
+       56.624881744384766,
+       56.624881744384766
+      ],
+      "inSlope": [
+       280.3904724121094,
+       280.3904724121094,
+       280.3904724121094
+      ],
+      "outSlope": [
+       -275.32525634765625,
+       -275.32525634765625,
+       -275.32525634765625
+      ]
+     },
+     {
+      "time": 1.4666666984558105,
+      "value": [
+       47.447349548339844,
+       47.447349548339844,
+       47.447349548339844
+      ],
+      "inSlope": [
+       -275.32525634765625,
+       -275.32525634765625,
+       -275.32525634765625
+      ],
+      "outSlope": [
+       292.1065979003906,
+       292.1065979003906,
+       292.1065979003906
+      ]
+     },
+     {
+      "time": 1.5,
+      "value": [
+       57.184226989746094,
+       57.184226989746094,
+       57.184226989746094
+      ],
+      "inSlope": [
+       292.1065979003906,
+       292.1065979003906,
+       292.1065979003906
+      ],
+      "outSlope": [
+       -288.27557373046875,
+       -288.27557373046875,
+       -288.27557373046875
+      ]
+     },
+     {
+      "time": 1.5333333015441895,
+      "value": [
+       47.575050354003906,
+       47.575050354003906,
+       47.575050354003906
+      ],
+      "inSlope": [
+       -288.27557373046875,
+       -288.27557373046875,
+       -288.27557373046875
+      ],
+      "outSlope": [
+       389.2525939941406,
+       389.2525939941406,
+       389.2525939941406
+      ]
+     },
+     {
+      "time": 1.5666667222976685,
+      "value": [
+       60.5501708984375,
+       60.5501708984375,
+       60.5501708984375
+      ],
+      "inSlope": [
+       389.2525939941406,
+       389.2525939941406,
+       389.2525939941406
+      ],
+      "outSlope": [
+       9.030655860900879,
+       9.030655860900879,
+       9.030655860900879
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "mid/BG/line_up",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.700000047683716,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/di",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.6268857717514038,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.6268857717514038,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.6268857717514038,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/di",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.5222498774528503,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.5222499370574951,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.5222498774528503,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/di",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.6792452931404114,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.6792452931404114,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.6792452931404114,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/di",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0117647061124444,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_up",
+   "attribute": "material._NULL_ColorFold",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.6666667461395264,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_up",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_up",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_up",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_up",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0117647061124444,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_down",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_down",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_down",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_down",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0117647061124444,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/boom",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.4333332777023315,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.4666666984558105,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/Spine",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6000000238418579,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.6333333253860474,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/sd_line",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.799999952316284,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/open_eye",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6333333253860474,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/Spine/NB1RE_SYS_Blue_Eye_A",
+   "attribute": "material._Alpha",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6333333253860474,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.700000047683716,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.866666555404663,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid",
+   "attribute": "mClipRange.w",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 176.63999938964844,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": 151.80999755859375,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 275.6000061035156,
+      "inSlope": 657.8997802734375,
+      "outSlope": 657.8997802734375
+     },
+     {
+      "time": 0.5,
+      "value": 297.5299987792969,
+      "inSlope": 32.56364440917969,
+      "outSlope": 32.56364440917969
+     },
+     {
+      "time": 1.1666666269302368,
+      "value": 303.5,
+      "inSlope": 18.2608699798584,
+      "outSlope": 18.2608699798584
+     },
+     {
+      "time": 1.2666666507720947,
+      "value": 311.5299987792969,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_up",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.699999988079071,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 0.699999988079071,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.699999988079071,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_up",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_up",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": -2.7219598293304443
+     },
+     {
+      "time": 0.9666666388511658,
+      "value": -2.631227731704712,
+      "inSlope": -2.7219598293304443,
+      "outSlope": -1.809798240661621
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": -6.009517669677734,
+      "inSlope": -1.809798240661621,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_up",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_down",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -0.775825560092926,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": -0.775825560092926,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": -0.775825560092926,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_down",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_down",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 0.75,
+      "inSlope": 1.058823585510254,
+      "outSlope": 1.058823585510254
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 5.199999809265137,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/line_down",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/shuaguang",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.699999988079071,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/shuaguang",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.699999988079071,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/shuaguang",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": 1.0399999618530273,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.699999988079071,
+      "value": -0.14000000059604645,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/shuaguang",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.699999988079071,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/shuaguang",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": 0.2216981053352356,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 0.2216981053352356,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.7666666507720947,
+      "value": 0.2216981053352356,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/shuaguang",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": 0.640274703502655,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 0.640274703502655,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.7666666507720947,
+      "value": 0.640274703502655,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/shuaguang",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.7666666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/shuaguang",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.7666666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/di_wenli",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.4049483835697174,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 0.4049483835697174,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.4049483835697174,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/di_wenli",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.6152560710906982,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 0.6152560710906982,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 0.6392157077789307,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.6392157077789307,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.6152560710906982,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/di_wenli",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.9433962106704712,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 0.9433962106704712,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.9433962106704712,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "mid/BG/di_wenli",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 0.16862745583057404,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.16862745583057404,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.8333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_NB1RE_SYS_Blue_Mask/main/lvjing",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6666666269302368,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.833333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_NB1RE_SYS_Blue_Mask/main/lvjing",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6666666269302368,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.833333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_NB1RE_SYS_Blue_Mask/main/lvjing",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6666666269302368,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.833333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_NB1RE_SYS_Blue_Mask/main/lvjing",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.6666666269302368,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.833333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "bs",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 4.766666889190674,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.833333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.866666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.9666666984558105,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "bs",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 4.766666889190674,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.833333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.866666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.9666666984558105,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "bs",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 4.766666889190674,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.833333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.866666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.9666666984558105,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "bs",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 4.766666889190674,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.833333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.866666793823242,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.900000095367432,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.9666666984558105,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 4.9666666984558105
+}

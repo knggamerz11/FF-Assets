@@ -1,0 +1,20 @@
+
+JS_SYS_Mainpage_Tentacle1_A.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tentacle_1
+  rotate: false
+  xy: 2, 121
+  size: 188, 131
+  orig: 188, 131
+  offset: 0, 0
+  index: -1
+Tentacle_3
+  rotate: false
+  xy: 8, 4
+  size: 235, 204
+  orig: 235, 208
+  offset: 0, 4
+  index: -1

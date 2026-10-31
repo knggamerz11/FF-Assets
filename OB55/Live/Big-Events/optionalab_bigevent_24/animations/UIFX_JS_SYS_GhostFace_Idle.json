@@ -1,0 +1,644 @@
+{
+ "name": "UIFX_JS_SYS_GhostFace_Idle",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "UIFX/Par_Noise",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       -4.900000095367432,
+       9.699999809265137,
+       0.0
+      ],
+      "inSlope": [
+       62.856178283691406,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       62.856178283691406,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.600000023841858,
+      "value": [
+       21.100000381469727,
+       9.699999809265137,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 5.0,
+      "value": [
+       21.100000381469727,
+       9.699999809265137,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 5.833333492279053,
+      "value": [
+       -4.900000095367432,
+       9.699999809265137,
+       0.0
+      ],
+      "inSlope": [
+       0.1703067421913147,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.1703067421913147,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "GhostFace_Main",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       -2.9000000953674316,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       45.30984878540039,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       45.30984878540039,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.600000023841858,
+      "value": [
+       16.899999618530273,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 5.0,
+      "value": [
+       16.899999618530273,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 5.833333492279053,
+      "value": [
+       -2.9000000953674316,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [],
+ "float": [
+  {
+   "path": "UIFX/Par_Ash",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Glow",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.4333332777023315,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.4666666984558105,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Noise",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6333333253860474,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Glow",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Glow",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Glow",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Glow",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Noise",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Noise",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Noise",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Noise",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Ash",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Ash",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Ash",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Ash",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Ash02",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Ash02",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Ash02",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 0.6499999761581421,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX/Par_Ash02",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.400000095367432,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 10.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 10.0
+}

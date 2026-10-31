@@ -1,0 +1,566 @@
+{
+ "name": "UIFX_SA_SYS_UISA_SYSMatchReputationOverview_In",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [],
+ "scale": [
+  {
+   "path": "BGSprite",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       1.2000000476837158,
+       1.2000000476837158,
+       1.2000000476837158
+      ],
+      "inSlope": [
+       -3.0138163566589355,
+       -3.0138163566589355,
+       -3.0138163566589355
+      ],
+      "outSlope": [
+       -3.0138163566589355,
+       -3.0138163566589355,
+       -3.0138163566589355
+      ]
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       -0.004754078108817339,
+       -0.004754078108817339,
+       -0.004754078108817339
+      ],
+      "outSlope": [
+       -0.004754078108817339,
+       -0.004754078108817339,
+       -0.004754078108817339
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Center/LeftView/ReputationView/IconView",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.2666666805744171,
+      "value": [
+       0.20000000298023224,
+       0.20000000298023224,
+       0.20000000298023224
+      ],
+      "inSlope": [
+       24.031457901000977,
+       24.031457901000977,
+       24.031457901000977
+      ],
+      "outSlope": [
+       24.031457901000977,
+       24.031457901000977,
+       24.031457901000977
+      ]
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       -0.0,
+       -0.0,
+       -0.0
+      ],
+      "outSlope": [
+       -0.0,
+       -0.0,
+       -0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "BGSprite",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 15.807456016540527,
+      "outSlope": 15.807456016540527
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Center/MaskBtn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 14.532004356384277,
+      "outSlope": 14.532004356384277
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Center/LeftView/ReputationView/IconView",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.2666666805744171,
+      "value": 0.0,
+      "inSlope": 13.320744514465332,
+      "outSlope": 13.320744514465332
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Center/LeftView/HistoryBtn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.2666666805744171,
+      "value": 0.0,
+      "inSlope": 19.280363082885742,
+      "outSlope": 19.280363082885742
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 1.0,
+      "inSlope": 2.3608481884002686,
+      "outSlope": 2.3608481884002686
+     }
+    ]
+   }
+  },
+  {
+   "path": "TopRight/CloseBtn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.3333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_SA_SYS_UISA_SYSMatchReputationOverview_High (Clone)",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_SA_SYS_UISA_SYSMatchReputationOverview_High (Clone)/Burst",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.2666666805744171,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.30000001192092896,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_SA_SYS_UISA_SYSMatchReputationOverview_High (Clone)/Loop",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.2666666805744171,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.30000001192092896,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_SA_SYS_UISA_SYSMatchReputationOverview (Clone)",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_SA_SYS_UISA_SYSMatchReputationOverview (Clone)/Burst",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.2666666805744171,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.30000001192092896,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_SA_SYS_UISA_SYSMatchReputationOverview (Clone)/Loop",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.2666666805744171,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.30000001192092896,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_SA_SYS_UISA_SYSMatchReputationOverview_Low (Clone)",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_SA_SYS_UISA_SYSMatchReputationOverview_Low (Clone)/Loop",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.2666666805744171,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.30000001192092896,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/BigBG",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/RightView/BadgeView",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/RightView/PropertyView",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/RightView/MedalView/MedalScrollView",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.10000000149011612,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/RightView/MedalView/MedalTitleName",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.10000000149011612,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/RightView/TabView/BRBtn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.10000000149011612,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/RightView/TabView/CSBtn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.10000000149011612,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 0.46666666865348816
+}

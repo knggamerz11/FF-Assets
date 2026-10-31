@@ -1,0 +1,1218 @@
+{
+ "name": "UIFX_NB1RE_SYSMain_FirstIn",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "unshare/Right/RightContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       125.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       -3654.12109375,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -3654.12109375,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -125.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       3383.2939453125,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       3383.2939453125,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/BottomLeft/BottomLeftContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       0.0,
+       -125.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       3204.873779296875,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       3204.873779296875,
+       0.0
+      ]
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       3.0087670893408358e-05,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       3.0087670893408358e-05,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/TopLeft/TopLeftContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -125.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       3383.2939453125,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       3383.2939453125,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": [
+       1.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/TopRight/TopRightContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -44.0,
+       87.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       -3762.227783203125,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -3762.227783203125,
+       0.0
+      ]
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": [
+       -44.0,
+       -38.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       -1.3105140924453735,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -1.3105140924453735,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Black",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.36666667461395264,
+      "value": [
+       0.0,
+       -264.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       456.5231628417969,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       456.5231628417969,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6333333253860474,
+      "value": [
+       0.0,
+       -225.0,
+       0.0
+      ],
+      "inSlope": [
+       2.99716854095459,
+       6.099486827850342,
+       0.0
+      ],
+      "outSlope": [
+       2.99716854095459,
+       6.099486827850342,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Red",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -540.0,
+       -292.0,
+       0.0
+      ],
+      "inSlope": [
+       586.3929443359375,
+       602.0966796875,
+       0.0
+      ],
+      "outSlope": [
+       586.3929443359375,
+       602.0966796875,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": [
+       -501.0,
+       -246.0,
+       0.0
+      ],
+      "inSlope": [
+       4.822159290313721,
+       7.628986358642578,
+       0.0
+      ],
+      "outSlope": [
+       4.822159290313721,
+       7.628986358642578,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Blue",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -293.0,
+       -127.0,
+       0.0
+      ],
+      "inSlope": [
+       197.5489501953125,
+       312.6998291015625,
+       0.0
+      ],
+      "outSlope": [
+       197.5489501953125,
+       312.6998291015625,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": [
+       -278.0,
+       -102.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Pink",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -355.0,
+       -32.0,
+       0.0
+      ],
+      "inSlope": [
+       183.53982543945312,
+       287.7207336425781,
+       0.0
+      ],
+      "outSlope": [
+       183.53982543945312,
+       287.7207336425781,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       -338.0,
+       -2.0,
+       0.0
+      ],
+      "inSlope": [
+       4.556559085845947,
+       0.29602956771850586,
+       0.0
+      ],
+      "outSlope": [
+       4.556559085845947,
+       0.29602956771850586,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_White",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -457.0,
+       52.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       -159.8887939453125,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -159.8887939453125,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": [
+       -457.0,
+       37.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       -9.247252464294434,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -9.247252464294434,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [],
+ "float": [
+  {
+   "path": "BgContainer/Bg1",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 1.1106992959976196,
+      "outSlope": 1.1106992959976196
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "BgContainer/Bg2",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 59.15950012207031,
+      "outSlope": 59.15950012207031
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Right/RightContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 22.771068572998047,
+      "outSlope": 22.771068572998047
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 22.771068572998047,
+      "outSlope": 22.771068572998047
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/BottomLeft/BottomLeftContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 22.771068572998047,
+      "outSlope": 22.771068572998047
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Center/CenterContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 22.771068572998047,
+      "outSlope": 22.771068572998047
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/TopLeft/TopLeftContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 22.771068572998047,
+      "outSlope": 22.771068572998047
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/TopRight/TopRightContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 22.771068572998047,
+      "outSlope": 22.771068572998047
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Black",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.36666667461395264,
+      "value": 0.0,
+      "inSlope": 32.477294921875,
+      "outSlope": 32.477294921875
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Black/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.2666666805744171,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5333333611488342,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Nine/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.06666667014360428,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Pink/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Red/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_White/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Yellow/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/ShareContainer/ShareLogoContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4333333373069763,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/ShareContainer/CDNContainer/ShareActivityTimeLabel",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/UIFX_Ball",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4333333373069763,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5666666626930237,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Black/ChakraEffect",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Pink/ChakraEffect",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Red/ChakraEffect",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_White/ChakraEffect",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Yellow/ChakraEffect",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer/EntranceGrid/RevenueBtn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer/EntranceGrid/RevenueBtn/RevenueBtn/RevenueIcon/Icon-01",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer/EntranceGrid/RevenueBtn/RevenueBtn/RevenueIcon/Icon-02",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer/EntranceGrid/RevenueBtn/RevenueBtn/RevenueIcon/Icon-03",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "unshare/Left/LeftContainer/EntranceGrid/RevenueBtn/RevenueBtn/RevenueIcon/UIFX_NB1RE_SYSMain_Btn",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "BgContainer/BGUIFX",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 1.1106992959976196,
+      "outSlope": 1.1106992959976196
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Red",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 32.477294921875,
+      "outSlope": 32.477294921875
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Blue",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Pink",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 32.477294921875,
+      "outSlope": 32.477294921875
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_White",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "share/Center/CenterContainer/NB_Blue/SpineRoot",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 0.7333333492279053
+}

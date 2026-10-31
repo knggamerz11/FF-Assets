@@ -1,0 +1,132 @@
+
+JS_SYS_Mainpage_Tentacle_A.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tentacle_1
+  rotate: false
+  xy: 284, 96
+  size: 125, 85
+  orig: 126, 88
+  offset: 0, 2
+  index: -1
+Tentacle_2
+  rotate: false
+  xy: 175, 155
+  size: 195, 148
+  orig: 199, 150
+  offset: 0, 2
+  index: -1
+Tentacle_3
+  rotate: 270
+  xy: 308, 354
+  size: 156, 136
+  orig: 156, 138
+  offset: 0, 2
+  index: -1
+Tentacle_4
+  rotate: false
+  xy: 419, 360
+  size: 91, 82
+  orig: 92, 84
+  offset: 0, 0
+  index: -1
+Tentacle_5
+  rotate: 180
+  xy: 2, 72
+  size: 132, 93
+  orig: 135, 98
+  offset: 3, 3
+  index: -1
+Tentacle_6
+  rotate: 270
+  xy: 401, 117
+  size: 139, 109
+  orig: 139, 111
+  offset: 0, 2
+  index: -1
+Tentacle_Shadow_1
+  rotate: false
+  xy: 180, 410
+  size: 184, 100
+  orig: 185, 100
+  offset: 1, 0
+  index: -1
+Tentacle_Shadow_2
+  rotate: 180
+  xy: 209, 32
+  size: 163, 136
+  orig: 163, 136
+  offset: 0, 0
+  index: -1
+Tentacle_Shadow_3
+  rotate: false
+  xy: 319, 183
+  size: 190, 150
+  orig: 190, 150
+  offset: 0, 0
+  index: -1
+Tentacle_Shadow_4
+  rotate: false
+  xy: 337, 60
+  size: 172, 46
+  orig: 172, 47
+  offset: 0, 0
+  index: -1
+Tentacle_Shadow_5
+  rotate: false
+  xy: 62, 480
+  size: 57, 31
+  orig: 68, 44
+  offset: 7, 13
+  index: -1
+Tentacle_Sofa
+  rotate: true
+  xy: 2, 120
+  size: 214, 205
+  orig: 214, 205
+  offset: 0, 0
+  index: -1
+Tentacle_Table
+  rotate: false
+  xy: 2, 287
+  size: 381, 223
+  orig: 381, 223
+  offset: 0, 0
+  index: -1
+Tentacle_Table_1
+  rotate: false
+  xy: 2, 480
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Tentacle_Table_2
+  rotate: false
+  xy: 119, 480
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Tentacle_Table_3
+  rotate: false
+  xy: 264, 482
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+Tentacle_Table_4
+  rotate: false
+  xy: 420, 480
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Tentacle_Table_5
+  rotate: false
+  xy: 467, 473
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1

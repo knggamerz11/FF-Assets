@@ -1,0 +1,130 @@
+{
+ "name": "UIFX_SA_SYS_UISA_SYSSummaryHighLightItem_Out",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [],
+ "scale": [],
+ "float": [
+  {
+   "path": "Main",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": -0.7609182000160217,
+      "outSlope": -0.7609182000160217
+     },
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": -1.4031583070755005,
+      "outSlope": -1.4031583070755005
+     }
+    ]
+   }
+  },
+  {
+   "path": "PlayBtn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": -0.7609182000160217,
+      "outSlope": -0.7609182000160217
+     },
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": -1.4031583070755005,
+      "outSlope": -1.4031583070755005
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/KnockdownBtn/UIFX_SA_SYS_UISA_Saoguang",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/UIFX_Baodian",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MVPNameView/MVPicon/UIFX_MVP02",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 0.5
+}

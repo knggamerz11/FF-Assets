@@ -1,0 +1,591 @@
+{
+ "name": "UIFX_NB1RE_SYSMissionPopupWnd_In",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "Right/mian_Mission/MissionBG",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       556.0,
+       -386.0,
+       0.0
+      ],
+      "inSlope": [
+       -4339.91845703125,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -4339.91845703125,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": [
+       115.0,
+       -386.0,
+       0.0
+      ],
+      "inSlope": [
+       -16.713388442993164,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -16.713388442993164,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/DialogTips/HeadIcon_Ani/HeadIcon",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.1666666716337204,
+      "value": [
+       0.0,
+       -47.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       -1408.4688720703125,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -1408.4688720703125,
+       0.0
+      ]
+     },
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       0.0,
+       -156.8000030517578,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": [
+       0.0,
+       -155.8000030517578,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [
+  {
+   "path": "Right/mian_Mission/DialogTips/HeadIcon_Ani/HeadIcon",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.1666666716337204,
+      "value": [
+       1.0,
+       1.25,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       -2.7296929359436035,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -2.7296929359436035,
+       0.0
+      ]
+     },
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       1.0,
+       0.9800000190734863,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": [
+       1.0,
+       1.0199999809265137,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5666666626930237,
+      "value": [
+       1.0,
+       0.9950000047683716,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/DialogTips/Content_Ani/Content/BG",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.30000001192092896,
+      "value": [
+       0.5,
+       0.5,
+       0.5
+      ],
+      "inSlope": [
+       4.025073528289795,
+       4.025073528289795,
+       4.025073528289795
+      ],
+      "outSlope": [
+       4.025073528289795,
+       4.025073528289795,
+       4.025073528289795
+      ]
+     },
+     {
+      "time": 0.699999988079071,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.06115809455513954,
+       0.06115809455513954,
+       0.06115809455513954
+      ],
+      "outSlope": [
+       0.06115809455513954,
+       0.06115809455513954,
+       0.06115809455513954
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "MaskButton/mask",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 23.392404556274414,
+      "outSlope": 23.392404556274414
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": 0.800000011920929,
+      "inSlope": 0.01992134004831314,
+      "outSlope": 0.01992134004831314
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/MissionBG",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 15.559440612792969,
+      "outSlope": 15.559440612792969
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/BtnClose",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.13333334028720856,
+      "value": 0.0,
+      "inSlope": 17.237207412719727,
+      "outSlope": 17.237207412719727
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": 1.0,
+      "inSlope": 0.6425140500068665,
+      "outSlope": 0.6425140500068665
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/AllClaimed",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.20000000298023224,
+      "value": 0.0,
+      "inSlope": 31.662391662597656,
+      "outSlope": 31.662391662597656
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 1.0,
+      "inSlope": 0.6425140500068665,
+      "outSlope": 0.6425140500068665
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/LabelRefreshTime",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 33.41771697998047,
+      "outSlope": 33.41771697998047
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": 1.0,
+      "inSlope": 0.6425140500068665,
+      "outSlope": 0.6425140500068665
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/WndArrow",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.20000000298023224,
+      "value": 0.0,
+      "inSlope": 14.044713020324707,
+      "outSlope": 14.044713020324707
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 1.0,
+      "inSlope": 0.6425140500068665,
+      "outSlope": 0.6425140500068665
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/DialogTips/HeadIcon_Ani/HeadIcon",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 18.153919219970703,
+      "outSlope": 18.153919219970703
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/DialogTips/Content_Ani/Content/Desc",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": 0.0,
+      "inSlope": 5.378026962280273,
+      "outSlope": 5.378026962280273
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 1.2105159759521484,
+      "outSlope": 1.2105159759521484
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/DialogTips/Content_Ani/Content/line",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": 0.0,
+      "inSlope": 4.910842418670654,
+      "outSlope": 4.910842418670654
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 1.1003925800323486,
+      "outSlope": 1.1003925800323486
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/DialogTips/Content_Ani/Content/Obtain",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4333333373069763,
+      "value": 0.0,
+      "inSlope": 4.155333042144775,
+      "outSlope": 4.155333042144775
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 2.8682830333709717,
+      "outSlope": 2.8682830333709717
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/DialogTips/Content_Ani/Content/BG",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.30000001192092896,
+      "value": 0.0,
+      "inSlope": 12.024231910705566,
+      "outSlope": 12.024231910705566
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 1.2195323705673218,
+      "outSlope": 1.2195323705673218
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/MissionTitleCdn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 17.237207412719727,
+      "outSlope": 17.237207412719727
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 1.0,
+      "inSlope": 0.6425140500068665,
+      "outSlope": 0.6425140500068665
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/DailyLimitLabel",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.20000000298023224,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Right/mian_Mission/MissionContainer/Table",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4333333373069763,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 0.699999988079071
+}

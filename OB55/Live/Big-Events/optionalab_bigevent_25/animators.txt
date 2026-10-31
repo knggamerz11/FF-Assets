@@ -1,0 +1,269 @@
+=== BG_ROOT  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id -7993321206218927694)
+Animator on GameObject 'BG_ROOT'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== wangguan  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id -7635312209250701353)
+Animator on GameObject 'wangguan'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== hei  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id -7137261449322046728)
+Animator on GameObject 'hei'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== AniFX_SA_SYS_Appear_Camera01  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id -6683945215710769981)
+Animator on GameObject 'AniFX_SA_SYS_Appear_Camera01'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== hei  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id -5833305003245518249)
+Animator on GameObject 'hei'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== throne  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id -5408187897131462997)
+Animator on GameObject 'throne'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== throne  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id -4434396168866859656)
+Animator on GameObject 'throne'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== AniFX_SA_SYS_Appear_Camera01  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id -895892099762529495)
+Animator on GameObject 'AniFX_SA_SYS_Appear_Camera01'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== wangguan  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id 313742829465871250)
+Animator on GameObject 'wangguan'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== wangguan  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id 1876341298878740797)
+Animator on GameObject 'wangguan'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== AniFX_SA_SYS_Appear_Camera  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id 2763061173996836962)
+Animator on GameObject 'AniFX_SA_SYS_Appear_Camera'
+
+  enabled: yes
+  controller: none
+  avatar: this file, id -3577136342968891061
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== BG_ROOT  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id 2889046050054823116)
+Animator on GameObject 'BG_ROOT'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== BG_ROOT  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id 4670768777719541211)
+Animator on GameObject 'BG_ROOT'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== AniFX_SA_SYS_Appear_Camera  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id 5903696916299615687)
+Animator on GameObject 'AniFX_SA_SYS_Appear_Camera'
+
+  enabled: yes
+  controller: none
+  avatar: this file, id -3577136342968891061
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== AniFX_SA_SYS_Appear_Camera  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id 5991199840585030597)
+Animator on GameObject 'AniFX_SA_SYS_Appear_Camera'
+
+  enabled: yes
+  controller: none
+  avatar: this file, id -3577136342968891061
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== AniFX_SA_SYS_Appear_Camera01  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id 7262568145771594430)
+Animator on GameObject 'AniFX_SA_SYS_Appear_Camera01'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== throne  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id 8801594150817398974)
+Animator on GameObject 'throne'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.
+
+=== hei  (optionalab_bigevent_25.5BfXosRGX3aE1sTMyBaGPWDpzW8~3D, id 9000583596788732019)
+Animator on GameObject 'hei'
+
+  enabled: yes
+  controller: none
+  avatar: none
+  culling mode: AlwaysAnimate
+  update mode: Normal
+  apply root motion: no
+  linear velocity blending: no
+  has transform hierarchy: yes
+  constant-clip sampling optimization: yes
+
+No AnimatorController is assigned, so this Animator stores no animation clips.

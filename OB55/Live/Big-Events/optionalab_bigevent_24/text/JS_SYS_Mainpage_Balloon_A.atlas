@@ -1,0 +1,132 @@
+
+JS_SYS_Mainpage_Balloon_A.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Balloon_Arm1
+  rotate: false
+  xy: 131, 42
+  size: 168, 45
+  orig: 190, 56
+  offset: 13, 0
+  index: -1
+Balloon_Door
+  rotate: true
+  xy: 2, 88
+  size: 165, 409
+  orig: 165, 409
+  offset: 0, 0
+  index: -1
+Balloon_Eye_L1
+  rotate: false
+  xy: 2, 184
+  size: 11, 14
+  orig: 11, 16
+  offset: 0, 2
+  index: -1
+Balloon_Eye_R1
+  rotate: false
+  xy: 2, 199
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Balloon_Mourh_L
+  rotate: false
+  xy: 294, 15
+  size: 29, 50
+  orig: 59, 51
+  offset: 0, 1
+  index: -1
+Balloon_Mourh_R
+  rotate: false
+  xy: 308, 49
+  size: 36, 38
+  orig: 59, 51
+  offset: 23, 0
+  index: -1
+Balloon_RedBalloon
+  rotate: false
+  xy: 413, 3
+  size: 97, 144
+  orig: 97, 144
+  offset: 0, 0
+  index: -1
+Balloon_RedBalloon1
+  rotate: true
+  xy: 2, 4
+  size: 82, 143
+  orig: 82, 143
+  offset: 0, 0
+  index: -1
+Balloon_Rope
+  rotate: true
+  xy: 146, 6
+  size: 28, 182
+  orig: 28, 182
+  offset: 0, 0
+  index: -1
+Female_Finger_L01
+  rotate: false
+  xy: 2, 119
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+Female_Finger_L02
+  rotate: false
+  xy: 308, 12
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Female_Finger_L03
+  rotate: false
+  xy: 2, 96
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+Female_Finger_L04
+  rotate: false
+  xy: 132, 6
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+Female_Finger_L05
+  rotate: false
+  xy: 2, 87
+  size: 34, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+Female_Finger_L2
+  rotate: true
+  xy: 255, 19
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Female_Finger_L3
+  rotate: false
+  xy: 163, 7
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+Female_Finger_L4
+  rotate: false
+  xy: 187, 32
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+Female_Finger_L5
+  rotate: false
+  xy: 108, 5
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1

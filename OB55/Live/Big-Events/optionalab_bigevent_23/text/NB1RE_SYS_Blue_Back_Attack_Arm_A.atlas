@@ -1,0 +1,27 @@
+
+NB1RE_SYS_Blue_Back_Attack_Arm_A.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_Arm_L_01
+  rotate: false
+  xy: 116, 31
+  size: 138, 92
+  orig: 138, 92
+  offset: 0, 0
+  index: -1
+Blue_Arm_L_02
+  rotate: true
+  xy: 2, 40
+  size: 85, 141
+  orig: 85, 141
+  offset: 0, 0
+  index: -1
+Blue_Hand_L
+  rotate: false
+  xy: 27, 4
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1

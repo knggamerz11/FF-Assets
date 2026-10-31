@@ -1,0 +1,230 @@
+
+NB1RE_SYS_Blue_A.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_Body
+  rotate: false
+  xy: 58, 321
+  size: 215, 189
+  orig: 232, 191
+  offset: 0, 2
+  index: -1
+Blue_Calf_L
+  rotate: 180
+  xy: 227, 396
+  size: 158, 115
+  orig: 194, 116
+  offset: 36, 0
+  index: -1
+Blue_Clothe_L
+  rotate: true
+  xy: 446, 17
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Blue_Clothe_R
+  rotate: false
+  xy: 2, 79
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Blue_Collar
+  rotate: 180
+  xy: 431, 22
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: -1
+Blue_Ear
+  rotate: false
+  xy: 14, 418
+  size: 13, 30
+  orig: 14, 30
+  offset: 1, 0
+  index: -1
+Blue_Face
+  rotate: true
+  xy: 101, 4
+  size: 56, 71
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+Blue_Foot_L
+  rotate: false
+  xy: 318, 236
+  size: 83, 129
+  orig: 83, 129
+  offset: 0, 0
+  index: -1
+Blue_Foot_R
+  rotate: false
+  xy: 276, 107
+  size: 101, 137
+  orig: 101, 137
+  offset: 0, 0
+  index: -1
+Blue_Hair1
+  rotate: 180
+  xy: 470, 139
+  size: 31, 95
+  orig: 32, 95
+  offset: 1, 0
+  index: -1
+Blue_Hair2
+  rotate: true
+  xy: 459, 304
+  size: 83, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+Blue_Hair3
+  rotate: 180
+  xy: 264, 4
+  size: 172, 108
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+Blue_Hair4
+  rotate: false
+  xy: 111, 41
+  size: 214, 116
+  orig: 218, 116
+  offset: 0, 0
+  index: -1
+Blue_Hair5
+  rotate: 270
+  xy: 374, 206
+  size: 177, 77
+  orig: 177, 77
+  offset: 0, 0
+  index: -1
+Blue_Hair6
+  rotate: false
+  xy: 160, 13
+  size: 185, 46
+  orig: 185, 46
+  offset: 0, 0
+  index: -1
+Blue_Hair7
+  rotate: true
+  xy: 2, 291
+  size: 167, 17
+  orig: 167, 19
+  offset: 0, 2
+  index: -1
+Blue_Hair8
+  rotate: true
+  xy: 231, 221
+  size: 193, 102
+  orig: 298, 183
+  offset: 105, 81
+  index: -1
+Blue_Hand_L
+  rotate: true
+  xy: 450, 320
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+Blue_Hand_R
+  rotate: true
+  xy: 333, 451
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+Blue_Headwear
+  rotate: false
+  xy: 435, 216
+  size: 53, 67
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+Blue_LegBag1
+  rotate: false
+  xy: 410, 126
+  size: 75, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+Blue_LegBag2
+  rotate: true
+  xy: 92, 200
+  size: 91, 46
+  orig: 91, 47
+  offset: 0, 1
+  index: -1
+Blue_Leg_R
+  rotate: false
+  xy: 2, 105
+  size: 276, 406
+  orig: 323, 488
+  offset: 47, 82
+  index: -1
+Blue_LowerArm_L
+  rotate: false
+  xy: 7, 10
+  size: 122, 104
+  orig: 122, 104
+  offset: 0, 0
+  index: -1
+Blue_LowerArm_R_02
+  rotate: 180
+  xy: 343, 336
+  size: 112, 122
+  orig: 112, 122
+  offset: 0, 0
+  index: -1
+Blue_Neck
+  rotate: false
+  xy: 118, 160
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Blue_Sleeve_L
+  rotate: false
+  xy: 462, 48
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Blue_Sleeve_R
+  rotate: false
+  xy: 348, 6
+  size: 56, 42
+  orig: 56, 54
+  offset: 0, 12
+  index: -1
+Blue_Sleeve_R_02
+  rotate: true
+  xy: 439, 376
+  size: 59, 46
+  orig: 59, 56
+  offset: 0, 10
+  index: -1
+Blue_Thigh_L
+  rotate: 270
+  xy: 2, 112
+  size: 239, 116
+  orig: 239, 128
+  offset: 0, 12
+  index: -1
+Blue_UpperArm_L
+  rotate: false
+  xy: 397, 443
+  size: 94, 68
+  orig: 94, 127
+  offset: 0, 57
+  index: -1
+Blue_UpperArm_R_02
+  rotate: true
+  xy: 375, 71
+  size: 131, 60
+  orig: 131, 60
+  offset: 0, 0
+  index: -1

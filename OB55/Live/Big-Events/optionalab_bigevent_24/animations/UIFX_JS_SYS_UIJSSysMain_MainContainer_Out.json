@@ -1,0 +1,573 @@
+{
+ "name": "UIFX_JS_SYS_UIJSSysMain_MainContainer_Out",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "UnshareContainer/TopLeft/TopLeft_Pos/TopLeftContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": [
+       -48.76582336425781,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       -975.3165893554688,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -975.3165893554688,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": [
+       -247.714599609375,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       -9938.5986328125,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -9938.5986328125,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": [
+       -1205.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -1205.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -1205.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Left/LeftContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": [
+       -54.294307708740234,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       -1085.8863525390625,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -1085.8863525390625,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": [
+       -207.2649383544922,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       -7364.55810546875,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -7364.55810546875,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": [
+       -903.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": [
+       -903.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Right/RightContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": [
+       27.56964111328125,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       661.67138671875,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       661.67138671875,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": [
+       239.9652099609375,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       10419.0712890625,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       10419.0712890625,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": [
+       809.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": [
+       809.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/BottomLeft/BottomLeftContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": [
+       -50.14874267578125,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       -859.6926879882812,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -859.6926879882812,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": [
+       -1216.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": [
+       -1216.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [],
+ "float": [
+  {
+   "path": "UnshareContainer/TopRight/TopRightContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Bottom/BottomContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/BottomRight/BottomRightContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Center/CenterContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Left/Mask",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 0.009999999776482582,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Right/Mask",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 0.009999999776482582,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Bottom/Mask",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.699999988079071,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 0.4000000059604645
+}

@@ -1,0 +1,153 @@
+
+NB24_Sys_Cutscene_CAM4_A.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CM4_arm_L
+  rotate: 270
+  xy: 1, 51
+  size: 307, 91
+  orig: 307, 91
+  offset: 0, 0
+  index: -1
+CM4_arm_L_Mask
+  rotate: false
+  xy: 1, 447
+  size: 49, 65
+  orig: 209, 99
+  offset: 54, 0
+  index: -1
+CM4_arm_R
+  rotate: true
+  xy: 73, 22
+  size: 191, 173
+  orig: 191, 173
+  offset: 0, 0
+  index: -1
+CM4_arm_R_Mask
+  rotate: false
+  xy: 1, 359
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+CM4_bao
+  rotate: true
+  xy: 85, 200
+  size: 111, 106
+  orig: 111, 106
+  offset: 0, 0
+  index: -1
+CM4_body
+  rotate: 180
+  xy: 198, 267
+  size: 335, 245
+  orig: 342, 438
+  offset: 7, 193
+  index: -1
+CM4_foot_L
+  rotate: 270
+  xy: 748, 4
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+CM4_foot_R
+  rotate: 270
+  xy: 689, 81
+  size: 259, 201
+  orig: 259, 201
+  offset: 0, 0
+  index: -1
+CM4_foot_R_Mask
+  rotate: false
+  xy: 49, 462
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+CM4_hand01_L2
+  rotate: false
+  xy: 330, 2
+  size: 83, 48
+  orig: 85, 48
+  offset: 2, 0
+  index: -1
+CM4_hand01_R
+  rotate: false
+  xy: 231, 2
+  size: 134, 79
+  orig: 135, 80
+  offset: 0, 1
+  index: -1
+CM4_hand02_L
+  rotate: false
+  xy: 1, 10
+  size: 142, 54
+  orig: 143, 54
+  offset: 1, 0
+  index: -1
+CM4_hand02_R
+  rotate: true
+  xy: 878, 400
+  size: 111, 71
+  orig: 111, 97
+  offset: 0, 26
+  index: -1
+CM4_head
+  rotate: true
+  xy: 678, 363
+  size: 150, 181
+  orig: 210, 181
+  offset: 59, 0
+  index: -1
+CM4_leg01_R
+  rotate: 270
+  xy: 497, 170
+  size: 342, 266
+  orig: 342, 266
+  offset: 0, 0
+  index: -1
+CM4_leg02_R
+  rotate: false
+  xy: 441, 28
+  size: 180, 112
+  orig: 185, 113
+  offset: 5, 1
+  index: -1
+CM4_leg_L
+  rotate: false
+  xy: 138, 463
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+CM4_leg_L_Mask
+  rotate: false
+  xy: 1, 69
+  size: 470, 442
+  orig: 478, 650
+  offset: 8, 208
+  index: -1
+Yellow_HairBand_1
+  rotate: 270
+  xy: 862, 75
+  size: 398, 82
+  orig: 398, 82
+  offset: 0, 0
+  index: -1
+Yellow_HairBand_2
+  rotate: 270
+  xy: 887, 2
+  size: 361, 93
+  orig: 444, 94
+  offset: 0, 1
+  index: -1
+mohu
+  rotate: 180
+  xy: 432, 47
+  size: 295, 253
+  orig: 355, 356
+  offset: 60, 103
+  index: -1

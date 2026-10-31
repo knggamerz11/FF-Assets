@@ -1,0 +1,1046 @@
+{
+ "name": "UIFX_JS_SYS_UIJSSysMain_MainContainer_In_02",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "UnshareContainer/TopLeft/TopLeft_Pos/TopLeftContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       -1205.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": [
+       -1205.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -48.76582336425781,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       188.77108764648438,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       188.77108764648438,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5666666626930237,
+      "value": [
+       -23.448877334594727,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       117.68690490722656,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       117.68690490722656,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Left/LeftContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       -903.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": [
+       -903.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": [
+       -903.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -151.24676513671875,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       2509.425537109375,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       2509.425537109375,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": [
+       -54.294307708740234,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       203.60366821289062,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       203.60366821289062,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.2000000476837158,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Right/RightContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       484.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": [
+       484.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": [
+       484.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       229.87689208984375,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       -1831.27734375,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -1831.27734375,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5666666626930237,
+      "value": [
+       27.56964111328125,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       -103.38616943359375,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -103.38616943359375,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.2666666507720947,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/BottomLeft/BottomLeftContainer",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       -689.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.06666667014360428,
+      "value": [
+       -689.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": [
+       -689.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.3333333432674408,
+      "value": [
+       -689.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -592.7615356445312,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       2605.60205078125,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       2605.60205078125,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": [
+       -50.14874267578125,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       286.5643005371094,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       286.5643005371094,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.0333333015441895,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow01",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow02",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [],
+ "float": [
+  {
+   "path": "UnshareContainer/TopRight/TopRightContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5333333611488342,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Bottom/BottomContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/BottomRight/BottomRightContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.2666666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Center/CenterContainer",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Left/Mask",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.30000001192092896,
+      "value": 0.009999999776482582,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Right/Mask",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.30000001192092896,
+      "value": 0.009999999776482582,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UnshareContainer/Bottom/Mask",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.4000000059604645,
+      "value": 0.699999988079071,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow01",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow01",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow01",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0010000467300415,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow01",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow01",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.0,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.0,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow01",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow01",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow01",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -0.44999998807907104,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.0,
+      "value": -0.365759938955307,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.0,
+      "value": -0.3199999928474426,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow_Add",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow_Add",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow_Add",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow_Add",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "ShareContainer/DefaultBgContainer/MainStageContainer/SunRingMaskUIFX/UIFX_JS_SYS_UIJSSysMain_Center_blackmask/shanping/Glow_Add",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 1.2666666507720947
+}

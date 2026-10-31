@@ -1,0 +1,76 @@
+
+JS_SYS_Mainpage_Chair_A.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L1
+  rotate: true
+  xy: 167, 41
+  size: 43, 86
+  orig: 44, 88
+  offset: 0, 2
+  index: -1
+Arm_L2
+  rotate: 270
+  xy: 106, 11
+  size: 44, 65
+  orig: 45, 65
+  offset: 1, 0
+  index: -1
+Arm_R
+  rotate: 180
+  xy: 2, 22
+  size: 63, 83
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 132
+  size: 106, 124
+  orig: 106, 151
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: 180
+  xy: 174, 173
+  size: 70, 82
+  orig: 70, 83
+  offset: 0, 1
+  index: -1
+Leg_L1
+  rotate: 180
+  xy: 68, 49
+  size: 87, 47
+  orig: 89, 50
+  offset: 2, 3
+  index: -1
+Leg_L2
+  rotate: true
+  xy: 123, 110
+  size: 67, 118
+  orig: 67, 119
+  offset: 0, 1
+  index: -1
+Leg_R1
+  rotate: false
+  xy: 2, 89
+  size: 100, 52
+  orig: 104, 67
+  offset: 4, 15
+  index: -1
+Leg_R2
+  rotate: true
+  xy: 144, 81
+  size: 58, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 92, 148
+  size: 87, 107
+  orig: 128, 142
+  offset: 14, 23
+  index: -1

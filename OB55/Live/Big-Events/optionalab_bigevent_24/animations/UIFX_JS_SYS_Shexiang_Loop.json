@@ -1,0 +1,407 @@
+{
+ "name": "UIFX_JS_SYS_Shexiang_Loop",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "Scale",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       150.0,
+       -28.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [
+  {
+   "path": "Scale",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       44.0,
+       46.0,
+       44.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Loop",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Stary",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Loop/Xuehua_03",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.9833333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.8333332538604736,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Loop/Xuehua_03",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.9833333492279053,
+      "value": 5.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.8333332538604736,
+      "value": 5.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Loop/Xuehua_03",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.9833333492279053,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.8333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Loop/Xuehua_03",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 199,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.9833333492279053,
+      "value": 0.7200000286102295,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.8333332538604736,
+      "value": -4.860000133514404,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Xuehua_Black",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Xuehua_02",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Xuehua_01",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Nue_End",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_Effect/Blak_Glow02",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_Effect/Blak_Glow",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_Effect/Blak_Glow02",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Main_End",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_Effect",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 60.0,
+ "wrapMode": 0,
+ "duration": 3.8333332538604736
+}

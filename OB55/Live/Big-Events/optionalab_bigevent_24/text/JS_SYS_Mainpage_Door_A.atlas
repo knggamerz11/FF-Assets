@@ -1,0 +1,111 @@
+
+JS_SYS_Mainpage_Door_A.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Door_Back2
+  rotate: false
+  xy: 423, 352
+  size: 85, 160
+  orig: 86, 372
+  offset: 0, 80
+  index: -1
+Door_Back3
+  rotate: 270
+  xy: 286, 85
+  size: 36, 157
+  orig: 36, 157
+  offset: 0, 0
+  index: -1
+Door_Door
+  rotate: false
+  xy: 287, 187
+  size: 134, 323
+  orig: 134, 323
+  offset: 0, 0
+  index: -1
+Door_Light_1
+  rotate: true
+  xy: 286, 123
+  size: 62, 149
+  orig: 62, 149
+  offset: 0, 0
+  index: -1
+Door_Light_2
+  rotate: false
+  xy: 2, 33
+  size: 285, 478
+  orig: 343, 478
+  offset: 10, 0
+  index: -1
+Door_Mark_1
+  rotate: 180
+  xy: 408, 20
+  size: 102, 24
+  orig: 102, 32
+  offset: 0, 0
+  index: -1
+Door_Mark_2
+  rotate: false
+  xy: 411, 34
+  size: 99, 20
+  orig: 99, 20
+  offset: 0, 0
+  index: -1
+Door_Mark_3
+  rotate: false
+  xy: 326, 68
+  size: 92, 17
+  orig: 92, 23
+  offset: 0, 6
+  index: -1
+Door_Mark_4
+  rotate: false
+  xy: 286, 35
+  size: 94, 16
+  orig: 94, 23
+  offset: 0, 0
+  index: -1
+Door_Mark_5
+  rotate: false
+  xy: 47, 489
+  size: 99, 21
+  orig: 99, 21
+  offset: 0, 0
+  index: -1
+Door_Mark_6
+  rotate: false
+  xy: 286, 47
+  size: 103, 24
+  orig: 103, 32
+  offset: 0, 8
+  index: -1
+Hand_1
+  rotate: true
+  xy: 438, 72
+  size: 133, 71
+  orig: 151, 80
+  offset: 0, 9
+  index: -1
+Hand_1_S
+  rotate: false
+  xy: 199, 463
+  size: 54, 48
+  orig: 80, 66
+  offset: 0, 18
+  index: -1
+Hand_2
+  rotate: true
+  xy: 424, 206
+  size: 144, 86
+  orig: 144, 86
+  offset: 0, 0
+  index: -1
+Hand_2_S
+  rotate: false
+  xy: 414, 49
+  size: 57, 43
+  orig: 58, 46
+  offset: 1, 2
+  index: -1

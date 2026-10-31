@@ -1,0 +1,263 @@
+{
+ "name": "UIFX_NB1RE_SYSMain_PartnerUnlock_In",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [],
+ "scale": [
+  {
+   "path": "background",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.5,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       13.251252174377441,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       13.251252174377441,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.037786684930324554,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.037786684930324554,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Fire",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       0.5,
+       0.5,
+       0.5
+      ],
+      "inSlope": [
+       34.74161911010742,
+       34.74161911010742,
+       34.74161911010742
+      ],
+      "outSlope": [
+       34.74161911010742,
+       34.74161911010742,
+       34.74161911010742
+      ]
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.08376345038414001,
+       0.1709987223148346,
+       0.1709987223148346
+      ],
+      "outSlope": [
+       0.08376345038414001,
+       0.1709987223148346,
+       0.1709987223148346
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "background",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 62.9523811340332,
+      "outSlope": 62.9523811340332
+     },
+     {
+      "time": 0.10000000149011612,
+      "value": 1.0,
+      "inSlope": 0.2331569641828537,
+      "outSlope": 0.2331569641828537
+     },
+     {
+      "time": 2.866666555404663,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "PartnerUnlockLabel",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": 0.0,
+      "inSlope": 6.528393745422363,
+      "outSlope": 6.528393745422363
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": 1.0,
+      "inSlope": 0.8090468645095825,
+      "outSlope": 0.8090468645095825
+     },
+     {
+      "time": 2.866666555404663,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.9666666984558105,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Fire",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 32.55146789550781,
+      "outSlope": 32.55146789550781
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 1.0,
+      "inSlope": 0.28896740078926086,
+      "outSlope": 0.28896740078926086
+     },
+     {
+      "time": 2.866666555404663,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Decorate",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.10000000149011612,
+      "value": 0.0,
+      "inSlope": 17.78333282470703,
+      "outSlope": 17.78333282470703
+     },
+     {
+      "time": 0.2666666805744171,
+      "value": 1.0,
+      "inSlope": 0.4169738292694092,
+      "outSlope": 0.4169738292694092
+     },
+     {
+      "time": 2.866666555404663,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_Glow",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 3.0
+}

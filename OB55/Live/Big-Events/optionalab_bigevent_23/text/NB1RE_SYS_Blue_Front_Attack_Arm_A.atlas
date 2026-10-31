@@ -1,0 +1,41 @@
+
+NB1RE_SYS_Blue_Front_Attack_Arm_A.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_Arm_L_01
+  rotate: false
+  xy: 2, 119
+  size: 183, 135
+  orig: 183, 135
+  offset: 0, 0
+  index: -1
+Blue_Arm_L_02
+  rotate: 270
+  xy: 138, 201
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+Blue_Arm_L_03
+  rotate: true
+  xy: 2, 15
+  size: 123, 189
+  orig: 123, 189
+  offset: 0, 0
+  index: -1
+Blue_Finger_L
+  rotate: false
+  xy: 2, 21
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+Blue_Hand_L
+  rotate: 270
+  xy: 175, 83
+  size: 110, 76
+  orig: 110, 76
+  offset: 0, 0
+  index: -1

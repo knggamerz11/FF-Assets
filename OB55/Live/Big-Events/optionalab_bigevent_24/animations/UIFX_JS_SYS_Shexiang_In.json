@@ -1,0 +1,982 @@
+{
+ "name": "UIFX_JS_SYS_Shexiang_In",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "Scale",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       20.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": [
+       150.0,
+       -28.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Stary/Blak_Glow",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       -9.0,
+       -78.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.13333334028720856,
+      "value": [
+       -4.0,
+       -58.0,
+       0.0
+      ],
+      "inSlope": [
+       47.14285659790039,
+       192.85714721679688,
+       0.0
+      ],
+      "outSlope": [
+       47.14285659790039,
+       192.85714721679688,
+       0.0
+      ]
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": [
+       2.0,
+       -33.0,
+       0.0
+      ],
+      "inSlope": [
+       48.0,
+       402.0,
+       0.0
+      ],
+      "outSlope": [
+       48.0,
+       402.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.30000001192092896,
+      "value": [
+       4.0,
+       9.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.800000011920929,
+      "value": [
+       4.0,
+       3.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": [
+       4.0,
+       13.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [
+  {
+   "path": "Scale",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.06666667014360428,
+      "value": [
+       20.0,
+       20.0,
+       25.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": [
+       44.0,
+       46.0,
+       44.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Stary/Blak_Glow",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": [
+       9.815362930297852,
+       6.474183559417725,
+       6.745200157165527
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.23333333432674408,
+      "value": [
+       9.611969947814941,
+       6.603461742401123,
+       6.745200157165527
+      ],
+      "inSlope": [
+       -1.8023744821548462,
+       1.723708987236023,
+       0.0
+      ],
+      "outSlope": [
+       -1.8023744821548462,
+       1.723708987236023,
+       0.0
+      ]
+     },
+     {
+      "time": 0.30000001192092896,
+      "value": [
+       9.274650573730469,
+       7.09224271774292,
+       6.745200157165527
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.800000011920929,
+      "value": [
+       9.274650573730469,
+       6.936512470245361,
+       6.745200157165527
+      ],
+      "inSlope": [
+       0.0,
+       -0.8125056028366089,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -0.8125056028366089,
+       0.0
+      ]
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": [
+       9.274650573730469,
+       6.239310264587402,
+       6.745200157165527
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Main_End",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.3333333730697632,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Stary/Blak_Glow",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.2000000476837158,
+      "value": 0.009999999776482582,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Quad_02",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Quad_02",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Quad_02",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Quad_02",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Quad",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 2.700000047683716,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8666666746139526,
+      "value": 2.700000047683716,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Quad",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 1.7999999523162842,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8666666746139526,
+      "value": 1.7999999523162842,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Quad",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8666666746139526,
+      "value": 1.100000023841858,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Quad",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8666666746139526,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Anjiao",
+   "attribute": "material._ColorAlphaBrightnessContrast.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8666666746139526,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Anjiao",
+   "attribute": "material._ColorAlphaBrightnessContrast.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8666666746139526,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Anjiao",
+   "attribute": "material._ColorAlphaBrightnessContrast.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8666666746139526,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Anjiao",
+   "attribute": "material._ColorAlphaBrightnessContrast.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8666666746139526,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Loop",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/DV_5/DV_2/DV_UIFX2/BottomLeft/CarmaTimeLabel",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.7333333492279053,
+      "value": 0.009999999776482582,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.8333333730697632,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/DV_5/DV_2/DV_UIFX3/TopRight/CarmaCountLabel",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.7333333492279053,
+      "value": 0.009999999776482582,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.8333333730697632,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Nue_End",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Xuehua_Black",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Xuehua_02",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Xuehua_01",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Stary",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_Effect/Blak_Glow02",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.7333333492279053,
+      "value": 0.009999999776482582,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_Effect/Blak_Glow",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_Effect/Blak_Glow02",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "UIFX_Effect",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Stary/Blak_Glow",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Scale/JS_SYS_Mainpage_DV_A/SkeletonUtility-SkeletonRoot/root/DV_Hand1/UIFX_JS_SYS_Shexiang_02/Mian_Once/Xiagkuang",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.5,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 1.8333333730697632
+}

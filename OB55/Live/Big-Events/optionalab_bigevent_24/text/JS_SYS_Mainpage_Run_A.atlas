@@ -1,0 +1,76 @@
+
+JS_SYS_Mainpage_Run_A.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L1
+  rotate: 270
+  xy: 196, 183
+  size: 63, 40
+  orig: 66, 41
+  offset: 2, 1
+  index: -1
+Arm_L2
+  rotate: true
+  xy: 183, 5
+  size: 49, 56
+  orig: 49, 63
+  offset: 0, 4
+  index: -1
+Arm_R1
+  rotate: true
+  xy: 71, 9
+  size: 37, 67
+  orig: 39, 70
+  offset: 0, 2
+  index: -1
+Arm_R2
+  rotate: true
+  xy: 211, 132
+  size: 62, 35
+  orig: 65, 49
+  offset: 3, 11
+  index: -1
+Body
+  rotate: false
+  xy: 120, 83
+  size: 103, 163
+  orig: 108, 172
+  offset: 5, 9
+  index: -1
+Leg_L1
+  rotate: true
+  xy: 79, 52
+  size: 56, 74
+  orig: 57, 75
+  offset: 1, 0
+  index: -1
+Leg_L2
+  rotate: false
+  xy: 2, 22
+  size: 83, 40
+  orig: 85, 40
+  offset: 0, 0
+  index: -1
+Leg_R1
+  rotate: 270
+  xy: 2, 64
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+Leg_R2
+  rotate: false
+  xy: 142, 4
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 108
+  size: 122, 138
+  orig: 165, 186
+  offset: 24, 23
+  index: -1

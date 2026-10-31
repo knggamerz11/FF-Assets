@@ -1,0 +1,216 @@
+
+JS_SYS_Mainpage_Decoration_Middle_A.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Balloon_1
+  rotate: true
+  xy: 64, 4
+  size: 31, 125
+  orig: 31, 125
+  offset: 0, 0
+  index: -1
+Balloon_10
+  rotate: 270
+  xy: 81, 50
+  size: 56, 170
+  orig: 56, 170
+  offset: 0, 0
+  index: -1
+Balloon_11
+  rotate: true
+  xy: 2, 200
+  size: 54, 135
+  orig: 86, 141
+  offset: 32, 6
+  index: -1
+Balloon_12
+  rotate: false
+  xy: 28, 90
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Balloon_13
+  rotate: false
+  xy: 32, 151
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Balloon_14
+  rotate: false
+  xy: 114, 115
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Balloon_2
+  rotate: false
+  xy: 2, 51
+  size: 35, 86
+  orig: 35, 86
+  offset: 0, 0
+  index: -1
+Balloon_3
+  rotate: true
+  xy: 269, 150
+  size: 31, 90
+  orig: 31, 90
+  offset: 0, 0
+  index: -1
+Balloon_4
+  rotate: true
+  xy: 172, 149
+  size: 38, 107
+  orig: 38, 107
+  offset: 0, 0
+  index: -1
+Balloon_5
+  rotate: true
+  xy: 271, 5
+  size: 47, 111
+  orig: 47, 111
+  offset: 0, 0
+  index: -1
+Balloon_6
+  rotate: true
+  xy: 337, 130
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+Balloon_7
+  rotate: false
+  xy: 453, 81
+  size: 45, 143
+  orig: 45, 143
+  offset: 0, 0
+  index: -1
+Balloon_8
+  rotate: false
+  xy: 187, 194
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Balloon_9
+  rotate: false
+  xy: 172, 220
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Balloon_Rope_1
+  rotate: false
+  xy: 490, 91
+  size: 15, 92
+  orig: 15, 92
+  offset: 0, 0
+  index: -1
+Balloon_Rope_2
+  rotate: true
+  xy: 68, 240
+  size: 13, 86
+  orig: 13, 86
+  offset: 0, 0
+  index: -1
+Balloon_Rope_3
+  rotate: false
+  xy: 439, 13
+  size: 11, 60
+  orig: 14, 60
+  offset: 3, 0
+  index: -1
+Balloon_Rope_4
+  rotate: false
+  xy: 243, 132
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+Balloon_Rope_5
+  rotate: false
+  xy: 66, 182
+  size: 4, 28
+  orig: 4, 28
+  offset: 0, 0
+  index: -1
+Balloon_Rope_6
+  rotate: false
+  xy: 23, 168
+  size: 3, 30
+  orig: 3, 30
+  offset: 0, 0
+  index: -1
+Balloon_Shadow_1
+  rotate: false
+  xy: 206, 219
+  size: 25, 35
+  orig: 25, 38
+  offset: 0, 3
+  index: -1
+Balloon_Shadow_2
+  rotate: false
+  xy: 37, 45
+  size: 25, 40
+  orig: 28, 44
+  offset: 2, 3
+  index: -1
+Balloon_Shadow_3
+  rotate: false
+  xy: 192, 117
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Balloon_Shadow_4
+  rotate: false
+  xy: 63, 115
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Balloon_Shadow_5
+  rotate: false
+  xy: 109, 178
+  size: 22, 45
+  orig: 28, 50
+  offset: 2, 3
+  index: -1
+Flag_01
+  rotate: false
+  xy: 222, 3
+  size: 216, 87
+  orig: 216, 87
+  offset: 0, 0
+  index: -1
+Flag_02
+  rotate: false
+  xy: 2, 139
+  size: 485, 115
+  orig: 485, 115
+  offset: 0, 0
+  index: -1
+Flag_03
+  rotate: false
+  xy: 61, 76
+  size: 449, 91
+  orig: 449, 91
+  offset: 0, 0
+  index: -1
+Flag_Shadow_02
+  rotate: false
+  xy: 2, 17
+  size: 196, 48
+  orig: 196, 48
+  offset: 0, 0
+  index: -1
+Flag_Shadow_03
+  rotate: 180
+  xy: 324, 216
+  size: 179, 37
+  orig: 179, 37
+  offset: 0, 0
+  index: -1

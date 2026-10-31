@@ -1,0 +1,195 @@
+
+NB24_Sys_Cutscene_CAM1_nine_fox_A.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nine_Arm_L
+  rotate: 180
+  xy: 584, 3
+  size: 148, 230
+  orig: 148, 230
+  offset: 0, 0
+  index: -1
+Nine_Body
+  rotate: true
+  xy: 846, 3
+  size: 87, 61
+  orig: 567, 271
+  offset: 231, 75
+  index: -1
+Nine_Foot_L
+  rotate: false
+  xy: 2, 476
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Nine_Foot_R
+  rotate: false
+  xy: 716, 437
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+Nine_Head_02
+  rotate: false
+  xy: 559, 451
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+Nine_Mouse
+  rotate: false
+  xy: 37, 353
+  size: 31, 29
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Nine_Tail
+  rotate: 180
+  xy: 87, 3
+  size: 561, 168
+  orig: 561, 168
+  offset: 0, 0
+  index: -1
+Nine_Tail1_01
+  rotate: false
+  xy: 337, 353
+  size: 338, 158
+  orig: 341, 158
+  offset: 3, 0
+  index: -1
+Nine_Tail1_02
+  rotate: false
+  xy: 2, 432
+  size: 242, 41
+  orig: 242, 53
+  offset: 0, 12
+  index: -1
+Nine_Tail3_01
+  rotate: 270
+  xy: 526, 142
+  size: 203, 133
+  orig: 203, 133
+  offset: 0, 0
+  index: -1
+Nine_Tail3_02
+  rotate: 180
+  xy: 766, 21
+  size: 144, 125
+  orig: 144, 125
+  offset: 0, 0
+  index: -1
+Nine_Tail4
+  rotate: true
+  xy: 806, 297
+  size: 214, 104
+  orig: 215, 104
+  offset: 0, 0
+  index: -1
+Nine_Tail5_01
+  rotate: false
+  xy: 2, 311
+  size: 341, 130
+  orig: 341, 130
+  offset: 0, 0
+  index: -1
+Nine_Tail5_02
+  rotate: true
+  xy: 782, 152
+  size: 216, 99
+  orig: 216, 99
+  offset: 0, 0
+  index: -1
+Nine_Tail6_01
+  rotate: true
+  xy: 719, 3
+  size: 130, 115
+  orig: 131, 115
+  offset: 0, 0
+  index: -1
+Nine_Tail6_02
+  rotate: false
+  xy: 741, 242
+  size: 68, 180
+  orig: 69, 180
+  offset: 0, 0
+  index: -1
+Nine_Tail7
+  rotate: 270
+  xy: 632, 44
+  size: 308, 141
+  orig: 308, 141
+  offset: 0, 0
+  index: -1
+Nine_Tail8_01
+  rotate: false
+  xy: 2, 15
+  size: 147, 342
+  orig: 172, 342
+  offset: 25, 0
+  index: -1
+Nine_Tail8_02
+  rotate: false
+  xy: 670, 300
+  size: 199, 196
+  orig: 199, 197
+  offset: 0, 0
+  index: -1
+Nine_Tail9
+  rotate: false
+  xy: 2, 117
+  size: 547, 393
+  orig: 547, 393
+  offset: 0, 0
+  index: -1
+Nine_Teeth_Dpwn
+  rotate: false
+  xy: 343, 353
+  size: 49, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+Nine_Thigh_L
+  rotate: true
+  xy: 339, 214
+  size: 150, 97
+  orig: 307, 133
+  offset: 138, 36
+  index: -1
+Nine_Thigh_R
+  rotate: 270
+  xy: 118, 146
+  size: 142, 109
+  orig: 143, 121
+  offset: 0, 12
+  index: -1
+Nine_Tongue
+  rotate: false
+  xy: 2, 372
+  size: 38, 52
+  orig: 39, 53
+  offset: 1, 1
+  index: -1
+Nine_arm_R
+  rotate: false
+  xy: 602, 282
+  size: 173, 230
+  orig: 190, 240
+  offset: 10, 8
+  index: -1
+Nine_head
+  rotate: true
+  xy: 137, 114
+  size: 195, 207
+  orig: 195, 210
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 61, 48
+  size: 401, 165
+  orig: 406, 171
+  offset: 5, 3
+  index: -1

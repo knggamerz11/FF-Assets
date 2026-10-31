@@ -1,0 +1,1578 @@
+{
+ "name": "UIFX_SA_SYS_UISA_SYSSummaryHighLightItem_In",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "Main/ReputationView/TitleView/IconView",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4333333373069763,
+      "value": [
+       -230.0,
+       142.0,
+       0.0
+      ],
+      "inSlope": [
+       202.39743041992188,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       202.39743041992188,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.699999988079071,
+      "value": [
+       -210.0,
+       142.0,
+       0.0
+      ],
+      "inSlope": [
+       5.323888778686523,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       5.323888778686523,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MedalNameView/MedalName",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -349.0,
+       115.0,
+       0.0
+      ],
+      "inSlope": [
+       244.5664520263672,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       244.5664520263672,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       -329.0,
+       115.0,
+       0.0
+      ],
+      "inSlope": [
+       -0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/ReputationList",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.46666666865348816,
+      "value": [
+       -180.0,
+       -63.0,
+       0.0
+      ],
+      "inSlope": [
+       296.99444580078125,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       296.99444580078125,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": [
+       -160.0,
+       -63.0,
+       0.0
+      ],
+      "inSlope": [
+       -1.0000008344650269,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -1.0000008344650269,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MVPNameView/MVPName",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -349.0,
+       115.0,
+       0.0
+      ],
+      "inSlope": [
+       242.85829162597656,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       242.85829162597656,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       -329.0,
+       115.0,
+       0.0
+      ],
+      "inSlope": [
+       -0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeName",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.46666666865348816,
+      "value": [
+       -349.0,
+       116.0,
+       0.0
+      ],
+      "inSlope": [
+       183.6774444580078,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       183.6774444580078,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       -329.0,
+       116.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MedalNameView/MedalName02",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": [
+       -349.0,
+       115.0,
+       0.0
+      ],
+      "inSlope": [
+       244.5664520263672,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       244.5664520263672,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       -329.0,
+       115.0,
+       0.0
+      ],
+      "inSlope": [
+       -0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [
+  {
+   "path": "Main/ReputationView/TitleView/MedalNameView/Medaicon",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4333333373069763,
+      "value": [
+       0.30000001192092896,
+       0.30000001192092896,
+       1.0
+      ],
+      "inSlope": [
+       28.271484375,
+       28.271484375,
+       0.0
+      ],
+      "outSlope": [
+       28.271484375,
+       28.271484375,
+       0.0
+      ]
+     },
+     {
+      "time": 0.5666666626930237,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       1.2400000095367432,
+       1.2400000095367432,
+       1.0
+      ],
+      "inSlope": [
+       -0.0,
+       -0.0,
+       0.0
+      ],
+      "outSlope": [
+       -0.0,
+       -0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MVPNameView/MVPicon",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": [
+       0.30000001192092896,
+       0.30000001192092896,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6333333253860474,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/KnockdownBtn/KnockdownSprite",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5333333611488342,
+      "value": [
+       0.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       26.496646881103516,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       26.496646881103516,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6333333253860474,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/7",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.46666666865348816,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": [
+       0.44433167576789856,
+       0.44433167576789856,
+       1.2695190906524658
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.699999988079071,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/6",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5333333611488342,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       0.44433167576789856,
+       0.44433167576789856,
+       1.2695190906524658
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.7666666507720947,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/5",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6000000238418579,
+      "value": [
+       0.5974850058555603,
+       0.5974850058555603,
+       1.7071000337600708
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": [
+       0.44433167576789856,
+       0.44433167576789856,
+       1.2695190906524658
+      ],
+      "inSlope": [
+       -1.0606502294540405,
+       -1.0606502294540405,
+       -3.0304293632507324
+      ],
+      "outSlope": [
+       -1.0606502294540405,
+       -1.0606502294540405,
+       -3.0304293632507324
+      ]
+     },
+     {
+      "time": 0.8333333134651184,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/4",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.800000011920929,
+      "value": [
+       0.44433167576789856,
+       0.44433167576789856,
+       1.2695190906524658
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/3",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.7333333492279053,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.8666666746139526,
+      "value": [
+       0.44433167576789856,
+       0.44433167576789856,
+       1.2695190906524658
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.9666666388511658,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/2",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.800000011920929,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.9333333373069763,
+      "value": [
+       0.44433167576789856,
+       0.44433167576789856,
+       1.2695190906524658
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.0333333015441895,
+      "value": [
+       0.3499999940395355,
+       0.3499999940395355,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/1",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": [
+       1.2999999523162842,
+       1.2999999523162842,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": [
+       1.399999976158142,
+       1.399999976158142,
+       1.100000023841858
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 0.699999988079071,
+      "value": [
+       1.2999999523162842,
+       1.2999999523162842,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "Main/ReputationView/TitleView/IconView",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4333333373069763,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MedalNameView/MedalName",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5666666626930237,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/ReputationList",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.46666666865348816,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6333333253860474,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "PlayBtn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.46666666865348816,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6333333253860474,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MVPNameView/MVPName",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5666666626930237,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/MainView",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 2.000091314315796,
+      "outSlope": 2.000091314315796
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MedalNameView/Lightbg",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MVPNameView/Lightbg",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MedalNameView/Medaicon/Medaicon",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5333333611488342,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MedalNameView/Medaicon/UIFX_Mead_01/main",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5666666626930237,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.6666666269302368,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MedalNameView/Medaicon/UIFX_Mead_02/main",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5666666626930237,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.6000000238418579,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.6333333253860474,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.6666666269302368,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MVPNameView/MVPicon/MVPicon",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/KnockdownBtn",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.46666666865348816,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/KnockdownBtn/UIFX_SA_SYS_UISA_Saoguang",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.7333333492279053,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.7666666507720947,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.5,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/KnockdownBtn/UIFX_SA_SYS_UISA_Saoguang",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.800000011920929,
+      "value": 0.10599999874830246,
+      "inSlope": 1.9549078941345215,
+      "outSlope": 1.9549078941345215
+     },
+     {
+      "time": 1.5,
+      "value": 0.9319999814033508,
+      "inSlope": 0.4188179671764374,
+      "outSlope": 0.4188179671764374
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/UIFX_SA_SYS_UISA_Badge_Loop",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5333333611488342,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.5666666626930237,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/KnockdownBtn/BtnKnockdown",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5666666626930237,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/UIFX_Baodian",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4333333373069763,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.46666666865348816,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MVPNameView/UIFX_MVP",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.699999988079071,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MedalNameView/UIFX_Medal",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.699999988079071,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.7333333492279053,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/7",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.46666666865348816,
+      "value": 0.0,
+      "inSlope": 7.558436870574951,
+      "outSlope": 7.558436870574951
+     },
+     {
+      "time": 0.699999988079071,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/6",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.5333333611488342,
+      "value": 0.0,
+      "inSlope": 7.558436870574951,
+      "outSlope": 7.558436870574951
+     },
+     {
+      "time": 0.7666666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/5",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6000000238418579,
+      "value": 0.0,
+      "inSlope": 7.558436870574951,
+      "outSlope": 7.558436870574951
+     },
+     {
+      "time": 0.8333333134651184,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/4",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6666666865348816,
+      "value": 0.0,
+      "inSlope": 7.558436870574951,
+      "outSlope": 7.558436870574951
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/3",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.7333333492279053,
+      "value": 0.0,
+      "inSlope": 7.558436870574951,
+      "outSlope": 7.558436870574951
+     },
+     {
+      "time": 0.9666666388511658,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/BadgeNameView/BadgeObject/BadgeView/BadgeGrid/2",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.800000011920929,
+      "value": 0.0,
+      "inSlope": 7.558436870574951,
+      "outSlope": 7.558436870574951
+     },
+     {
+      "time": 1.0333333015441895,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MVPNameView/MVPicon/UIFX_MVP02",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6333333253860474,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Main/ReputationView/TitleView/MedalNameView/MedalName02",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.4000000059604645,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.5666666626930237,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 1.6666666269302368
+}

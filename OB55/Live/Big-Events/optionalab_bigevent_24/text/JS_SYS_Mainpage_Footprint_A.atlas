@@ -1,0 +1,76 @@
+
+JS_SYS_Mainpage_Footprint_A.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Footprint_01
+  rotate: false
+  xy: 2, 159
+  size: 146, 62
+  orig: 146, 62
+  offset: 0, 0
+  index: -1
+Footprint_010
+  rotate: 270
+  xy: 180, 115
+  size: 105, 22
+  orig: 105, 22
+  offset: 0, 0
+  index: -1
+Footprint_02
+  rotate: 180
+  xy: 2, 117
+  size: 122, 67
+  orig: 122, 67
+  offset: 0, 0
+  index: -1
+Footprint_03
+  rotate: 270
+  xy: 126, 110
+  size: 112, 56
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+Footprint_04
+  rotate: false
+  xy: 2, 70
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+Footprint_05
+  rotate: 180
+  xy: 66, 53
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+Footprint_06
+  rotate: false
+  xy: 91, 44
+  size: 95, 50
+  orig: 95, 50
+  offset: 0, 0
+  index: -1
+Footprint_07
+  rotate: 270
+  xy: 2, 11
+  size: 100, 47
+  orig: 100, 47
+  offset: 0, 0
+  index: -1
+Footprint_08
+  rotate: false
+  xy: 80, 20
+  size: 108, 35
+  orig: 109, 35
+  offset: 1, 0
+  index: -1
+Footprint_09
+  rotate: 180
+  xy: 80, 3
+  size: 108, 25
+  orig: 108, 25
+  offset: 0, 0
+  index: -1

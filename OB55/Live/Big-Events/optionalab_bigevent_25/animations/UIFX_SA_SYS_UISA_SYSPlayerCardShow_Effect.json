@@ -1,0 +1,1001 @@
+{
+ "name": "UIFX_SA_SYS_UISA_SYSPlayerCardShow_Effect",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "Card",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.899999976158142,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.0,
+      "value": [
+       -2.038449764251709,
+       2.867255210876465,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.0999999046325684,
+      "value": [
+       2.192756175994873,
+       -1.922499656677246,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.200000047683716,
+      "value": [
+       -3.6738243103027344,
+       -0.2266082763671875,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       37.72564697265625,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       37.72564697265625,
+       0.0
+      ]
+     },
+     {
+      "time": 2.2666666507720947,
+      "value": [
+       2.386960983276367,
+       4.365111351013184,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.3333332538604736,
+      "value": [
+       -2.272787570953369,
+       -2.512603759765625,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.4000000953674316,
+      "value": [
+       0.27811622619628906,
+       5.467411041259766,
+       0.0
+      ],
+      "inSlope": [
+       64.0625,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       64.0625,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.4666666984558105,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       -67.53538513183594,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       -67.53538513183594,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.5333333015441895,
+      "value": [
+       -6.0633978843688965,
+       5.244696617126465,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.5999999046325684,
+      "value": [
+       4.808778285980225,
+       -4.215041160583496,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": [
+       -8.30672836303711,
+       -0.2266082763671875,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       89.82366943359375,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       89.82366943359375,
+       0.0
+      ]
+     },
+     {
+      "time": 2.7333333492279053,
+      "value": [
+       5.66057014465332,
+       7.761458396911621,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.799999952316284,
+      "value": [
+       -5.117086887359619,
+       -5.569305419921875,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.866666555404663,
+      "value": [
+       0.27811622619628906,
+       10.222293853759766,
+       0.0
+      ],
+      "inSlope": [
+       166.98391723632812,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       166.98391723632812,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.933333396911621,
+      "value": [
+       8.619080543518066,
+       -8.26091480255127,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 3.0,
+      "value": [
+       -6.78736686706543,
+       7.02431583404541,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 3.066666603088379,
+      "value": [
+       2.9507932662963867,
+       -5.775873184204102,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 3.133333444595337,
+      "value": [
+       -8.2249116897583,
+       0.21374940872192383,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       91.12379455566406,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       91.12379455566406,
+       0.0
+      ]
+     },
+     {
+      "time": 3.200000047683716,
+      "value": [
+       8.691621780395508,
+       6.373976230621338,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 3.2666666507720947,
+      "value": [
+       -11.588430404663086,
+       -7.478137969970703,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 3.3333332538604736,
+      "value": [
+       5.640223503112793,
+       -0.2868518829345703,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       107.21786499023438,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       107.21786499023438,
+       0.0
+      ]
+     },
+     {
+      "time": 3.4000000953674316,
+      "value": [
+       -5.9290900230407715,
+       6.81758975982666,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 3.4666666984558105,
+      "value": [
+       -1.9111084938049316,
+       -4.611572265625,
+       0.0
+      ],
+      "inSlope": [
+       44.46821594238281,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       44.46821594238281,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 3.5333333015441895,
+      "value": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [
+  {
+   "path": "Card",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.2666666507720947,
+      "value": [
+       0.30000001192092896,
+       0.30000001192092896,
+       1.0
+      ],
+      "inSlope": [
+       1.057444453239441,
+       1.057444453239441,
+       0.0
+      ],
+      "outSlope": [
+       1.057444453239441,
+       1.057444453239441,
+       0.0
+      ]
+     },
+     {
+      "time": 1.5666667222976685,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 1.899999976158142,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       -0.015826907008886337,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       -0.015826907008886337,
+       0.0
+      ]
+     },
+     {
+      "time": 2.5,
+      "value": [
+       0.949999988079071,
+       0.949999988079071,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 3.633333444595337,
+      "value": [
+       0.5,
+       0.5,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       1.5962882041931152,
+       1.5962882041931152,
+       0.0
+      ]
+     },
+     {
+      "time": 3.933333396911621,
+      "value": [
+       1.5,
+       1.5,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 4.099999904632568,
+      "value": [
+       1.453803300857544,
+       1.453803300857544,
+       1.0
+      ],
+      "inSlope": [
+       -0.791943371295929,
+       -0.791943371295929,
+       0.0
+      ],
+      "outSlope": [
+       -7.673439979553223,
+       -7.673439979553223,
+       0.0
+      ]
+     },
+     {
+      "time": 4.133333206176758,
+      "value": [
+       0.8999999761581421,
+       0.8999999761581421,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 4.266666889190674,
+      "value": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "Burst",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 4.099999904632568,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.133333206176758,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Card",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.2666666507720947,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.2999999523162842,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.166666507720947,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.199999809265137,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Rotate",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 3.299999952316284,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 3.3333332538604736,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.166666507720947,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.199999809265137,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Card/Rotate01",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.2666666507720947,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.2999999523162842,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Card/Xuli",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.5,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.5333333015441895,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Triangle",
+   "attribute": "alpha",
+   "classID": 114,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.8666666746139526,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.1666666269302368,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.3333332538604736,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.6666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.400000095367432,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.733333110809326,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.633333206176758,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.800000190734863,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Triangle",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.8666666746139526,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.8999999761581421,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.7333333492279053,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.7666666507720947,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.400000095367432,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.433333396911621,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 5.800000190734863,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 5.833333492279053,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Triangle_In",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.6333333253860474,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.6666666865348816,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Xuli",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.5,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.5333333015441895,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Xuli_In",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.899999976158142,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.9333332777023315,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Start",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 0.03333333507180214,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Card/Rotate02",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 3.4666666984558105,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 3.5,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 5.833333492279053
+}

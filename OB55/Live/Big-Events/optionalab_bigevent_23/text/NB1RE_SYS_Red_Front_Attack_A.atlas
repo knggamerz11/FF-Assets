@@ -1,0 +1,398 @@
+
+NB1RE_SYS_Red_Front_Attack_A.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Red_Arm_L_01
+  rotate: true
+  xy: 142, 401
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+Red_Arm_L_02
+  rotate: 270
+  xy: 683, 292
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+Red_Arm_R_01
+  rotate: false
+  xy: 580, 383
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Red_Arm_R_02
+  rotate: true
+  xy: 648, 89
+  size: 132, 130
+  orig: 132, 135
+  offset: 0, 5
+  index: -1
+Red_Arm_R_03
+  rotate: 180
+  xy: 555, 200
+  size: 138, 148
+  orig: 138, 151
+  offset: 0, 3
+  index: -1
+Red_Arm_R_04
+  rotate: 270
+  xy: 442, 94
+  size: 161, 149
+  orig: 161, 149
+  offset: 0, 0
+  index: -1
+Red_Arm_R_05
+  rotate: 270
+  xy: 393, 4
+  size: 121, 106
+  orig: 121, 106
+  offset: 0, 0
+  index: -1
+Red_Body_01_1
+  rotate: false
+  xy: 2, 178
+  size: 298, 332
+  orig: 442, 357
+  offset: 144, 25
+  index: -1
+Red_Body_03
+  rotate: false
+  xy: 244, 47
+  size: 216, 172
+  orig: 216, 172
+  offset: 0, 0
+  index: -1
+Red_Body_05
+  rotate: true
+  xy: 719, 12
+  size: 192, 170
+  orig: 192, 170
+  offset: 0, 0
+  index: -1
+Red_Body_06
+  rotate: true
+  xy: 748, 3
+  size: 161, 180
+  orig: 161, 180
+  offset: 0, 0
+  index: -1
+Red_Eye_L_01
+  rotate: false
+  xy: 144, 160
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+Red_Eye_L_02
+  rotate: false
+  xy: 316, 485
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Red_Eye_L_03
+  rotate: false
+  xy: 120, 474
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Red_Eye_L_04
+  rotate: false
+  xy: 20, 235
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Red_Eye_R_01
+  rotate: false
+  xy: 92, 104
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Red_Eye_R_02
+  rotate: false
+  xy: 244, 419
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Red_Eye_R_03
+  rotate: false
+  xy: 54, 499
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Red_Eye_R_04
+  rotate: false
+  xy: 342, 485
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Red_Face_02
+  rotate: false
+  xy: 819, 339
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+Red_Face_03
+  rotate: false
+  xy: 521, 29
+  size: 48, 57
+  orig: 55, 61
+  offset: 7, 4
+  index: -1
+Red_Face_04
+  rotate: 270
+  xy: 556, 17
+  size: 142, 150
+  orig: 142, 150
+  offset: 0, 0
+  index: -1
+Red_Finger_R_01
+  rotate: false
+  xy: 466, 347
+  size: 31, 92
+  orig: 31, 92
+  offset: 0, 0
+  index: -1
+Red_Finger_R_02
+  rotate: false
+  xy: 910, 3
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1
+Red_Finger_R_03
+  rotate: true
+  xy: 933, 328
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+Red_Finger_R_04
+  rotate: 270
+  xy: 973, 441
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+Red_Finger_R_05
+  rotate: true
+  xy: 707, 26
+  size: 51, 42
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+Red_Hair_02
+  rotate: 180
+  xy: 812, 375
+  size: 108, 135
+  orig: 108, 135
+  offset: 0, 0
+  index: -1
+Red_Hair_03
+  rotate: false
+  xy: 882, 396
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+Red_Hair_04
+  rotate: 270
+  xy: 815, 204
+  size: 124, 104
+  orig: 124, 104
+  offset: 0, 0
+  index: -1
+Red_Hair_05_1
+  rotate: true
+  xy: 259, 195
+  size: 291, 223
+  orig: 558, 243
+  offset: 267, 20
+  index: -1
+Red_Hair_06
+  rotate: 180
+  xy: 743, 119
+  size: 70, 189
+  orig: 70, 189
+  offset: 0, 0
+  index: -1
+Red_Hair_07
+  rotate: false
+  xy: 2, 276
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+Red_Hair_08
+  rotate: false
+  xy: 254, 485
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Red_Hair_09
+  rotate: false
+  xy: 254, 460
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+Red_Hair_10
+  rotate: false
+  xy: 593, 150
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Red_Hair_11
+  rotate: 180
+  xy: 465, 239
+  size: 119, 265
+  orig: 132, 272
+  offset: 0, 7
+  index: -1
+Red_Hair_12
+  rotate: false
+  xy: 2, 217
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+Red_Hair_13
+  rotate: false
+  xy: 695, 224
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+Red_Hair_14
+  rotate: 180
+  xy: 930, 100
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Red_Hair_15
+  rotate: false
+  xy: 494, 3
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+Red_Hair_16
+  rotate: false
+  xy: 891, 151
+  size: 94, 73
+  orig: 94, 73
+  offset: 0, 0
+  index: -1
+Red_Hair_17
+  rotate: false
+  xy: 315, 3
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+Red_Hair_18
+  rotate: false
+  xy: 584, 349
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+Red_Hair_19
+  rotate: false
+  xy: 857, 3
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+Red_Hair_20
+  rotate: true
+  xy: 773, 281
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+Red_Hand_L_01
+  rotate: false
+  xy: 77, 485
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+Red_Hand_L_02
+  rotate: false
+  xy: 908, 220
+  size: 80, 51
+  orig: 80, 51
+  offset: 0, 0
+  index: -1
+Red_Hand_R
+  rotate: false
+  xy: 2, 113
+  size: 144, 125
+  orig: 144, 125
+  offset: 0, 0
+  index: -1
+Red_Headwear_01
+  rotate: false
+  xy: 292, 495
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Red_Headwear_02
+  rotate: 270
+  xy: 862, 272
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: -1
+Red_Hip_01_1
+  rotate: false
+  xy: 710, 410
+  size: 142, 100
+  orig: 236, 344
+  offset: 94, 244
+  index: -1
+Red_Hip_02_1
+  rotate: 180
+  xy: 125, 98
+  size: 140, 64
+  orig: 179, 344
+  offset: 39, 280
+  index: -1
+Red_Leg_R_02_1
+  rotate: false
+  xy: 2, 19
+  size: 325, 99
+  orig: 473, 236
+  offset: 112, 132
+  index: -1
+Red_Mouth
+  rotate: false
+  xy: 189, 152
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Red_Nose
+  rotate: false
+  xy: 231, 366
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+JS_SYS_Mainpage_DV_A.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DV_1
+  rotate: false
+  xy: 2, 131
+  size: 447, 42
+  orig: 447, 50
+  offset: 0, 8
+  index: -1
+DV_2
+  rotate: false
+  xy: 401, 174
+  size: 59, 314
+  orig: 71, 329
+  offset: 6, 8
+  index: -1
+DV_3
+  rotate: 180
+  xy: 327, 179
+  size: 79, 309
+  orig: 79, 310
+  offset: 0, 0
+  index: -1
+DV_4
+  rotate: 180
+  xy: 21, 3
+  size: 421, 35
+  orig: 421, 42
+  offset: 0, 7
+  index: -1
+DV_5
+  rotate: false
+  xy: 2, 259
+  size: 212, 252
+  orig: 322, 405
+  offset: 0, 119
+  index: -1
+DV_Finger
+  rotate: 270
+  xy: 2, 36
+  size: 94, 242
+  orig: 95, 242
+  offset: 0, 0
+  index: -1
+DV_Hand1
+  rotate: false
+  xy: 153, 173
+  size: 187, 337
+  orig: 187, 337
+  offset: 0, 0
+  index: -1
+DV_Hand2
+  rotate: false
+  xy: 2, 234
+  size: 61, 37
+  orig: 193, 435
+  offset: 72, 0
+  index: -1

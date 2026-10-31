@@ -1,0 +1,6778 @@
+{
+ "name": "UIFX_JS_SYS_MainStage12_Wall_In_2",
+ "legacy": true,
+ "compressed": false,
+ "rotation": [],
+ "euler": [],
+ "position": [
+  {
+   "path": "02/Blood_09 (3)",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": [
+       -172.6999969482422,
+       -21.0,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.133333444595337,
+      "value": [
+       -172.6999969482422,
+       -38.20000076293945,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_012",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0999999046325684,
+      "value": [
+       -169.0,
+       -52.199981689453125,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.700000047683716,
+      "value": [
+       -162.0,
+       -52.199981689453125,
+       0.0
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "scale": [
+  {
+   "path": "02/Blood_012",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0999999046325684,
+      "value": [
+       19.327056884765625,
+       9.760516166687012,
+       103.33715057373047
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 2.700000047683716,
+      "value": [
+       60.422935485839844,
+       30.514684677124023,
+       323.0669860839844
+      ],
+      "inSlope": [
+       1.8873300552368164,
+       0.9531367421150208,
+       10.091111183166504
+      ],
+      "outSlope": [
+       1.8873300552368164,
+       0.9531367421150208,
+       10.091111183166504
+      ]
+     },
+     {
+      "time": 6.633333206176758,
+      "value": [
+       62.56190872192383,
+       31.594905853271484,
+       334.5035705566406
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 7.199999809265137,
+      "value": [
+       41.66914749145508,
+       21.04368019104004,
+       222.79498291015625
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_07 (1)",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.433333396911621,
+      "value": [
+       5.968519687652588,
+       2.3360135555267334,
+       31.912246704101562
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 3.1666667461395264,
+      "value": [
+       31.87129783630371,
+       12.474079132080078,
+       170.408203125
+      ],
+      "inSlope": [
+       8.752082824707031,
+       3.425471544265747,
+       46.79530334472656
+      ],
+      "outSlope": [
+       8.752082824707031,
+       3.425471544265747,
+       46.79530334472656
+      ]
+     },
+     {
+      "time": 6.166666507720947,
+      "value": [
+       40.03990936279297,
+       15.671185493469238,
+       214.0838165283203
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 6.633333206176758,
+      "value": [
+       0.7563138604164124,
+       0.2960130274295807,
+       4.043829441070557
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_07",
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.633333206176758,
+      "value": [
+       2.5470330715179443,
+       1.2862982749938965,
+       13.618379592895508
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     },
+     {
+      "time": 8.533333778381348,
+      "value": [
+       89.26441955566406,
+       45.080162048339844,
+       477.2755432128906
+      ],
+      "inSlope": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "outSlope": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "float": [
+  {
+   "path": "Quad",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.8666666746139526,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.9333332777023315,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.3333332538604736,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 3.0333333015441895,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 3.0999999046325684,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 3.9000000953674316,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.733333110809326,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.800000190734863,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 5.0333333015441895,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.066666603088379,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.399999618530273,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.533333778381348,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.566666603088379,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.666666984558105,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.866666793823242,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 9.600000381469727,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 9.633333206176758,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Quad",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.0,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.8666666746139526,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.9333332777023315,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.3333332538604736,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.366666555404663,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.433333396911621,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.633333444595337,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.2666666507720947,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.3333332538604736,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.4000000953674316,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.433333396911621,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5999999046325684,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.700000047683716,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.733333110809326,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0333333015441895,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.099999904632568,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.199999809265137,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.233333110809326,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.266666889190674,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.266666889190674,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.300000190734863,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.866666793823242,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.933333396911621,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.0,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.099999904632568,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.366666793823242,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.433333396911621,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.433333396911621,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.5333333015441895,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.333333492279053,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.433333396911621,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.5,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.599999904632568,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.766666889190674,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.866666793823242,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.066666603088379,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.399999618530273,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.466666221618652,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.566666603088379,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.666666984558105,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.866666793823242,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.966666221618652,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.133333206176758,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.300000190734863,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.399999618530273,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.433333396911621,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.433333396911621,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.5,
+      "value": 0.5660377740859985,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Quad",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.8666666746139526,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.9333332777023315,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.3333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.366666555404663,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.633333444595337,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.2666666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.3333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.4000000953674316,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5999999046325684,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.700000047683716,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.733333110809326,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0333333015441895,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.099999904632568,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.199999809265137,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.233333110809326,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.266666889190674,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.266666889190674,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.300000190734863,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.866666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.933333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.099999904632568,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.366666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.5333333015441895,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.333333492279053,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.599999904632568,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.766666889190674,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.866666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.066666603088379,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.399999618530273,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.466666221618652,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.566666603088379,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.666666984558105,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.866666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.966666221618652,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.133333206176758,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.300000190734863,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.399999618530273,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Quad",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.8666666746139526,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.9333332777023315,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.3333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.366666555404663,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.633333444595337,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.2666666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.3333332538604736,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.4000000953674316,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5999999046325684,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.700000047683716,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.733333110809326,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0333333015441895,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.099999904632568,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.199999809265137,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.233333110809326,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.266666889190674,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.266666889190674,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.300000190734863,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.866666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.933333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.099999904632568,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.366666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.5333333015441895,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.333333492279053,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.599999904632568,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.766666889190674,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.866666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.066666603088379,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.399999618530273,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.466666221618652,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.566666603088379,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.666666984558105,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.866666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.966666221618652,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.133333206176758,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.300000190734863,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.399999618530273,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Quad",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.0,
+      "value": 0.4901960790157318,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": 0.03921568766236305,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.8666666746139526,
+      "value": 0.47058823704719543,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.9333332777023315,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.3333332538604736,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.366666555404663,
+      "value": 0.5882353186607361,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.633333444595337,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.2666666507720947,
+      "value": 0.529411792755127,
+      "inSlope": -1.2605046033859253,
+      "outSlope": -1.2605046033859253
+     },
+     {
+      "time": 3.3333332538604736,
+      "value": 0.11764705926179886,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.4000000953674316,
+      "value": 0.615686297416687,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.433333396911621,
+      "value": 0.27450981736183167,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": 0.5098039507865906,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5999999046325684,
+      "value": 0.19607843458652496,
+      "inSlope": -2.5490190982818604,
+      "outSlope": -2.5490190982818604
+     },
+     {
+      "time": 3.700000047683716,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.733333110809326,
+      "value": 0.5882353186607361,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.0333333015441895,
+      "value": 0.5490196347236633,
+      "inSlope": -0.4278073310852051,
+      "outSlope": -0.4278073310852051
+     },
+     {
+      "time": 5.099999904632568,
+      "value": 0.03921568766236305,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.199999809265137,
+      "value": 0.5529412031173706,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.233333110809326,
+      "value": 0.3921568691730499,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.266666889190674,
+      "value": 0.5098039507865906,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.266666889190674,
+      "value": 0.27450981736183167,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.300000190734863,
+      "value": 0.5686274766921997,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.866666793823242,
+      "value": 0.529411792755127,
+      "inSlope": -0.24767805635929108,
+      "outSlope": -0.24767805635929108
+     },
+     {
+      "time": 5.933333396911621,
+      "value": 0.11764705926179886,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.0,
+      "value": 0.615686297416687,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.099999904632568,
+      "value": 0.27450981736183167,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.366666793823242,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.433333396911621,
+      "value": 0.529411792755127,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.433333396911621,
+      "value": 0.11764705926179886,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.5333333015441895,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.333333492279053,
+      "value": 0.19607843458652496,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.433333396911621,
+      "value": 0.529411792755127,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.5,
+      "value": 0.11764705926179886,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.599999904632568,
+      "value": 0.615686297416687,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.766666889190674,
+      "value": 0.27450981736183167,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.866666793823242,
+      "value": 0.5098039507865906,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.066666603088379,
+      "value": 0.19607843458652496,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.399999618530273,
+      "value": 0.5098039507865906,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.466666221618652,
+      "value": 0.3137255012989044,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.566666603088379,
+      "value": 0.4901960790157318,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.666666984558105,
+      "value": 0.03921568766236305,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.866666793823242,
+      "value": 0.7843137383460999,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.966666221618652,
+      "value": 0.5490196347236633,
+      "inSlope": -2.7941203117370605,
+      "outSlope": -2.7941203117370605
+     },
+     {
+      "time": 9.133333206176758,
+      "value": 0.03921568766236305,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.300000190734863,
+      "value": 0.5529412031173706,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.399999618530273,
+      "value": 0.3921568691730499,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.433333396911621,
+      "value": 0.5098039507865906,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.433333396911621,
+      "value": 0.0784313753247261,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.5,
+      "value": 0.7843137383460999,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Photo_White",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.733333110809326,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 4.800000190734863,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.433333396911621,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.5,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.599999904632568,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.866666793823242,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.933333396911621,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 9.033333778381348,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "Glow_Red",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.0666667222976685,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.8666666746139526,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 1.9333332777023315,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.3333332538604736,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.4000000953674316,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.5,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.633333444595337,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 3.5999999046325684,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.0333333015441895,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.333333492279053,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.433333396911621,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.5,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.599999904632568,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.066666603088379,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.166666984558105,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.199999809265137,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.266666412353516,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.300000190734863,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.399999618530273,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.566666603088379,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.666666984558105,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.733333587646484,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 8.933333396911621,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 9.133333206176758,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 9.300000190734863,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 9.433333396911621,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 9.5,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "02",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 3.0333333015441895,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.3666666746139526,
+      "value": 2.5,
+      "inSlope": 0.0026323653291910887,
+      "outSlope": 0.0026323653291910887
+     },
+     {
+      "time": 4.5333333015441895,
+      "value": 2.5999999046325684,
+      "inSlope": 0.0315789170563221,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.3666666746139526,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.5333333015441895,
+      "value": 1.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.3666666746139526,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.5333333015441895,
+      "value": -1.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 1.3666666746139526,
+      "value": -0.699999988079071,
+      "inSlope": 0.0,
+      "outSlope": 0.019235404208302498
+     },
+     {
+      "time": 4.5333333015441895,
+      "value": -0.054999999701976776,
+      "inSlope": -0.022917255759239197,
+      "outSlope": 1.1941747665405273
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01_A",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 6.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": 6.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01_A",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 5.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": 5.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01_A",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -3.0899999141693115,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": -3.0899999141693115,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01_A",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -4.46999979019165,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": -4.170000076293945,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01_Water",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01_Water",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01_Water",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": -3.109999895095825,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": -3.109999895095825,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_01_Water",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": 1.6299999952316284,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 4.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": 4.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.4000000953674316,
+      "value": 4.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": 4.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.4000000953674316,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": 1.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -3.5999999046325684,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": -3.5999999046325684,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.4000000953674316,
+      "value": -3.5999999046325684,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": -3.5999999046325684,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -0.75,
+      "inSlope": 0.0,
+      "outSlope": 0.026701198890805244
+     },
+     {
+      "time": 0.20000000298023224,
+      "value": -0.3499999940395355,
+      "inSlope": 0.0468750074505806,
+      "outSlope": 0.0468750074505806
+     },
+     {
+      "time": 2.4000000953674316,
+      "value": -0.25,
+      "inSlope": 0.08024290949106216,
+      "outSlope": 0.4123644232749939
+     },
+     {
+      "time": 6.133333206176758,
+      "value": 0.6499999761581421,
+      "inSlope": -0.02307559922337532,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Water",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Water",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 4.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.699999988079071,
+      "value": 4.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Water",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.699999988079071,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Water",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -3.259999990463257,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.699999988079071,
+      "value": -3.259999990463257,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Water",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.7699999809265137,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.699999988079071,
+      "value": 1.600000023841858,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Wenli",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.08490567654371262,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": 0.08490568399429321,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Wenli",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Wenli",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Wenli",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.36666667461395264,
+      "value": 0.5882353186607361,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Wenli",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 4.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 4.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.7999999523162842,
+      "value": 4.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.666666507720947,
+      "value": 4.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Wenli",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.7999999523162842,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.666666507720947,
+      "value": 1.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Wenli",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -3.5999999046325684,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": -3.5999999046325684,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 1.7999999523162842,
+      "value": -3.5999999046325684,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.666666507720947,
+      "value": -3.5999999046325684,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_02_Wenli",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -0.75,
+      "inSlope": 0.0,
+      "outSlope": 0.026701198890805244
+     },
+     {
+      "time": 0.1666666716337204,
+      "value": -0.3499999940395355,
+      "inSlope": 0.0468750074505806,
+      "outSlope": 0.0468750074505806
+     },
+     {
+      "time": 1.7999999523162842,
+      "value": -0.25,
+      "inSlope": 0.05386607348918915,
+      "outSlope": 0.3197553753852844
+     },
+     {
+      "time": 4.666666507720947,
+      "value": 0.6315361857414246,
+      "inSlope": -0.0441078282892704,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_03",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.300000190734863,
+      "value": 2.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_03",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.300000190734863,
+      "value": 1.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_03",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.433333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.300000190734863,
+      "value": 0.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_03",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.3333333432674408,
+      "value": -1.0199999809265137,
+      "inSlope": 0.008344651199877262,
+      "outSlope": 0.008344651199877262
+     },
+     {
+      "time": 5.433333396911621,
+      "value": -0.75,
+      "inSlope": 0.10819642245769501,
+      "outSlope": 0.3171529769897461
+     },
+     {
+      "time": 8.300000190734863,
+      "value": 1.0,
+      "inSlope": 0.6104651093482971,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_04",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 8.0,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 2.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_04",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 8.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 1.0,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_04",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 8.0,
+      "value": -0.699999988079071,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": -0.699999988079071,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_04",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 8.0,
+      "value": -0.7400000095367432,
+      "inSlope": 0.04258675128221512,
+      "outSlope": 0.04258675128221512
+     },
+     {
+      "time": 10.0,
+      "value": -0.6499999761581421,
+      "inSlope": 0.04500001668930054,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_05",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.799999952316284,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.9666666984558105,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_05",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.799999952316284,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.9666666984558105,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_05",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.799999952316284,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.9666666984558105,
+      "value": -0.03500000014901161,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_05",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.799999952316284,
+      "value": -0.9800000190734863,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.9666666984558105,
+      "value": -0.17000000178813934,
+      "inSlope": 0.06562501937150955,
+      "outSlope": 0.06562501937150955
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_08",
+   "attribute": "material._Value.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 4.0333333015441895,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": -1.2677421569824219
+     },
+     {
+      "time": 4.766666889190674,
+      "value": 0.20000000298023224,
+      "inSlope": -1.0909087657928467,
+      "outSlope": -0.1714286506175995
+     },
+     {
+      "time": 5.699999809265137,
+      "value": 0.03999999910593033,
+      "inSlope": -0.1714286506175995,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_08",
+   "attribute": "material._Value.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 4.0333333015441895,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.766666889190674,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.699999809265137,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_08",
+   "attribute": "material._Value.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 4.0333333015441895,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.766666889190674,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.699999809265137,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_08",
+   "attribute": "material._Value.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 4.0333333015441895,
+      "value": 0.8500000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.766666889190674,
+      "value": 0.8500000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 5.699999809265137,
+      "value": 0.8500000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_08_2",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.8333332538604736,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.4666666984558105,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_08_2",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.8333332538604736,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.4666666984558105,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_08_2",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.8333332538604736,
+      "value": 0.3799999952316284,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.4666666984558105,
+      "value": 0.3799999952316284,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_08_2",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.8333332538604736,
+      "value": -1.0800000429153442,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.4666666984558105,
+      "value": -0.15000000596046448,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0333333015441895,
+      "value": 1.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.566666603088379,
+      "value": 1.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0333333015441895,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.566666603088379,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0333333015441895,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.566666603088379,
+      "value": -0.05999999865889549,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.0333333015441895,
+      "value": -0.6100000143051147,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.566666603088379,
+      "value": 0.36000001430511475,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_2",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.866666793823242,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.766666412353516,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_2",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.866666793823242,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.766666412353516,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_2",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.866666793823242,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.766666412353516,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_2",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 5.866666793823242,
+      "value": -1.100000023841858,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.766666412353516,
+      "value": -0.10999999940395355,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Floor",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": 0.800000011920929,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.233333110809326,
+      "value": 0.800000011920929,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.966666221618652,
+      "value": 0.800000011920929,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Floor",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.233333110809326,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.966666221618652,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Floor",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": 0.8399999737739563,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.233333110809326,
+      "value": 0.8399999737739563,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 8.966666221618652,
+      "value": 0.8399999737739563,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Floor",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.03333333507180214,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.233333110809326,
+      "value": 0.0,
+      "inSlope": -0.0,
+      "outSlope": 0.23239438235759735
+     },
+     {
+      "time": 8.966666221618652,
+      "value": 1.100000023841858,
+      "inSlope": 0.23239438235759735,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Roof",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.5377358198165894,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.9333333373069763,
+      "value": 0.5377358198165894,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Roof",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.35257211327552795,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.9333333373069763,
+      "value": 0.35257208347320557,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Roof",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.35257211327552795,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.9333333373069763,
+      "value": 0.35257208347320557,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Roof",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 0.9333333373069763,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Roof",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 0.5,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Roof",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Roof",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.809999942779541,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 1.809999942779541,
+      "inSlope": -0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_Roof",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.6000000238418579,
+      "inSlope": 0.9084639549255371,
+      "outSlope": 0.011250690557062626
+     },
+     {
+      "time": 10.0,
+      "value": 1.0,
+      "inSlope": 0.03999999910593033,
+      "outSlope": 0.7320569157600403
+     }
+    ]
+   }
+  },
+  {
+   "path": "01",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 3.0333333015441895,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_010",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": 1.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.166666507720947,
+      "value": 1.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": 1.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 1.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_010",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.166666507720947,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_010",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": -0.18000000715255737,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.166666507720947,
+      "value": -0.18000000715255737,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": -0.18000000715255737,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -0.18000000715255737,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_010",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": -1.1399999856948853,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 4.166666507720947,
+      "value": -1.0099999904632568,
+      "inSlope": 0.008450696244835854,
+      "outSlope": 0.008450696244835854
+     },
+     {
+      "time": 6.733333110809326,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -1.149999976158142,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_011",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": 3.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0333333015441895,
+      "value": 3.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": 3.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 3.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 3.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_011",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0333333015441895,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_011",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": -2.109999895095825,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0333333015441895,
+      "value": -2.109999895095825,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.5,
+      "value": -2.109999895095825,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": -2.109999895095825,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -2.109999895095825,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_011",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": -0.44999998807907104,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0333333015441895,
+      "value": 0.0,
+      "inSlope": 1.1999999284744263,
+      "outSlope": 1.1999999284744263
+     },
+     {
+      "time": 3.5,
+      "value": 1.4500000476837158,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.4500000476837158,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (1)",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.133333444595337,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0333333015441895,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (1)",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.133333444595337,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0333333015441895,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (1)",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.133333444595337,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0333333015441895,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (1)",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.133333444595337,
+      "value": -0.75,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0333333015441895,
+      "value": 0.36000001430511475,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.28999999165534973,
+      "inSlope": -0.06720002740621567,
+      "outSlope": -0.06720002740621567
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -0.4399999976158142,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (2)",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.333333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (2)",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.5,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.333333492279053,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (2)",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.333333492279053,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (2)",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.0,
+      "value": -0.3499999940395355,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.5,
+      "value": 0.36000001430511475,
+      "inSlope": 0.22846153378486633,
+      "outSlope": 0.22846153378486633
+     },
+     {
+      "time": 6.333333492279053,
+      "value": 0.6399999856948853,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -0.4000000059604645,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": 3.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": 2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": -2.319999933242798,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": 3.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0999999046325684,
+      "value": 3.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 3.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 3.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0999999046325684,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": -2.2300000190734863,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0999999046325684,
+      "value": -2.2300000190734863,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": -2.2300000190734863,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -2.2300000190734863,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": -1.5399999618530273,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.0999999046325684,
+      "value": 1.0800000429153442,
+      "inSlope": 0.010169420391321182,
+      "outSlope": 0.010169420391321182
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.090000033378601,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -0.7900000214576721,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._Panner.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._Panner.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": -25.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": -25.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 25.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._Panner.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": -0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": -0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": -0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_013",
+   "attribute": "material._Panner.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.2333333492279053,
+      "value": -5.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": -5.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": -5.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_014",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.5333333015441895,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.299999952316284,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.666666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_014",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.5333333015441895,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.299999952316284,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.666666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_014",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.5333333015441895,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.299999952316284,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.666666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_014",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.5333333015441895,
+      "value": -0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.299999952316284,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.666666507720947,
+      "value": -0.5400000214576721,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_08_2 (1)",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.6666667461395264,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.3333332538604736,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.133333206176758,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_08_2 (1)",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.6666667461395264,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.3333332538604736,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.133333206176758,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_08_2 (1)",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.6666667461395264,
+      "value": 0.3799999952316284,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.3333332538604736,
+      "value": 0.3799999952316284,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": 0.3799999952316284,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.133333206176758,
+      "value": 0.3799999952316284,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_08_2 (1)",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 2.6666667461395264,
+      "value": -1.0800000429153442,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 3.3333332538604736,
+      "value": -0.15000000596046448,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": -0.15000000596046448,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.133333206176758,
+      "value": -0.38999998569488525,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (4)",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 6.166666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (4)",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 6.166666507720947,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (4)",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 6.166666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (4)",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 6.166666507720947,
+      "value": 0.36000001430511475,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -0.5299999713897705,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (5)",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 6.066666603088379,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.766666889190674,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (5)",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 6.066666603088379,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.766666889190674,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (5)",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 6.066666603088379,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.766666889190674,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (5)",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 6.066666603088379,
+      "value": 0.36000001430511475,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.766666889190674,
+      "value": -0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Glow_Red",
+   "attribute": "material._Color.r",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.6117647290229797,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": 0.5377358198165894,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Glow_Red",
+   "attribute": "material._Color.g",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.019607840105891228,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": 0.019034897908568382,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Glow_Red",
+   "attribute": "material._Color.b",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Glow_Red",
+   "attribute": "material._Color.a",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.19607840478420258,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.0,
+      "value": 0.3921568691730499,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Quad",
+   "attribute": "material._FixValue.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.633333444595337,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Quad",
+   "attribute": "material._FixValue.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.633333444595337,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Quad",
+   "attribute": "material._FixValue.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.029999999329447746,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.633333444595337,
+      "value": 0.029999999329447746,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "Quad",
+   "attribute": "material._FixValue.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.633333444595337,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_06",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.10000000149011612,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.133333206176758,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_06",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.10000000149011612,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.133333206176758,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_06",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.10000000149011612,
+      "value": 0.05000000074505806,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.133333206176758,
+      "value": 0.05000000074505806,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 0.05000000074505806,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_06",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.10000000149011612,
+      "value": -1.0099999904632568,
+      "inSlope": -0.01853719726204872,
+      "outSlope": -0.01853719726204872
+     },
+     {
+      "time": 7.133333206176758,
+      "value": 0.0,
+      "inSlope": 0.1463414579629898,
+      "outSlope": 0.1463414579629898
+     },
+     {
+      "time": 10.0,
+      "value": 0.25,
+      "inSlope": 0.2875608801841736,
+      "outSlope": 0.2875608801841736
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_010 (1)",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.300000190734863,
+      "value": -2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": -2.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_010 (1)",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.300000190734863,
+      "value": 3.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 3.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_010 (1)",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.300000190734863,
+      "value": 0.25,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 0.25,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_010 (1)",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.300000190734863,
+      "value": -2.490000009536743,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": -2.369999885559082,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_010 (1)",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.133333206176758,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_5",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.300000190734863,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_4",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.300000190734863,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_3",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_08_3",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_4",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.300000190734863,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.5,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_4",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.300000190734863,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.5,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_4",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.300000190734863,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.5,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_4",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.300000190734863,
+      "value": -0.17000000178813934,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 9.5,
+      "value": 0.46000000834465027,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_5",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.300000190734863,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_5",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.300000190734863,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_5",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.300000190734863,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_5",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -60.810001373291016,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.300000190734863,
+      "value": -0.7799999713897705,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 10.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09_6",
+   "attribute": "material._MainTex_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.2666666507720947,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.9000000953674316,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09_6",
+   "attribute": "material._MainTex_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.2666666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.9000000953674316,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09_6",
+   "attribute": "material._MainTex_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.2666666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.9000000953674316,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09_6",
+   "attribute": "material._MainTex_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.2666666507720947,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.9000000953674316,
+      "value": 0.05999999865889549,
+      "inSlope": 0.020512806251645088,
+      "outSlope": 0.020512806251645088
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.07999999821186066,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -0.9300000071525574,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (3)",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (3)",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.0,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (3)",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (3)",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.36000001430511475,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.0,
+      "value": 0.36000001430511475,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.199999809265137,
+      "value": -0.07000000029802322,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (4)",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 6.266666889190674,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (5)",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 2.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 6.266666889190674,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_011",
+   "attribute": "material._Panner.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_011",
+   "attribute": "material._Panner.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -25.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": -25.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": 35.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_011",
+   "attribute": "material._Panner.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": -0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": -0.5,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_011",
+   "attribute": "material._Panner.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.133333206176758,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.166666507720947,
+      "value": -1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (6)",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.2666666507720947,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.933333396911621,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.066666603088379,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (6)",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.2666666507720947,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.933333396911621,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.066666603088379,
+      "value": 0.6000000238418579,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (6)",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.2666666507720947,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.933333396911621,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.066666603088379,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "02/Blood_09 (6)",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.36000001430511475,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.2666666507720947,
+      "value": -0.36000001430511475,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 2.933333396911621,
+      "value": 0.5699999928474426,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 6.733333110809326,
+      "value": 0.5699999928474426,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 7.066666603088379,
+      "value": -0.6800000071525574,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "03/Xuanzhi",
+   "attribute": "material._Value.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 10.0,
+      "value": 1.2000000476837158,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 12.0,
+      "value": 0.05000000074505806,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "03/Xuanzhi",
+   "attribute": "material._Value.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 10.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 12.0,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "03/Xuanzhi",
+   "attribute": "material._Value.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 10.0,
+      "value": 0.05000000074505806,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 12.0,
+      "value": 0.05000000074505806,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "03/Xuanzhi",
+   "attribute": "material._Value.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 10.0,
+      "value": 0.949999988079071,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     },
+     {
+      "time": 12.0,
+      "value": 0.949999988079071,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_9",
+   "attribute": "material._Mask_ST.x",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.233333110809326,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_9",
+   "attribute": "material._Mask_ST.y",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.233333110809326,
+      "value": 1.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_9",
+   "attribute": "material._Mask_ST.z",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.233333110809326,
+      "value": 0.0,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_9",
+   "attribute": "material._Mask_ST.w",
+   "classID": 23,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 7.233333110809326,
+      "value": 0.47999998927116394,
+      "inSlope": 0.0,
+      "outSlope": 0.0
+     }
+    ]
+   }
+  },
+  {
+   "path": "01/Blood_09_9",
+   "attribute": "m_IsActive",
+   "classID": 1,
+   "curve": {
+    "preInfinity": 2,
+    "postInfinity": 2,
+    "keys": [
+     {
+      "time": 0.0,
+      "value": 0.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     },
+     {
+      "time": 7.233333110809326,
+      "value": 1.0,
+      "inSlope": Infinity,
+      "outSlope": Infinity
+     }
+    ]
+   }
+  }
+ ],
+ "pptr": [],
+ "sampleRate": 30.0,
+ "wrapMode": 0,
+ "duration": 12.0
+}
