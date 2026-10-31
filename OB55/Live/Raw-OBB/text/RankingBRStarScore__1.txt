@@ -1,0 +1,12 @@
+Rank,StarCount,IsFuncAlive,LowerBound,UpperBound,ColorResource
+unread,unread,unread,unread,unread,unread
+19,1,TRUE,3125,3499,FF_UI_Rank_CS_star
+19,2,TRUE,3500,3999,FF_UI_Rank_CS_star
+19,3,TRUE,4000,4599,FF_UI_Rank_CS_star
+19,4,TRUE,4600,5199,FF_UI_Rank_CS_star
+19,5,TRUE,5200,5999,FF_UI_Rank_CS_star
+20,1,TRUE,5850,6799,FF_UI_Rank_CS_star
+20,2,TRUE,6800,7699,FF_UI_Rank_CS_star
+20,3,TRUE,7700,8699,FF_UI_Rank_CS_star
+20,4,TRUE,8700,9799,FF_UI_Rank_CS_star
+20,5,TRUE,9800,10999,FF_UI_Rank_CS_star

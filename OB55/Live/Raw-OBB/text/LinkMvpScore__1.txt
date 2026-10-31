@@ -1,0 +1,6 @@
+ID,MinScore,MaxScore,Evaluation
+unread,unread,unread,unread
+1,20,999,S
+2,12,19,A
+3,6,11,B
+4,-999,5,C

@@ -1,0 +1,191 @@
+{
+	"EntityType": "WeaponGenerator",
+	"Table": 
+	[
+		{
+			"TabKey": "T_35_WZY_WS_TOWER_PARAM5",
+			"Attributes": [
+				{
+					"Name": "BiteArmor",
+					"PropID" : -79005,
+					"LocKey": "T_46_META_WS_P_ARMORPENETRATION",
+					"DefaultValue": "0.04",
+					"MinValue": "0",
+					"MaxValue": "1",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "Armordestroy",
+					"PropID" : -79016,
+					"LocKey": "T_46_META_WS_P_ARMORPENETRATIONFACTOR",
+					"DefaultValue": "0",
+					"MinValue": "0",
+					"MaxValue": "1",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "MinDamage",
+					"PropID" : -79008,
+					"LocKey": "T_46_META_WS_P_MINDAMAGE",
+					"DefaultValue": "11",
+					"MinValue": "0",
+					"MaxValue": "9999",
+					"StepValue": "1"
+				},
+				{
+					"Name": "DamageRatioHead",
+					"PropID" : -79019,
+					"LocKey": "T_46_META_WS_P_HEADDAMAGEFACTOR",
+					"DefaultValue": "0",
+					"MinValue": "-5.5",
+					"MaxValue": "20",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "DamageRatioBody",
+					"PropID" : -79018,
+					"LocKey": "T_46_META_WS_P_BODYDAMAGEFACTOR",
+					"DefaultValue": "0",
+					"MinValue": "-1",
+					"MaxValue": "20",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "DamageLimbBody",
+					"PropID" : -79020,
+					"LocKey": "T_46_META_WS_P_LIMBDAMAGEFACTOR",
+					"DefaultValue": "0",
+					"MinValue": "-0.75",
+					"MaxValue": "20",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "KnockDownDamage",
+					"PropID" : -79023,
+					"LocKey": "T_46_META_WS_P_KNOCKDOWNDAMAGEBONUS",
+					"DefaultValue": "0",
+					"MaxValue": "10",
+					"MinValue": "0",
+					"StepValue": "0.1",
+					"DecimalPlaces": 1,
+					"PreciseStepValue": "0.01"
+				},
+				{
+					"Name": "OnceAmmo",
+					"PropID" : -79024,
+					"LocKey": "T_46_META_WS_P_AMMOPERSHOT",
+					"DefaultValue": "1",
+					"MinValue": "1",
+					"MaxValue": "20",
+					"StepValue": "1"
+				},
+				{
+					"Name": "ReloadSpeed",
+					"PropID" : -79025,
+					"LocKey": "T_46_META_WS_P_RELOADSPEEDFACTOR",
+					"DefaultValue": "1.08",
+					"MinValue": "0",
+					"MaxValue": "5",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "ExtraDamageRate",
+					"PropID" : -79021,
+					"LocKey": "T_46_META_WS_P_OTHERDAMAGEFACTOR",
+					"DefaultValue": "0",
+					"MinValue": "0",
+					"MaxValue": "10",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "ScatterSpeed",
+					"PropID" : -79030,
+					"LocKey": "T_46_META_WS_P_SCATTERINCREASESPEED",
+					"DefaultValue": "0.18",
+					"MinValue": "0",
+					"MaxValue": "5",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "ScatterRecoverSpeed",
+					"PropID" : -79031,
+					"LocKey": "T_46_META_WS_P_SCATTERRECOVERSPEED",
+					"DefaultValue": "10",
+					"MinValue": "0",
+					"MaxValue": "30",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "PlayerSpeedFactorFiring",
+					"PropID" : -79032,
+					"LocKey": "T_46_META_WS_P_PLAYERSPEEDFACTORWHILEFIRING",
+					"DefaultValue": "0.75",
+					"MinValue": "0",
+					"MaxValue": "10",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "ScatterMove",
+					"PropID" : -79033,
+					"LocKey": "T_46_META_WS_P_SCATTERMULTIPLIERWHILEMOVING",
+					"DefaultValue": "1.15",
+					"MinValue": "0",
+					"MaxValue": "10",
+					"StepValue": "0.1"
+				},
+				{
+					"Name": "FireType",
+					"PropID" : -79036,
+					"LocKey": "T_46_META_WS_P_FIRETYPE",
+					"DefaultValue": "1",
+                    			"UIStyleCustomized" : "PopMenu"
+				},
+				{
+					"Name": "IsSingleShot",
+					"PropID" : -79037,
+					"LocKey": "T_46_META_WS_P_ISSINGLESHOT",
+                    "DefaultValue" : "false",
+                    "LeftKey"      : "T_35_XYL_WS_RESETN",
+                    "RightKey"     : "T_35_XYL_WS_RESETY"
+				},
+				{
+					"Name": "IsSilence",
+					"PropID" : -79038,
+					"LocKey": "T_46_META_WS_P_ISSILENCE",
+                    "DefaultValue" : "false",
+                    "LeftKey"      : "T_35_XYL_WS_RESETN",
+                    "RightKey"     : "T_35_XYL_WS_RESETY"
+				},
+				{
+					"Name": "SpeedWhileAiming",
+					"PropID" : -79039,
+					"LocKey": "T_46_META_WS_P_SPEEDWHILEAIMING",
+					"DefaultValue": "0",
+					"MinValue": "0",
+					"MaxValue": "10",
+					"StepValue": "0.1"
+				}
+			]
+		},
+		{
+			"TabKey": "T_38_XYL_WS_HOLDWEAPON",
+			"Attributes": [
+				{
+					"Name": "PlayerSpeedFactor",
+					"PropID" : -79017,
+					"LocKey": "T_46_META_WS_P_PLAYERSPEEDFACTOR",
+					"DefaultValue": "1",
+					"MinValue": "0",
+					"MaxValue": "4",
+					"StepValue": "0.01"
+				},
+				{
+					"Name": "CombineType",
+					"PropID" : -79015,
+					"LocKey": "T_46_META_WS_P_DOUBLEGUNTYPE",
+					"DefaultValue": "0"
+				}
+			]
+		}
+	]
+}

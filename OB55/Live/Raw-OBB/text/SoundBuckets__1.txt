@@ -1,0 +1,6 @@
+Bucket,Limit,SoundDecay
+unread,unread,unread
+3,2,100
+2,4,80
+1,8,75
+0,24,65

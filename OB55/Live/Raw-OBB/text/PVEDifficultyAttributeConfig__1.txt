@@ -1,0 +1,14 @@
+AttrID,Attr_Group,Attribute_Name,desc,params,Attribute_Type,var_value,BuffDesc
+unread,unread,unread,unread,unread,unread,unread,unread
+1,1,T_38_PD_HuntingGround_BUFF01,T_32_Z_OB_AMMO_OPEN,,1,186;187,unread
+2,2,T_44_PD_PVE_DEBUFF_SHOTGUN,T_38_PD_HuntingGround_BUFF02,60,1,20001,unread
+3,3,T_37_PD_HuntingGround_BUFF02,T_37_PD_HuntingGround_BUFF02_D,,1,20008,unread
+4,4,,T_38_PD_HuntingGround_BUFF04,,1,20002,unread
+5,5,T_37_PD_HuntingGround_BUFF12,T_38_PD_HuntingGround_BUFF05,100,1,20006,unread
+6,6,,T_38_PD_HuntingGround_BUFF06,50,1,20003,unread
+7,7,T_42_ZD_AREVIVE,T_38_PD_HuntingGround_BUFF07,15,1,20007,unread
+8,8,T_27_W_SLOWDOWN,T_38_PD_HuntingGround_BUFF08,10,1,20004,unread
+9,9,TXT_OB10_JRW_SKILL_NAME_BRAZILSOLDIER,T_38_PD_HuntingGround_BUFF03,,1,20005,unread
+10,10,T_37_PD_HuntingGround_BUFF30,T_37_PD_HuntingGround_BUFF30_D,50,1,20012,unread
+11,11,T_44_PD_PVE_RAMPAGE,T_44_PD_PVE_RAMPAGE_DESC,,1,,
+12,12,T_44_PD_PVE_GAMBIT,T_44_PD_PVE_GAMBIT_DESC,,1,,

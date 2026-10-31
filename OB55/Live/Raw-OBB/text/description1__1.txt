@@ -1,0 +1,24 @@
+@ModuleLib=JjxaMxbB
+@ScriptName=__1970s_ticket_booth__
+type JjxaMxbB00CustomComponent15739767 : (Component & CustomLevelObject) = 27515598100000 { #1970s_ticket_booth
+}
+
+@ModuleLib=JjxaMxbB
+@ScriptName=Cake_Thompson
+type JjxaMxbB00CustomComponent89608941 : (Component & CustomLevelObject) = 27515598100002 { #Cake_Thompson
+}
+
+@ModuleLib=JjxaMxbB
+@ScriptName=Party_Hat
+type JjxaMxbB00CustomComponent34097538 : (Component & CustomLevelObject) = 27515598100003 { #Party_Hat
+}
+
+@ModuleLib=JjxaMxbB
+@ScriptName=Shoe
+type JjxaMxbB00CustomComponent11606793 : (Component & CustomLevelObject) = 27515598100005 { #Shoe
+}
+
+@ModuleLib=JjxaMxbB
+@ScriptName=Carnaval
+type JjxaMxbB00CustomComponent83740411 : (Component & CustomLevelObject) = 27515598100006 { #Carnaval
+}

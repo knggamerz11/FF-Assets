@@ -1,0 +1,79 @@
+{
+	"variables": [
+		{
+			"type": "Int",
+			"name": "zombie_type",
+			"defaultValue": 18
+		},
+		{
+			"type": "Int",
+			"name": "zombie_hp",
+			"defaultValue": 100
+		},
+		{
+			"type": "Float",
+			"name": "zombie_defense",
+			"defaultValue": 0.1
+		},
+		{
+			"type": "Int",
+			"name": "zombie_attack",
+			"defaultValue": 90
+		},
+		{
+			"type": "Int",
+			"name": "zombie_speed",
+			"defaultValue": 3
+		},
+		{
+			"type": "Int",
+			"name": "zombie_injury_scale",
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "zombie_attack_range",
+			"defaultValue": 10
+		},
+		{
+			"type": "Boolean",
+			"name": "zombie_chase_enemy_enabled",
+			"defaultValue": true
+		},
+		{
+			"type": "Int",
+			"name": "zombie_detect_range",
+			"defaultValue": 2
+		},
+		{
+			"type": "Int",
+			"name": "zombie_attack_mode",
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "zombie_move_path",
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "zombie_team",
+			"defaultValue": 0
+		},
+		{
+			"type": "Boolean",
+			"name": "zombie_type_enabled",
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "zombie_path_enabled",
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "zombie_team_enabled",
+			"defaultValue": true
+		}
+	]
+}

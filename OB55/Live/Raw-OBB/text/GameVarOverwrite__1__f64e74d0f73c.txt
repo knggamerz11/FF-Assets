@@ -1,0 +1,6 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+InGameTokenUnitCount,,int,1
+EnableReconnect,unread,bool,TRUE
+EnterAllowTime,unread,int,2700
+EnableConveyer,unread,bool,FALSE

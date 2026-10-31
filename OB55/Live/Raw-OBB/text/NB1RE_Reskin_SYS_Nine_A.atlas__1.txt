@@ -1,0 +1,139 @@
+
+NB1RE_Reskin_SYS_Nine_A.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ear_L
+  rotate: true
+  xy: 634, 3
+  size: 221, 387
+  orig: 221, 413
+  offset: 0, 26
+  index: -1
+Face_After
+  rotate: false
+  xy: 530, 79
+  size: 58, 173
+  orig: 68, 195
+  offset: 0, 17
+  index: -1
+Face_Up
+  rotate: false
+  xy: 475, 142
+  size: 426, 342
+  orig: 426, 342
+  offset: 0, 0
+  index: -1
+LowerEyelid_L
+  rotate: false
+  xy: 2, 273
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+LowerEyelid_R
+  rotate: false
+  xy: 315, 38
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+Mouth_01
+  rotate: false
+  xy: 781, 274
+  size: 186, 200
+  orig: 186, 200
+  offset: 0, 0
+  index: -1
+Mouth_02
+  rotate: false
+  xy: 885, 333
+  size: 92, 151
+  orig: 92, 165
+  offset: 0, 0
+  index: -1
+Mouth_03
+  rotate: true
+  xy: 234, 337
+  size: 147, 170
+  orig: 153, 195
+  offset: 0, 0
+  index: -1
+Nine_Body
+  rotate: false
+  xy: 2, 92
+  size: 527, 392
+  orig: 527, 392
+  offset: 0, 0
+  index: -1
+Nine_Ear_R
+  rotate: false
+  xy: 2, 25
+  size: 347, 260
+  orig: 347, 260
+  offset: 0, 0
+  index: -1
+Nine_Eyeball_L
+  rotate: false
+  xy: 19, 430
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Nine_Eyeball_R
+  rotate: false
+  xy: 2, 306
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Nine_Eyewhite_L
+  rotate: false
+  xy: 2, 430
+  size: 22, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Nine_Eyewhite_R
+  rotate: false
+  xy: 108, 426
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+Nine_Finger01
+  rotate: false
+  xy: 399, 322
+  size: 59, 132
+  orig: 59, 132
+  offset: 0, 0
+  index: -1
+Nine_Finger02
+  rotate: false
+  xy: 173, 387
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 2, 289
+  size: 117, 139
+  orig: 117, 139
+  offset: 0, 0
+  index: -1
+UpperEyelid_L
+  rotate: false
+  xy: 344, 315
+  size: 44, 99
+  orig: 44, 99
+  offset: 0, 0
+  index: -1
+UpperEyelid_R
+  rotate: false
+  xy: 2, 6
+  size: 153, 132
+  orig: 153, 132
+  offset: 0, 0
+  index: -1

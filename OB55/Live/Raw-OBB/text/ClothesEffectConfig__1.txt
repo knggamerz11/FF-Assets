@@ -1,0 +1,6 @@
+Quality,MyClothes,TmClothes,EnemyClothes
+unread,unread,unread,unread
+2,0,0,0
+1,1,1,0
+3,1,1,1
+4,1,1,1

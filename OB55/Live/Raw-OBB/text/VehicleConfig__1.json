@@ -1,0 +1,624 @@
+
+{
+    "Vehicles" : {
+        "115" : {
+            "ControlMode" : 0,
+            "RigidConfig" : {
+                "Mass" : 999.999938964844
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 1.0,
+                    "maxSpeed"   : 50.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 120.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 1.5,
+                    "ExplodeDamage" : 150,
+                    "BurnTime"      : 1.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "OnLandController" : {
+                    "WheelTypeChoise" : 2,
+                    "maxEngineRPM"    : 4000.0,
+                    "minEngineRPM"    : 800.0,
+                    "engineTorque"    : 2000.0,
+                    "brakeTorque"     : 2000.0,
+                    "gearShiftingDelay" : 0.0500000007450581,
+                    "maxspeed"          : 40.0,
+                    "defMaxspeed"       : 40.0,
+                    "idleBrakeInput"    : 0.375,
+                    "highSpeedSteerAngle" : 15.0,
+                    "highSpeedSteerAngleAtSpeed" : 30.0
+                },
+                "InWaterController" : {
+                    "WheelTypeChoise" : 2,
+                    "maxEngineRPM"    : 1500.0,
+                    "minEngineRPM"    : 600.0,
+                    "engineTorque"    : 1500.0,
+                    "brakeTorque"     : 1500.0,
+                    "gearShiftingDelay" : 0.150000005960464,
+                    "maxspeed"          : 35.0,
+                    "defMaxspeed"       : 35.0,
+                    "idleBrakeInput"    : 0.300000011920929,
+                    "highSpeedSteerAngle" : 15.0,
+                    "highSpeedSteerAngleAtSpeed" : 25.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,0.3,0",
+                "rotation" : "0,0,0",
+                "scale"    : "1,1,1",
+                "size"     : "4,3,6"
+            }
+        },
+        "120" : {
+            "ControlMode" : 0,
+            "RigidConfig" : {
+                "Mass" : 1800.0
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 1.29999995231628,
+                    "maxSpeed"   : 60.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 200.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 2.5,
+                    "ExplodeDamage" : 100,
+                    "BurnTime"      : 1.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "vehicle_Bumper" : {
+                    "WheelTypeChoise" : 2,
+                    "maxEngineRPM"    : 5000.0,
+                    "minEngineRPM"    : 2000.0,
+                    "engineTorque"    : 3000.0,
+                    "brakeTorque"     : 3000.0,
+                    "gearShiftingDelay" : 0.150000005960464,
+                    "maxspeed"          : 45.0,
+                    "defMaxspeed"       : 45.0,
+                    "idleBrakeInput"    : 0.375,
+                    "highSpeedSteerAngle" : 45.0,
+                    "highSpeedSteerAngleAtSpeed" : 40.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,0.4,0",
+                "rotation" : "0,0,0",
+                "scale"    : "1.25,1.25,1.25",
+                "size"     : "4,3,6"
+            }
+        },
+        "177" : {
+            "ControlMode" : 0,
+            "RigidConfig" : {
+                "Mass" : 1400.0
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 1.0,
+                    "maxSpeed"   : 60.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 150.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 2.5,
+                    "ExplodeDamage" : 100,
+                    "BurnTime"      : 0.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "vehicle_Helicopter" : {
+                    "WheelTypeChoise" : 0,
+                    "maxEngineRPM"    : 5000.0,
+                    "minEngineRPM"    : 1500.0,
+                    "engineTorque"    : 2500.0,
+                    "brakeTorque"     : 2500.0,
+                    "gearShiftingDelay" : 0.150000005960464,
+                    "maxspeed"          : 40.0,
+                    "defMaxspeed"       : 0.0,
+                    "idleBrakeInput"    : 0.375,
+                    "highSpeedSteerAngle" : 15.0,
+                    "highSpeedSteerAngleAtSpeed" : 35.0
+                }
+            },
+            "InteratTriggerData" : null
+        },
+        "113" : {
+            "ControlMode" : 0,
+            "RigidConfig" : {
+                "Mass" : 1400.0
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 1.5,
+                    "maxSpeed"   : 55.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 120.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 2.5,
+                    "ExplodeDamage" : 100,
+                    "BurnTime"      : 1.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "vehicle_Jeep" : {
+                    "WheelTypeChoise" : 2,
+                    "maxEngineRPM"    : 5000.0,
+                    "minEngineRPM"    : 1500.0,
+                    "engineTorque"    : 2500.0,
+                    "brakeTorque"     : 2500.0,
+                    "gearShiftingDelay" : 0.150000005960464,
+                    "maxspeed"          : 45.0,
+                    "defMaxspeed"       : 45.0,
+                    "idleBrakeInput"    : 0.375,
+                    "highSpeedSteerAngle" : 15.0,
+                    "highSpeedSteerAngleAtSpeed" : 35.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,0.32,0",
+                "rotation" : "0,0,0",
+                "scale"    : "1,1,1",
+                "size"     : "4,3,6"
+            }
+        },
+        "201" : {
+            "ControlMode" : 0,
+            "RigidConfig" : {
+                "Mass" : 1400.0
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 1.5,
+                    "maxSpeed"   : 55.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 120.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 2.5,
+                    "ExplodeDamage" : 100,
+                    "BurnTime"      : 1.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "vehicle_JeepSnow_WLGP24" : {
+                    "WheelTypeChoise" : 2,
+                    "maxEngineRPM"    : 5000.0,
+                    "minEngineRPM"    : 1500.0,
+                    "engineTorque"    : 2500.0,
+                    "brakeTorque"     : 2500.0,
+                    "gearShiftingDelay" : 0.150000005960464,
+                    "maxspeed"          : 45.0,
+                    "defMaxspeed"       : 45.0,
+                    "idleBrakeInput"    : 0.375,
+                    "highSpeedSteerAngle" : 15.0,
+                    "highSpeedSteerAngleAtSpeed" : 35.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,0.4,0",
+                "rotation" : "0,0,0",
+                "scale"    : "1.25,1.25,1.25",
+                "size"     : "4,3,6"
+            }
+        },
+        "116" : {
+            "ControlMode" : 0,
+            "RigidConfig" : {
+                "Mass" : 2800.0
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 2.0,
+                    "maxSpeed"   : 42.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 100.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 2.5,
+                    "ExplodeDamage" : 100,
+                    "BurnTime"      : 1.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "Vehicle_Monster_Truck" : {
+                    "WheelTypeChoise" : 2,
+                    "maxEngineRPM"    : 6000.0,
+                    "minEngineRPM"    : 2000.0,
+                    "engineTorque"    : 12000.0,
+                    "brakeTorque"     : 10000.0,
+                    "gearShiftingDelay" : 0.100000001490116,
+                    "maxspeed"          : 35.0,
+                    "defMaxspeed"       : 35.0,
+                    "idleBrakeInput"    : 0.600000023841858,
+                    "highSpeedSteerAngle" : 20.0,
+                    "highSpeedSteerAngleAtSpeed" : 30.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,-0.6,0",
+                "rotation" : "0,0,0",
+                "scale"    : "1,1,1",
+                "size"     : "6,3.5,7.5"
+            }
+        },
+        "117" : {
+            "ControlMode" : 1,
+            "RigidConfig" : {
+                "Mass" : 850.000061035156
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 0.5,
+                    "maxSpeed"   : 60.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 150.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 2.5,
+                    "ExplodeDamage" : 100,
+                    "BurnTime"      : 1.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "Vehicle_Motobike" : {
+                    "WheelTypeChoise" : 0,
+                    "maxEngineRPM"    : 7000.0,
+                    "minEngineRPM"    : 1000.0,
+                    "engineTorque"    : 3000.0,
+                    "brakeTorque"     : 4000.0,
+                    "gearShiftingDelay" : 10.0,
+                    "maxspeed"          : 45.0,
+                    "defMaxspeed"       : 0.0,
+                    "idleBrakeInput"    : 0.300000011920929,
+                    "highSpeedSteerAngle" : 20.0,
+                    "highSpeedSteerAngleAtSpeed" : 35.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,0.3,0",
+                "rotation" : "0,0,0",
+                "scale"    : "1,1,1",
+                "size"     : "4,3,6"
+            }
+        },
+        "302" : {
+            "ControlMode" : 1,
+            "RigidConfig" : {
+                "Mass" : 850.000061035156
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 0.5,
+                    "maxSpeed"   : 60.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 150.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 1.0,
+                    "ExplodeRange" : 0.0,
+                    "ExplodeDamage" : 0,
+                    "BurnTime"      : 0.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "Vehicle_Motobike_Horse" : {
+                    "WheelTypeChoise" : 0,
+                    "maxEngineRPM"    : 7000.0,
+                    "minEngineRPM"    : 1000.0,
+                    "engineTorque"    : 3000.0,
+                    "brakeTorque"     : 4000.0,
+                    "gearShiftingDelay" : 10.0,
+                    "maxspeed"          : 45.0,
+                    "defMaxspeed"       : 0.0,
+                    "idleBrakeInput"    : 0.300000011920929,
+                    "highSpeedSteerAngle" : 20.0,
+                    "highSpeedSteerAngleAtSpeed" : 35.0
+                },
+                "InWaterController"      : {
+                    "WheelTypeChoise" : 0,
+                    "maxEngineRPM"    : 4500.0,
+                    "minEngineRPM"    : 1000.0,
+                    "engineTorque"    : 1500.0,
+                    "brakeTorque"     : 4000.0,
+                    "gearShiftingDelay" : 10.0,
+                    "maxspeed"          : 30.0,
+                    "defMaxspeed"       : 0.0,
+                    "idleBrakeInput"    : 0.300000011920929,
+                    "highSpeedSteerAngle" : 20.0,
+                    "highSpeedSteerAngleAtSpeed" : 35.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,0.53,0.21",
+                "rotation" : "0,0,0",
+                "scale"    : "1,1,1",
+                "size"     : "4,3,6"
+            }
+        },
+        "303" : {
+            "ControlMode" : 1,
+            "RigidConfig" : {
+                "Mass" : 850.000061035156
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 0.5,
+                    "maxSpeed"   : 60.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 150.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 1.0,
+                    "ExplodeRange" : 0.0,
+                    "ExplodeDamage" : 0,
+                    "BurnTime"      : 0.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "Vehicle_Motobike_Horse_JS_GP" : {
+                    "WheelTypeChoise" : 0,
+                    "maxEngineRPM"    : 7000.0,
+                    "minEngineRPM"    : 1000.0,
+                    "engineTorque"    : 3000.0,
+                    "brakeTorque"     : 4000.0,
+                    "gearShiftingDelay" : 10.0,
+                    "maxspeed"          : 45.0,
+                    "defMaxspeed"       : 0.0,
+                    "idleBrakeInput"    : 0.300000011920929,
+                    "highSpeedSteerAngle" : 20.0,
+                    "highSpeedSteerAngleAtSpeed" : 35.0
+                },
+                "InWaterController"            : {
+                    "WheelTypeChoise" : 0,
+                    "maxEngineRPM"    : 4500.0,
+                    "minEngineRPM"    : 1000.0,
+                    "engineTorque"    : 1500.0,
+                    "brakeTorque"     : 4000.0,
+                    "gearShiftingDelay" : 10.0,
+                    "maxspeed"          : 30.0,
+                    "defMaxspeed"       : 0.0,
+                    "idleBrakeInput"    : 0.300000011920929,
+                    "highSpeedSteerAngle" : 20.0,
+                    "highSpeedSteerAngleAtSpeed" : 35.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,0.53,0.21",
+                "rotation" : "0,0,0",
+                "scale"    : "1,1,1",
+                "size"     : "4,3,6"
+            }
+        },
+        "119" : {
+            "ControlMode" : 0,
+            "RigidConfig" : {
+                "Mass" : 1200.0
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 1.0,
+                    "maxSpeed"   : 60.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 200.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 1.5,
+                    "ExplodeDamage" : 150,
+                    "BurnTime"      : 1.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "OnLandController" : {
+                    "WheelTypeChoise" : 2,
+                    "maxEngineRPM"    : 8000.0,
+                    "minEngineRPM"    : 2000.0,
+                    "engineTorque"    : 5000.0,
+                    "brakeTorque"     : 4000.0,
+                    "gearShiftingDelay" : 0.150000005960464,
+                    "maxspeed"          : 55.0,
+                    "defMaxspeed"       : 55.0,
+                    "idleBrakeInput"    : 0.375,
+                    "highSpeedSteerAngle" : 50.0,
+                    "highSpeedSteerAngleAtSpeed" : 55.0
+                },
+                "InWaterController" : {
+                    "WheelTypeChoise" : 2,
+                    "maxEngineRPM"    : 8000.0,
+                    "minEngineRPM"    : 2000.0,
+                    "engineTorque"    : 5000.0,
+                    "brakeTorque"     : 4000.0,
+                    "gearShiftingDelay" : 0.150000005960464,
+                    "maxspeed"          : 45.0,
+                    "defMaxspeed"       : 45.0,
+                    "idleBrakeInput"    : 0.100000001490116,
+                    "highSpeedSteerAngle" : 30.0,
+                    "highSpeedSteerAngleAtSpeed" : 40.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,0.8397899,0",
+                "rotation" : "0,0,0",
+                "scale"    : "1.333,1.333,1.333",
+                "size"     : "4,3,6"
+            }
+        },
+        "118" : {
+            "ControlMode" : 0,
+            "RigidConfig" : {
+                "Mass" : 999.999938964844
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 1.0,
+                    "maxSpeed"   : 70.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 150.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 2.5,
+                    "ExplodeDamage" : 100,
+                    "BurnTime"      : 1.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "vehicle_Roadster" : {
+                    "WheelTypeChoise" : 2,
+                    "maxEngineRPM"    : 8000.0,
+                    "minEngineRPM"    : 1000.0,
+                    "engineTorque"    : 1200.0,
+                    "brakeTorque"     : 1500.0,
+                    "gearShiftingDelay" : 0.100000001490116,
+                    "maxspeed"          : 60.0,
+                    "defMaxspeed"       : 60.0,
+                    "idleBrakeInput"    : 0.375,
+                    "highSpeedSteerAngle" : 30.0,
+                    "highSpeedSteerAngleAtSpeed" : 55.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,0.3999,0",
+                "rotation" : "0,0,0",
+                "scale"    : "1.333,1.333,1.333",
+                "size"     : "4,3,6"
+            }
+        },
+        "112" : {
+            "ControlMode" : 0,
+            "RigidConfig" : {
+                "Mass" : 999.999938964844
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 1.20000004768372,
+                    "maxSpeed"   : 60.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 100.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 2.5,
+                    "ExplodeDamage" : 100,
+                    "BurnTime"      : 1.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "vehicle_SUV" : {
+                    "WheelTypeChoise" : 2,
+                    "maxEngineRPM"    : 5000.0,
+                    "minEngineRPM"    : 1000.0,
+                    "engineTorque"    : 2000.0,
+                    "brakeTorque"     : 2000.0,
+                    "gearShiftingDelay" : 0.0500000007450581,
+                    "maxspeed"          : 50.0,
+                    "defMaxspeed"       : 50.0,
+                    "idleBrakeInput"    : 0.375,
+                    "highSpeedSteerAngle" : 20.0,
+                    "highSpeedSteerAngleAtSpeed" : 40.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,0.4,0",
+                "rotation" : "0,0,0",
+                "scale"    : "1,1,1",
+                "size"     : "4,3,6"
+            }
+        },
+        "114" : {
+            "ControlMode" : 0,
+            "RigidConfig" : {
+                "Mass" : 900.0
+            },
+            "VehicleConfig" : {
+                "CrashParam" : {
+                    "messFactor" : 1.0,
+                    "maxSpeed"   : 50.0,
+                    "minDamage"  : 20.0,
+                    "maxDamage"  : 120.0
+                },
+                "ExplodeParam" : {
+                    "ExplodeDelay" : 5.0,
+                    "ExplodeRange" : 2.5,
+                    "ExplodeDamage" : 100,
+                    "BurnTime"      : 1.0,
+                    "BurnRange"     : "",
+                    "BurnDamage"    : 0,
+                    "BurnInterval"  : 1.0
+                }
+            },
+            "ControllerConfigs" : {
+                "vehicle_Tutu" : {
+                    "WheelTypeChoise" : 0,
+                    "maxEngineRPM"    : 4000.0,
+                    "minEngineRPM"    : 300.0,
+                    "engineTorque"    : 2500.0,
+                    "brakeTorque"     : 4000.0,
+                    "gearShiftingDelay" : 10.0,
+                    "maxspeed"          : 40.0,
+                    "defMaxspeed"       : 0.0,
+                    "idleBrakeInput"    : 0.300000011920929,
+                    "highSpeedSteerAngle" : 10.0,
+                    "highSpeedSteerAngleAtSpeed" : 35.0
+                }
+            },
+            "InteratTriggerData" : {
+                "position" : "0,-0.2,0",
+                "rotation" : "0,0,0",
+                "scale"    : "1,1,1",
+                "size"     : "4,3,6"
+            }
+        }
+    }
+}

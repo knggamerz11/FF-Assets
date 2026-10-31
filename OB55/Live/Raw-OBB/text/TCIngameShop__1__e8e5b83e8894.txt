@@ -1,0 +1,6 @@
+indexid,shopid,itemid,comment,filter,price,display_first_one,purchase_limited
+unread,unread,unread,unread,unread,unread,unread,unread
+1,1,129,Kar98k,1,1,TRUE,
+2,1,75,M24,1,1,TRUE,
+3,1,4,AWM,1,1,TRUE,
+4,1,45,unread,1,1,TRUE,

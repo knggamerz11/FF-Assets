@@ -1,0 +1,4 @@
+id,WebLink
+unread,unread
+1,https://tournament.sea.freefiremobile.com/detail/<esports_id>?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
+2,https://tournament.sea.freefiremobile.com/detail/<esports_id>?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>

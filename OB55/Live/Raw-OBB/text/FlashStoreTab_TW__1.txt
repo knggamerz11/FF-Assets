@@ -1,0 +1,9 @@
+TabId,undefine1,SortId,TabName
+TabId,unread,unread,unread
+1,unread,1,TXT_OB7_GXQ_SHOP_AD
+2,unread,2,TXT_INVENTORY_AVATAR
+3,unread,3,TXT_OB11_GXQ_MALL_TAB_WEAPON
+4,unread,4,TXT_MALL_FACE
+5,unread,5,T_12_O_PET_TITLE
+6,unread,6,TXT_LOBBY_COLLECTION
+7,unread,7,T_32_LC_NEWVAULT_OTHERS

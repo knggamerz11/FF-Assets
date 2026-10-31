@@ -1,0 +1,16 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+AutoReviveOnTimeUp,,bool,true
+NoLoadOut,,bool,true
+IsAirLineGenerateBySafeZone,unread,bool,true
+UnlimitBagCapacity,unread,bool,TRUE
+MaxPumpkinOnHead,unread,int,10
+SpawnGodTimeSec,unread,float,3
+EnableAssistantTriggerTips,unread,bool,TRUE
+ReviveInSky,,bool,true
+ReviveInSkyHeight,,float,200
+IsLoadSceneOnlyForNeededArea,unread,bool,TRUE
+EnableAssistantMarkItemTips,unread,bool,TRUE
+LuckyDrawBoxOpenMatchMode,unread,string,4
+PropertyChangeSwitch,unread,bool,FALSE
+DefaultSceneAudioResource,unread,string,SOUND_AMB_DEFAULT

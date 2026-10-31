@@ -1,0 +1,9 @@
+Type,Desc,CountDuration,Count,ExtraCD,DefaultCD
+unread,unread,unread,unread,unread,unread
+1,unread,15,6,10,0
+2,unread,20,10,10,0
+3,unread,20,5,15,2
+4,unread,30,10,10,3
+5,unread,20,10,15,0
+6,unread,20,5,15,2
+7,unread,21,2,20,10

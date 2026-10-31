@@ -1,0 +1,11 @@
+ZoneID,Key,Comments,MapOffset,MiniMapName,MiniMapScale
+unread,unread,unread,unread,unread,unread
+1,T_35_U_HIPPO_2,unread,-36.3;-507.8;213.7;-257.8,minimap_cs_portal,5
+2,T_35_U_HIPPO_9,unread,-499.91;-432.5;-319.91;-252.5,minimap_cs_moonbase,7
+3,T_35_U_HIPPO_4,unread,-255.7;-60.9;-75.7;119.1,minimap_cs_cyberfarm,7
+4,T_35_U_HIPPO_10,unread,-522.6;106.9;-372.6;256.9,minimap_cs_sgmuseum,7.2
+5,T_35_U_HIPPO_1,unread,-187.2;250.9;42.8;480.9,minimap_cs_eic,6
+6,T_35_U_HIPPO_3,unread,207;-365.6;377;-195.6,minimap_cs_constructionarea,6
+7,T_35_U_HIPPO_6,unread,85.1;-51.3;275.1;138.7,minimap_cs_flyingcanyon,6
+8,T_35_U_HIPPO_8,unread,266.5;-112.7;506.5;127.3,minimap_cs_desrtTown,6.5
+9,T_45_ZP_SEVENTHB_GAMEPLAY_ADS1_TITLE,minipeak,-1893.62;-36;-1821.62;36,minimap_cs_Sapland_Oldpeak,8.5

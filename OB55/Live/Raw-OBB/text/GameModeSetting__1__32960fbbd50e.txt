@@ -1,0 +1,12 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+NoLoadOut,unread,bool,TRUE
+ShowAutoSlidingBtn,,bool,true
+IsAirLineGenerateBySafeZone,unread,bool,true
+EnableAssistantTriggerTips,unread,bool,TRUE
+EnableAssistantMarkItemTips,unread,bool,TRUE
+IsNeedAssistInfo,unread,bool,TRUE
+LuckyDrawBoxOpenMatchMode,unread,string,4
+IsBrScoreboardOpen,unread,bool,TRUE
+PropertyChangeSwitch,unread,bool,FALSE
+DefaultSceneAudioResource,unread,string,SOUND_AMB_DEFAULT

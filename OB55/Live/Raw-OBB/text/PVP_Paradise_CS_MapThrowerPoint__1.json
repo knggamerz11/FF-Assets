@@ -1,0 +1,356 @@
+
+{
+    "scene" : "PVP_Paradise_CS",
+    "GameZoneInfo" : [
+        {
+            "ZoneIndex" : 0,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "415.8922",
+                            "15.8076",
+                            "-253.9767"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "432.3262",
+                            "15.8076",
+                            "-246.1277"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 1,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "231.8634",
+                            "9.8296",
+                            "-103.5935"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "228.2136",
+                            "9.8296",
+                            "-116.4429"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 2,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "-132.9943",
+                            "28.9590",
+                            "363.9479"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "-123.4918",
+                            "28.1354",
+                            "379.4516"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 3,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "177.1336",
+                            "1.8635",
+                            "348.1421"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "166.6855",
+                            "1.8635",
+                            "363.1315"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 4,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "366.6776",
+                            "9.2290",
+                            "729.0246"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "347.6036",
+                            "9.2290",
+                            "733.9086"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 5,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "529.4327",
+                            "24.5504",
+                            "-552.8851"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "516.3096",
+                            "24.5374",
+                            "-561.0076"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 8,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "1271.9050",
+                            "0.0270",
+                            "129.7872"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "1289.7200",
+                            "-0.0374",
+                            "134.5042"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 7,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "1157.5180",
+                            "5.0249",
+                            "-433.2557"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "1161.5290",
+                            "5.0520",
+                            "-420.6904"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 9,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "893.2784",
+                            "54.6936",
+                            "504.0308"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "867.4959",
+                            "54.6936",
+                            "487.8676"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 10,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "-0.8084",
+                            "-0.3494",
+                            "90.1019"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "-11.2716",
+                            "-0.4233",
+                            "82.9174"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 13,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "700.4823",
+                            "68.0959",
+                            "94.6680"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "689.8023",
+                            "68.0959",
+                            "103.3780"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 12,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "-158.2420",
+                            "-16.6864",
+                            "-286.2307"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "-144.7216",
+                            "-16.6864",
+                            "-279.4207"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 6,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "657.0211",
+                            "24.8876",
+                            "-295.3848"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "653.2100",
+                            "24.8836",
+                            "-282.0194"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 11,
+            "MapThrowerPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        [
+                            "545.7300",
+                            "14.2107",
+                            "490.8400"
+                        ]
+                    ]
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        [
+                            "563.9700",
+                            "13.8876",
+                            "489.2400"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

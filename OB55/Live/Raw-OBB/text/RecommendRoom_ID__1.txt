@@ -1,0 +1,3 @@
+id,NewRoomType,HotRoomType,NewGameMode,HotGameMode,NewPreset,HotPreset,NewSettingID,HotSettingID,PrivilegeSettingID
+id,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,4,,61;62;83,15,16,,42;43,7;20;38,39;40

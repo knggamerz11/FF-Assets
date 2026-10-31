@@ -1,0 +1,4 @@
+GroupId,GroupName,GroupIcon,GameEventDesc,StartItems,ReviveItems,Droplist2Inventory,desc
+unread,unread,unread,unread,unread,unread,unread,unread
+1,T_35_P_MODE_RR_COIN,UI_Icon_FateRandom,T_35_P_RR_COIN_GET;T_35_P_RR_COIN_BUY;T_35_P_RR_COIN_END,8;205-90;2;201-60;302;305;403;102-2;213-2;1201-3,301;304;403;102-1;213-1;1201-1,ModeCoin,
+2,T_41_LJX_MINIBR_NAME,UI_Icon_FateRandom,T_41_LJX_MINIBR_TIPS,403;179;201-120;120;205-150;303;305;102-4;1205-1;213-2;502-2;512-2;523-1;534-2;106-2;3001-8;601;1290,10;202-30;301;304;402;102-1;201-60;205-60,ModeMiniBR,

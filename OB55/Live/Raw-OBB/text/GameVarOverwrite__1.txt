@@ -1,0 +1,8 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+EnterAllowTime,unread,int,3300
+EnableReconnect,unread,bool,TRUE
+PartyGameSoloDanceFirstPlayerPosStr,,String,14.45;-1.71;2.69
+PartyGameSoloDanceSecondPlayerPosStr,,String,14.658;-1.71;-0.548
+PartyDanceTime,unread,float,60
+PartyWheelTime,unread,float,60

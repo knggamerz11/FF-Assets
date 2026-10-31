@@ -1,0 +1,5 @@
+CountryCode,Type
+Country Code,unread
+DEFAULT,3
+RU,5
+JP,11

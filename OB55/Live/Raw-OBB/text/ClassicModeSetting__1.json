@@ -1,0 +1,891 @@
+{
+	"version": "1",
+	"entranceInfo":
+	{
+		"iconUrl":"https://dl.dir.freefiremobile.com/common/OB32/CSH/Designers/SeaTalk_IMG_1641540042.jpg",
+		"offsetX": 0,
+		"offsetY": 0,
+		"width": 250,
+		"height": 338
+	},
+	"windowComponent":
+	{
+		"componentType": "FullScreenWindow_VTabsPanel",
+		"labelKey": "T_32_T_WS_ME_PRESET",
+		"itemIndex":
+		{
+			"binding": "local_tab_index"
+		},
+		"items":
+		[
+			{
+				"labelKey": "T_32_T_WS_ME_MECHANIC",
+				"contentComponent":
+				{
+					"componentType": "HTabsPanel",
+					"unselectable": true,
+					"itemIndex":
+					{
+						"binding": "classic_game_mode"
+					},
+					"items":
+					[
+						{
+							"labelKey": "T_17_B_CS_MODE_NAME",
+							"subLabelKey": "T_32_T_WS_ME_PREMODEDESC1",
+							"contentComponent":
+							{
+								"componentType": "VScrollTableContainer",
+								"items":
+								[
+									{
+										"componentType": "TableContainer",
+										"items":
+										[
+											{
+												"componentType": "PopMenu",
+												"labelKey": "T_31_T_WS_ME_MAXROUND",
+												"width": 200,
+												"addDepth": 1,
+												"value":
+												{
+													"binding": "cs_round_num"
+												},
+												"items":
+												[
+													{
+														"labelKey": "3",
+														"value": 3
+													},
+													{
+														"labelKey": "5",
+														"value": 5
+													},
+													{
+														"labelKey": "7",
+														"value": 7
+													}
+												]
+											},
+											{
+												"componentType": "PopMenu",
+												"labelKey": "T_31_T_WS_ME_PLAYERNUM",
+												"width": 200,
+												"value":
+												{
+													"binding": "cs_team_member"
+												},
+												"items":
+												[
+													{
+														"labelKey": "1",
+														"value": 0
+													},
+													{
+														"labelKey": "2",
+														"value": 1
+													},
+													{
+														"labelKey": "3",
+														"value": 2
+													},
+													{
+														"labelKey": "4",
+														"value": 3
+													},
+													{
+														"labelKey": "5",
+														"value": 4
+													},
+													{
+														"labelKey": "6",
+														"value": 5
+													}
+												]
+											},
+											{
+												"componentType": "SafeZone",
+												"labelKey": "T_31_T_WS_ME_DEFAULTSAFERADIUS",
+												"maxValue":
+												{
+													"binding": "cs_map_max_size"
+												},
+												"minValue":
+												{
+													"binding": "cs_map_min_size"
+												},
+												"maxCircleSize": 
+												{
+													"binding": "cs_map_max_circle_size"
+												},
+												"minCircleSize": 
+												{
+													"binding": "cs_map_min_circle_size"
+												},
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_METER",
+												"value":
+												{
+													"binding": "cs_safezone_size"
+												}
+											},
+											{
+												"componentType": "Range",
+												"labelKey": "T_31_T_WS_ME_SAFEZONESHRINKTIME",
+												"maxValue": 300,
+												"minValue": 10,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "cs_safezone_start_time"
+												}
+											}
+										]
+									}
+								]
+							}
+						},
+						{
+							"labelKey": "T_19_O_TDM_NAME",
+							"subLabelKey": "T_32_T_WS_ME_PREMODEDESC2",
+							"contentComponent":
+							{
+								"componentType": "VScrollTableContainer",
+								"items":
+								[
+									{
+										"componentType": "TableContainer",
+										"items":
+										[
+											{
+												"componentType": "SubTableContainer",
+												"labelKey": "T_31_T_WS_ME_WINCONDITION",
+												"items":
+												[
+													{
+														"componentType": "Range",
+														"labelKey": "T_31_T_WS_ME_WINSCORE",
+														"maxValue": 100,
+														"minValue": 10,
+														"step": 1,
+														"value":
+														{
+															"binding": "tdm_target_score"
+														}
+													},
+													{
+														"componentType": "Range",
+														"labelKey": "T_31_T_WS_ME_KILLSCORE",
+														"maxValue": 5,
+														"minValue": 1,
+														"step": 1,
+														"value":
+														{
+															"binding": "tdm_kill_score"
+														}
+													}
+												]
+											},
+											{
+												"componentType": "PopMenu",
+												"labelKey": "T_31_T_WS_ME_PLAYERNUM",
+												"width": 200,
+												"addDepth": 1,
+												"value":
+												{
+													"binding": "tdm_team_member"
+												},
+												"items":
+												[
+													{
+														"labelKey": "1",
+														"value": 0
+													},
+													{
+														"labelKey": "2",
+														"value": 1
+													},
+													{
+														"labelKey": "3",
+														"value": 2
+													},
+													{
+														"labelKey": "4",
+														"value": 3
+													},
+													{
+														"labelKey": "5",
+														"value": 4
+													},
+													{
+														"labelKey": "6",
+														"value": 5
+													}
+												]
+											},
+											{
+												"componentType": "PopMenu",
+												"labelKey": "T_31_T_WS_ME_REBIRTHLOCATION",
+												"width": 400,
+												"items":
+												[
+													{
+														"labelKey": "T_31_T_WS_ME_INRANDOMSPAWN",
+														"value": 0
+													},
+													{
+														"labelKey": "T_31_T_WS_ME_NEARTEAM",
+														"value": 1
+													}
+												],
+												"value":
+												{
+													"binding": "tdm_revive_rule"
+												}
+											},
+											{
+												"componentType": "Range",
+												"labelKey": "T_31_T_WS_ME_REBIRTH",
+												"maxValue": 100,
+												"minValue": 0,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "tdm_revive_time"
+												}
+											}
+										]
+									}
+								]
+							}
+						},
+						{
+							"labelKey": "T_30_M_WS_PARTY_MODE",
+							"subLabelKey": "T_32_T_WS_ME_PREMODEDESC3",
+							"contentComponent":
+							{
+								"componentType": "VScrollTableContainer",
+								"items":
+								[
+									{
+										"componentType": "TableContainer",
+										"items":
+										[
+											{
+												"componentType": "SubTableContainer",
+												"labelKey": "T_31_T_WS_ME_WINCONDITION",
+												"items":
+												[
+													{
+														"componentType": "Range",
+														"labelKey": "T_18_E_ENDTIME",
+														"maxValue": 60,
+														"minValue": 10,
+														"step": 1,
+														"unitKey": "T_33_WT_WS_UNIT_MINUTE",
+														"value":
+														{
+															"binding": "party_round_time"
+														}
+													}
+												]
+											},
+											{
+												"componentType": "PopMenu",
+												"labelKey": "T_31_T_WS_ME_PLAYERNUM",
+												"width": 200,
+												"addDepth": 1,
+												"value":
+												{
+													"binding": "party_team_member"
+												},
+												"items":
+												[
+													{
+														"labelKey": "1",
+														"value": 0
+													},
+													{
+														"labelKey": "2",
+														"value": 1
+													},
+													{
+														"labelKey": "3",
+														"value": 2
+													},
+													{
+														"labelKey": "4",
+														"value": 3
+													},
+													{
+														"labelKey": "5",
+														"value": 4
+													},
+													{
+														"labelKey": "6",
+														"value": 5
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						}
+					]
+				}
+			},
+			{
+				"labelKey": "T_31_T_WS_ME_GENERALSETTING",
+				"contentComponent":
+				{
+					"componentType": "VScrollTableContainer",
+					"visibleHeight": 590,
+					"items":
+					[
+						{
+							"componentType": "TableContainer",
+							"labelKey": "T_33_WT_WS_BASICSET1",
+							"items":
+							[
+								{
+									"componentType": "Range",
+									"labelKey": "T_31_T_WS_ME_MAXHP",
+									"maxValue": 1000,
+									"minValue": 20,
+									"step": 1,
+									"value":
+									{
+										"binding": "max_hp"
+									}
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_31_T_WS_ME_MAXEP",
+									"maxValue": 200,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "max_ep"
+									}
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_31_T_WS_ME_DEFAULTEPPERCENT",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"unitKey": "%",
+									"value":
+									{
+										"binding": "start_ep"
+									}
+								},
+								{
+									"componentType": "Toggle",
+									"labelKey": "T_31_T_WS_ME_EPQUICKRESTORE",
+									"tipKey": "T_33_WT_WS_QCEPRTIP",
+									"value":
+									{
+										"binding": "auto_healing"
+									}
+								},
+								{
+									"componentType": "Toggle",
+									"labelKey": "T_31_T_WS_UNLIMITEDAMMO",
+									"value":
+									{
+										"binding": "unlimited_bullet"
+									}
+								},
+								{
+									"componentType": "Toggle",
+									"labelKey": "T_39_HJ_WS_UNLIMITEDGLOOWALL",
+									"value":
+									{
+										"binding": "unlimited_gloowall"
+									}
+								},
+								{
+									"componentType": "Toggle",
+									"labelKey": "T_39_HJ_WS_UNLIMITEDTHROWABLES",
+									"value":
+									{
+										"binding": "unlimited_throwables"
+									}
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_31_T_WS_ME_DAMAGE",
+									"maxValue": 500,
+									"minValue": 0,
+									"step": 1,
+									"unitKey": "%",
+									"value":
+									{
+										"binding": "damage"
+									}
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_31_T_WS_ME_DAMAGED",
+									"maxValue": 500,
+									"minValue": 0,
+									"step": 1,
+									"unitKey": "%",
+									"value":
+									{
+										"binding": "receive_damage"
+									}
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_17_Z_ROOM_SPEED_SWITCH",
+									"maxValue": 500,
+									"minValue": 50,
+									"step": 1,
+									"unitKey": "%",
+									"value":
+									{
+										"binding": "move_speed"
+									}
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_17_Z_ROOM_JUMP_SWITCH",
+									"maxValue": 500,
+									"minValue": 10,
+									"step": 1,
+									"unitKey": "%",
+									"value":
+									{
+										"binding": "jump_height"
+									}
+								}
+							]
+						},
+						{
+							"componentType": "TableContainer",
+							"labelKey": "T_33_WT_WS_SKILLSET1",
+							"items":
+							[
+								{
+									"componentType": "Toggle",
+									"labelKey": "T_33_WT_WS_SKILLSET2",
+									"value":
+									{
+										"binding": "enable_passive_skill"
+									},
+									"tipKey": "T_33_WT_WS_SKILLSET2_TIP"
+								},
+								{
+									"componentType": "Toggle",
+									"labelKey": "T_33_WT_WS_SKILLSET3",
+									"value":
+									{
+										"binding": "enable_active_skill"
+									},
+									"tipKey": "T_33_WT_WS_SKILLSET3_TIP"
+								},
+								
+								{
+									"componentType": "Range",
+									"labelKey": "T_33_WT_WS_SKILLSET4",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_transform_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"Transform"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_33_WT_WS_SKILLSET5",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_epchangetohp_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"ExChangeEpToHp"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_33_WT_WS_SKILLSET6",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_healingdance_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"PlayerSkillAlokHealAndAddSpeed"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_33_WT_WS_SKILLSET7",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_graffitimonitor_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"GraffitiSanctuary"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_33_WT_WS_SKILLSET8",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_detective_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"Detective"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_33_WT_WS_SKILLSET9",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_epfastandupper_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"EPFastAndUpper"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_33_WT_WS_SKILLSET10",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_spaceshield_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"SpaceShield"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_33_WT_WS_SKILLSET11",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_blowupicewall_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"BlowUpIceWall"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_33_WT_WS_SKILLSET12",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_tempincreasehp_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"BoostHPAndRegeneration"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_33_WT_WS_SKILLSET13",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_addhpandrescure_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"AddHPAndRescure"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_34_WT_WS_SKILLSET14",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_dwshield_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"DWShield"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_38_WT_WS_SKILLSET15",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_throwsilence_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"ThrowSilence"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_38_WT_WS_SKILLSET16",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_createflightbomb_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"CreateFlightBomb"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_38_WT_WS_SKILLSET17",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_markicewall_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"MarkIceWall"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+									"componentType": "Range",
+									"labelKey": "T_38_WT_WS_SKILLSET18",
+									"maxValue": 100,
+									"minValue": 0,
+									"step": 1,
+									"value":
+									{
+										"binding": "playerskill_runspeedup_cd_percent"
+									},
+									"enabled":
+									{
+										"binding": "enable_active_skill",
+										"modifier":{
+											"modifierType": "ControlSkillCDByRegion",
+											"skillType":"RunSpeedUp"
+										}
+									},
+									"unitKey": "%"
+								},
+								{
+                                    "componentType": "Range",
+                                    "labelKey": "T_42_JH_WS_SKILLSETFIREWALL",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_fireboyflame_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "FireBoyFlame"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+								{
+                                    "componentType": "Range",
+                                    "labelKey": "T_42_JH_WS_SKILLSETSONIA",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_immortality_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "Immortality"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+								{
+                                    "componentType": "Range",
+                                    "labelKey": "T_42_JH_WS_SKILLSETSANTINO",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_teleporter_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "Teleporter"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+								{
+                                    "componentType": "Range",
+                                    "labelKey": "T_42_JH_WS_SKILLSETALOKAWAKEN",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_alokawakening_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "PlayerSkillAlokAwakening"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+								{
+                                    "componentType": "Range",
+                                    "labelKey": "T_43_JH_WS_SKILLSETAUTOPATHBOMB",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_autopathbomb_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "AutoPathBomb"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                }
+							]
+						}
+					]
+				}
+			}
+		]
+	}
+}

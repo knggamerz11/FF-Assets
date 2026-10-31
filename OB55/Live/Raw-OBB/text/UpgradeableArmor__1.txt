@@ -1,0 +1,7 @@
+id,name,desc,durability_max,dmg_redfactor,dmg_redfactor_explode,extra_capacity,upgradeid,icon,showimage,model,modelFemale,pickup
+id,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,unread,unread,150,10,,0,2,Icon_equipment_Vest_00,Icon_equipment_Vest_00,,,INGAME_PICKUP_ARMOR_0
+2,unread,unread,190,33,,0,3,Icon_equipment_Vest_01,Icon_equipment_Vest_01,,,INGAME_PICKUP_ARMOR_1
+3,unread,unread,225,50,,0,4,Icon_equipment_Vest_02,Icon_equipment_Vest_02,,,INGAME_PICKUP_ARMOR_2
+4,unread,unread,260,66,,0,5,Icon_equipment_Vest_03,Icon_equipment_Vest_03,,,INGAME_PICKUP_ARMOR_3
+5,unread,unread,290,70,66,0,5,Icon_equipment_Vest_04,Icon_equipment_Vest_04,,,INGAME_PICKUP_ARMOR_5

@@ -1,0 +1,6 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+EnableReconnect,unread,bool,TRUE
+ReconnectAllowTime,unread,int,180
+ObserverReconnectAllowTime,unread,int,180
+SpectatorReconnectAllowTime,unread,int,180

@@ -1,0 +1,23 @@
+id,RegionName,RegionServer
+id,RegionName,RegionServer
+1,VN Region,VN
+2,TH Region,TH
+3,ID Region,ID
+4,TW Region,TW
+5,BR Region,BR
+6,SEA Region,SEA
+7,SG Region,SG
+8,US Region,US
+9,MX Region,MX
+10,KR Region,KR
+11,RU Region,RU
+12,EU Region,EUROPE
+13,CN Region,CN
+14,TH2 Region,TH2
+15,VN2 Region,VN2
+16,SG2 Region,SG2
+17,KR2 Region,KR2
+18,TW2 Region,TW2
+19,SAC Region,SAC
+20,IND Region,IND
+21,ME Region,ME

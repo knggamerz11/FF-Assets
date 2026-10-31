@@ -1,0 +1,13 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+IsForbiddenTrain,unread,bool,FALSE
+EnableReconnect,unread,bool,TRUE
+CatapultHorizontalMinAngle,unread,float,-60
+CatapultHorizontalMaxAngle,unread,float,60
+CatapultVerticalMinAngle,unread,float,-30
+CatapultVerticalMaxAngle,unread,float,-7
+EnterAllowTime,unread,int,3300
+EnableVehicleBoost,unread,bool,true
+EnableVehicleJump,unread,bool,true
+PropertyChangeSwitch,unread,bool,TRUE
+SpeedCheckFactor,unread,float,1.8

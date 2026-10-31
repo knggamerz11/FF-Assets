@@ -1,0 +1,16 @@
+ZoneID,Key,Comments,MapOffset,MiniMapName,MiniMapScale
+unread,unread,unread,unread,unread,unread
+0,T_31_U_SHANGRILA_1,unread,,,
+1,T_31_U_SHANGRILA_2,unread,,,
+2,T_31_U_SHANGRILA_3,unread,,,
+3,T_31_U_SHANGRILA_10,unread,,,
+4,T_31_U_SHANGRILA_11,unread,,,
+5,T_31_U_SHANGRILA_9,unread,,,
+6,T_31_U_SHANGRILA_8,unread,,,
+7,T_31_U_SHANGRILA_S_3,unread,,,
+8,T_31_U_SHANGRILA_7,unread,,,
+9,T_31_U_SHANGRILA_6,unread,,,
+10,T_31_U_SHANGRILA_5,unread,,,
+11,T_31_U_SHANGRILA_4,unread,,,
+12,T_31_U_SHANGRILA_4,unread,,,
+13,T_45_ZP_SEVENTHB_GAMEPLAY_ADS1_TITLE,minipeak,-1893.62;-36;-1821.62;36,minimap_cs_Sapland_Oldpeak,8.5

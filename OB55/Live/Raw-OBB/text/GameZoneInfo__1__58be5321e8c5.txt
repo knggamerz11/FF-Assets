@@ -1,0 +1,16 @@
+ZoneID,Key,Comments,MapOffset,MiniMapName,MiniMapScale
+unread,unread,unread,unread,unread,unread
+0,T_23_B_FACTORY,unread,273;-404.6;573;-104.6,minimap_cs_factory,6
+1,T_23_B_CLOCKTOWER,ClockTower,52.8;-281;382.8;49,minimap_cs_clocktower,6
+2,T_23_B_OBSERVATORY,unread,-247.7;260.2;-27.7;480.2,minimap_cs_observatory,6
+3,T_23_B_KATULISTIWA,unread,14;197.9;314;497.9,minimap_cs_katulistiwa,6
+4,T_23_B_SHIPYARD,unread,205.4;587.9;505.4;887.9,minimap_cs_shipyard,6
+5,T_23_B_MARSELECTRIC,unread,404.89;-644.5;634.89;-414.5,minimap_cs_marselectirc,7
+6,T_23_B_POCHINOK,unread,496.3;-430.3;796.3;-130.3,minimap_cs_pochinok,6
+7,T_23_B_SENTOSA,unread,1060.8;-543.5;1290.8;-313.5,minimap_cs_sentosa,7
+8,T_23_B_CAPETOWN,unread,1162.7;2.2;1402.7;242.2,minimap_cs_capetown,7
+9,T_23_B_MILL,Mill,793.136;383.31;1023.136;613.31,minimap_cs_mill,7
+10,T_24_B_HANGAR,unread,-124.9;-47.4;135.1;212.6,minimap_cs_airport,6
+11,T_23_B_DAM,unread,440.8;382.1;670.8;612.1,minimap_cs_dam_fix,6
+12,T_43_YS_MINIMAP_FISHINGVILLAGE,unread,-298.5;-443.6;1.5;-143.6,minimap_cs_fishingvillage,6
+13,T_43_YS_MINIMAP_PEAK,peak,575.3;-25.6;775.3;174.4,minimap_cs_peak,8

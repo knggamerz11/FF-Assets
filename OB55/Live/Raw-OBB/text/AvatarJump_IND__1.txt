@@ -1,0 +1,16 @@
+SortID,AvatarId,Language,SkillJumpUrl,VideoJumpUrl,Training
+SortID,unread,unread,unread,unread,unread
+189,102000052,default,,https://www.youtube.com/watch?v=ZusmHmrjhyg,
+1,101000053,en,https://youtu.be/NQQ7Z66ZUyg,https://youtu.be/Q7w80jfLW24,
+2,101000053,default,https://youtu.be/bfRVZe8NpXU,https://youtu.be/Q7w80jfLW24,
+3,102000054,en,https://youtu.be/BpEBlbhiZOA,https://www.youtube.com/shorts/V9VFR31aB04,
+4,102000054,default,https://youtu.be/sZhoGc6QHLw,https://www.youtube.com/shorts/V9VFR31aB04,
+5,102000055,en,https://youtu.be/slGzchrAles,https://youtu.be/Ifc8yzsDeok,V2_workshopCode_#M9E7AK
+6,102000055,default,https://youtu.be/4GrZkjNnAMg,https://youtu.be/Ifc8yzsDeok,V2_workshopCode_#M9E7AK
+7,102000041,default,,,V2_workshopCode_#ORION1
+8,102000056,en,https://youtu.be/lPFEDxtkeJI,,V2_workshopCode_#ECLTRN
+9,102000056,default,https://youtu.be/ZEL7tyFMoC4,,V2_workshopCode_#ECLTRN
+10,102000037,default,,,V2_workshopCode_#ECLTRN
+11,102000036,en,https://youtu.be/uaXmmlVvT1w,https://youtu.be/xIj6aewdF38,
+12,102000036,default,https://youtu.be/wX0r5OvJs9Q,https://youtu.be/xIj6aewdF38,
+13,102000031,default,,,V2_workshopCode_#C1S4FG

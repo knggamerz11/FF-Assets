@@ -1,0 +1,214 @@
+{
+    "Prefabs" : [
+        {
+            "PrefabName" : "Backpack_Digitaluniverse_001_Low",
+            "PrefabUUID" : "Y3Ch88zD.mw73f2foh4a-m2bnf9g9-chs7qlg8v8r",
+			"NameLocKey" : "Backpack_Digitaluniverse_001_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 51531108100003,
+            "EntityType": "Y3Ch88zD00CustomComponent78813686",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "Backpack_Digitaluniverse_002_Low",
+            "PrefabUUID" : "Y3Ch88zD.ulmx6km1fo8-m2bnjkti-qobb7wpfiqa",
+			"NameLocKey" : "Backpack_Digitaluniverse_002_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 51531108100002,
+            "EntityType": "Y3Ch88zD00CustomComponent10522396",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "Backpack_Digitaluniverse_003_Low",
+            "PrefabUUID" : "Y3Ch88zD.nib7qso35m-m2bnm67s-6a7wbeaz01u",
+			"NameLocKey" : "Backpack_Digitaluniverse_003_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 51531108100002,
+            "EntityType": "Y3Ch88zD00CustomComponent10522396",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "Backpack_Digitaluniverse_Red_001_Low",
+            "PrefabUUID" : "Y3Ch88zD.i2o69edw22r-m2czccep-kfa3yqj4zj",
+			"NameLocKey" : "Backpack_Digitaluniverse_Red_001_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 51531108100001,
+            "EntityType": "Y3Ch88zD00CustomComponent46998555",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "Backpack_Digitaluniverse_Red_002_Low",
+            "PrefabUUID" : "Y3Ch88zD.nkmytp4wkof-m2cze6tl-gif9wzqthdk",
+			"NameLocKey" : "Backpack_Digitaluniverse_Red_002_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 51531108100005,
+            "EntityType": "Y3Ch88zD00CustomComponent59944227",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "Backpack_Digitaluniverse_Red_003_Low",
+            "PrefabUUID" : "Y3Ch88zD.v2j6a2k1gwe-m2czfxql-f25wgsdnp1n",
+			"NameLocKey" : "Backpack_Digitaluniverse_Red_003_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 51531108100006,
+            "EntityType": "Y3Ch88zD00CustomComponent75095381",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1423 @@
+{
+	"whitelist" :{
+		"mappings": [
+				/*
+					"usage": 
+						0: include(default))
+						1: exclude(not build into ab)
+						2: skip ref-checks(for resources)
+						3: include mapping(2i'th col mapped to (2i+1)'th col)
+				*/
+				{
+			"type": "uma",
+			"csvs" :[
+				{
+					"usage" : 2,
+					"sep"	: ",",
+					"name" 	: "Config/Avatar",
+					"cols" 	:[
+						"RecipeValueInLobby_notAb",	"RecipeValueInGame_notAb"
+					]
+				},
+				{
+					"sep"	: ",",
+					"name" 	: "Config/Avatar",
+					"cols" 	:[
+						"RecipeValueInLobby_inAb",	"RecipeValueInGame_inAb"
+					]
+				},
+				{
+					"usage" : 3,
+					"name" 	: "Config/AvatarHDRecipe",
+					"cols" 	:[
+						"DefaultRecipeValue", 	"HDRecipeValue"
+					]
+				},
+				{
+					"usage" : 1,
+					"name" 	: "Config/AvatarTable",
+					"cols" 	:[
+						"RecipeValue", 			"RecipeValue_N",
+						"RecipeValueFemale", 	"RecipeValueFemale_N"
+					]
+				},
+				{
+					"usage" : 2,
+					"name" 	: "Config/AvatarSpecialTable",
+					"cols" 	:[
+						"RecipeValue"
+					]
+				},				
+				{
+					"usage" : 2,
+					"name" 	: "Config/ClothesMapping",
+					"cols" 	:[
+						"TargetRecipe",			"ConditionRecipe",		"ResultRecipe"
+					]
+				},
+				{
+					"usage" : 2,
+					"name" 	: "Config/ClothesSpecial",
+					"cols" 	:[
+						"RecipeValueInLobby",	"RecipeValueInGame"
+					]
+				},
+				{
+					"name" 	: "Config/Clothes",
+					"cols" 	:[
+						"RecipeValueInLobby_M",
+						"RecipeValueInGame_M",	
+						"RecipeValueInLobby_F",
+						"RecipeValueInGame_F"
+					]
+				},
+				{
+					"name" 	: "Config/CollectionBackpack",
+					"cols" 	:[
+						"RecipeValueLv1",   "RecipeValueLv1_N", "RecipeValueFemaleLv1", "RecipeValueFemaleLv1_N",
+                        "RecipeValueLv2",   "RecipeValueLv2_N", "RecipeValueFemaleLv2", "RecipeValueFemaleLv2_N",
+                        "RecipeValueLv3",   "RecipeValueLv3_N", "RecipeValueFemaleLv3", "RecipeValueFemaleLv3_N"
+					]
+				},
+				{
+					"usage": 5,
+					"hd_usage": 3,
+					"name": "HD/Config/AvatarHDRecipe",
+					"cols": [
+						"DefaultRecipeValue",
+						"HDRecipeValue"
+					]
+				}
+			],
+			"excludes" :[
+			]
+		},
+		{
+			"type": "res",
+			"csvs": [
+				{
+					"usage" : 0,					
+					"name" 	: "Config/WeaponExecutionTable",
+					"cols" 	:[
+						"execution_anim",
+						"execution_anim_female",
+						"execution_anim_effect",
+						"execution_anim_sound",
+						"execution_camera_anim",
+						"preview_finish_move",
+						"preview_male_anim"	,
+						"preview_female_anim",
+						"preview_male_anim_vfx",
+						"preview_female_anim_vfx",
+						"fullscreen_hud_effect",
+						"AttackerVFX",
+						"VictimAnim",
+						"VictimAnim_female"
+					]
+				},	
+				{
+					"name" 	: "Config/ClothesTrigger",
+					"cols" 	:[
+						"MaleSkeletonAnimation",	
+						"FemaleSkeletonAnimation",	
+						"IngameMaleSkeletonAnimation",	
+						"IngameFemaleSkeletonAnimation"
+					]
+				},			
+				{
+					"usage" : 2,					
+					"name" 	: "Config/WeaponExecutionTable",
+					"cols" 	:[
+						"execution_anim",
+						"execution_anim_female",
+						"execution_anim_effect",
+						"execution_anim_sound",
+						"execution_camera_anim",
+						"preview_finish_move",
+						"preview_male_anim"	,
+						"preview_female_anim",
+						"preview_male_anim_vfx",
+						"preview_female_anim_vfx",
+						"fullscreen_hud_effect"
+					]
+				},
+				{
+					"usage" : 2,
+					"name" 	: "Config/SoundGroup",
+					"cols" 	:[
+						"SoundID"			
+					]
+				},
+				{
+					"name" 	: "Config/CollectionFinalShot",
+					"cols" 	:[
+						"PreviewLastKillEffect",
+						"IngameLastKillEffect",
+						"IngameLastKillEffectPerson",
+						"LastKillAnim",
+						"LastKillAnimFemale",
+						"PreviewLastKillAnimEffect",
+						"PreviewLastKillAnimEffectFemale",
+						"IngameLastKillAnimEffect",
+						"IngameLastKillAnimEffectFemale",
+						"BooyahSkin",
+						"BooyahSkinPreview",
+						"IngameLastKillSound"
+					]
+				},
+				{
+					"name": "Config/DuoEmote",
+					"cols": [
+						"PreviewDuoAnimationMale",
+						"VFXPreviewDuoMale",
+						"PreviewDuoAnimationFemale",
+						"VFXPreviewDuoFemale",
+						"PreviewDuoAnimationIdleMale",
+						"PreviewDuoAnimationIdleFeMale",
+						"DuoInviterMaleID",
+						"VFXDuoMaleInviteID",
+						"DuoInviteeMaleID",
+						"DuoInviterFemaleID",
+						"VFXDuoFemaleInviteID",
+						"DuoInviteeFemaleID",
+						"DuoInviterMaleIdleID",
+						"VFXDuoMaleInviteIdleID",
+						"DuoInviteeMaleIdleID",
+						"DuoInviterFemaleIdleID",
+						"VFXDuoFemaleInviteIdleID",
+						"DuoInviteeFemaleIdleID",
+						"SFXResourceId",
+						"SFXResourceidleId"
+					]
+				},
+				{
+					"usage" : 2,
+					"name" 	: "Config/UGC/WorkshopVFXLibrary",
+					"cols" 	:[
+						"ResourceId",
+						"PreviewVFXResourceId"				
+					]
+				},
+				{
+					"usage" : 2,
+					"name" 	: "Config/UGC/WorkshopSoundLibrary",
+					"cols" 	:[
+						"ResourceId"			
+					]
+				},
+				{
+					"usage" : 2,
+					"name" 	: "Config/UGC/FPPCollectionWeapon",
+					"cols" 	:[
+						"FPPInGameResID"			
+					]
+				},
+				{
+					"usage" : 2,
+					"name" 	: "Config/DuoEmote",
+					"cols" 	:[
+						"DuoInviterMaleID",
+						"DuoInviteeMaleID",
+						"DuoInviterFemaleID",
+						"DuoInviteeFemaleID"				
+					]
+				},
+				{
+					"name": "Config/CollectionBackpack",
+					"cols": [
+						"PreviewResIDLV1",
+						"PreviewResIDLV2",
+						"PreviewResIDLV3",
+						"ModleIDM",
+						"ModleIDF",
+						"LowModleIDM",
+						"LowModleIDF",
+						"FeMaleIngameEffectLV3",
+						"MaleIngameEffectLV3",
+						"MaleRedEffectLV3",
+						"FemaleRedEffectLV3",
+						"MaleTriggerEffectLV3",
+						"FemaleTriggerEffectLV3"
+					]
+				},
+				{
+					"name": "Config/Avatar",
+					"cols": [
+						"InGameSpecialAnim",
+						"StandIdleResID",
+						"ShowPoseResID",
+						"VFXShowPose"
+					]
+				},
+				{
+					"name": "Config/AvatarSuit",
+					"cols": [
+						"SuitAnimation"
+					]
+				},
+				{
+					"name": "Config/CollectionEmote",
+					"sep"	: ";",
+					"cols": [
+						"AnimationMaleID",
+						"AnimationMaleIdleID",
+						"PreviewAnimationMaleCameraID",
+						"AnimationMaleCameraID",
+						"AnimationFemaleID",
+						"AnimationFemaleIdleID",
+						"PreviewAnimationFemaleCameraID",
+						"AnimationFemaleCameraID",
+						"PropID",
+						"PropIDLeft",
+						"PropIDRight",
+						"PropIDHead",
+						"VFXMaleIngame",
+						"VFXMaleSystem",
+						"VFXFemaleIngame",
+						"VFXFemaleSystem",						
+						"SFXResourceId",
+						"SFXResourceidleId",
+						"FootStepsResId"
+					]
+				},
+				{				
+					"name": "Config/BattleFlag",
+					"idCol":"link_id",
+					"cols": [
+						"ModelRes",	
+						"LobbyModelRes"		
+					]
+				},
+				{
+					"name": "Config/CollectionSuperEmote",
+					"sep"	: ";",
+					"cols": [
+						"PreviewMaleAnim",
+						"PreviewFemaleAnim",
+						"PreviewMaleAnimVFX",
+						"PreviewFemaleAnimVFX",
+						"SFXResourceId",
+						"PreviewVideo",
+						"VFXIngameChangeScene",
+						"SoundIngameChangeScene",
+						"IngameCamera"					
+					]
+				},
+				{
+					"name": "Config/CooperateEmote",
+					"sep"	: ";",
+					"cols": [
+						"PreviewMaleCooperateEmoteResID",
+						"PreviewMaleCooperateEmoteIdleID",
+						"PreviewFemaleCooperateEmoteResID",
+						"PreviewFemaleCooperateEmoteIdleResID",
+						"PreviewMaleVFX",
+						"PreviewFemaleVFX",
+						"RandomMaleVFXS",
+						"RandomFemaleVFXS"
+					]
+				},				
+				{
+					"name": "Config/CollectionAction",
+					"sep"	: ";",
+					"cols": [
+						"AnimationMaleLobby",
+						"VFXActionMale",
+						"AnimationFemaleLobby",
+						"VFXActionFemale",
+						"AnimationIngameResId"
+					]
+				},
+				{
+					"name": "Config/CollectionQuickChat",
+					"sep"	: ";",
+					"cols": [
+						"ResID"
+					]
+				},
+				{
+					"name": "Config/CollectionLootBox",
+					"cols": [
+						"PreviewResID",
+						"InGameResID",
+						"InGameTexture"
+					]
+				},
+				{
+					"name": "Config/CollectionParachute",
+					"cols": [
+						"PreviewResID",
+						"InGameResID"
+					]
+				},
+				{
+					"name": "Config/CollectionSkyboard",
+					"cols": [
+						"PreviewResID",
+						"InGameResID"
+					]
+				},
+				{
+					"name": "Config/CollectionSkill",
+					"sep"	: ";",
+					"cols": [
+						"MalePreviewSkill",
+						"FemalePreviewSkill",
+						"Awaken1PResource",
+						"Awaken3PTeamResource",
+						"1PResource",
+						"3PTeamResource"
+
+					]
+				},
+				{
+					"name": "Config/CollectionVehicleSkin",
+					"cols": [
+						"PreviewResID",
+						"InGameResID",
+						"InGameWithEffectResID",
+						"HorseMoveEffect",
+						"PreviewHorseMoveEffect",
+						"OverdriveSkin",
+						"PreviewOverdriveSkin",
+						"OverdriveSkinSound2D",
+						"OverdriveSkinSound3D"
+					]
+				},
+				{
+					"name": "Config/CollectionGroupAnim",
+					"cols": [
+						"AnimationMaleID",
+						"ArriveAnimMaleIdle",						
+						"AnimationFemaleID",
+						"ArriveAnimFemaleIdle",						
+						"AnimationMaleCameraID",
+						"AnimationFemaleCameraID",
+						"VFXMaleIngame",
+						"VFXMaleSystem",
+						"VFXFemaleIngame",
+						"VFXFemaleSystem",
+						"SFXResourceId"
+					]
+				},
+				{
+					"name": "Config/CollectionMusic",
+					"cols": [
+						"ResID"
+					]
+				},
+				{
+					"name": "Config/CollectionBookHiddenPage",
+					"cols": [
+						"VFXRes"
+					]
+				},
+				{
+					"name": "Config/CollectionBookStoreShow",
+					"sep"	: ";",
+					"cols": [
+						"PreviewResID",
+						"VFXRes",
+						"BookshelfOpenResID",
+						"ContentResID",
+						"ContentDecorationNormalResID",
+						"ContentDecorationHiddenResID",
+						"ContentBackgroundNormalResID",
+						"ContentBackgroundHiddenResID",
+						"ContentMaterialNormalResIDArray",
+						"ContentMaterialHiddenResIDArray"
+					]
+				},
+				{
+					"name": "Config/BackpackMaterialRef",
+					"cols": [
+						"Male Level 1 Ref ID",
+						"Male Level 2 Ref ID",
+						"Male Level 3 Ref ID",
+						"Female Level 1 Ref ID",
+						"Female Level 2 Ref ID",
+						"Female Level 3 Ref ID"
+					]
+				},
+				{
+					"name": "Config/ClothesExt",
+					"cols": [
+						"FootHaloResId",
+						"AnimationIDMale",
+						"AnimationIDFemale",
+						"ShowPoseAnimIDMale",
+						"ShowPoseAnimIDFemale",
+						"VFXPoseAnimIDMale",
+						"VFXPoseAnimIDFemale"
+					]
+				},
+				{
+					"name": "Config/ClothesExt_Effect",
+					"cols": [
+						"EffectIDM",
+						"EffectIDM3P",
+						"EffectIDF",
+						"EffectIDF3P"
+					]
+				},
+				{
+					"name": "Config/ClothesEffects",
+					"idCol":"ClothesID",
+					"cols": [
+						"EffectIDM",
+						"EffectIDF",
+						"LobbyEffectIDM",
+						"LobbyEffectIDF",
+						"EffectIDM3P",
+						"EffectIDF3P",
+						"PrivilegeNormalEffect",
+						"PrivilegeEffectIDM",
+						"PrivilegeEffectIDMF",
+						"PrivilegeEffectWithoutAvatar",
+						"MaleCountEffectPriview",
+						"FemaleCountEffectPriview"
+					]
+				},
+				{
+					"name": "Config/SpecialCharactervoice",
+					"idCol":"CharacterID",
+					"cols": [
+						"EffectSoundID"
+					]
+				},
+				{
+					"name": "Config/AvatarTransform",
+					"cols": [
+						"TransformerResId_1P",
+						"Transformer2ResId_1P",
+						"TransformerResId_3P",
+						"Transformer2ResId_3P",
+						"TransformVFXIngame1pStep1",
+						"TransformVFXIngame1pStep2",
+						"TransformVFXIngame3pStep1",
+						"TransformVFXIngame3pStep2"
+					]
+				},
+				{
+					"name": "Config/CollectionTransform",
+					"cols": [
+						"AnimationMaleBeforeID",
+						"AnimationMaleBeforeID2",
+						"AnimationMaleAfterID",
+						"AnimationMaleAfterID2",
+						"AnimationMaleBeforeID3",
+						"AnimationMaleAfterID3",
+						"AnimationMaleBeforeID4",
+						"AnimationMaleAfterID4",
+						"AnimationFemaleBeforeID3",
+						"AnimationFemaleAfterID3",
+						"AnimationFemaleBeforeID4",
+						"AnimationFemaleAfterID4",
+						"AnimationFemaleBeforeID",
+						"AnimationFemaleBeforeID2",
+						"AnimationFemaleAfterID",
+						"AnimationFemaleAfterID2",
+						"TransformVFXLobbyMale",
+						"TransformVFXLobbyMale2",
+						"TransformVFXIngameMale",
+						"TransformVFXIngameMale2",
+						"TransformVFXLobbyFemale",
+						"TransformVFXLobbyFemale2",
+						"TransformVFXIngameFemale",
+						"TransformVFXIngameFemale2",
+						"TransformVFXLobbyMale3",
+						"TransformVFXIngameMale3",
+						"TransformVFXLobbyMale4",
+						"TransformVFXIngameMale4",
+						"TransformVFXIngameFemale3",
+						"TransformVFXLobbyFemale3",
+						"TransformVFXIngameFemale4",
+						"TransformVFXLobbyFemale4",
+						"TransformTriggerEffectLobbyFemale",
+						"TransformTriggerEffectLobbyFemaleB",
+						"InGameSoundEffect1",
+						"InGameSoundEffect2",
+						"InGameSoundEffect3",
+						"InGameSoundEffect4",
+						"InGameSoundEffectBackToIdle"
+					]
+				},
+				{
+					"name": "Config/LegendClothExclusive",
+					"cols": [
+						"ParachuteEffectMale",
+						"ParachuteEffectFemale",
+						"FootHaloMale",
+						"FootHaloFemale"
+					]
+				},
+				{
+					"name": "Config/LudoGame",
+					"cols": [
+						"chess_res",
+						"chess_action_res"
+					]
+				},
+				{
+					"name": "Config/GrenadeSkin_Property",
+					"cols": [
+						"model",
+						"explode_effect"
+					]
+				},
+				{
+					"name": "Config/TimeLineAudio",
+					"idCol": "AnimItemID",
+					"cols": [
+						"AudioID"
+					]
+				},
+				{
+					"name": "Config/CollectionWeapon",
+					"sep"	: ";",
+					"cols": [
+						"PreviewResID",
+						"Preview_effect",
+						"Particles",
+						"InGameResID_3P",
+						"InGameResID_1P",
+						"InGameBack",
+						"FireEffect",
+						"AnnouncementType",
+						"PreviewShootEffect",
+						"PreviewHitEffect",
+						"IngameHitEffect",
+						"PreviewKillEffect",
+						"IngameKillEffect",
+						"KnockDownUIFXRes",
+						"PreviewBackRes",
+						"PreviewGrenadeGun",
+						"AceTeamUIFXRes",			
+						"FireSoundMuffler",
+						"SecondFireSound",
+						"SecondFireEffect",
+						"HUDHitEffect",
+						"IngameSwitchGunMale",
+						"IngameSwitchGunFemale",					
+						"HDIngameSwitchGunMale",
+						"HDIngameSwitchGunFemale"
+					]
+				},
+				{
+					"name": "Config/CollectionWeaponExt",
+					"sep"	: ";",
+					"cols": [
+						"FireEffect2",
+						"FireEffect3",
+						"FireSound",
+						"KatanaSound",
+						"PreviewGunTrace",
+						"IngameGunTrace",
+						"SecondInGameResID_3P",
+						"InGameResSecond_1P",
+						"SecondInGameBack",
+						"SecondParticles",
+						"PreviewFireSound",
+						"previewSpecialSound",
+						"PreviewReloadMale",
+						"PreiewReloadFemale",
+						"IngameReload",
+						"IngameChangeWeaponSound",
+						"IngameClipInSound",
+						"IngameClipOutSound",
+						"SwitchGunResource",
+						"KillNotificationUIFXRes",
+						"MultiKillSound",
+						"AceSound",
+						"PreviewSwitchGunMale",
+						"PreviewSwitchGunFemale",
+						"PreviewRunEffect",
+						"IngameRunEffect"
+					]
+				},
+				{
+					"name" 	: "Config/WeaponScopeSkin",
+					"cols" 	:[
+						"HudSightReskinOpening",
+						"HudSightReskinSight",
+						"HudSightOpeningVFX_Reddot",
+						"HudSightVFX_Reddot",
+						"HudSightOpeningVFX",
+						"HudSightVFX",
+						"HudSightOpeningVFX_Four",
+						"HudSightVFX_Four",
+						"HudSightOpeningVFX_Eight",
+						"HudSightVFX_Eight"
+					]
+				},
+				{
+					"name": "Config/CharacterSound",
+					"cols": [
+						"VoiceID"
+					]
+				},
+				{
+					"name" 	: "Config/IceWallSkinTable",
+					"cols" 	:[
+						"inGameRes"
+					]
+				},
+				{
+					"usage" : 2,
+					"name" 	: "Config/IceWallSkinTable",
+					"cols" 	:[
+						"PreviewRes"
+					]
+				},
+				{
+					"usage" : 2,
+					"name" 	: "Config/IceWallTable",
+					"cols" 	:[
+						"model"
+					]
+				},
+				{
+					"usage" : 0,
+					"name" 	: "Config/BuildingWeaponSkin_Property",
+					"links":
+					[
+						{
+							"srcCol": "wall_type",
+							"targetCol" : "id",
+							"name" 	: "Config/IceWallTable",
+							"cols" 	:[
+								"vfx"
+							]
+						}
+					]
+				},
+				{
+					"usage": 2,
+					"name": "Config/MapConfig",
+					"cols": [
+						"*"
+					]
+				},
+				{
+					"usage" : 2,
+					"name" 	: "Config/OptionAbLobbyRes",
+					"cols" 	:[
+						"ResId"
+					]
+				},
+				{
+					"usage": 2,
+					"name": "Config/KillSound",
+					"cols": [
+						"*"
+					]
+				},
+				{
+					"usage": 2,
+					"name": "Config/Minimap",
+					"cols": [
+						"*"
+					]
+				},
+				{
+					"usage": 2,
+					"name": "Config/SoundIDConfig",
+					"cols": [
+						"SoundID"
+					]
+				},
+				{
+					"usage": 2,
+					"name": "Config/TailorSpotlightConfig",
+					"cols": [
+						"SpotlightResIdIngame",
+						"SpotlightResIdLobby"
+					]
+				},
+				{
+					"usage": 2,
+					"name": "Config/LegendClothExclusive",
+					"cols": [
+						"FootHaloMale",
+						"ParachuteEffectMale"
+					]
+				},
+				{
+					"name": "Config/Pet",
+					"cols": [
+						"InGameModel",
+						"InGameModel3P",
+						"IngameSkinPrefabMode",
+						"IngameSkinPrefab3PMode",
+						"PreviewModel",
+						"FeedSfx",
+						"FeedVFX",
+						"MultiFeedVFX",	
+						"LobbySfx",
+						"LobbyVfx",											
+						"LobbyBasicAnimRes",
+						"InGameBasicAnimRes",
+						"IdleVoice",											
+						"CheerVoice",
+						"ShowVoice"
+					]
+				},
+				{
+					"name": "Config/PetSkin",
+					"cols": [
+						"UISkinPrefab",
+						"IngameSkinPrefab",
+						"IngameSkinPrefab3P",
+						"IngameSkinPrefabMode",
+						"IngameSkinPrefab3PMode"
+					]
+				},
+				{
+					"name": "Config/PetAction",
+					"cols": [
+						"ActionSfx",
+						"ActionVFX",
+						"AnimResource"
+					]
+				},
+				{
+					"name": "HD/Config/FacialExpressionCtrl",
+					"idCol": "AvatarID",
+					"skipOpt": true,
+					"cols": [
+						"Animation"
+					]
+				},
+				{
+					"name": "Config/CollectionFlight",
+					"cols": [
+						"PreviewResID",
+						"PreviewResMale",	
+						"PreviewResFemale",											
+						"InGameResID",
+						"InGameResIDFemale",						
+						"InGameResID3P",
+						"FemaleInGameResID3P",						
+						"AccOnceSoundIDOn",
+						"AccOnceSoundIDOff",
+						"DivingOnceSoundIDOn",
+						"DivingOnceSoundIDOff",
+						"EjectSoundID",
+						"EndSoundID",
+						"FlightLevelSoundID",
+						"OpenParaSoundID",
+						"EngineLoopSoundID",
+						"EngineLoopSoundIDWwise",
+						"MusicID",
+						"AnimID",
+						"FemaleAnimID",
+						"OpeningCameraRes",	
+						"SkinUpgradeAnime",	
+						"LandAnimClip",	
+						"LandAnimClipFemale",	
+						"OpeningCameraEndEffect"							
+					]
+				}
+					]
+				}
+			],
+		"list_beta" : [
+			"914055001",
+			"211054052",
+			"211055001",
+			"211055002",
+			"203055000",
+			"204055000",
+			"205055000",
+			"203055001",
+			"204055001",
+			"205055001",
+			"203055002",
+			"204055002",
+			"205055002",
+			"211055000",
+				"FF_VFX_ShopShow_Male_Cos_WB_Boy_Gacha",
+				"FF_VFX_SHOPSHOW_MALE_COS_WB_BOY_GACHA_IDLE",
+                "UIWB_GACHA_TW_BUYBTN",
+				"UIWB_GACHA_TW_CONTENT",
+				"UIWB_GACHA_TW_EXCHANGEITEM",
+				"UIWB_GACHA_TW_ITEM",
+				"UIWB_GACHA_TW_ITEMLARGE",
+				"UIWB_GACHA_TW_ITEMSUPERLARGE",
+				"SOUND_OB55_WB_GACHA_GOODS_SUPERLARGE",
+                "SOUND_OB55_WB_GACHA_GOODS_SMALL",
+                "SOUND_SHOPSHOW_WB_BOY",
+                "SOUND_SHOPSHOW_WB_BOY_IDLE",
+                "SOUND_SHOPSHOW_WB_CAT_IDLE",
+                "SOUND_TRANSFORM_WB_FIRE",
+                "SOUND_TRANSFORM_WB_X", 
+				"SOUND_OB55_WB_GACHA_GOODS_LARGE",
+				 "SOUND_TRANSFORM_WB_FIRE",
+                "SOUND_TRANSFORM_WB_X"
+		],	
+		"list" : [
+			"914055001",
+			"211054052",
+			"211055001",
+			"211055002",
+			"203055000",
+			"204055000",
+			"205055000",
+			"203055001",
+			"204055001",
+			"205055001",
+			"203055002",
+			"204055002",
+			"205055002",
+			"211055000",
+				"FF_VFX_ShopShow_Male_Cos_WB_Boy_Gacha",
+				"FF_VFX_SHOPSHOW_MALE_COS_WB_BOY_GACHA_IDLE",
+				"UIWB_GACHA_TW_BUYBTN",
+				"UIWB_GACHA_TW_CONTENT",
+				"UIWB_GACHA_TW_EXCHANGEITEM",
+				"UIWB_GACHA_TW_ITEM",
+				"UIWB_GACHA_TW_ITEMLARGE",
+				"UIWB_GACHA_TW_ITEMSUPERLARGE",
+				"SOUND_OB55_WB_GACHA_GOODS_SUPERLARGE",
+				"SOUND_OB55_WB_GACHA_GOODS_SMALL",
+				"SOUND_SHOPSHOW_WB_BOY",
+				"SOUND_SHOPSHOW_WB_BOY_IDLE",
+				"SOUND_SHOPSHOW_WB_CAT_IDLE",
+				"SOUND_TRANSFORM_WB_FIRE",
+				"SOUND_TRANSFORM_WB_X",
+				"SOUND_OB55_WB_GACHA_GOODS_LARGE",
+				"BACKGROUND_3D_OBJECTS_2",
+				"BACKGROUND_LOGIN_QUALITY_OBJECT2",
+				"SOUND_TRANSMIT_START_ENEMY",
+				"SOUND_TRANSMIT_START_TEAMMATE",
+				"SOUND_TRANSMIT_LOOP_ENEMY",
+				"SOUND_TRANSMIT_LOOP_TEAMMATE",
+				"SOUND_TRANSMIT_LAND_ENEMY",
+				"SOUND_TRANSMIT_LAND_TEAMMATE",
+				"SOUND_TRANSMIT_CHECKYES",
+				"SOUND_TRANSMIT_NOTICE",
+				"SOUND_TRANSMIT_PRELAND_ENEMY",
+				"SOUND_TRANSMIT_BEAM_LOOP_ENEMY",
+				 "SOUND_TRANSFORM_WB_FIRE",
+                "SOUND_TRANSFORM_WB_X", 
+				"203000902",
+				"203000961",
+				"203000990",
+				"203001063",
+				"203001104",
+				"203001105",
+				"203001147",
+				"203001148",
+				"203001219",
+				"203001220",
+				"203001233",
+				"203001234",
+				"203001235",
+				"203001236",
+				"203001272",
+				"203001273",
+				"204000595",
+				"204000644",
+				"204000668",
+				"204000728",
+				"204000759",
+				"204000760",
+				"204000794",
+				"204000795",
+				"204000855",
+				"204000856",
+				"204000867",
+				"204000868",
+				"204000869",
+				"204000870",
+				"204000901",
+				"204000902",
+				"205000538",
+				"205000585",
+				"205000609",
+				"205000669",
+				"205000699",
+				"205000700",
+				"205000725",
+				"205000726",
+				"205000781",
+				"205000782",
+				"205000793",
+				"205000794",
+				"205000795",
+				"205000796",
+				"205000822",
+				"205000823",
+				"211000787",
+				"211000879",
+				"211000971",
+				"211000990",
+				"211001023",
+				"211001024",
+				"211001055",
+				"211001056",
+				"211001086",
+				"211001087",
+				"211001139",
+				"211001140",
+				"211001153",
+				"211001154",
+				"211001155",
+				"211001156",
+				"211001180",
+				"211001214",
+				"211001215",
+				"214000055",
+				"214000056",
+				"214000088",
+				"214000106",
+				"214000107",
+				"214000108",
+				"214000109",
+				"907002422",
+				"907002423",
+				"907002424",
+				"907002425",
+				"907002517",
+				"907002518",
+				"907002519",
+				"907002732",
+				"907102422",
+				"907102423",
+				"907102424",
+				"907102425",
+				"907102517",
+				"907102518",
+				"907102519",
+				"907102732",
+				"907102801",
+				"907102932",
+				"907103138",
+				"907103336",
+				"907103338",				
+				"907202422",
+				"907202423",
+				"907202424",
+				"907202425",
+				"907202517",
+				"907202518",
+				"907202519",
+				"908027006",
+				"203034035",
+				"204034034",
+				"205034034",
+				"211034033",
+				"211034074",
+				"203034036",
+				"204034035",
+				"205034035",
+				"211034034",
+                "211034075",
+				"907103451",
+				"907103555",
+				"907103556",
+				"907103557",
+				"912035001",
+				"Male_Hair_Sc_MMAFighter_N",
+				"Male_Hair_Sc_MMAFighter",
+				"Male_Head_Sc_MMAFighter_N",
+				"Male_Head_Sc_MMAFighter",
+				"Female_Hair_Sc_Researcher_N",
+				"Female_Hair_Sc_Researcher",
+				"Female_Head_Sc_Researcher_N",
+				"Female_Head_Sc_Researcher",
+				"907136036",
+				"903036005",
+				"906036005",
+				"905036003",
+				"907136029",
+				"909036009",
+				"906039005",
+				"908039006",
+				"903039007",
+				"907103951",
+				"907103929",
+				"904039010",
+				"903039004",
+				"907193601",
+				"907193602",
+				"907193603",
+				"907193604",
+				"907193605",
+				"907193606",
+				"907193607",
+				"907193608",				
+				"VFX_PREVIEWLASTKILL_FEMALE_GHOSTFACE",
+                "female_accessory_bighead_001",
+				"female_accessory_bighead_001_N",
+				"female_accessory_bighead_002",
+				"female_accessory_bighead_002_N",
+				"female_accessory_bighead_003",
+				"female_accessory_bighead_003_N",
+				"Female_Accessory_Cos_Impermanence_Headwear",
+				"Female_Accessory_Cos_Impermanence_Headwear_N",
+				"Female_Backpack_Metropolis_Cashpack",
+				"Female_Backpack_Metropolis_Cashpack_N",
+				"Female_Backpack_Spirit24_001",
+				"Female_Backpack_Spirit24_001_N",
+				"Female_Backpack_Spirit24_002",
+				"Female_Backpack_Spirit24_002_N",
+				"Female_Bottom_Cos_Darkangel",
+				"Female_Bottom_Cos_Darkangel_N",
+				"Female_Hair_Cos_Chameleon_Red_PBR",
+				"Female_Hair_Cos_Commonbald",
+				"Female_Head_Sc_Nanoscientist_Faical_N",
+				"Female_Headadditive_Cos_Rampage4_Recipe",
+				"Female_Parachute_Backpack01_N",
+				"female_Parachute_Backpack02",
+				"female_Parachute_Backpack02_N",
+				"female_Parachute_Backpack03",
+				"female_Parachute_Backpack03_N",
+				"female_Parachute_Backpack04",
+				"female_Parachute_Backpack04_N",
+				"female_Parachute_Backpack05",
+				"female_Parachute_Backpack05_N",
+				"female_shoes_006",
+				"female_shoes_Recipe_N_006",
+				"female_top_cos_violence",
+				"female_top_cos_violence_001",
+				"female_top_cos_violence_001_N",
+				"female_top_cos_violence_002",
+				"female_top_cos_violence_002_N",
+				"female_top_cos_violence_N",
+				"Female_tshirt_England_A",
+				"Female_tshirt_England_A_N",
+				"Female_Tshirt_V-Neck",
+				"Female_Tshirt_V-Neck_N",
+				"male_accessory_bighead_001",
+				"male_accessory_bighead_001_N",
+				"male_accessory_bighead_002",
+				"male_accessory_bighead_002_N",
+				"male_accessory_bighead_003",
+				"male_accessory_bighead_003_N",
+				"Male_Accessory_Cos_Angeldevil_PBR",
+				"Male_Accessory_Cos_Pursuer_Headwear",
+				"Male_Accessory_Cos_Pursuer_Headwear_N",
+				"Male_Accessory_Cos_Pursuer_Headwear_PBR",
+				"Male_Accessory_Cos_Rampage4_Thunder",
+				"Male_Accessory_Cos_Rampage4_Thunder_N",
+				"Male_Accessory_Cos_Rampage4_Thunder_PBR",
+				"Male_Accessory_Cos_Scarlet_Blue_PBR",
+				"Male_Accessory_Cos_Scarlet_PBR",
+				"Male_Accessory_Cos_Scarlet_Purple_PBR",
+				"Male_Accessory_Cos_Scarlet_Yellow_PBR",
+				"Male_Backpack_Metropolis_Cashpack",
+				"Male_Backpack_Metropolis_Cashpack_N",
+				"Male_Backpack_Spirit24_001",
+				"Male_Backpack_Spirit24_001_N",
+				"Male_Backpack_Spirit24_002",
+				"Male_Backpack_Spirit24_002_N",
+				"Male_Bottom_Cos_Angeldevil_PBR",
+				"Male_Bottom_Cos_Dunhuang_PBR",
+				"Male_Bottom_Cos_Rampage4_Thunder",
+				"Male_Bottom_Cos_Rampage4_Thunder_N",
+				"Male_Bottom_Cos_Rampage4_Thunder_PBR",
+				"Male_Bottom_Cos_Scarlet_Blue_PBR",
+				"Male_Bottom_Cos_Scarlet_PBR",
+				"Male_Bottom_Cos_Scarlet_Purple_PBR",
+				"Male_Bottom_Cos_Scarlet_Yellow_PBR",
+				"Male_Hair_Cos_Chameleon_Red_PBR",
+				"Male_Hair_Cos_Dunhuang_PBR",
+				"Male_Hair_Cos_Policeman_PBR",
+				"Male_Hair_Cos_Rampage4_Thunder",
+				"Male_Hair_Cos_Rampage4_Thunder_N",
+				"Male_Headadditive_Cos_Rampage4_Thunder_Recipe",
+				"Male_Headadditive_Cos_Underworldgang_Recipe",
+				"Male_Parachute_Backpack01_N",
+				"Male_Shoe_Cos_Angeldevil_PBR",
+				"Male_Shoe_Cos_Dunhuang_PBR",
+				"Male_Shoe_Cos_Rampage4_Thunder",
+				"Male_Shoe_Cos_Rampage4_Thunder_N",
+				"Male_Shoe_Cos_Rampage4_Thunder_PBR",
+				"Male_Shoe_Cos_Scarlet_Blue_PBR",
+				"Male_Shoe_Cos_Scarlet_PBR",
+				"Male_Shoe_Cos_Scarlet_Purple_PBR",
+				"Male_Shoe_Cos_Scarlet_Yellow_PBR",
+				"male_shoes_006",
+				"male_shoes_Recipe_N_006",
+				"Male_Top_Cos_Angeldevil_PBR",
+				"Male_Top_Cos_Dunhuang_PBR",
+				"Male_Top_Cos_Megapunch_Cape",
+				"Male_Top_Cos_Megapunch_Cape_N",
+				"Male_Top_Cos_Rampage4_Thunder",
+				"Male_Top_Cos_Rampage4_Thunder_N",
+				"Male_Top_Cos_Rampage4_Thunder_PBR",
+				"Male_Top_Cos_Rampage4_Thunder_PBR",
+				"Male_Top_Cos_Scarlet_Blue_PBR",
+				"Male_Top_Cos_Scarlet_PBR",
+				"Male_Top_Cos_Scarlet_Purple_PBR",
+				"Male_Top_Cos_Scarlet_Yellow_PBR",
+				"male_top_cos_violence_002",
+				"male_top_cos_violence_002_N",
+				"Male_Top_Cos_Werewolf",
+				"Male_Top_Cos_Werewolf_N",
+				"Male_tshirt_England_A",
+				"Male_tshirt_England_A_N",
+				"Male_Tshirt_V-Neck",
+				"Male_Tshirt_V-Neck_N",
+				"907193801",
+				"907193802",
+				"907193803",
+				"907193804",
+				"907193805",
+				"907193806",
+				"907193807",
+				"907103748",
+				"907103749",
+				"903037006",
+				"904037009",
+				"905037004",
+				"907103750",
+				"907103751",
+				"907103715",
+				"203038023",
+				"204038021",
+				"205038021",
+				"211038030",
+				"211038031",
+				"203038000",
+				"204038000",
+				"205038000",
+				"211038000",
+				"203038001",
+				"204038001",
+				"205038001",
+				"211038001",
+				"203038006",
+				"204038004",
+				"205038004",
+				"211038004",
+				"203038007",
+				"204038005",
+				"205038005",
+				"211038005",
+				"203038018",
+				"204038016",
+				"205038016",
+				"211038022",
+				"203051025",
+				"204051025",
+				"205051025",
+				"211051035",
+				"214051007",
+				"203051026",
+				"204051026",
+				"205051026",
+				"211051036",
+				"214051008",
+				"214051009",
+				"214038006",
+				"909038009",
+				"903038001",
+				"909040011",
+				"907104050",
+				"904040007",
+				"204049028",
+				"203049041",
+				"205049029",
+				"907104030",
+				"904040008",
+				"907104051",
+				"903040006",
+				"907104032",
+				"907104033",
+				"907104013",
+				"907104014",
+				"907104240",
+				"903042006",
+				"909040004",
+				"Cutscene_Cyanarm_Male_Animation",
+				"SOUND_CUTSCENE_CYANARM_MALE_ANIMATION",
+				"205038030",
+				"211038045",
+				"MALE_COS_DARKSKELETON_IDLE",
+				"MALE_COS_DARKSKELETON_SHOWPOSE",
+				"FEMALE_COS_DARKSKELETON_SHOWPOSE",
+				"SOUND_SHOPSHOW_MALE_COS_DARKSKELETON",
+				"203039033",
+				"204039033",
+				"205039033",
+				"211039051",
+				"211039052",
+				"214039007",
+				"203039055",
+				"204039050",
+				"205039044",
+				"211039072",
+				"203039017",
+				"204039017",
+				"205039017",
+				"211039026",
+				"214039005",
+				"203039012",
+				"204039012",
+				"205039012",
+				"211039018",
+				"211039019",
+				"214039002",
+				"203039013",
+				"204039013",
+				"205039013",
+				"211039020",
+				"211039021",
+				"214039003",
+				"214039009",
+				"SOUND_SHOPSHOW_MALE_COS_RAIDEN",
+				"203040027",
+				"204040027",
+				"205040028",
+				"211040045",
+				"211040046",
+				"203040028",
+				"204040028",
+				"205040029",
+				"211040047",
+				"214040007",
+				"907104144",
+				"203041041",
+				"204041033",
+				"205041035",
+				"211041049",
+				"203042028",
+				"204042026",
+				"205042026",
+				"211042034",
+				"214042010",
+				"214042012",
+				"907104335",
+				"907104428",
+				"907104538",
+				"907104539",
+				"923045001",
+                "203046025",
+                "204046023",
+                "205046023",
+                "211046034",
+                "211046035",
+                "203046026",
+                "204046024",
+                "205046024",
+                "211046036",
+                "211046037",
+                "214046006",
+                "909046004",
+                "907104651",
+                "904046008",
+                "907104630",
+                "907104631",
+                "907104632",
+                "907104407",
+                "907104702",
+                "907104703",
+                "908048001",
+                "908048002",
+                "907104837",
+                "102000035",
+                "902040029",
+                "909040014",
+                "907104077",
+                "901040034",
+                "902040030",
+                "211040064",
+                "211040065",
+                "211040066",
+                "211040067",
+                "908040008",
+                "904040010",
+                "907104076",
+                "903040007",
+                "907104075",				
+                "907104073",
+                "907104074",
+                "906040008",
+                "203033003",
+                "204033003",
+                "205033003",
+                "903049001",
+                "907104901",
+                "907105050",
+                "907105011",
+                "907105012",
+                "903050002",
+                "906050001",
+                "203050027",
+                "204050027",
+                "205050027",
+                "211050032",
+                "214050006",
+                "203050028",
+                "204050028",
+                "205050028",
+                "211050033",
+                "214050007",
+                "214050008",
+                "904050016",
+                "907105101",
+                "907104860",
+                "907105442",
+                "907105443",
+                "710055020",
+                "710055021",
+                "710055031",
+                "710055032",
+                "710055033",
+                "710055034",
+                "203055017",
+                "204055017",
+                "205055017",
+                "211055022",
+                "211055023",
+                "203055018",
+                "SOUND_SHOPSHOW_SPIRITMASK_IDLE",
+                "204055018",
+                "205055018",
+                "211055024",
+                "211055025",
+                "214055009",
+                "203055028",
+                "204055028",
+                "205055028",
+                "211055041",
+                "211055042",
+                "214055005",
+                "203055029",
+                "204055029",
+                "205055029",
+                "211055043",
+                "211055044",
+                "203055030",
+                "204055030",
+                "205055030",
+                "203055031",
+                "204055031",
+                "205055031",
+                "211055046",
+                "214055006",
+                "903055002",
+                "904055005",
+                "906055004",
+                "907105503",
+                "907105506",
+                "907105507",
+                "907105518",
+                "907105525",
+                "907105545",
+                "907105546",
+                "907105547",
+                "908055006",
+                "909055012",
+                "907105535",
+                "907105536",
+                "907105557",
+                "211055045",
+                "909055013",
+                "1310000237"
+
+		]
+	}
+}

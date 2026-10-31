@@ -1,0 +1,3 @@
+RelationType,RelationName,RelationBrokenBadgeIcon,RelationBgUrl,RelationLetterUrl
+unread,unread,unread,unread,unread
+1,T_26_AG_RELATION_CLOSEFRIEND,FF_UI_Relationship_badge_rupture,OB26/system/closefriend_bg.jpg,OB26/system/closefriend_letter_bg.png

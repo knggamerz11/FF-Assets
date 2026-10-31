@@ -1,0 +1,196 @@
+{
+  "Content": [
+    {
+      "Name": "AudioClip",
+      "LocKey": "T_49_XXJ_WS_TIMELINE_FRAME_SETTING",
+      "Arguments": [
+        {
+          "Name": "ResUID",
+          "ArgumentID": 1000,
+          "Type": "AudioType",
+          "LocKey": "T_34_M_WS_SOUND",
+          "DefaultValue": "SOUND_UAV_EXPLODE",
+          "UIStyleCustomized": "Selector"
+        },
+        {
+          "Name": "ClipLoopType",
+          "ArgumentID": 1001,
+          "Type": "Int",
+          "LocKey": "T_44_XXJ_WS_LOOPTYPE",
+          "DefaultValue": "3",
+          "UIStyleCustomized": "PopMenu",
+          "CustomPopMenuValue": {
+            "T_41_XXJ_WS_ONCE": "1",
+            "T_41_XXJ_WS_LOOP": "3",
+            "T_50_XXJ_WS_TIMELINE_CLIP_LOOP_TYPE_LOOPFOREVER": "4"
+          }
+        },
+        {
+          "Name": "Volume",
+          "ArgumentID": 1002,
+          "Type": "Int",
+          "LocKey": "T_50_META_API_141_P0",
+          "DefaultValue": "50",
+          "MaxValue": "100",
+          "MinValue": "0",
+          "StepValue": "1"
+        },
+        {
+          "Name": "Speed",
+          "ArgumentID": 1003,
+          "Type": "Float",
+          "LocKey": "T_46_META_WS_P_SPEED",
+          "DefaultValue": "1",
+          "MaxValue": "3",
+          "MinValue": "0.1",
+          "StepValue": "0.1"
+        }
+      ]
+    },
+    {
+      "Name": "AlongPathClip",
+      "LocKey": "T_49_XXJ_WS_TIMELINE_FRAME_SETTING",
+      "Arguments": [
+        {
+          "Name": "PathActorName",
+          "ArgumentID": -431001,
+          "Type": "String",
+          "LocKey": "T_48_META_TYP_431_I1",
+          "TypeNameFilter": "CustomCurvePath",
+          "UIStyleCustomized": "EntitySelector"
+        },
+        {
+          "Name": "Style",
+          "ArgumentID": -431002,
+          "Type": "TweenStyle",
+          "LocKey": "T_46_META_WS_P_TWEENSTYLE",
+          "DefaultValue": "1",
+          "UIStyleCustomized": "PopMenu"
+        },
+        {
+          "Name": "Speed",
+          "ArgumentID": -431003,
+          "Type": "Float",
+          "LocKey": "T_46_META_WS_P_SPEED",
+          "DefaultValue": "1",
+          "MaxValue": "10",
+          "MinValue": "1",
+          "StepValue": "0.1"
+        },
+        {
+          "Name": "TangentFacing",
+          "ArgumentID": -431004,
+          "Type": "Bool",
+          "LocKey": "T_48_META_API_93_P4",
+          "DefaultValue": "false"
+        }
+      ]
+    },
+    {
+      "Name": "AnimationClip",
+      "LocKey": "T_46_META_WS_C_ANIMATIONCLIP",
+      "Arguments": [
+        {
+          "Name": "ClipLoopType",
+          "ArgumentID": 1000,
+          "Type": "Int",
+          "LocKey": "T_44_XXJ_WS_LOOPTYPE",
+          "DefaultValue": "3",
+          "UIStyleCustomized": "PopMenu",
+          "CustomPopMenuValue": {
+            "T_41_XXJ_WS_ONCE": "1",
+            "T_50_XXJ_WS_TIMELINE_CLIP_LOOP_TYPE_HOLD": "2",
+            "T_41_XXJ_WS_LOOP": "3",
+            "T_50_XXJ_WS_TIMELINE_CLIP_LOOP_TYPE_LOOPFOREVER": "4"
+          }
+        },
+        {
+          "Name": "AnimationClipID",
+          "ArgumentID": 1001,
+          "Type": "AnimationClipID",
+          "LocKey": "T_38_WZY_WS_RESPATH",
+          "UIStyleCustomized": "NPCAnimClipSelector"
+        },
+        {
+          "Name": "ResUID",
+          "ArgumentID": 1002,
+          "Type": "String",
+          "LocKey": "",
+          "ShowInUI": false
+        },
+        {
+          "Name": "Speed",
+          "ArgumentID": 1004,
+          "Type": "Float",
+          "LocKey": "T_46_META_WS_P_SPEED",
+          "DefaultValue": "1",
+          "MaxValue": "3",
+          "MinValue": "0.1",
+          "StepValue": "0.1"
+        }
+      ]
+    },
+    {
+      "Name": "SwitchCameraClip",
+      "LocKey": "T_49_XXJ_WS_TIMELINE_FRAME_SETTING",
+      "Arguments": [
+        {
+          "Name": "CameraActorName",
+          "ArgumentID": 1000,
+          "Type": "String",
+          "LocKey": "T_45_XXJ_WS_CAMERA",
+          "TypeNameFilter": "BasicCamera",
+          "UIStyleCustomized": "EntitySelector"
+        }
+      ]
+    },
+    {
+      "Name": "EventKeyFrame",
+      "LocKey": "T_49_XXJ_WS_TIMELINE_FRAME_SETTING",
+      "Arguments": [
+        {
+          "Name": "EventType",
+          "ArgumentID": 1000,
+          "Type": "String",
+          "LocKey": "T_51_XXJ_WS_TIMELINE_NEW_CUSTOM_EVENT",
+          "UIStyleCustomized": "CustomEvent"
+        }
+      ]
+    },
+    {
+      "Name": "EventKeyFrameParam",
+      "LocKey": "T_49_XXJ_WS_TIMELINE_FRAME_SETTING",
+      "Arguments": [
+        {
+          "Name": "EventGUID",
+          "ArgumentID": 1000,
+          "Type": "String",
+          "LocKey": "T_46_META_WS_A_EVENTID",
+          "DataCustomized": true,
+          "UIStyleCustomized": "PopMenu"
+        },
+        {
+          "Name": "Receiver",
+          "ArgumentID": 1001,
+          "Type": "String",
+          "LocKey": "T_46_META_WS_A_TARGET",
+          "DataCustomized": true,
+          "UIStyleCustomized": "PopMenu"
+        },
+        {
+          "Name": "TargetSide",
+          "ArgumentID": 1002,
+          "Type": "Int",
+          "LocKey": "T_46_META_WS_A_PLATFORM",
+          "DefaultValue": "1",
+          "UIStyleCustomized": "PopMenu",
+          "CustomPopMenuValue": {
+            "T_46_META_WS_E_CLIENT": "1",
+            "T_46_META_WS_E_SERVER": "2",
+            "T_46_META_WS_E_BOTH": "3"
+          }
+        }
+      ]
+    }
+  ]
+}

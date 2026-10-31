@@ -1,0 +1,17 @@
+id,name,show_model,max_distance,crosshair_model,min_size
+unread,unread,unread,unread,unread,unread
+2201,unread,PaintSprayerDemo,3,PaintSprayerCrossHair,0.35
+2202,unread,PaintSprayerRampage,3,PaintSprayerCrossHairRampage,0.35
+2203,unread,PaintSprayerJumpsuit,3,PaintSprayerCrossHairJumpsuit,0.35
+2204,unread,PaintSprayerBooyahday,3,PaintSprayerCrossHairBooyahday,0.35
+2205,unread,PaintSprayerBounty,3,PaintSprayerCrossHairBounty,0.35
+2206,unread,PaintSprayerCobra,3,PaintSprayerCrossHairCobra,0.35
+2207,unread,PaintSprayerBoxer,3,PaintSprayerCrossHairBoxer,0.35
+2208,unread,PaintSprayerFFWS2021,3,PaintSprayerCrossHairFFWS2021,0.35
+2209,unread,PaintSprayerFoursymbols,3,PaintSprayerCrossHairFoursymbols,0.35
+2210,unread,PaintSprayerMusicfest,3,PaintSprayerCrossHairMusicfest,0.35
+2211,unread,PaintSprayerBooyahday21,3,PaintSprayerCrossHairBooyahday21,0.35
+2212,unread,PaintSprayerJumpsuit2,3,PaintSprayerCrossHairJumpsuit2,0.35
+2213,unread,PaintSprayerBIS,3,PaintSprayerCrossHairBIS,0.35
+2214,unread,PaintSprayerPotentia,3,PaintSprayerCrossHairPotentia,0.35
+2215,unread,PaintSprayerNewage_B,3,PaintSprayerCrossHairNewage_B,0.35

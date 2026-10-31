@@ -1,0 +1,50 @@
+{
+    "PVP_NewBlast":
+    {
+        "EnableOcclusionCulling": false,
+        "CameraCollisionOffsetBack": 0.15,
+        "CameraCollisionOffsetRight": 0.15,
+        "EnableDynamicPVS": true,
+		"EnablePVS": true,
+		"PVSNodeCount": 0
+    },
+    "PVP_AlphaIsland":
+    {
+        "EnableOcclusionCulling": false,
+        "CameraCollisionOffsetBack": 0.25,
+        "CameraCollisionOffsetRight": 0.25
+    },	
+	"PVP_Paradise":
+    {
+		"EnablePVS": true,
+		"PVSNodeCount": 0,
+    "EnableDynamicPVS": true
+    },	
+    "PVP_Pony":
+    {
+		"EnablePVS": true
+    },
+    "PVP_Sonoran":
+    {
+		"EnablePVS": true
+    },
+    "PVP_Shangrila":
+    {
+    "EnablePVS": true
+    },
+	  "PVP_RushB":
+    {
+		"EnablePVS": false,
+		"PVSNodeCount": 0
+    },	
+    "PVP_CartoonBlast":
+    {
+		"EnablePVS": true,
+		"PVSNodeCount": 0
+    },	
+	"PVP_ZombieLand":
+    {
+		"EnablePVS": false,
+		"PVSNodeCount": 0
+    }
+}

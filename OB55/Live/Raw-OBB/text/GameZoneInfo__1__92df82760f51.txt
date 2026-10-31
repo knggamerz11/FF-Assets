@@ -1,0 +1,15 @@
+ZoneID,Key,MapOffset,MiniMapName,Comments
+unread,unread,unread,unread,unread
+1,T_29_YF_FIGHTCLUB_MODEMAP,-25;375;25;425,minimap_HuntingGround_1,scene1
+2,T_29_YF_FIGHTCLUB_MODEMAP,-25;175;25;225,minimap_HuntingGround_2,scene2
+3,T_29_YF_FIGHTCLUB_MODEMAP,575;-25;625;25,minimap_HuntingGround_3,scene3
+4,T_29_YF_FIGHTCLUB_MODEMAP,175;175;225;225,minimap_HuntingGround_4,scene4
+5,T_29_YF_FIGHTCLUB_MODEMAP,175;-25;225;25,minimap_HuntingGround_5,scene5
+6,T_29_YF_FIGHTCLUB_MODEMAP,-25;-25;25;25,minimap_HuntingGround_6,scene6
+7,T_29_YF_FIGHTCLUB_MODEMAP,375;-25;425;25,minimap_HuntingGround_5,scene7
+8,T_29_YF_FIGHTCLUB_MODEMAP,375;175;425;225,minimap_HuntingGround_2,scene8
+9,T_29_YF_FIGHTCLUB_MODEMAP,378;378;422;422,minimap_FightClub_8,scene9
+10,T_29_YF_FIGHTCLUB_MODEMAP,575;-25;625;25,minimap_FightClub_9,scene10
+11,T_29_YF_FIGHTCLUB_MODEMAP,575;175;625;225,minimap_FightClub_10,scene11
+12,T_29_YF_FIGHTCLUB_MODEMAP,575;375;625;425,minimap_FightClub_11,scene12
+13,T_29_YF_FIGHTCLUB_MODEMAP,775;-25;825;25,minimap_FightClub_12,scene13

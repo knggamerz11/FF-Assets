@@ -1,0 +1,12 @@
+TargetID,SlotID,TargetDescrip,LevelBind,LevelNotBind,BubbleKey,ItemID,CDNurl
+unread,unread,unread,unread,unread,unread,unread,unread
+1,1,ALOK,3,3,T_38_MF_NEWBIECORNER_REWARD,,OB44/CSH/newbie/alok.png
+2,1,KELLY,4,4,T_38_MF_NEWBIECORNER_REWARD,,OB38/CSH/newbie/newbie6.png
+3,1,LUNA,6,6,T_38_MF_NEWBIECORNER_REWARD,,OB44/CSH/newbie/luna.png
+4,1,HAYATO,10,10,T_38_MF_NEWBIECORNER_REWARD,,OB44/CSH/newbie/hayato.png
+5,1,MAXIM,15,15,T_38_MF_NEWBIECORNER_REWARD,,OB38/CSH/newbie/newbie3.png
+6,2,unread,5,5,T_38_MF_TRAININGISLAND_PLAY,,
+7,3,unread,8,12,T_38_MF_NEWBIE_RANK,,
+8,4,unread,3,3,T_38_MF_NEWBIE_MENTOR,,
+9,5,unread,,,,102000010,
+10,5,unread,,,,102000011,

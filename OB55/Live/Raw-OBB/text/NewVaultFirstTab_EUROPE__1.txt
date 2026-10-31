@@ -1,0 +1,10 @@
+FirstTabID,undefine1,FirstTabName,Priority,IsHide
+unread,unread,unread,unread,unread
+1,Fashion,TXT_INVENTORY_AVATAR,1,
+2,Accessory,T_32_LC_NEWVAULT_COLLECTION,5,
+3,Vechicle,TXT_OB9_CX_COLLECTION_VEHICLETAG,6,
+4,Callsign,T_32_LC_NEWVAULT_CALLSIGN,7,
+5,Emote,T_32_LC_NEWVAULT_EMOTE,2,
+7,Others,T_32_LC_NEWVAULT_OTHERS,8,
+8,unread,T_42_R_NEWVAULT_INGAMEACT,3,
+9,unread,T_42_DY_NEWVAULT_SKILLSKIN,4,

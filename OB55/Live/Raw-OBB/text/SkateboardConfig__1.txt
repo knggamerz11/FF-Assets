@@ -1,0 +1,3 @@
+Id,Controller,Controller3P,Model,Speed,Accelerate,BoostSpeed,BoostDuration,BoostCooldown,BoardSlideSpeed,JumpHeight,SpinSpeed,DashEffect,JumpEffect,HBJumpCD,HBBoostInitial,HBBoostCDSwitch
+id,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+2501,INGAME_VEHICLE_SKATEBOARD,INGAME_VEHICLE_SKATEBOARD_3P,INGAME_VEHICLE_SKATEBOARD_COMP,8,2,12,2,8,1.5,1.2,1,EFFECT_SKATEBOARD_DASH,EFFECT_SKATEBOARD_JUMP,5,3,TRUE

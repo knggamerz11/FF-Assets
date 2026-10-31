@@ -1,0 +1,3 @@
+region,level,ice_wall_maker_icon,ice_wall_limited,ice_wall_charge_max,ice_wall_charge_speed,ice_wall_killer_absorb,ice_wall_absorb,need_exp,StartAndReviveIceWallReward
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+,1,UI_Icewallmaker_01,2,10,1,0,1,0,2

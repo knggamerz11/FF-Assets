@@ -1,0 +1,6 @@
+AttributeId,desc,WeaponType,AttributeWeight,BuffDataId,BuffDesc
+unread,unread,unread,unread,BuffDataId,unread
+1001,T_37_PD_HuntingGround_GUNBUFF_1,0;4;6,50;50;50,243,unread
+1002,T_37_PD_HuntingGround_GUNBUFF_2,0;4;6,50;50;50,279,unread
+1003,T_37_PD_HuntingGround_GUNBUFF_3,0;4;6,50;50;50,280,unread
+1004,T_37_PD_HuntingGround_GUNBUFF_5,0;4;6,50;50;50,282,unread

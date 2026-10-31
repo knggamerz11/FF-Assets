@@ -1,0 +1,109 @@
+{
+    "Prefabs" : [
+        {
+            "PrefabName" : "Legendarysphere_Low",
+            "PrefabUUID" : "FU3Ze4IW.i2m82o9disg-m2ftcxnz-rcmkfs4aud",
+			"NameLocKey" : "Legendarysphere_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 24303784100000,
+            "EntityType": "FU3Ze4IW00CustomComponent70105111",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "LevelDetailItemGenerator_Low",
+            "PrefabUUID" : "FU3Ze4IW.i0vpc4k8avn-m2ftfud9-gxam1a9ddxw",
+			"NameLocKey" : "LevelDetailItemGenerator_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 24303784100001,
+            "EntityType": "FU3Ze4IW00CustomComponent97132022",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "Moco_Phone_Low",
+            "PrefabUUID" : "FU3Ze4IW.smltcr4g08-m2ftil6o-45ambdf3b7y",
+			"NameLocKey" : "Moco_Phone_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 24303784100002,
+            "EntityType": "FU3Ze4IW00CustomComponent75208304",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        }
+    ]
+}

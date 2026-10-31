@@ -1,0 +1,4 @@
+Material,decalEffectID,decalEffectID1,decalEffectID2,particleEffectID,weapon,soundID,soundSwitch
+unread,unread,unread,unread,unread,unread,unread,unread
+wooden,WOODEN_BULLET_HOLE_01,WOODEN_BULLET_HOLE_02,WOODEN_BULLET_HOLE_03,IMPACT_WOODEN,,WOODEN_BULLET_HIT,Surface_Wood
+metallic,METALLIC_BULLET_HOLE_01,METALLIC_BULLET_HOLE_02,METALLIC_BULLET_HOLE_03,IMPACT_METALLIC,,METALLIC_BULLET_HIT,Surface_Metal

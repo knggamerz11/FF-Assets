@@ -1,0 +1,237 @@
+
+Luckyspin_Axolotl02_A.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Axolotl_02_Body_01
+  rotate: false
+  xy: 359, 77
+  size: 151, 52
+  orig: 151, 52
+  offset: 0, 0
+  index: -1
+Axolotl_02_Body_02
+  rotate: false
+  xy: 353, 357
+  size: 109, 154
+  orig: 109, 154
+  offset: 0, 0
+  index: -1
+Axolotl_02_Crutch
+  rotate: true
+  xy: 312, 154
+  size: 152, 184
+  orig: 152, 184
+  offset: 0, 0
+  index: -1
+Axolotl_02_Eye_01
+  rotate: false
+  xy: 2, 237
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Axolotl_02_Eye_02
+  rotate: false
+  xy: 220, 50
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+Axolotl_02_Eyelid_01
+  rotate: false
+  xy: 229, 229
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+Axolotl_02_Eyelid_02
+  rotate: false
+  xy: 15, 44
+  size: 56, 58
+  orig: 65, 61
+  offset: 5, 1
+  index: -1
+Axolotl_02_Eyelid_03
+  rotate: false
+  xy: 156, 372
+  size: 43, 16
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+Axolotl_02_Eyelid_04
+  rotate: false
+  xy: 375, 245
+  size: 55, 16
+  orig: 57, 16
+  offset: 0, 0
+  index: -1
+Axolotl_02_Face_01
+  rotate: 180
+  xy: 177, 288
+  size: 151, 105
+  orig: 151, 105
+  offset: 0, 0
+  index: -1
+Axolotl_02_Face_02
+  rotate: false
+  xy: 456, 383
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+Axolotl_02_Face_03
+  rotate: 180
+  xy: 435, 198
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+Axolotl_02_Face_04
+  rotate: false
+  xy: 455, 445
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+Axolotl_02_Face_05
+  rotate: false
+  xy: 330, 310
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+Axolotl_02_Face_06
+  rotate: true
+  xy: 329, 339
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+Axolotl_02_Face_07
+  rotate: false
+  xy: 2, 446
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Axolotl_02_Foot_02
+  rotate: true
+  xy: 15, 258
+  size: 118, 160
+  orig: 118, 160
+  offset: 0, 0
+  index: -1
+Axolotl_02_Foot_03
+  rotate: true
+  xy: 108, 209
+  size: 107, 123
+  orig: 107, 123
+  offset: 0, 0
+  index: -1
+Axolotl_02_Hand_01
+  rotate: false
+  xy: 42, 136
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+Axolotl_02_Hand_02
+  rotate: false
+  xy: 2, 162
+  size: 119, 69
+  orig: 119, 69
+  offset: 0, 0
+  index: -1
+Axolotl_02_Hand_03
+  rotate: false
+  xy: 72, 47
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+Axolotl_02_Hand_04
+  rotate: false
+  xy: 303, 500
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+Axolotl_02_Hat_01
+  rotate: 180
+  xy: 2, 90
+  size: 231, 74
+  orig: 231, 74
+  offset: 0, 0
+  index: -1
+Axolotl_02_Hat_02
+  rotate: 180
+  xy: 374, 257
+  size: 134, 118
+  orig: 134, 118
+  offset: 0, 0
+  index: -1
+Axolotl_02_Hat_03
+  rotate: false
+  xy: 339, 246
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+Axolotl_02_Hat_04
+  rotate: false
+  xy: 271, 46
+  size: 110, 47
+  orig: 112, 47
+  offset: 2, 0
+  index: -1
+Axolotl_02_Mouth_01
+  rotate: 180
+  xy: 335, 108
+  size: 135, 75
+  orig: 135, 77
+  offset: 0, 0
+  index: -1
+Axolotl_02_Mouth_02
+  rotate: false
+  xy: 2, 494
+  size: 75, 17
+  orig: 75, 17
+  offset: 0, 0
+  index: -1
+Axolotl_02_Mouth_03
+  rotate: false
+  xy: 220, 92
+  size: 122, 55
+  orig: 122, 58
+  offset: 0, 3
+  index: -1
+Axolotl_02_Mouth_04
+  rotate: false
+  xy: 73, 63
+  size: 146, 52
+  orig: 150, 52
+  offset: 0, 0
+  index: -1
+Axolotl_02_Swimring_01
+  rotate: false
+  xy: 2, 363
+  size: 352, 147
+  orig: 352, 147
+  offset: 0, 0
+  index: -1
+Axolotl_02_Swimring_02
+  rotate: false
+  xy: 201, 158
+  size: 164, 55
+  orig: 164, 55
+  offset: 0, 0
+  index: -1
+Axolotl_02_Tail
+  rotate: 180
+  xy: 104, 149
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1

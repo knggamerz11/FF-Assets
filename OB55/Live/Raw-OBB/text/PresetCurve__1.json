@@ -1,0 +1,66 @@
+{
+    "m_Guid": 57,
+    "m_Version": 1,
+    "m_Presets": [
+        {
+            "m_Id": 1,
+            "m_Name": "Ease",
+            "m_Type": "CubicBezier",
+            "m_Default": true,
+            "m_Pts": [
+                0.25,
+                0.1,
+                0.25,
+                1.0
+            ]
+        },
+        {
+            "m_Id": 2,
+            "m_Name": "Linear",
+            "m_Type": "CubicBezier",
+            "m_Default": true,
+            "m_Pts": [
+                0.0,
+                0.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "m_Id": 3,
+            "m_Name": "EaseIn",
+            "m_Type": "CubicBezier",
+            "m_Default": true,
+            "m_Pts": [
+                0.42,
+                0.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "m_Id": 4,
+            "m_Name": "EaseOut",
+            "m_Type": "CubicBezier",
+            "m_Default": true,
+            "m_Pts": [
+                0.0,
+                0.0,
+                0.58,
+                1.0
+            ]
+        },
+        {
+            "m_Id": 5,
+            "m_Name": "EaseInOut",
+            "m_Type": "CubicBezier",
+            "m_Default": true,
+            "m_Pts": [
+                0.42,
+                0.0,
+                0.58,
+                1.0
+            ]
+        }
+    ]
+}

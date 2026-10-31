@@ -1,0 +1,7 @@
+ID,Type,BonusNum,ResID,VirtualResID,PreviewResID,BonusIcon,SoundResID,ChangeTime1,ChangeItemID1,ChangeTime2,ChangeItemID2,ChangeTime3,ChangeItemID3
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+806000002,,10,INGAME_REDENVELOPE_EIGHTH_SYS_MODEL,INGAME_REDENVELOPE_EIGHTH_SYS_MODEL_VIRTUAL,Preview_RedEnvelope_Eighth_Sys,UI_icon_FF_Eighth_Sys,,,,,,,
+806000003,,10,INGAME_REDENVELOPE_EIGHTH_SYS_MODEL,INGAME_REDENVELOPE_EIGHTH_SYS_MODEL_VIRTUAL,Preview_RedEnvelope_Eighth_Sys,UI_icon_FF_Eighth_Sys,,,,,,,
+806000004,,10,INGAME_REDENVELOPE_EIGHTH_SYS_MODEL,INGAME_REDENVELOPE_EIGHTH_SYS_MODEL_VIRTUAL,Preview_RedEnvelope_Eighth_Sys,UI_icon_FF_Eighth_Sys,,,,,,,
+806000005,,10,INGAME_REDENVELOPE_EIGHTH_SYS_MODEL,INGAME_REDENVELOPE_EIGHTH_SYS_MODEL_VIRTUAL,Preview_RedEnvelope_Eighth_Sys,UI_icon_FF_Eighth_Sys,,,,,,,
+806000007,1,10,RedEnvelopePrimecake,RedEnvelopeVirtualPrimecake,Preview_RedEnvelope_Primecake,UI_icon_FF_Diwali25_Sys,,,,,,,

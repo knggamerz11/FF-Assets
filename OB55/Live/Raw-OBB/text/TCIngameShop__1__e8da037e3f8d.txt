@@ -1,0 +1,5 @@
+indexid,shopid,itemid,comment,filter,price,display_first_one,purchase_limited
+unread,unread,unread,unread,unread,unread,unread,unread
+1,1,31;207-10,unread,1,1,TRUE,
+2,2,31;207-10,unread,1,1,TRUE,
+3,3,31;207-10,unread,1,1,TRUE,

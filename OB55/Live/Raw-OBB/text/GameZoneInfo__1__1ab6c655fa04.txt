@@ -1,0 +1,13 @@
+ZoneID,Key,MapOffset,MiniMapName,Comments
+unread,unread,unread,unread,unread
+1,T_44_PD_PVE_CHAPTER_DESER,-585;-1090;-515;-1020,minimap_Desert01,scene1
+2,T_44_PD_PVE_CHAPTER_DESER,-585;-1090;-515;-1020,minimap_Desert01,scene1
+3,T_44_PD_PVE_CHAPTER_DESER,-517;-1127;-423;-1033,minimap_Desert02,scene2
+4,T_44_PD_PVE_CHAPTER_DESER,-355;-380;-195;-220,minimap_Desert03,scene3
+5,T_44_PD_PVE_CHAPTER_DESER,-305;-440;-225;-360,minimap_Desert04,scene4
+6,T_44_PD_PVE_CHAPTER_DESER,-353;-486;-261;-394,minimap_Desert05,scene5
+7,T_44_PD_PVE_CHAPTER_DESER,-203;575;7;785,minimap_Desert06,scene6
+8,T_44_PD_PVE_CHAPTER_DESER,-45;660;35;740,minimap_Desert07,scene7
+9,T_44_PD_PVE_CHAPTER_DESER,-203;575;7;785,minimap_Desert06,scene6
+10,T_44_PD_PVE_CHAPTER_DESER,-75;570;5;650,minimap_Desert08,scene8
+99,T_44_PD_PVE_CHAPTER_DESER,-75;570;5;650,minimap_Desert08,scene8

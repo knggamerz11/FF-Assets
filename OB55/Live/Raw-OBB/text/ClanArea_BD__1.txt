@@ -1,0 +1,11 @@
+ID,FirstGrade,SecondGrade
+unread,unread,unread
+1,T_28_A_U_AREA_1,
+2,T_28_A_U_AREA_2,
+3,T_28_A_U_AREA_3,
+4,T_28_A_U_AREA_4,
+5,T_28_A_U_AREA_5,
+6,T_28_A_U_AREA_6,
+7,T_28_A_U_AREA_7,
+8,T_28_A_U_AREA_8,
+9,T_15_A_IND_2,

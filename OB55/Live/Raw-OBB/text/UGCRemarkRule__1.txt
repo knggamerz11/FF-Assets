@@ -1,0 +1,8 @@
+ID,SortID,Rule1Type,Rule1Value,Rule2Type,Rule2Value,Rule3Type,Rule3Value,DisplayData1,DisplayData2,RemarkID
+ID,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,1,1,50,,,,,1,4,1
+2,2,3,100,2,10,,,2,1,2
+3,3,5,150,,,,,4,,2
+5,4,3,10,,,,,2,4,3
+4,5,1,10,,,,,1,4,3
+99,99,,,,,,,3,,4

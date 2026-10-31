@@ -1,0 +1,144 @@
+{
+    "Prefabs" : [
+        {
+            "PrefabName" : "FoundmentalPlane",
+            "PrefabUUID" : "8AbNyHFi.w8h89935hy-m2vnjvwr-egca5b1t8hg",
+			"NameLocKey" : "FoundmentalPlane",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 5,
+            "ComponentID"		: 41066655100003,
+            "EntityType": "8AbNyHFi00CustomComponent79712367",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "RoadPlane",
+            "PrefabUUID" : "8AbNyHFi.bg73277dmoi-m2vlib4a-dymk0zelp7e",
+			"NameLocKey" : "RoadPlane",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 5,
+            "ComponentID"		: 41066655100000,
+            "EntityType": "8AbNyHFi00CustomComponent28821109",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "WhitePlane",
+            "PrefabUUID" : "8AbNyHFi.7a40ncdvvlt-m2vlidhk-lh1js32ok3",
+			"NameLocKey" : "WhitePlane",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 5,
+            "ComponentID"		: 41066655100002,
+            "EntityType": "8AbNyHFi00CustomComponent70586112",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "YellowPlane",
+            "PrefabUUID" : "8AbNyHFi.akvypr63een-m2vlicf9-e85vxd6swn6",
+			"NameLocKey" : "YellowPlane",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 5,
+            "ComponentID"		: 41066655100001,
+            "EntityType": "8AbNyHFi00CustomComponent89008232",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "1000",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+        }
+    ]
+}

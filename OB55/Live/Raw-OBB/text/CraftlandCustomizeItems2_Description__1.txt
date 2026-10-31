@@ -1,0 +1,44 @@
+@ModuleLib=Y3Ch88zD
+@ScriptName=Backpack_Digitaluniverse_Red_001_Low
+type Y3Ch88zD00CustomComponent46998555 : (Component & CustomLevelObject) = 51531108100001 { #Backpack_Digitaluniverse_Red_001_Low
+}
+
+@ModuleLib=Y3Ch88zD
+@ScriptName=Backpack_Digitaluniverse_002_Low
+type Y3Ch88zD00CustomComponent10522396 : (Component & CustomLevelObject) = 51531108100002 { #Backpack_Digitaluniverse_002_Low
+}
+
+@ModuleLib=Y3Ch88zD
+@ScriptName=Backpack_Digitaluniverse_001_Low
+type Y3Ch88zD00CustomComponent78813686 : (Component & CustomLevelObject) = 51531108100003 { #Backpack_Digitaluniverse_001_Low
+}
+
+@ModuleLib=Y3Ch88zD
+@ScriptName=Backpack_Digitaluniverse_003_Low
+type Y3Ch88zD00CustomComponent84870465 : (Component & CustomLevelObject) = 51531108100004 { #Backpack_Digitaluniverse_003_Low
+}
+
+@ModuleLib=Y3Ch88zD
+@ScriptName=Backpack_Digitaluniverse_Red_002_Low
+type Y3Ch88zD00CustomComponent59944227 : (Component & CustomLevelObject) = 51531108100005 { #Backpack_Digitaluniverse_Red_002_Low
+}
+
+@ModuleLib=Y3Ch88zD
+@ScriptName=Backpack_Digitaluniverse_Red_003_Low
+type Y3Ch88zD00CustomComponent75095381 : (Component & CustomLevelObject) = 51531108100006 { #Backpack_Digitaluniverse_Red_003_Low
+}
+
+@ModuleLib=Y3Ch88zD
+@ScriptName=Backpack_Piratemk2_001_Low
+type Y3Ch88zD00CustomComponent96999675 : (Component & CustomLevelObject) = 51531108100000 { #Backpack_Piratemk2_001_Low
+}
+
+@ModuleLib=Y3Ch88zD
+@ScriptName=Backpack_Piratemk2_002_Low
+type Y3Ch88zD00CustomComponent74754811 : (Component & CustomLevelObject) = 51531108100007 { #Backpack_Piratemk2_002_Low
+}
+
+@ModuleLib=Y3Ch88zD
+@ScriptName=Backpack_Piratemk2_003_Low
+type Y3Ch88zD00CustomComponent77390676 : (Component & CustomLevelObject) = 51531108100008 { #Backpack_Piratemk2_003_Low
+}

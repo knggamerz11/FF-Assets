@@ -1,0 +1,2 @@
+ItemID,Comment,Weight,Filter,Stack,Limitation,Bonus,BuyFilter
+unread,unread,unread,unread,unread,unread,unread,unread

@@ -1,0 +1,16 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+UnlimitBagCapacity,unread,bool,true
+NoDeadBox,unread,bool,TRUE
+LowBloodLine,unread,float,0.2
+LowBloodLineEffect,unread,string,VFX_UGCInfection_ZombieDying
+UseFullAttachment,unread,bool,TRUE
+NoDropItems,unread,bool,TRUE
+PlayerReviveEP,unread,int,0
+UnlimitedAmmo,unread,bool,false
+IsCollectionTransformDisable,unread,bool,true
+IsNeedAssistInfo,unread,bool,true
+NoLoadOut,unread,bool,true
+PropertyChangeSwitch,unread,bool,FALSE
+AutoReviveOnTimeUp,unread,bool,true
+HuntingGroundAttackAI,unread,bool,TRUE

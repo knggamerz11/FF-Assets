@@ -1,0 +1,17 @@
+Id,ItemDesc,MaxNum,MaxType
+unread,unread,unread,unread
+820000100,unread,14,1
+820000101,unread,14,1
+820000102,unread,14,1
+820000103,unread,14,1
+820000104,unread,14,1
+840000100,unread,14,1
+840000101,unread,14,1
+840000102,unread,14,1
+840000103,unread,14,1
+840000104,unread,14,1
+820000201,unread,18,1
+840000201,unread,18,1
+851000001,unread,5,1
+851000002,unread,5,1
+801044016,unread,3000,1

@@ -1,0 +1,3 @@
+Id,Title1,Title2,CDN1,Desc1,CDN2,Desc2,CDN3,Desc3,Comment
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,T_35_WT_WS_NEWP_TITLE,T_35_WT_WS_NEWP_SUBTITLE,OB34/CSH/DEVS/MODES/1ae61d3aa6b749cce9d24525a405fea1.jpg,T_35_WT_WS_NEWP_CDNDESC1,OB34/CSH/DEVS/MODES/302a871aab4ae1f0ba5853cf283a4b42.jpg,T_35_WT_WS_NEWP_CDNDESC2,OB34/CSH/DEVS/MODES/384cc4edc0fd0fa02813270eac2033fb.jpg,T_35_WT_WS_NEWP_CDNDESC3,unread

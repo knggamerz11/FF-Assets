@@ -1,0 +1,6 @@
+{
+    "shaders": ["BRMobile/Special/ToonOutline_detail_shadow"],
+    "low": 0,
+    "mid": 2,
+    "high": 4
+}

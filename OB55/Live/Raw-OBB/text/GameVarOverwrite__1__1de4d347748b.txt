@@ -1,0 +1,8 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+EnableRuntimeCameraKill,unread,bool,false
+EnableReconnect,unread,bool,TRUE
+ReconnectAllowTime,unread,int,300
+ObserverReconnectAllowTime,unread,int,300
+SpectatorReconnectAllowTime,unread,int,300
+OptionalSpawnCount,unread,int,0

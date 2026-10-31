@@ -1,0 +1,4 @@
+ID,Gamemode,Matchmode,InviteType
+unread,unread,unread,unread
+1,1,1|2,
+2,15,1|6,

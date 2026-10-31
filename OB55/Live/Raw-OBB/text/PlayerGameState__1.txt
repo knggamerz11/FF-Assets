@@ -1,0 +1,4 @@
+Gamemode,MinTime,MaxTime
+unread,unread,unread
+1,1,10
+15,1,5

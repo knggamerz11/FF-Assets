@@ -1,0 +1,16 @@
+ZoneID,Key,Comments
+unread,unread,unread
+0,T_23_B_FACTORY,unread
+1,T_23_B_CLOCKTOWER,ClockTower
+2,T_23_B_OBSERVATORY,unread
+3,T_23_B_KATULISTIWA,unread
+4,T_23_B_SHIPYARD,unread
+5,T_23_B_MARSELECTRIC,unread
+6,T_23_B_POCHINOK,unread
+7,T_23_B_SENTOSA,unread
+8,T_23_B_CAPETOWN,unread
+9,T_23_B_MILL,Mill
+10,T_24_B_HANGAR,unread
+11,T_24_B_RANGE,unread
+12,T_24_B_BSTREET,unread
+13,T_24_B_FINSHERMAN,unread

@@ -1,0 +1,4 @@
+id,Type,SubType,RareOpen
+unread,unread,unread,unread
+1,8,17,3
+2,10,3,3

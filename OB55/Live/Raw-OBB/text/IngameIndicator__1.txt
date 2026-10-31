@@ -1,0 +1,15 @@
+ID,Trigger,Icon,Zoom,Priority,FollowType,Duration,CoolDown,Deviation,MarkType,ProgressColor,IsBlinkOn,ShowTime
+ID,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,unread,UI_btn_fire,30,100,1,5,10,0,2,0,0,0
+2,unread,UI_Icon_Shot,34,110,1,5,15,0,1,0,0,0
+3,unread,UI_btn_Bonfire,34,70,2,5,30,1,2,0,0,0
+4,unread,UI_icon_knockdown,30,120,1,9999,0,0,3,0,0,1
+5,unread,UI_icon_knockdown,30,120,1,9999,0,0,3,0,1,1
+6,unread,footstepIcon_near,44,90,1,3,10,0,1,0,0,0
+7,unread,UI_icon_FirstAidKit_01,34,80,1,3,3,0,2,0,0,0
+8,unread,UI_icon_mushroom,34,60,1,2,2,0,2,0,0,0
+9,unread,FF_UI_Bomb_removal,26,95,1,5,5,0,2,0,0,0
+10,unread,help,34,80,1,3,3,0,2,1,0,0
+11,unread,UI_icon_Repair,34,60,1,3,3,0,2,0,0,0
+12,unread,UI_help_icon01,34,130,1,9999,0,0,1,1,0,0
+13,unread,SF50_Profession_Reaper_Icon2,34,140,1,9999,0,0,1,0,0,1

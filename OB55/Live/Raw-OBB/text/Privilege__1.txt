@@ -1,0 +1,3 @@
+PrivilegeID,Type,ResourceID
+unread,unread,unread
+1,1,SOUND_BGM_STINGER_HURRICANE_BOOM

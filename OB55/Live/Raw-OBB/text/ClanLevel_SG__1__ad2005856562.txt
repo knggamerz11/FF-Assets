@@ -1,0 +1,8 @@
+Level,LevelIcon,MinClanActiveness,MaxClanActiveness,MaxLevelProgressShowActiveness,RepairClanActiveness,MinHonor,ExpBuffFactor,GoldBuffFactor,SizeImproved,GoldLimitImproved,AwardType1,AwardId1,AwardNum1,AwardMaxNum1,AwardType2,AwardId2,AwardNum2,AwardMaxNum2
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,UI_icon_Guild_Lv1,0,4300,,200,0,20,0,0,0,,,,,,,,
+2,UI_icon_Guild_Lv2,2600,13700,,5100,10000,30,10,5,10,,,,,,,,
+3,UI_icon_Guild_Lv3,8200,24400,,10700,50000,40,20,5,20,,,,,,,,
+4,UI_icon_Guild_Lv4,19600,38500,,21100,150000,50,30,5,30,,,,,,,,
+5,,30800,158500,,35300,,60,40,5,40,,,,,,,,
+6,,126800,999999999,300000,67500,,70,60,5,50,,,,,,,,

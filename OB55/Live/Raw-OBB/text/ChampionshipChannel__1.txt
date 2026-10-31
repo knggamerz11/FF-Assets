@@ -1,0 +1,6 @@
+ChannelID,Icon,DefaultRegion
+unread,unread,unread
+1,FF_WhatsAppIcon,"ID,BR,US,ME,SAC,NA,BD,SG"
+2,FF_FaceBookIcon,"VN,PK,ZA"
+3,FF_Discord,"RU,EUROPE,IND"
+4,FF_LineIcon,"TH,TW"

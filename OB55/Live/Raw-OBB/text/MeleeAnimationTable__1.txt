@@ -1,0 +1,4 @@
+id,damage,min_damage,move_distance,interval,damage_delay_time,move_intervals
+id,unread,unread,unread,unread,unread,
+34,50;60;150,45;55;140,0.5;0.54;1.54,0.4;0.3;0.73,0.3;0.2;0.46,0.16;0.33;0;0.3;0;0.366
+1000003,50;60;150,45;55;140,0.5;0.54;1.54,0.4;0.3;0.73,0.3;0.2;0.46,0.16;0.33;0;0.3;0;0.366

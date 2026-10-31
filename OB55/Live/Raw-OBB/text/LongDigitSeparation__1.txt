@@ -1,0 +1,4 @@
+Language,digit,split
+unread,unread,unread
+default,3,","
+BrazilianPortuguese,3,.

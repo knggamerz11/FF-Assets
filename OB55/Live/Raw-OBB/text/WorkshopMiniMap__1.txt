@@ -1,0 +1,8 @@
+"id","name",icon,sort,ShowIcomMapRunTimeGame,MinSizeInDetailMap
+unread,unread,unread,,unread,unread
+93,T_32_LO_WS_ITEM86,UI_Customize_map_icon01,,true,20
+94,T_32_LO_WS_ITEM86L,UI_Customize_map_icon01,,true,20
+97,T_32_LO_WS_ITEM85CP,UI_Customize_map_icon05,,false,10
+98,T_32_LO_WS_ITEM85TM,UI_Customize_map_icon04,,true,20
+26,T_29_M_WS_ITEM24,UI_Customize_map_icon01,,true,20
+27,T_29_M_WS_ITEM25,UI_Customize_map_icon01,,true,20

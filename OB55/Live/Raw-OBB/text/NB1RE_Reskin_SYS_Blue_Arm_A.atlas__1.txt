@@ -1,0 +1,83 @@
+
+NB1RE_Reskin_SYS_Blue_Arm_A.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_Arm_1
+  rotate: true
+  xy: 126, 40
+  size: 81, 57
+  orig: 82, 57
+  offset: 0, 0
+  index: -1
+Blue_Arm_2
+  rotate: 270
+  xy: 183, 53
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+Blue_Finger_L_01
+  rotate: false
+  xy: 92, 81
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+Blue_Finger_L_02
+  rotate: false
+  xy: 242, 87
+  size: 10, 35
+  orig: 10, 36
+  offset: 0, 1
+  index: -1
+Blue_Finger_L_03
+  rotate: false
+  xy: 229, 80
+  size: 13, 42
+  orig: 13, 42
+  offset: 0, 0
+  index: -1
+Blue_Finger_L_04
+  rotate: false
+  xy: 180, 58
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+Blue_Finger_L_05
+  rotate: false
+  xy: 116, 92
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+Blue_Forearm_L
+  rotate: false
+  xy: 2, 4
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+Blue_Hand_L
+  rotate: false
+  xy: 222, 7
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Blue_Sleeve_L
+  rotate: true
+  xy: 172, 12
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+Blue_SpeciaEffects_After
+  rotate: false
+  xy: 2, 25
+  size: 170, 97
+  orig: 170, 98
+  offset: 0, 0
+  index: -1

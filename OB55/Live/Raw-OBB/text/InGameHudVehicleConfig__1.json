@@ -1,0 +1,136 @@
+{
+  "Config": [
+    {
+      "HudName": "HudVehicleStats",
+      "Anchor": "TopRight",
+      "coordinateX": -164.0,
+      "coordinateY": -300.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudAccelerator",
+      "Anchor": "BottomRight",
+      "coordinateX": -137.0,
+      "coordinateY": 171.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudBrake",
+      "Anchor": "BottomRight",
+      "coordinateX": -336.0,
+      "coordinateY": 171.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudTurnLeft",
+      "Anchor": "BottomLeft",
+      "coordinateX": 137.0,
+      "coordinateY": 171.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudTurnRight",
+      "Anchor": "BottomLeft",
+      "coordinateX": 336.0,
+      "coordinateY": 171.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudVehicleMovingJoystick",
+      "Anchor": "BottomLeft",
+      "coordinateX": 224.0,
+      "coordinateY": 186.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudVehicleHorn",
+      "Anchor": "BottomLeft",
+      "coordinateX": 360.0,
+      "coordinateY": 330.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudLeaveVehicle",
+      "Anchor": "BottomRight",
+      "coordinateX": -446.0,
+      "coordinateY": 347.5,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "UIHudBRVehicleAutoDrive",
+      "Anchor": "Left",
+      "coordinateX": 224.0,
+      "coordinateY": 51.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudVehicleReset",
+      "Anchor": "TopRight",
+      "coordinateX": -350.0,
+      "coordinateY": -130.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudVehicleOverdrive",
+      "Anchor": "Left",
+      "coordinateX": 360.0,
+      "coordinateY": 51.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudVehicleOverdriveSingleHand",
+      "Anchor": "BottomRight",
+      "coordinateX": -310.0,
+      "coordinateY": 435.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    }
+  ]
+}

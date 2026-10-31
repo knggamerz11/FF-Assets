@@ -1,0 +1,8 @@
+Name,LevelLimit,Note
+unread,unread,unread
+SpTip_Lobby_Weapon,4,unread
+SpTip_Lobby_Collection,7,unread
+SpTip_Lobby_Avatar,1,unread
+SpTip_Lobby_Gacha,9,unread
+SpTip_Lobby_EP,5,unread
+SpTip_Lobby_Lab,5,unread

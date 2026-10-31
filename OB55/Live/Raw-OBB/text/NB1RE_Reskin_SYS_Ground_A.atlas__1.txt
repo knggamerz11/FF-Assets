@@ -1,0 +1,62 @@
+
+NB1RE_Reskin_SYS_Ground_A.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ground_L
+  rotate: false
+  xy: 2, 402
+  size: 440, 109
+  orig: 760, 512
+  offset: 0, 0
+  index: -1
+Ground_R
+  rotate: 180
+  xy: 124, 322
+  size: 386, 108
+  orig: 760, 512
+  offset: 374, 0
+  index: -1
+Stone_Back_1
+  rotate: 180
+  xy: 268, 118
+  size: 242, 147
+  orig: 252, 147
+  offset: 0, 0
+  index: -1
+Stone_Back_2
+  rotate: 180
+  xy: 2, 216
+  size: 354, 131
+  orig: 357, 131
+  offset: 3, 0
+  index: -1
+Stone_Middle_1
+  rotate: false
+  xy: 259, 262
+  size: 115, 59
+  orig: 115, 64
+  offset: 0, 0
+  index: -1
+Stone_Middle_2
+  rotate: false
+  xy: 32, 362
+  size: 90, 38
+  orig: 95, 38
+  offset: 5, 0
+  index: -1
+Stone_Middle_3
+  rotate: 180
+  xy: 2, 70
+  size: 294, 68
+  orig: 544, 69
+  offset: 0, 0
+  index: -1
+Stone_Middle_4
+  rotate: false
+  xy: 29, 163
+  size: 287, 52
+  orig: 544, 69
+  offset: 256, 0
+  index: -1

@@ -1,0 +1,13 @@
+ID,Desc,LocKey,DefaultValue,MinValue,MaxValue,StepValue,OptionValues,Enable
+id,unread,unread,unread,unread,unread,unread,unread,unread
+1,unread,T_30_AD_RP_ROOM_ROUNDTIME,2,1,4,1,"1,2,3,4",1
+2,unread,T_30_AD_RP_ROOM_ROUNDCOUNT,4,1,7,1,"1,2,3,4,5,6,7",1
+3,unread,T_30_LO_RP_RUNNAME1,1,,,,,1
+4,unread,T_30_LO_RP_RUNNAME2,1,,,,,1
+5,unread,T_30_LO_RP_RUNNAME3,1,,,,,1
+6,unread,T_30_LO_RP_RUNNAME4,1,,,,,1
+7,unread,T_30_LO_RP_WALTZ,1,,,,,1
+8,unread,T_30_LO_RP_SNOWBALL,1,,,,,0
+9,unread,T_30_LO_RP_DROP,1,,,,,1
+10,unread,T_30_LO_RP_OLYMPIC,1,,,,,1
+11,unread,T_31_LO_RP_WOOD,1,,,,,1

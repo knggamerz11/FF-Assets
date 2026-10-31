@@ -1,0 +1,15 @@
+Region,NotifyTimeOfDay
+unread,unread
+default,20:00:00
+TW,12:30:00
+TH,18:00:00
+VN,18:00:00
+RU,17:00:00
+ID,12:30:00
+BR,18:00:00
+SAC,19:00:00
+US,19:00:00
+EUROPE,18:00:00
+ME,18:00:00
+PK,18:00:00
+BD,20:00:00

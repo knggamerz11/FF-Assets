@@ -1,0 +1,3 @@
+GroupMode,FirstChipNum,SecondChipNum,ThirdChipNum
+unread,unread,unread,unread
+0,35,15,5

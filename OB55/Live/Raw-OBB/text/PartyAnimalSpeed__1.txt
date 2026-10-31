@@ -1,0 +1,7 @@
+PetID,PetName,PetSpeed,PetFallRate,Weight,PetIngamePrafab,IdleAnim,RunAnim,FalldownAnim,IdleSprite,RunSprite,IndicatorPrefab
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,Penguin,4.2,60,10,PartyGamePetRacer_Penguin,Pet_Penguin_Idle,Pet_Penguin_run,Pet_Penguin_Death_Loop,UI_PetRun_Penguin,UI_PetRun_Penguin_Run,PartyGamePetVote_Penguin
+2,Raccoon,3.9,55,10,PartyGamePetRacer_Raccoon,Pet_Raccoon_Idle,Pet_Raccoon_Run,Pet_Raccoon_Death_Loop,UI_PetRun_Raccoon,UI_PetRun_Raccoon_Run,PartyGamePetVote_Raccoon
+3,Panda,3.6,50,10,PartyGamePetRacer_Panda,Pet_Panda_Idle,Pet_Panda_Run,Pet_Panda_Death_Loop,UI_PetRun_Panda,UI_PetRun_Panda_Run,PartyGamePetVote_Panda
+4,Cat,3.3,45,10,PartyGamePetRacer_Cat,Pet_Cat_Idle,Pet_Cat_Run,Pet_Cat_Death_Loop,UI_PetRun_Cat,UI_PetRun_Cat_Run,PartyGamePetVote_Cat
+5,Otter,3,40,10,PartyGamePetRacer_Otter,Pet_Otter_Idle,Pet_Otter_Run,Pet_Otter_Death_Loop,UI_PetRun_Otter,UI_PetRun_Otter_Run,PartyGamePetVote_Otter

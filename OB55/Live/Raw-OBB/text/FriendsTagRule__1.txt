@@ -1,0 +1,5 @@
+TagID,Switch,TagNumLimit,ColorCode,Key
+unread,unread,unread,unread,unread
+1,TRUE,3,#ffffff,T_20_T_FRIENDTAG1
+2,TRUE,2,#ffffff,T_20_T_FRIENDTAG2
+3,TRUE,3,#ffffff,T_20_T_FRIENDTAG3

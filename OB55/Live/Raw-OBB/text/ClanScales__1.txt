@@ -1,0 +1,3 @@
+clan_scale,max_member_count,create_gold_cost,create_diamond_cost
+unread,unread,unread,unread
+0,20,5000,100

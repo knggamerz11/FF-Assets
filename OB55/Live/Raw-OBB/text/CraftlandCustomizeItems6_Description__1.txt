@@ -1,0 +1,14 @@
+@ModuleLib=DQkAo3GC
+@ScriptName=RedEnvelope_Mocomonth_Low
+type DQkAo3GC00CustomComponent54421289 : (Component & CustomLevelObject) = 8245529100000 { #RedEnvelope_Mocomonth_Low
+}
+
+@ModuleLib=DQkAo3GC
+@ScriptName=RedEnvelope_SummerEvent_Low
+type DQkAo3GC00CustomComponent91580866 : (Component & CustomLevelObject) = 8245529100001 { #RedEnvelope_SummerEvent_Low
+}
+
+@ModuleLib=DQkAo3GC
+@ScriptName=RedEnvelope_Valentine_Low
+type DQkAo3GC00CustomComponent41447883 : (Component & CustomLevelObject) = 8245529100002 { #RedEnvelope_Valentine_Low
+}

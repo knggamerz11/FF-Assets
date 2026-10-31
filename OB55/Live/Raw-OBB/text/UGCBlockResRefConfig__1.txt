@@ -1,0 +1,11 @@
+BlockID,BlockName,BlockRef,ResType,Rule,Enabled,Comment
+unread,unread,unread,unread,unread,unread,unread
+79,InternalHudType,InternalHudType,0,,,unread
+32,CreateInternalHud,CreateInternalHud,0,,,unread
+96,IconType,IconType,1,,TRUE,unread
+97,EffectType,EffectType,1,,TRUE,unread
+99,AudioType,AudioType,1,,TRUE,unread
+185,DynamicCreateItemID,DynamicCreateItemID,2,,TRUE,unread
+375,TextureType,TextureType,1,,TRUE,unread
+395,EmoteType,EmoteType,3,,,unread
+394,AIType,AIType,4,,,unread

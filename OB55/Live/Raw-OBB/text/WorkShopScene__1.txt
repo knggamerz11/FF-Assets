@@ -1,0 +1,10 @@
+SceneID,AreaEdit,BoundaryMaxX,BoundaryMinX,BoundaryMaxY,BoundaryMinY,BoundaryMaxZ,BoundaryMinZ,HeightLimit,MoveStep,WorkShopMap,WorkShopMiniMap,FloorPlane,GridWidth,FloorOffset,PlayerTransPos,PlayerTransRot,CamDefaultHeight,YPosAdjust,DynGridWidth,EditAreaCenter,AdjustFloorPlaneDefault,SceneEdit_AdjustFloorPlaneStep,SceneEdit_AdjustFloorPlaneMin,SceneEdit_AdjustFloorPlaneMax,SceneEdit_AllowObjectMaxHeight,SceneEdit_YMOVE_Max
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,,,,,unread,,,,unread,unread,unread,unread,unread,unread,unread,unread,unread
+10,,60,-60,65,1,60,-60,100,4,UIUGCMAP_WORKSHOP,minimap_Workshop,INGAME_SCENEEDIT_FLOOR_PLANE,100,0,-60#0#-0.5,25#90#0,25,0,50,0;0;0,0,1,0,50,60,55
+25,,60,-60,65,1,60,-60,100,4,UIUGCMAP_WORKSHOPSOLO,Minimap_WorkshopSolo,INGAME_SCENEEDIT_FLOOR_PLANE_SOLO,50,-0.29,1.3#0#-38,60#0#0,48,0.3,50,0;0;0,0,1,0,50,60,55
+32,,1000,-1000,180,1,1000,-1000,200,4,UI_CUSTOMIZE_BG_MAP_EMPTY,UI_CUSTOMIZE_BG_MAP_EMPTY,INGAME_SCENEEDIT_FLOOR_PLANE,2000,0,0#3#0,0#0#0,20,0,50,0;0;0,0,1,0,199,205,200
+1,TRUE,900,-900,160,2,900,-900,200,5,minimap_bermuda,minimap_bermuda,INGAME_SCENEEDIT_FLOOR_PLANE,1800,0,520#60#110,0#0#0,110,0,50,520;-17;110,0,1,0,150,180,170
+22,TRUE,600,-600,160,2,600,-600,200,5,minimap_Hippo,minimap_Hippo,INGAME_SCENEEDIT_FLOOR_PLANE,1200,0,0#20#0,0#0#0,110,0,50,0;0;0,0,1,0,150,180,170
+4,TRUE,700,-700,160,2,700,-700,200,5,minimap_Sonoran,minimap_Sonoran,INGAME_SCENEEDIT_FLOOR_PLANE,1400,0,0#20#0,0#0#0,110,0,50,0;0;0,0,1,0,150,180,170
+29,TRUE,800,-800,160,2,800,-800,200,5,Minimap_Pony,Minimap_Pony,INGAME_SCENEEDIT_FLOOR_PLANE,1600,0,0#70#0,0#0#0,110,0,50,0;0;0,0,1,0,150,180,170
+39,TRUE,900,-900,160,2,900,-900,200,5,Minimap_OldParadise,Minimap_OldParadise,INGAME_SCENEEDIT_FLOOR_PLANE,1800,0,520#60#110,0#0#0,110,0,50,520;-17;110,0,1,0,150,180,170

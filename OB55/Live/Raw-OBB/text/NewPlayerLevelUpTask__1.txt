@@ -1,0 +1,6 @@
+taskId,AwardType,AwardId,AwardNum,AwardTime,CdtType,CdtValue,CDNurl,remark,CharacterName
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+101,1,,1,,11,4,OB18/loading/levelupReward1_update.png,unread,TXT_CHARACTER_COP_NAME
+102,1,,1,,11,6,OB18/loading/levelupReward2_update.png,unread,TXT_OB7_JRW_CHARACTER_FOODIEBOY_NAME
+103,1,,1,,11,10,OB18/loading/levelupReward5.png,unread,T_22_Y_CHARACTER_DETECTIVE_N
+104,1,,1,,11,15,OB18/loading/levelupReward4.png,unread,TXT_CHARACTER_RUNNER_NAME

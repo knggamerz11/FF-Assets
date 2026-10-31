@@ -1,0 +1,2 @@
+weapon_id,"absorb_type",absorb_value,max_score,min_score,y_sensitivity
+unread,unread,unread,unread,unread,unread

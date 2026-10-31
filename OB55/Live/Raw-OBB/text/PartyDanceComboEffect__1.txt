@@ -1,0 +1,5 @@
+EffectLevel,NeedCombo,EffectResID
+unread,unread,unread
+1,10,VFX_Party_BUFF01
+2,20,VFX_Party_BUFF02
+3,30,VFX_Party_BUFF03

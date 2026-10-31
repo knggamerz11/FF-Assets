@@ -1,0 +1,4 @@
+ZoneID,Key,Comments
+unread,unread,unread
+0,T_23_B_FACTORY,unread
+1,T_23_B_CLOCKTOWER,ClockTower

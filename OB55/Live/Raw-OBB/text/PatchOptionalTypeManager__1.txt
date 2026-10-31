@@ -1,0 +1,11 @@
+Type,SortId,IsRecommend,TypeKey,ShowModelType,remark
+unread,unread,unread,unread,unread,unread
+1,1,TRUE,T_33_P_OPCT_RECOMD,3,unread
+2,2,FALSE,T_33_P_OPCT_MAP,1,unread
+3,3,FALSE,T_33_P_OPCT_MODE,1,unread
+4,5,FALSE,T_33_P_OPCT_ACT,1,unread
+5,9,FALSE,T_33_P_OPCT_2C,2,unread
+6,8,FALSE,T_33_P_OPCT_UNIT,2,unread
+7,4,FALSE,T_34_HQ_OPCT_MINIMAP,1,unread
+8,7,FALSE,T_37_DY_SYSTEM,1,unread
+9,6,FALSE,T_30_T_WS_WORKSHOP,1,UGC

@@ -1,0 +1,4 @@
+AwardID,Icon,VFXRes
+unread,unread,unread
+907103444,FF_UI_HyperBook_hidden_Gloowall,VFX_HYPERBOOK_HIDDENPAGE
+911003702,FF_UI_HyperBook_hidden_Mounts,VFX_HYPERBOOK_HIDDENPAGE_FFWS2022

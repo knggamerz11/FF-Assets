@@ -1,0 +1,7 @@
+ID,VoiceType,CoolDown,BroadcastType,Priority
+ID,unread,unread,unread,unread
+9,unread,60,1,105
+101,unread,3,1,
+102,unread,3,1,
+103,unread,3,1,
+104,unread,3,1,

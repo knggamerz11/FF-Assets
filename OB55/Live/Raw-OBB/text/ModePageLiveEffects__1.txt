@@ -1,0 +1,7 @@
+LiveEffectsID,Desc,VFXResource,Location
+unread,unread,unread,unread
+1,unread,FF_VFX_ModePage_Guerrilla,"0,0"
+2,unread,FF_VFX_ModePage_Spirit,"0,0"
+3,unread,,"0,0"
+4,unread,UIFX_NB2GP_MODESELECTION_BR,"0,0"
+5,unread,UIFX_NB2GP_MODESELECTION_CS,"0,47"

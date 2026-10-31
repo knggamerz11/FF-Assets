@@ -1,0 +1,9 @@
+Id,LevelLimitA,RegDayLimitA,LevelLimitB,RegDayLimitB,LevelLimitC,RegDayLimitC
+unread,unread,unread,unread,unread,unread,unread
+1,6,7,6,7,6,7
+2,5,2,5,2,5,2
+3,8,7,8,7,8,7
+4,10,7,10,7,10,7
+5,3,7,3,7,3,7
+6,1,1,1,1,1,1
+7,8,7,8,7,8,7

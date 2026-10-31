@@ -1,0 +1,13 @@
+TabID,TabName,Priority
+unread,unread,unread
+1,BANNER,30
+2,AVATAR（Headpic）,20
+3,LOOTBOX,50
+4,BACKPACK,80
+5,PARACHUTE,60
+6,SURFBOARD（Skyboard）,70
+8,VEHICLE,40
+9,EMOTE,110
+10,PINS,10
+11,SKYWING（Mounts）,90
+12,ARRIVAL（GroupAnim）,100

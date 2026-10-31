@@ -1,0 +1,956 @@
+{
+    "sequenceId": "Chapter1",
+    "templateMapId": "tutorial_parkour_v1",
+    "levels": [
+        {
+            "levelId": "Level_1",
+            "sortIndex": 1,
+            "defaultTabIndex": "0",
+            "tasks": [
+                {
+                    "taskId": "Task_PlaceBasicBlock",
+                    "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T2_TASK",
+                    "atomicTasks": [
+                        {
+                            "atomicTaskId": "AT_PlaceToScene",
+                            "taskType": "PlaceItemToScene",
+                            "dialogues": [
+                                {
+                                    "contentLocKey": "T_54_XJ_NEWBIE_LV1_GUIDE1"
+                                },
+                                {
+                                    "contentLocKey": "T_54_XJ_NEWBIE_LV1_T2_GUIDE"
+                                }
+                            ],
+                            "guides": [
+                                {
+                                    "guideType": "SceneDragGuide",
+                                    "guideId": "show_drag_to_scene",
+                                    "param": {
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T2_TIP",
+                                        "startWidgetKey": "ItemCell_91",
+                                        "endPos": { "x": 4, "y": 6.5, "z": -19 },
+                                        "anchorSide": "Center",
+                                        "hintAnchorEndpoint": "Start",
+                                        "hintOffsetX": "-200",
+                                        "hintOffsetY": "0"
+                                    }
+                                }
+                            ],
+                            "cameraPose": {
+                                "position": {
+                                    "x": -1.20054,
+                                    "y": 18.45282,
+                                    "z": -24.3325
+                                },
+                                "rotation": {
+                                    "x": 72.702,
+                                    "y": -0.168,
+                                    "z": 0
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemPanelPopUp",
+                                    "ItemPanelFolderBtn",
+                                    "ItemPanelSliderScrollViewDrag",
+                                    "ItemPanelSliderScrollViewDragShrink",
+                                    "ItemPanelSliderScrollViewDragExtend",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale",
+                                    "AgentTouch",
+                                    "ItemPanelToggleButton"
+                                ]
+                            },
+                            "param": {
+                                "itemId": "91"
+                            },
+                            "autoCompleteMode": "EnsureCondition",
+                            "outputContext": {
+                                "key": "placedBlock",
+                                "contextType": "SceneItem"
+                            }
+                        },
+                        {
+                            "atomicTaskId": "AT_MoveBlockToPosition",
+                            "taskType": "MoveItemToPosition",
+                            "guides": [
+                                {
+                                    "guideType": "SceneDragGuide",
+                                    "guideId": "drag_block_to_target",
+                                    "param": {
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T3_TIP",
+                                        "startPosKey": "MoveItem_StartPos",
+                                        "endPosKey": "MoveItem_TargetPos",
+                                        "hintAnchorEndpoint": "End",
+                                        "hintOffsetX": "0",
+                                        "hintOffsetY": "-100"
+                                    }
+                                },
+                                {
+                                    "guideType": "GhostPreview",
+                                    "guideId": "ghost_target_position",
+                                    "param": {
+                                        "sourceObjectKey": "MoveItem_SourceObj",
+                                        "targetPosKey": "MoveItem_TargetPos"
+                                    }
+                                },
+                                {
+                                    "guideType": "CommonGuide",
+                                    "guideId": "arrow_target_position",
+                                    "param": {
+                                        "displayType": "HintOnly",
+                                        "arrowAnchorPosKey": "MoveItem_TargetPos",
+                                        "anchorSide": "Top"
+                                    }
+                                }
+                            ],
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "PositionBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale",
+                                    "AgentTouch",
+                                    "AgentSelectionChange",
+                                    "ItemAdjustRemoveBtn",
+                                    "ItemPanelToggleButton"
+                                ]
+                            },
+                            "inputContext": {
+                                "key": "placedBlock",
+                                "contextType": "SceneItem"
+                            },
+                            "param": {
+                                "posX": "-3",
+                                "posY": "10",
+                                "posZ": "-19"
+                            },
+                            "autoCompleteMode": "EnsureCondition"
+                        }
+                    ]
+                },
+                {
+                    "taskId": "Task_EditObjectColor",
+                    "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T4_TASK",
+                    "atomicTasks": [
+                        {
+                            "atomicTaskId": "AT_SelectObjectForColor",
+                            "taskType": "SelectSceneObject",
+                            "dialogues": [
+                                {
+                                    "contentLocKey": "T_54_XJ_NEWBIE_LV1_T3_GUIDE"
+                                }
+                            ],
+                            "guides": [
+                                {
+                                    "guideType": "TutorialUI",
+                                    "guideId": "select_scene_for_color",
+                                    "param": {
+                                        "displayType": "RectHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T4_TIP_5",
+                                        "posX": "0",
+                                        "posY": "80"
+                                    }
+                                }
+                            ],
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "inputContext": {
+                                "key": "placedBlock",
+                                "contextType": "SceneItem"
+                            },
+                            "autoCompleteMode": "EnsureCondition"
+                        },
+                        {
+                            "atomicTaskId": "AT_OpenAttributeMode",
+                            "taskType": "OpenItemAttributeMode",
+                            "guides": [
+                                {
+                                    "guideType": "CommonGuide",
+                                    "guideId": "open_attribute_mode",
+                                    "param": {
+                                        "displayType": "RectHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T4_TIP_1",
+                                        "targetKey": "SceneEdit_Adjust_AttributeBtn",
+                                        "anchorSide": "Top",
+                                        "depthOffset": "2"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "HollowType": "Rectangle",
+                                    "TargetWidget": "SceneEdit_Adjust_AttributeBtn"
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {},
+                            "autoCompleteMode": "EnsureCondition"
+                        },
+                        {
+                            "atomicTaskId": "AT_OpenColorFunc",
+                            "taskType": "OpenItemFuncColor",
+                            "guides": [
+                                {
+                                    "guideType": "TutorialUI",
+                                    "guideId": "open_item_color",
+                                    "param": {
+                                        "displayType": "RectHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T4_TIP_2",
+                                        "targetKey": "SceneEdit_ItemAttribute_ColorBtn"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "HollowType": "Rectangle",
+                                    "TargetWidget": "SceneEdit_ItemAttribute_ColorBtn"
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {}
+                        },
+                        {
+                            "atomicTaskId": "AT_PickRedOnWheel",
+                            "taskType": "PickColorWheelPreset",
+                            "guides": [
+                                {
+                                    "guideType": "TutorialUI",
+                                    "guideId": "pick_wheel_color",
+                                    "param": {
+                                        "displayType": "CircleHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T4_TIP_3",
+                                        "targetKey": "ColorWheel_Preset_808080",
+                                        "posX": "-15",
+                                        "posY": "35"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "HollowType": "Rectangle",
+                                    "TargetWidget": "ColorWheel_Preset_808080"
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {
+                                "targetColorHex": "808080"
+                            }
+                        },
+                        {
+                            "atomicTaskId": "AT_CloseColorWheel",
+                            "taskType": "CloseColorWheel",
+                            "guides": [
+                                {
+                                    "guideType": "CommonGuide",
+                                    "guideId": "close_color_wheel",
+                                    "param": {
+                                        "displayType": "CircleHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T4_TIP_CLOSE_COLOR_WHEEL",
+                                        "targetObjectKey": "ColorWheel_PopupContent",
+                                        "guideCenterOffsetX": "-300",
+                                        "guideCenterOffsetY": "0",
+                                        "circleRadius": "50",
+                                        "anchorSide": "Left"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "maskAll": true,
+                                    "disableCollider": true
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {}
+                        },
+                        {
+                            "atomicTaskId": "AT_CloseAttributeMode",
+                            "taskType": "CloseItemAttributeMode",
+                            "guides": [
+                                {
+                                    "guideType": "TutorialUI",
+                                    "guideId": "close_attribute_mode",
+                                    "param": {
+                                        "displayType": "RectHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T4_TIP_4",
+                                        "targetKey": "SceneEdit_Inspector_CloseBtn"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "HollowType": "Rectangle",
+                                    "TargetWidget": "SceneEdit_Inspector_CloseBtn"
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {},
+                            "autoCompleteMode": "EnsureCondition"
+                        }
+                    ]
+                },
+                {
+                    "taskId": "Task_PlaceItemFromSecondCategory",
+                    "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T5_TASK",
+                    "atomicTasks": [
+                        {
+                            "atomicTaskId": "AT_ClickSecondCategory",
+                            "taskType": "ClickItemCategory",
+                            "dialogues": [
+                                {
+                                    "contentLocKey": "T_54_XJ_NEWBIE_LV1_T4_GUIDE"
+                                }
+                            ],
+                            "guides": [
+                                {
+                                    "guideType": "TutorialUI",
+                                    "guideId": "click_second_main_category",
+                                    "param": {
+                                        "displayType": "RectHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T5_TIP_2",
+                                        "targetKey": "ItemPanel_MainTab_1"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "HollowType": "Rectangle",
+                                    "TargetWidget": "ItemPanel_MainTab_1"
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemPanelPopUp",
+                                    "ItemPanelFolderBtn",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {
+                                "categoryIndex": "1"
+                            },
+                            "autoCompleteMode": "EnsureCondition"
+                        },
+                        {
+                            "atomicTaskId": "AT_PlaceSecondItemToScene",
+                            "taskType": "PlaceItemToScene",
+                            "guides": [
+                                {
+                                    "guideType": "SceneDragGuide",
+                                    "guideId": "drag_item_100310_to_scene",
+                                    "param": {
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T5_TIP_1",
+                                        "startWidgetKey": "ItemCell_100310",
+                                        "endPos": { "x": 0, "y": 5, "z": -20 },
+                                        "anchorSide": "Center",
+                                        "hintAnchorEndpoint": "Start",
+                                        "hintOffsetX": "-200",
+                                        "hintOffsetY": "0"
+                                    }
+                                }
+                            ],
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemPanelPopUp",
+                                    "ItemPanelFolderBtn",
+                                    "ItemPanelSliderScrollViewDrag",
+                                    "ItemPanelSliderScrollViewDragShrink",
+                                    "ItemPanelSliderScrollViewDragExtend",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale",
+                                    "ItemPanelToggleButton"
+                                ]
+                            },
+                            "param": {
+                                "itemId": "100310"
+                            },
+                            "autoCompleteMode": "EnsureCondition"
+                        }
+                    ]
+                },
+                {
+                    "taskId": "Task_TryPreview",
+                    "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T6_TASK",
+                    "atomicTasks": [
+                        {
+                            "atomicTaskId": "AT_ClickPlayButton",
+                            "taskType": "ClickPlayButton",
+                            "dialogues": [
+                                {
+                                    "contentLocKey": "T_54_XJ_NEWBIE_LV1_T5_GUIDE"
+                                }
+                            ],
+                            "guides": [
+                                {
+                                    "guideType": "TutorialUI",
+                                    "guideId": "click_play_btn",
+                                    "param": {
+                                        "displayType": "RectHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T6_TIP",
+                                        "targetKey": "SceneEdit_Option_PlayBtn"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "HollowType": "Rectangle",
+                                    "TargetWidget": "SceneEdit_Option_PlayBtn"
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {
+                                "delayDialogue": "10"
+                            },
+                            "autoCompleteMode": "EnsureCondition"
+                        }
+                    ]
+                },
+                {
+                    "taskId": "Task_ReturnToEdit",
+                    "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T7_TASK",
+                    "atomicTasks": [
+                        {
+                            "atomicTaskId": "AT_ExitPreviewMode",
+                            "taskType": "ExitPreviewMode",
+                            "guides": [
+                                {
+                                    "guideType": "TutorialUI",
+                                    "guideId": "click_exit_preview_btn",
+                                    "param": {
+                                        "displayType": "RectHint",
+                                        "hintTextLocKey": "(NK)Tap to exit preview",
+                                        "targetKey": "SceneEdit_Option_ExitPreviewBtn"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "HollowType": "Rectangle",
+                                    "TargetWidget": "SceneEdit_Option_ExitPreviewBtn"
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {},
+                            "autoCompleteMode": "EnsureCondition"
+                        }
+                    ]
+                },
+                {
+                    "taskId": "Task_PublishMap",
+                    "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T8_TASK",
+                    "atomicTasks": [
+                        {
+                            "atomicTaskId": "AT_ClickExitEditor",
+                            "taskType": "ClickExitEditor",
+                            "dialogues": [
+                                {
+                                    "contentLocKey": "T_54_XJ_NEWBIE_LV1_T8_GUIDE"
+                                }
+                            ],
+                            "guides": [
+                                {
+                                    "guideType": "TutorialUI",
+                                    "guideId": "click_back_btn",
+                                    "param": {
+                                        "displayType": "RectHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T8_TIP_1",
+                                        "targetKey": "SceneEdit_LeftOption_BackBtn"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "HollowType": "Rectangle",
+                                    "TargetWidget": "SceneEdit_LeftOption_BackBtn"
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {},
+                            "autoCompleteMode": "EnsureCondition"
+                        },
+                        {
+                            "atomicTaskId": "AT_ClickSaveAndPublish",
+                            "taskType": "ClickSaveAndPublish",
+                            "guides": [
+                                {
+                                    "guideType": "TutorialUI",
+                                    "guideId": "click_save_and_publish_btn",
+                                    "param": {
+                                        "displayType": "RectHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T8_TIP_2",
+                                        "targetKey": "ExitEditor_SaveAndPublishBtn"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "HollowType": "Rectangle",
+                                    "TargetWidget": "ExitEditor_SaveAndPublishBtn"
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {},
+                            "autoCompleteMode": "EnsureCondition"
+                        },
+                        {
+                            "atomicTaskId": "AT_PublishInDialog",
+                            "taskType": "PublishInDialog",
+                            "guides": [
+                                {
+                                    "guideType": "TutorialUI",
+                                    "guideId": "click_publish_btn_in_dialog",
+                                    "param": {
+                                        "displayType": "RectHint",
+                                        "hintTextLocKey": "T_54_XJ_NEWBIE_LV1_T8_TIP_3",
+                                        "targetKey": "PublishCheck_PublishBtn"
+                                    }
+                                }
+                            ],
+                            "mask": {
+                                "param": {
+                                    "HollowType": "Rectangle",
+                                    "TargetWidget": "PublishCheck_PublishBtn"
+                                }
+                            },
+                            "restrictions": {
+                                "hide": [
+                                    "ScriptBtn",
+                                    "MorePanel",
+                                    "ResourceShop",
+                                    "Plot",
+                                    "Timeline",
+                                    "Paint",
+                                    "HudEditor",
+                                    "ShopEditor",
+                                    "Undo",
+                                    "Redo",
+                                    "MultipleContainer",
+                                    "MoreSetting",
+                                    "ChangeEditBtn",
+                                    "ChangeLookBtn",
+                                    "SaveSceneBtn",
+                                    "SighExpandBtn",
+                                    "SwitchSigh",
+                                    "FloorCtrl",
+                                    "CameraHeightCtrl",
+                                    "PositionBtn"
+                                ],
+                                "disable": [
+                                    "ItemPanelSearchInput",
+                                    "ItemAdjustRemoveBtn",
+                                    "AgentMovement",
+                                    "AgentRotation",
+                                    "AgentScale"
+                                ]
+                            },
+                            "param": {
+                                "mapNameLocKey": "T_54_XJ_NEWBIE_TAG",
+                                "mapDescriptionLocKey": "T_54_XJ_NEWBIE_TASK_STATUS",
+                                "mapGenreId": "3",
+                                "mapTagIds": "63",
+                                "mapCoverResId": "",
+                                "mapCoverCdnUrl": "OB54/CSH/UGC/FF_UI_Ugc_TutorialMap_Parkour_CDN.png"
+                            },
+                            "autoCompleteMode": "EnsureCondition"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

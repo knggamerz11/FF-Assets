@@ -1,0 +1,225 @@
+{
+	"Lowest":
+	{
+		"Low":
+		{
+			"Fog": true,
+			"LodBias": 0.8,
+			"ShaderLOD": 200, 
+			"QualitySetting": 0,
+			"HDLocalPlayer": false,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": false,
+			"PostEffectMask": 2555,
+			"UseHDTexture":"true,true",
+			"AppendixStreamingRange": 0
+		},
+		"Medium":
+		{
+			"Fog": true,
+			"LodBias": 0.8,
+			"ShaderLOD": 200, 
+			"QualitySetting": 0,
+			"HDLocalPlayer": false,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": false,
+			"PostEffectMask": 2555,
+			"UseHDTexture":"true,true",
+			"AppendixStreamingRange": 0
+		},
+		"High":
+		{
+			"Fog": true,
+			"LodBias": 0.8,
+			"ShaderLOD": 210, 
+			"QualitySetting": 0,
+			"HDLocalPlayer": false,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": false,
+			"PostEffectMask": 2555,
+			"UseHDTexture":"true,true",
+			"AppendixStreamingRange": 0
+		}
+	},
+	"Low":
+	{
+		"Low":
+		{
+			"Fog": true,
+			"LodBias": 1.2,
+			"ShaderLOD": 300, 
+			"QualitySetting": 1,
+			"HDLocalPlayer": false,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": false,
+			"PostEffectMask": 2555,
+			"UseHDTexture":"true,true",
+			"AppendixStreamingRange": 0
+		},
+		"Medium":
+		{
+			"Fog": true,
+			"LodBias": 1.2,
+			"ShaderLOD": 300, 
+			"QualitySetting": 1,
+			"HDLocalPlayer": true,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": false,
+			"PostEffectMask": 2555,
+			"UseHDTexture":"true,true",
+			"AppendixStreamingRange": 0
+		},
+		"High":
+		{
+			"Fog": true,
+			"LodBias": 1.2,
+			"ShaderLOD": 300, 
+			"QualitySetting": 2,
+			"HDLocalPlayer": true,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": true,
+			"PostEffectMask": 2555,
+			"UseHDTexture":"true,true",
+			"AppendixStreamingRange": 0
+		}
+	},
+	"Ultra":
+	{
+		"Low":
+		{
+			"Fog": true,
+			"LodBias": 1.8,
+			"ShaderLOD": 500, 
+			"QualitySetting": 2,
+			"HDLocalPlayer": true,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": false,
+			"PostEffectMask": -1,
+			"UseHDTexture":"true,true",
+			"AppendixStreamingRange": 1
+		},
+		"Medium":
+		{
+			"Fog": true,
+			"LodBias": 1.8,
+			"ShaderLOD": 500, 
+			"QualitySetting": 2,
+			"HDLocalPlayer": true,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": true,
+			"PostEffectMask": -1,
+			"UseHDTexture":"true,true",
+			"AppendixStreamingRange": 1
+		},
+		"High":
+		{
+			"Fog": true,
+			"LodBias": 1.8,
+			"ShaderLOD": 500, 
+			"QualitySetting": 2,
+			"HDLocalPlayer": true,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": true,
+			"PostEffectMask": -1,
+			"UseHDTexture":"true,true",
+			"AppendixStreamingRange": 1
+		}
+	},
+	"UltraPlus":
+	{
+		"Low":
+		{
+			"Fog": true,
+			"LodBias": 1.8,
+			"ShaderLOD": 500, 
+			"QualitySetting": 2,
+			"HDLocalPlayer": true,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": false,
+			"PostEffectMask": 4094,
+			"AppendixStreamingRange": 1
+		},
+		"Medium":
+		{
+			"Fog": true,
+			"LodBias": 1.8,
+			"ShaderLOD": 500, 
+			"QualitySetting": 2,
+			"HDLocalPlayer": true,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": true,
+			"PostEffectMask": 4094,
+			"AppendixStreamingRange": 1,
+			"UseHDAudio":"true,true",
+			"UseHDAnimation":"true,true",
+			"UseHDWeaponEffect":"true,true",
+			"UseHDTexture":"true,true",
+			"UseHDVehicleEffect":"true,true"
+		},
+		"High":
+		{
+			"Fog": true,
+			"LodBias": 1.8,
+			"ShaderLOD": 500, 
+			"QualitySetting": 2,
+			"HDLocalPlayer": true,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": false,
+			"TerrainShadow": true,
+			"PostEffectMask": 4094,
+			"AppendixStreamingRange": 1,
+			"UseHDAudio":"true,true",
+			"UseHDAnimation":"true,true",
+			"UseHDWeaponEffect":"true,true",
+			"UseHDTexture":"true,true",
+			"UseHDVehicleEffect":"true,true"
+		},
+		"HighPlus":
+		{
+			"Fog": true,
+			"LodBias": 2.5,
+			"ShaderLOD": 500, 
+			"QualitySetting": 2,
+			"HDLocalPlayer": true,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": true,
+			"TerrainShadow": true,
+			"PostEffectMask": 4094,
+			"AppendixStreamingRange": 1,
+			"UseHDAudio":"true,true",
+			"UseHDAnimation":"true,true",
+			"UseHDWeaponEffect":"true,true",
+			"UseHDTexture":"true,true",
+			"UseHDVehicleEffect":"true,true"
+		},
+		"Ultra":
+		{
+			"Fog": true,
+			"LodBias": 2.5,
+			"ShaderLOD": 500, 
+			"QualitySetting": 2,
+			"HDLocalPlayer": true,
+			"HDTeammate": false,
+			"HD3PInWaitingRoom": true,
+			"TerrainShadow": true,
+			"PostEffectMask": -1,
+			"AppendixStreamingRange": 1,
+			"UseHDAudio":"true,true",
+			"UseHDAnimation":"true,true",
+			"UseHDWeaponEffect":"true,true",
+			"UseHDTexture":"true,true",
+			"UseHDVehicleEffect":"true,true"
+		}
+	}
+}

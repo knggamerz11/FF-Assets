@@ -1,0 +1,2 @@
+id,name,damage,fire_interval,range,full_damage_distance,min_damage_distance,min_damage,scatter_num,scatter_move,scatter_max,player_speed_factor,player_speed_factor_while_firing,once_ammo,repeat_fire_interval,fire_effect,gun_trace_effect,fire_sound,hud_icon,extra_param,airburst_in_advance,custom_param,desc
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,,unread,unread,unread,unread,unread,unread,unread,unread

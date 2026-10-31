@@ -1,0 +1,9 @@
+ZoneID,Key,MapOffset,MiniMapName,Comments
+unread,unread,unread,unread,unread
+1,T_41_PD_HuntingGroundSnow_MAPNAME,-60;-60;60;60,minimap_PVESnow_03,scene1
+2,T_41_PD_HuntingGroundSnow_MAPNAME,-60;-60;60;60,minimap_PVESnow_03,scene2
+3,T_41_PD_HuntingGroundSnow_MAPNAME,-60;-60;60;60,minimap_PVESnow_03,scene3
+4,T_41_PD_HuntingGroundSnow_MAPNAME,-60;-60;60;60,minimap_PVESnow_03,scene4
+5,T_41_PD_HuntingGroundSnow_MAPNAME,-26;274;26;326,minimap_PVESnow,scene5
+6,T_41_PD_HuntingGroundSnow_MAPNAME,274;-26;326;26,minimap_PVESnow_01,scene6
+7,T_41_PD_HuntingGroundSnow_MAPNAME,274;274;326;326,minimap_PVESnow_02,scene7

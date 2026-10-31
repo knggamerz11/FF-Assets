@@ -1,0 +1,181 @@
+
+Open_Plot_Kelly_A.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kelly-armL
+  rotate: 270
+  xy: 682, 250
+  size: 249, 257
+  orig: 249, 257
+  offset: 0, 0
+  index: -1
+Kelly-armR
+  rotate: 180
+  xy: 600, 675
+  size: 316, 324
+  orig: 316, 324
+  offset: 0, 0
+  index: -1
+Kelly-body01
+  rotate: false
+  xy: 361, 446
+  size: 237, 552
+  orig: 295, 599
+  offset: 0, 0
+  index: -1
+Kelly-body02
+  rotate: true
+  xy: 53, 292
+  size: 246, 533
+  orig: 329, 556
+  offset: 68, 0
+  index: -1
+Kelly-body04
+  rotate: true
+  xy: 178, 106
+  size: 124, 518
+  orig: 258, 601
+  offset: 134, 3
+  index: -1
+Kelly-close_new
+  rotate: false
+  xy: 219, 512
+  size: 111, 35
+  orig: 111, 35
+  offset: 0, 0
+  index: -1
+Kelly-feetL
+  rotate: true
+  xy: 787, 405
+  size: 269, 161
+  orig: 269, 161
+  offset: 0, 0
+  index: -1
+Kelly-feetR
+  rotate: true
+  xy: 1, 207
+  size: 185, 176
+  orig: 185, 176
+  offset: 0, 0
+  index: -1
+Kelly-hair01_new
+  rotate: false
+  xy: 598, 857
+  size: 161, 142
+  orig: 162, 153
+  offset: 0, 11
+  index: -1
+Kelly-hair02_new
+  rotate: 270
+  xy: 635, 18
+  size: 133, 273
+  orig: 215, 274
+  offset: 0, 1
+  index: -1
+Kelly-hair03_new
+  rotate: false
+  xy: 917, 369
+  size: 106, 268
+  orig: 107, 269
+  offset: 0, 1
+  index: -1
+Kelly-hair04_ne
+  rotate: false
+  xy: 587, 487
+  size: 199, 224
+  orig: 199, 226
+  offset: 0, 2
+  index: -1
+Kelly-handL_new
+  rotate: false
+  xy: 22, 3
+  size: 276, 145
+  orig: 276, 148
+  offset: 0, 0
+  index: -1
+Kelly-handR_new
+  rotate: 180
+  xy: 710, 110
+  size: 313, 135
+  orig: 313, 137
+  offset: 0, 2
+  index: -1
+Kelly-head_new
+  rotate: false
+  xy: 572, 160
+  size: 175, 240
+  orig: 175, 240
+  offset: 0, 0
+  index: -1
+Kelly-leg
+  rotate: false
+  xy: 1, 543
+  size: 374, 457
+  orig: 470, 1224
+  offset: 49, 767
+  index: -1
+Kelly-leg_ya
+  rotate: false
+  xy: 906, 808
+  size: 101, 191
+  orig: 113, 294
+  offset: 0, 9
+  index: -1
+Kelly-lingzi01
+  rotate: true
+  xy: 248, 194
+  size: 105, 143
+  orig: 105, 143
+  offset: 0, 0
+  index: -1
+Kelly-lingzi02
+  rotate: false
+  xy: 1, 84
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+Kelly-piaodai
+  rotate: false
+  xy: 372, 718
+  size: 20, 150
+  orig: 20, 150
+  offset: 0, 0
+  index: -1
+Kelly-piaodai01
+  rotate: false
+  xy: 753, 837
+  size: 25, 162
+  orig: 30, 162
+  offset: 5, 0
+  index: -1
+eye_B_L
+  rotate: false
+  xy: 375, 982
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+eye_B_R
+  rotate: false
+  xy: 357, 981
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+eye_w_L
+  rotate: false
+  xy: 993, 971
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+eye_w_R
+  rotate: false
+  xy: 779, 968
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

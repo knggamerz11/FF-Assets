@@ -1,0 +1,3 @@
+SkillID,Desc,Castingtime,Keepingtime,Prestoptime,PVEKeepingtime,CDtime,ContinuousCDtime,CanInterrupt,ConflictSkillTypes,KeepAlways,CancelSkillDelayTime,DragButton,RetriggerCD,RetriggerTimes,add_buff_eca_id,call_object_data_id,refresh_cd_condition,refresh_cd_condition_time_limit,auto_start_cd_after_refresh_cd,area_indicator_radius,CDtime_Short,SkillHUDButtonHint,ParamsJson
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+40000,unread,,2,1.23333,,20,0,TRUE,NetherWorldSwitch,FALSE,0.15,1,,,,,,,,,10,T_50_WT_SKILL_NEWBIE_DESC_21,

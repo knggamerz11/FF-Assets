@@ -1,0 +1,3 @@
+EffectiveHours,FreezeTime,MaxDrawNumPerDay,MaxBagsPerClan,GuildTokenItemID,batchdrawluckybagmaxcounts
+unread,unread,unread,unread,unread,unread
+48,48,10,50,814000003,50

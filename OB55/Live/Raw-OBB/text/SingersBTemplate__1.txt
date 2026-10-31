@@ -1,0 +1,4 @@
+id,prefab_res,description,spawnsfx
+unread,unread,unread,unread
+1,SINGERSB_PICKUP_CANDY_DIGITALUNIVERSEB_WHITE,unread,
+2,INGAME_Birth_Item_Trigger,unread,

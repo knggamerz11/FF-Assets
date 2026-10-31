@@ -1,0 +1,114 @@
+{
+	"Maps" : [
+		{
+			"MapId" : 1,
+			"ModeId" : "1",
+			"Layers" : [
+				{
+					"LayerName":"base",
+					"LayerRealNames":["LayerA_Origin","LayerB_Origin"],
+					"LayerID":0,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_ORIGIN","SCENE_PVP_PARADISE_MODE_ORIGIN","SCENE_PVP_PARADISE_LAYERB_ORIGIN"]
+				},		
+				
+				{
+					"LayerName":"ExchangeA",
+					"LayerRealNames":["LayerA_Exchange","LayerB_Origin"],
+					"LayerID":1,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_EXCHANGE","SCENE_PVP_PARADISE_MODE_LAYERA_EXCHANGE","SCENE_PVP_PARADISE_LAYERB_ORIGIN"]
+				},
+				
+				{
+					"LayerName":"ExchangeB",
+					"LayerRealNames":["LayerA_Origin","LayerB_Exchange"],
+					"LayerID":2,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_ORIGIN","SCENE_PVP_PARADISE_MODE_LAYERB_EXCHANGE","SCENE_PVP_PARADISE_LAYERB_EXCHANGE"]
+				}
+			]
+			
+		},
+		{
+			"MapId" : 1,
+			"ModeId" : "15,41,78",
+			"Layers" : [
+				{
+					"LayerName":"base",
+					"LayerRealNames":["LayerA_Origin","LayerB_Origin"],
+					"LayerID":0,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_ORIGIN","SCENE_PVP_PARADISE_MODE_CS_ORIGIN","SCENE_PVP_PARADISE_LAYERB_ORIGIN"]
+				},		
+				
+				{
+					"LayerName":"ExchangeA",
+					"LayerRealNames":["LayerA_Exchange","LayerB_Origin"],
+					"LayerID":1,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_EXCHANGE","SCENE_PVP_PARADISE_MODE_CS_LAYERA_EXCHANGE","SCENE_PVP_PARADISE_LAYERB_ORIGIN"]
+				},		
+				
+				{
+					"LayerName":"ExchangeB",
+					"LayerRealNames":["LayerA_Origin","LayerB_Exchange"],
+					"LayerID":2,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_ORIGIN","SCENE_PVP_PARADISE_MODE_CS_LAYERB_EXCHANGE","SCENE_PVP_PARADISE_LAYERB_EXCHANGE"]
+				}
+			]
+			
+		},
+		{
+			"MapId" : 1,
+			"ModeId" : "2,3,7,12,13,14,16,17,18,19,20,22,201,24,25,26,27,28,30,31,29,33,36,39,40,41,42,48,52,55,57,59,60,99,34,53,0,46,82,85",
+			"Layers" : [
+				{
+					"LayerName":"base",
+					"LayerRealNames":["LayerA_Origin","LayerB_Origin"],
+					"LayerID":0,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_ORIGIN","SCENE_PVP_PARADISE_MODE_ORIGIN","SCENE_PVP_PARADISE_LAYERB_ORIGIN"]
+				},		
+				
+				{
+					"LayerName":"ExchangeA",
+					"LayerRealNames":["LayerA_Exchange","LayerB_Origin"],
+					"LayerID":1,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_EXCHANGE","SCENE_PVP_PARADISE_MODE_LAYERA_EXCHANGE","SCENE_PVP_PARADISE_LAYERB_ORIGIN"]
+				},
+				
+				{
+					"LayerName":"ExchangeB",
+					"LayerRealNames":["LayerA_Origin","LayerB_Exchange"],
+					"LayerID":2,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_ORIGIN","SCENE_PVP_PARADISE_MODE_LAYERB_EXCHANGE","SCENE_PVP_PARADISE_LAYERB_EXCHANGE"]
+				}
+			]
+			
+			
+		},
+		{
+			"MapId" : 1,
+			"ModeId" : "84",
+			"Layers" : [
+				{
+					"LayerName":"base",
+					"LayerRealNames":["LayerA_Origin","LayerB_Origin"],
+					"LayerID":0,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_ORIGIN","SCENE_PVP_PARADISE_MODE_ORIGIN","SCENE_PVP_PARADISE_LAYERB_ORIGIN"]
+				},		
+				
+				{
+					"LayerName":"ExchangeA",
+					"LayerRealNames":["LayerA_Exchange","LayerB_Origin"],
+					"LayerID":1,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_EXCHANGE","SCENE_PVP_PARADISE_MODE_LAYERA_EXCHANGE","SCENE_PVP_PARADISE_LAYERB_ORIGIN"]
+				},
+				
+				{
+					"LayerName":"ExchangeB",
+					"LayerRealNames":["LayerA_Origin","LayerB_Exchange"],
+					"LayerID":2,
+					"LayerRes":["SCENE_PVP_PARADISE_LAYERA_ORIGIN","SCENE_PVP_PARADISE_MODE_LAYERB_EXCHANGE","SCENE_PVP_PARADISE_LAYERB_EXCHANGE"]
+				}
+			]
+			
+			
+		}
+	]
+}

@@ -1,0 +1,5 @@
+ID,RebateID,RebateType,RebateName,Price,RebateDays,ProductIdentifier,DaysAheadForRenewalReminding,SubscribePrice,SubscriptionProductIdentifier_Android,SubscriptionProductIdentifier_iOS,SubscribeBonus
+ID,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,81041,1,TXT_OB9_GXQ_REBATECARD_MONTHLY,9.99,30,freefire.diamond.81041,3,,,,
+2,1328,0,TXT_OB9_GXQ_REBATECARD_WEEKLY,1.99,7,freefire.diamond.90114,1,1.99,freefire.diamond.90114,freefire.diamond.90114,100
+3,4008,2,T_44_XH_VIP_MINIWEEKLY,0.59,7,freefire.diamond.4008,1,0.59,freefire.diamond.90125,freefire.diamond.90125,100

@@ -1,0 +1,109 @@
+{
+    "Prefabs" : [
+        {
+            "PrefabName" : "RedEnvelope_Mocomonth_Low",
+            "PrefabUUID" : "DQkAo3GC.nwojpv1ys4p-m2fx9rij-fo211kb5fue",
+			"NameLocKey" : "RedEnvelope_Mocomonth_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 8245529100000,
+            "EntityType": "DQkAo3GC00CustomComponent54421289",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "RedEnvelope_SummerEvent_Low",
+            "PrefabUUID" : "DQkAo3GC.o5jvq23zxd-m2fxbzsy-lceo9tr48d",
+			"NameLocKey" : "RedEnvelope_SummerEvent_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 8245529100001,
+            "EntityType": "DQkAo3GC00CustomComponent91580866",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "RedEnvelope_Valentine_Low",
+            "PrefabUUID" : "DQkAo3GC.r79kgdmqp6-m2fxdhwr-519sberctl2",
+			"NameLocKey" : "RedEnvelope_Valentine_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 8245529100002,
+            "EntityType": "DQkAo3GC00CustomComponent41447883",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+flightid,comment,price,faction,hspeed,max_hspeed,vspeed,max_vspeed,callneedtime
+unread,unread,unread,unread,,,,,unread
+911003401,unread,400000,,30,30,15,20,1
+911003701,unread,350000,,25,30,20,20,1
+911003502,unread,300000,,20,30,15,20,2
+911000002,unread,250000,,15,30,12,20,3
+911000003,unread,200000,,10,30,10,20,3

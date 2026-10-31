@@ -1,0 +1,11 @@
+ZoneID,Key,Comments,MapOffset,MiniMapName,MiniMapScale,slide_path_minimap
+unread,unread,unread,unread,unread,unread,unread
+0,T_16_P_MANUAL_MAP2_1012,Central,-303.12;-711.79;-185.32;-593.99,azore_minimap_cs_central,11,
+1,T_16_P_MANUAL_MAP2_1006,Brasilia,-130.01;-391.76;1.99;-259.76,azore_minimap_cs_brasilia_1,7,
+2,T_16_P_MANUAL_MAP2_1013,Lumber Mill,158.88;-817.02;290.72;-685.18,,,
+3,T_16_P_MANUAL_MAP2_1011,Forge,470.1;-367.5;630.1;-207.5,azore_minimap_cs_forge,7.5,
+4,T_16_P_MANUAL_MAP2_1013,Lumber Mill,159.80;-816.10;289.80;-686.10,azore_minimap_cs_lumbermill,8,
+5,T_16_P_MANUAL_MAP2_1007,Quarry,-874.97;-339.69;-749.29;-214.01,,,
+6,T_16_P_MANUAL_MAP2_1003,Crossroads,-550.00;302.70;-439.20;413.50,azore_minimap_cs_crossroads,10,
+7,T_16_P_MANUAL_MAP2_1006,Brasilia,-216.76;-263.49;-86.36;-133.09,azore_minimap_cs_brasilia_7,11,
+8,T_30_XH_PCMAP_A6,Moathouse,43.20;432.90;197.20;586.90,azore_minimap_cs_moathouse,6,

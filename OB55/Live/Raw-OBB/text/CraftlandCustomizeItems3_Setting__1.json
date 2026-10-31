@@ -1,0 +1,109 @@
+{
+    "Prefabs" : [
+        {
+            "PrefabName" : "Backpack_Piratemk2_001_Low",
+            "PrefabUUID" : "dJkMNG6O.3xrxmuw0fh9-m2fytqad-m10yynhhfck",
+			"NameLocKey" : "Backpack_Piratemk2_001_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 44684651100000,
+            "EntityType": "dJkMNG6O00CustomComponent37088518",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "Backpack_Piratemk2_002_Low",
+            "PrefabUUID" : "dJkMNG6O.a86sf7fvusr-m2fyxxux-lgj0xcoy9u",
+			"NameLocKey" : "Backpack_Piratemk2_002_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 44684651100001,
+            "EntityType": "dJkMNG6O00CustomComponent71751551",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "Backpack_Piratemk2_003_Low",
+            "PrefabUUID" : "dJkMNG6O.pl5q6ebcv8-m2fyzlwy-r130we7ll5f",
+			"NameLocKey" : "Backpack_Piratemk2_003_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 44684651100002,
+            "EntityType": "dJkMNG6O00CustomComponent90978163",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+        }
+    ]
+}

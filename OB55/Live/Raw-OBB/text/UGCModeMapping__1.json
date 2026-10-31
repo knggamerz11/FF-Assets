@@ -1,0 +1,77 @@
+{
+	"modeMapping": 
+	[
+		{
+			"name": "Annihilate",
+			"index": 0,
+			"twoTeamsTemplateId": 3,
+			"mulTeamsTemplateId": 6
+		},
+		{
+			"name": "Score",
+			"index": 1,
+			"twoTeamsTemplateId": 1,
+			"mulTeamsTemplateId": 4
+		},
+		{
+			"name": "Racing",
+			"index": 2,
+			"twoTeamsTemplateId": 2,
+			"mulTeamsTemplateId": 5
+		},
+		{
+			"name": "FullCustom",
+			"index": 3,
+			"twoTeamsTemplateId": 0,
+			"mulTeamsTemplateId": 0
+		},
+		{
+			"name": "PVE1",
+			"index": 4,
+			"twoTeamsTemplateId": 7,
+			"mulTeamsTemplateId": 7
+		},
+		{
+			"name": "PVE2",
+			"index": 5,
+			"twoTeamsTemplateId": 8,
+			"mulTeamsTemplateId": 8
+		},
+		{
+			"name": "Cat",
+			"index": 6,
+			"twoTeamsTemplateId": 10,
+			"mulTeamsTemplateId": 10
+		},
+		{
+			"name": "CreativeContest",
+			"index": 8,
+			"twoTeamsTemplateId": 11,
+			"mulTeamsTemplateId": 11
+		},
+		{
+			"name": "ClashSquad",
+			"index": 9,
+			"twoTeamsTemplateId": 12,
+			"mulTeamsTemplateId": 12
+		},
+		{
+			"name": "GunKing",
+			"index": 10,
+			"twoTeamsTemplateId": 13,
+			"mulTeamsTemplateId": 13
+		},
+		{
+			"name": "FirstPersonPerspective",
+			"index": 11,
+			"twoTeamsTemplateId": 14,
+			"mulTeamsTemplateId": 14
+		},
+		{
+			"name": "MiniParkour",
+			"index": 15,
+			"twoTeamsTemplateId": 15,
+			"mulTeamsTemplateId": 15
+		}
+	]
+}

@@ -1,0 +1,10 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+EnableAssistantTriggerTips,unread,bool,TRUE
+EnableAssistantMarkItemTips,unread,bool,TRUE
+EnableAssistantTips,unread,bool,FALSE
+SafeZoneIndexToObsoleteExtraLife,unread,int,3
+LuckyDrawBoxOpenMatchMode,unread,string,4
+IsBrScoreboardOpen,unread,bool,TRUE
+PropertyChangeSwitch,unread,bool,FALSE
+DefaultSceneAudioResource,unread,string,SOUND_AMB_DEFAULT

@@ -1,0 +1,5 @@
+id,name,min_fly_height,min_end_height,fly_speed_horz,fly_speed_vert,fall_speed,turn_speed,max_height,overheight_fall_speed,accelerated_speed,can_aimassist
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+2003,unread,1.5,0.5,9,-0.44,-8,55,14,-10,6.6,TRUE
+2012,unread,3,1,17,-6,-12,55,14,-15,6.6,FALSE
+1652101,unread,1.5,0.5,9,-0.44,-8,55,14,-10,6.6,TRUE

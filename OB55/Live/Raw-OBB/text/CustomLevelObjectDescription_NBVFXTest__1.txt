@@ -1,0 +1,139 @@
+@ModuleLib=jztd1XKu
+@ScriptName=RasenganPreparation
+type jztd1XKu00CustomComponent74156404 : (Component & CustomLevelObject) = 94397646100000 { #RasenganPreparation
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=Rasengan
+type jztd1XKu00CustomComponent77490862 : (Component & CustomLevelObject) = 94397646100001 { #Rasengan
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Kunai
+type jztd1XKu00CustomComponent91885573 : (Component & CustomLevelObject) = 94397646100003 { #NB_Kunai
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_ForbiddenJutsuScroll
+type jztd1XKu00CustomComponent47353237 : (Component & CustomLevelObject) = 94397646100004 { #NB_ForbiddenJutsuScroll
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building001
+type jztd1XKu00CustomComponent59044964 : (Component & CustomLevelObject) = 94397646100006 { #NB_Building001
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_BigScrollClose
+type jztd1XKu00CustomComponent35357090 : (Component & CustomLevelObject) = 94397646100002 { #NB_BigScrollClose
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_BigScrollOpen
+type jztd1XKu00CustomComponent88427224 : (Component & CustomLevelObject) = 94397646100005 { #NB_BigScrollOpen
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building002
+type jztd1XKu00CustomComponent84119856 : (Component & CustomLevelObject) = 94397646100007 { #NB_Building002
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building003
+type jztd1XKu00CustomComponent53116548 : (Component & CustomLevelObject) = 94397646100008 { #NB_Building003
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building004
+type jztd1XKu00CustomComponent83889069 : (Component & CustomLevelObject) = 94397646100009 { #NB_Building004
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building005
+type jztd1XKu00CustomComponent39023850 : (Component & CustomLevelObject) = 94397646100010 { #NB_Building005
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building006
+type jztd1XKu00CustomComponent40248192 : (Component & CustomLevelObject) = 94397646100011 { #NB_Building006
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building007
+type jztd1XKu00CustomComponent53337733 : (Component & CustomLevelObject) = 94397646100012 { #NB_Building007
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building008
+type jztd1XKu00CustomComponent56115731 : (Component & CustomLevelObject) = 94397646100013 { #NB_Building008
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building009
+type jztd1XKu00CustomComponent37448591 : (Component & CustomLevelObject) = 94397646100014 { #NB_Building009
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building010
+type jztd1XKu00CustomComponent52579224 : (Component & CustomLevelObject) = 94397646100015 { #NB_Building010
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Building011
+type jztd1XKu00CustomComponent37542075 : (Component & CustomLevelObject) = 94397646100016 { #NB_Building011
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_CherryImpact
+type jztd1XKu00CustomComponent52220951 : (Component & CustomLevelObject) = 94397646100017 { #NB_CherryImpact
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Chidori
+type jztd1XKu00CustomComponent62300795 : (Component & CustomLevelObject) = 94397646100018 { #NB_Chidori
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_EdoTenseiEffect
+type jztd1XKu00CustomComponent23432202 : (Component & CustomLevelObject) = 94397646100019 { #NB_EdoTenseiEffect
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_FireballJutsu
+type jztd1XKu00CustomComponent44565816 : (Component & CustomLevelObject) = 94397646100020 { #NB_FireballJutsu
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_RevivePointCoffin
+type jztd1XKu00CustomComponent57089782 : (Component & CustomLevelObject) = 94397646100021 { #NB_RevivePointCoffin
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_RevivePointCoffinLid
+type jztd1XKu00CustomComponent32136749 : (Component & CustomLevelObject) = 94397646100022 { #NB_RevivePointCoffinLid
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_Shuriken
+type jztd1XKu00CustomComponent95010916 : (Component & CustomLevelObject) = 94397646100023 { #NB_Shuriken
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_TailedBeastBomb
+type jztd1XKu00CustomComponent75424032 : (Component & CustomLevelObject) = 94397646100024 { #NB_TailedBeastBomb
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_WaterDragon
+type jztd1XKu00CustomComponent16865382 : (Component & CustomLevelObject) = 94397646100025 { #NB_WaterDragon
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_WindExplosionEffect
+type jztd1XKu00CustomComponent15605956 : (Component & CustomLevelObject) = 94397646100026 { #NB_WindExplosionEffect
+}
+
+@ModuleLib=jztd1XKu
+@ScriptName=NB_WindRelease
+type jztd1XKu00CustomComponent44609897 : (Component & CustomLevelObject) = 94397646100027 { #NB_WindRelease
+}

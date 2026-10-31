@@ -1,0 +1,2 @@
+ID,WeaponID,OB,Content,Des
+unread,WeaponID,unread,Key,unread

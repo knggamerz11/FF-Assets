@@ -1,0 +1,4 @@
+ID,UgcTypeName,GroupID,SortID,ShowKey,ItemType,ShowModel
+unread,unread,unread,unread,unread,unread,
+1,EffectEntity,1,0,EffectEntity_NoKey,44,T_34_M_WS_VFX
+2,DoubleJumpShoes,1,1,DoublejumpShoe_NoKey,0,INGAME_PICKUP_DOUBLEJUMPSHOE

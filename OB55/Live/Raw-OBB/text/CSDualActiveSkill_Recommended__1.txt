@@ -1,0 +1,8 @@
+RecommendedSkillsetID,SkillsetName,Skill01,Skill02,SkillTag01,SkillTag02
+unread,unread,unread,unread,unread,unread
+1,NO_KEY,4706,3806,,
+2,NO_KEY,2206,4406,,
+3,NO_KEY,1206,5806,,
+4,NO_KEY,5806,6006,,
+5,NO_KEY,6206,3406,,
+6,NO_KEY,1206,6206,,

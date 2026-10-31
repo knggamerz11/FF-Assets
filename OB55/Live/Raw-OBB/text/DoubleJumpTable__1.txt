@@ -1,0 +1,6 @@
+id,name,MaxJumpHeight,DemageReduce,UseEffect,EnergyRecovery,JumpConsume,MaxEnergy,RushTime,RushSpeed,SoundResID
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1602,unread,6.3,0,VFX_DOUBLEJUMPSHOE_START,1,10,10,,,
+1603,unread,4,0,VFX_DOUBLEJUMPSHOE_START,5,15,30,,,
+1604,unread,4,0,VFX_DOUBLEJUMPSHOE_START,1,7,7,,,
+1605,unread,0.4,0,VFX_DOUBLEJUMPSHOE_START,5,10,10,0.45,8,

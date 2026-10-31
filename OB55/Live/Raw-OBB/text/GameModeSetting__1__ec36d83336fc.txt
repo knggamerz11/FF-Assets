@@ -1,0 +1,13 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,
+NoJumping,,bool,true
+NoZoneDamage,,bool,true
+NoDeadBox,,bool,true
+NoPickup,,bool,true
+UnlimitBagCapacity,,bool,true
+EnableInGameShop,,bool,true
+NoDropItems,,bool,true
+EnableModeChat,,bool,true
+IsNeedRemainingInfo,,bool,false
+HasRevival,unread,bool,FALSE
+HuntingGroundAttackAI,unread,bool,TRUE

@@ -1,0 +1,13 @@
+ZoneID,Key,Comments,MapOffset,MiniMapName,MiniMapScale,slide_path_minimap
+unread,unread,unread,unread,unread,unread,unread
+0,T_23_B_COMMANDPOST,unread,62.50;-239.20;198.70;-103.00,sonoran_minimap_cs_commandpost,6.5,
+1,T_23_B_JAIL,unread,403.80;115.10;527.80;239.10,sonoran_minimap_cs_jail,6,
+2,T_23_B_SHRINES,unread,-85.70;373.36;26.30;485.36,sonoran_minimap_cs_shrines,7,
+3,T_23_B_MAZE,unread,-553.8;-167.4;-435.8;-49.4,sonoran_minimap_cs_maze,7,
+4,T_23_B_MAMMONTH,unread,-424.90;-477.30;-282.90;-335.30,sonoran_minimap_cs_mammoth,5.5,
+5,T_23_B_COUNCIL,unread,269.10;348.80;401.10;480.80,sonoran_minimap_cs_council,5,
+6,T_23_B_CIVIL,unread,61.10;66.20;231.10;236.20,sonoran_minimap_cs_civil,5,
+7,T_23_B_SHIP,unread,390.10;-137.00;526.10;-1.00,sonoran_minimap_cs_ship,7.5,
+8,T_23_B_REFINERY,unread,-108.10;-89.40;3.90;22.60,sonoran_minimap_cs_refinery,11,
+9,T_23_B_FOUNDATION,unread,-374.2;102.4;-268;208.6,,,
+10,T_45_ZP_SEVENTHB_GAMEPLAY_ADS1_TITLE,minipeak,-1893.62;-36;-1821.62;36,minimap_cs_Sapland_Oldpeak,,

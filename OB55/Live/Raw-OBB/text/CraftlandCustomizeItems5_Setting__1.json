@@ -1,0 +1,109 @@
+{
+    "Prefabs" : [
+        {
+            "PrefabName" : "RedEnvelope_Bounty_Low",
+            "PrefabUUID" : "LHFcO1Ih.4zayx55ccho-m2fuw4zu-vdkrrds735",
+			"NameLocKey" : "RedEnvelope_Bounty_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 88032703100000,
+            "EntityType": "LHFcO1Ih00CustomComponent87846928",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "RedEnvelope_CandyPumpkin_Low",
+            "PrefabUUID" : "LHFcO1Ih.tzj79y62vm-m2fuxxzh-qrq1511uv9j",
+			"NameLocKey" : "RedEnvelope_CandyPumpkin_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 88032703100001,
+            "EntityType": "LHFcO1Ih00CustomComponent42209654",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "RedEnvelope_FastbreakingB_Low",
+            "PrefabUUID" : "LHFcO1Ih.04x81dwkvfty-m2fuznc3-508gc1h0c2",
+			"NameLocKey" : "RedEnvelope_FastbreakingB_Low",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID"		: 88032703100002,
+            "EntityType": "LHFcO1Ih00CustomComponent34581384",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "1"
+					}
+				]
+            }
+        }
+    ]
+}

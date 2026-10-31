@@ -1,0 +1,14 @@
+@ModuleLib=dJkMNG6O
+@ScriptName=Backpack_Piratemk2_001_Low
+type dJkMNG6O00CustomComponent37088518 : (Component & CustomLevelObject) = 44684651100000 { #Backpack_Piratemk2_001_Low
+}
+
+@ModuleLib=dJkMNG6O
+@ScriptName=Backpack_Piratemk2_002_Low
+type dJkMNG6O00CustomComponent71751551 : (Component & CustomLevelObject) = 44684651100001 { #Backpack_Piratemk2_002_Low
+}
+
+@ModuleLib=dJkMNG6O
+@ScriptName=Backpack_Piratemk2_003_Low
+type dJkMNG6O00CustomComponent90978163 : (Component & CustomLevelObject) = 44684651100002 { #Backpack_Piratemk2_003_Low
+}

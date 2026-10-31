@@ -1,0 +1,10 @@
+id,name,"type",ingame_effect,use_time,max_coin,each_coin,hp,reset_time,revive_time
+unread,,unread,unread,unread,unread,unread,unread,unread,unread
+1,unread,1,EFFECT_LUCKYDRAWBOX_LEVELLIGHT_2,5,250,250,,,
+2,unread,2,,3,,,,,
+3,unread,3,,,,,10,10,
+4,unread,4,,3,,,6,5,10
+5,unread,1,EFFECT_LUCKYDRAWBOX_LEVELLIGHT_3,8,500,500,,,
+6,unread,1,EFFECT_LUCKYDRAWBOX_LEVELLIGHT_1,3,100,100,,,
+7,unread,6,,3,,,,,
+8,unread,5,,,,,,,

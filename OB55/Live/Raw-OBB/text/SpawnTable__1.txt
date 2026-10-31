@@ -1,0 +1,8 @@
+id,type,posid1,posid2,bound,is_static,note
+id,unread,unread,unread,unread,unread,unread
+118,0,,,0;0,1,Vehicle-Roadster
+112,0,,,0;0,1,Vehicle-suv
+113,0,,,0;0,1,Vehicle-jeep
+114,0,,,0;0,1,Vehicle-tutu
+115,0,,,0;0,1,Vehicle_Amphibian
+117,0,,,0;0,1,Vehicle_Motobike

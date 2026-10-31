@@ -1,0 +1,405 @@
+
+NB1RE_Reskin_SYS_Kelly_A.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kelly_Arm_L
+  rotate: false
+  xy: 409, 97
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+Kelly_Arm_R
+  rotate: 270
+  xy: 323, 5
+  size: 129, 83
+  orig: 130, 84
+  offset: 0, 0
+  index: -1
+Kelly_Belt
+  rotate: false
+  xy: 466, 187
+  size: 26, 37
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Kelly_Body
+  rotate: 270
+  xy: 2, 17
+  size: 141, 147
+  orig: 159, 174
+  offset: 14, 9
+  index: -1
+Kelly_Calf_L
+  rotate: false
+  xy: 209, 132
+  size: 128, 124
+  orig: 152, 125
+  offset: 24, 1
+  index: -1
+Kelly_Clothes_1
+  rotate: 180
+  xy: 444, 3
+  size: 51, 63
+  orig: 51, 64
+  offset: 0, 1
+  index: -1
+Kelly_Clothes_2
+  rotate: 270
+  xy: 110, 167
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+Kelly_Clothes_3
+  rotate: 270
+  xy: 454, 116
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+Kelly_Clothes_After
+  rotate: true
+  xy: 322, 211
+  size: 44, 37
+  orig: 67, 59
+  offset: 3, 0
+  index: -1
+Kelly_Clothes_L
+  rotate: false
+  xy: 376, 6
+  size: 86, 115
+  orig: 86, 115
+  offset: 0, 0
+  index: -1
+Kelly_Clothes_R
+  rotate: true
+  xy: 257, 7
+  size: 129, 72
+  orig: 129, 73
+  offset: 0, 0
+  index: -1
+Kelly_Crotch
+  rotate: true
+  xy: 298, 78
+  size: 126, 91
+  orig: 126, 93
+  offset: 0, 2
+  index: -1
+Kelly_Eyeball_L
+  rotate: false
+  xy: 33, 153
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Kelly_Eyeball_R
+  rotate: false
+  xy: 2, 222
+  size: 8, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+Kelly_Eyebrow_L
+  rotate: false
+  xy: 17, 251
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Kelly_Eyebrow_R
+  rotate: false
+  xy: 30, 39
+  size: 19, 13
+  orig: 19, 14
+  offset: 0, 1
+  index: -1
+Kelly_EyesCosed_L_1
+  rotate: false
+  xy: 139, 73
+  size: 15, 9
+  orig: 16, 11
+  offset: 0, 1
+  index: -1
+Kelly_EyesCosed_R_1
+  rotate: false
+  xy: 94, 120
+  size: 16, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Kelly_Face
+  rotate: 180
+  xy: 271, 195
+  size: 58, 60
+  orig: 65, 79
+  offset: 1, 1
+  index: -1
+Kelly_Finger_L_01
+  rotate: false
+  xy: 240, 230
+  size: 28, 25
+  orig: 29, 25
+  offset: 1, 0
+  index: -1
+Kelly_Finger_L_02
+  rotate: false
+  xy: 2, 123
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+Kelly_Finger_L_03
+  rotate: false
+  xy: 62, 3
+  size: 19, 26
+  orig: 19, 27
+  offset: 0, 1
+  index: -1
+Kelly_Finger_R
+  rotate: false
+  xy: 40, 243
+  size: 28, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+Kelly_Hair_1
+  rotate: false
+  xy: 253, 44
+  size: 18, 37
+  orig: 19, 38
+  offset: 1, 1
+  index: -1
+Kelly_Hair_10
+  rotate: false
+  xy: 2, 7
+  size: 42, 15
+  orig: 43, 15
+  offset: 1, 0
+  index: -1
+Kelly_Hair_11
+  rotate: true
+  xy: 469, 68
+  size: 49, 27
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+Kelly_Hair_12
+  rotate: false
+  xy: 75, 206
+  size: 79, 50
+  orig: 80, 50
+  offset: 1, 0
+  index: -1
+Kelly_Hair_13
+  rotate: false
+  xy: 59, 126
+  size: 33, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Kelly_Hair_14
+  rotate: false
+  xy: 434, 176
+  size: 11, 41
+  orig: 12, 42
+  offset: 1, 0
+  index: -1
+Kelly_Hair_15
+  rotate: 180
+  xy: 428, 11
+  size: 42, 77
+  orig: 43, 77
+  offset: 1, 0
+  index: -1
+Kelly_Hair_2
+  rotate: true
+  xy: 2, 9
+  size: 62, 61
+  orig: 63, 61
+  offset: 1, 0
+  index: -1
+Kelly_Hair_3
+  rotate: false
+  xy: 151, 3
+  size: 23, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Kelly_Hair_4
+  rotate: false
+  xy: 142, 237
+  size: 20, 17
+  orig: 20, 20
+  offset: 0, 3
+  index: -1
+Kelly_Hair_5
+  rotate: false
+  xy: 2, 198
+  size: 17, 22
+  orig: 18, 24
+  offset: 0, 1
+  index: -1
+Kelly_Hair_6
+  rotate: false
+  xy: 149, 53
+  size: 12, 18
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Kelly_Hair_7
+  rotate: false
+  xy: 312, 35
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Kelly_Hair_8
+  rotate: false
+  xy: 351, 93
+  size: 37, 54
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Kelly_Hair_9
+  rotate: false
+  xy: 128, 7
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Kelly_Hair_Light_1
+  rotate: false
+  xy: 2, 181
+  size: 13, 13
+  orig: 14, 13
+  offset: 1, 0
+  index: -1
+Kelly_Hair_Light_2
+  rotate: false
+  xy: 197, 242
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Kelly_Hair_Light_3
+  rotate: false
+  xy: 50, 3
+  size: 9, 10
+  orig: 10, 11
+  offset: 1, 0
+  index: -1
+Kelly_Hair_Light_4
+  rotate: false
+  xy: 82, 9
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Kelly_Hair_Light_5
+  rotate: false
+  xy: 2, 23
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+Kelly_Hand_L
+  rotate: false
+  xy: 2, 147
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Kelly_Hand_R
+  rotate: false
+  xy: 214, 56
+  size: 48, 28
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+Kelly_Leg_L
+  rotate: true
+  xy: 2, 14
+  size: 241, 264
+  orig: 241, 266
+  offset: 0, 0
+  index: -1
+Kelly_LowerEyelid_L
+  rotate: false
+  xy: 94, 3
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Kelly_LowerEyelid_R
+  rotate: false
+  xy: 139, 198
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Kelly_Neck
+  rotate: false
+  xy: 401, 203
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+Kelly_Sclera_L
+  rotate: false
+  xy: 61, 233
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Kelly_Sclera_R
+  rotate: false
+  xy: 126, 244
+  size: 14, 11
+  orig: 14, 12
+  offset: 0, 1
+  index: -1
+Kelly_Thigh_L
+  rotate: false
+  xy: 157, 84
+  size: 100, 171
+  orig: 100, 172
+  offset: 0, 0
+  index: -1
+Kelly_UpperArm_R
+  rotate: 180
+  xy: 340, 159
+  size: 85, 96
+  orig: 93, 104
+  offset: 5, 8
+  index: -1
+Kelly_UpperEyelid_L
+  rotate: false
+  xy: 167, 3
+  size: 16, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+Kelly_UpperEyelid_R
+  rotate: false
+  xy: 126, 83
+  size: 17, 16
+  orig: 18, 16
+  offset: 1, 0
+  index: -1
+Kelly_Weapon_01
+  rotate: false
+  xy: 252, 131
+  size: 15, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+Kelly_Weapon_02
+  rotate: 180
+  xy: 444, 147
+  size: 37, 108
+  orig: 37, 109
+  offset: 0, 0
+  index: -1

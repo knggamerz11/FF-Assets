@@ -1,0 +1,14 @@
+id,name,hud_icon,model,UavType,PreparationTime,TakeEffectDelay,FlyHeight,FlyTime,HP,MoveDistance,WaitTime,Radius,WorkInterval,ShareWithTeammates,isinvincible,RecoverEachTime,GlooWallRecoverType,UAVRangeBuff,UavReleaseType,BornPosCheck,ForceScanOnCreate,MarkNearestTopN,MarkLifeTime,MarkAvailableTimes
+id,name,hud_icon,model,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1006,T_26_ET_CELLPHONE_NAME,Icon_HUD_Grenade,INGAME_UAV,0,0,0,40,20,200,120,10,65,5,1,FALSE,0,,,1,,,,,
+50011,T_26_ET_CELLPHONE_NAME,Icon_HUD_Grenade,INGAME_UAV,0,0,0,20,1200,800,0,1200,100,5,1,FALSE,0,,,1,,,,,
+50012,T_42_WH_ITEM_HEALUAV,Icon_HUD_Grenade,INGAME_HEALUAV,1,0,0,4,5,100,20,2,5,1,1,FALSE,30,,,1,,,,,
+50013,T_42_WH_ITEM_HEALUAV,Icon_HUD_Grenade,INGAME_HEALUAV,1,0,0,2.2,5,100,15,2,10,1,1,FALSE,30,,,1,,,,,
+50014,T_26_ET_CELLPHONE_NAME,Icon_HUD_Grenade,INGAME_UAV,0,0,0,40,20,200,120,10,65,5,1,FALSE,0,,,1,,,,,
+50015,T_42_WH_ITEM_HEALUAV,Icon_HUD_Grenade,INGAME_HEALUAV,1,0,0,2.2,5,100,8,5,10,1,1,FALSE,20,,,1,,,,,
+1650001,T_26_ET_CELLPHONE_NAME,Icon_HUD_Grenade,INGAME_UAV,0,0,0,40,20,200,150,10,65,5,1,FALSE,0,,,1,,,,,
+1650002,T_42_WH_ITEM_HEALUAV,Icon_HUD_Grenade,INGAME_HEALUAV,1,0,0,2.2,5,100,12,2,10,1,1,FALSE,50,,,1,,,,,
+50016,T_51_WT_ITEM_GLOOWAUAV_NAME,Icon_HUD_Grenade,INGAME_LEVELICEWALLUAV,2,0,0,3.7,6,300,6,9,10,0.5,1,FALSE,300,2,255,1,,,,,
+50017,unread,Icon_HUD_Grenade,INGAME_UAV,0,0,0,20,0,200,0,180,100,5,1,FALSE,0,,,1,,,,,
+50018,unread,Icon_HUD_Grenade,UAVINVISIBLE,0,0,0,2.2,0,200,0,5,30,10,1,TRUE,0,,,1,,TRUE,0,0,0
+50019,unread,Icon_HUD_Grenade,UAVINVISIBLE,0,0,0,2.2,0,200,0,5,120,10,1,TRUE,0,,,1,,TRUE,0,0,0

@@ -1,0 +1,3 @@
+token_life_time,token_flash_time,start_show_combo,combo_effects_rank,score_weight,pick_weight,close_to_win
+unread,unread,unread,unread,unread,unread,unread
+30,25,2,2;3;5,1,1,10

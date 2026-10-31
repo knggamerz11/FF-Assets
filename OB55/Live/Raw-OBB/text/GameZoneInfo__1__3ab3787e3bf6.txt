@@ -1,0 +1,6 @@
+ZoneID,Key,MapOffset,MiniMapName,Comments
+unread,unread,unread,unread,unread
+1,T_32_YF_LWSO_MAP_LAB,-70;-70;70;70,minimap_Labmap,scene1
+2,T_32_YF_LWSO_MAP_LAB,-70;-70;70;70,minimap_Labmap,scene2
+3,T_32_YF_LWSO_MAP_LAB,-70;-70;70;70,minimap_Labmap,scene3
+4,T_32_YF_LWSO_MAP_LAB,-70;-70;70;70,minimap_Labmap,scene4

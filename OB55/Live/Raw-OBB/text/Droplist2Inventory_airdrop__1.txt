@@ -1,0 +1,8 @@
+DropListID,InventoryID,Comment,PrimaryWeight,SecondaryWeight,Packet1,Packet2,Packet3,Packet4,Packet5,Packet6,Packet7,Packet8,Packet9,Packet10,Packet11,Packet12,Packet13,Packet14
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+5001,4;203-30;303;403;1201-3;5604,unread,,,,,,,,,,,,,,,,
+5002,14;201-30;201-30;303;403;1201-3;5604,unread,,,,,,,,,,,,,,,,
+5003,26;201-30;306;403;1201-3;5604,unread,,,,,,,,,,,,,,,,
+5004,19;201-30;201-30;306;403;1201-3;5604;1006;1104,unread,,,,,,,,,,,,,,,,
+5005,23;219-3;303;1104;403;1201-3;5604,unread,,,,,,,,,,,,,,,,
+5006,86;204-12;204-12;303;403;1201-3;5604,unread,,,,,,,,,,,,,,,,

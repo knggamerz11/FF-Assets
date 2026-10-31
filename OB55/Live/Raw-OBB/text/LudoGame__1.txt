@@ -1,0 +1,6 @@
+id,chess_res,chess_action_res,walk_anim_speed_scale,chess_color,chess_halo_res,chess_scale,chess_select_res,chess_arrow
+unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,INGAME_PETPURE_ALIEN,PET_ALIEN_INGAME_BASIC_ANIMRES,1,88D60Eff,,2,VFX_Ingame_Ludogame_Circle_Green,VFX_Ingame_Ludogame_Arrow
+2,INGAME_PETPURE_TIGER_NINJA,PET_TIGER_NINJA_INGAME_BASIC_ANIMRES,1,38acffff,,2.2,VFX_Ingame_Ludogame_Circle_Blue,VFX_Ingame_Ludogame_Arrow
+3,INGAME_PETPURE_PENGUIN,PET_PENGUIN_INGAME_BASIC_ANIMRES,1,ffde00ff,,2.2,VFX_Ingame_Ludogame_Circle_Yellow,VFX_Ingame_Ludogame_Arrow
+4,INGAME_PETPURE_OTTER,PET_OTTER_INGAME_BASIC_ANIMRES,1,ff432aff,,2,VFX_Ingame_Ludogame_Circle_Red,VFX_Ingame_Ludogame_Arrow

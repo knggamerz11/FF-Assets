@@ -1,0 +1,16 @@
+RoundID,RoundName,RoundNameParam,MissonName,MissonNameParam,RoundTitleName,StageName,Difficulty,RoundTargetType,LevelParam,AvatarAttributesRandomType,AIConfigGroupID,ZombieNum,ZombieBornTime,OverWriteZombieNumList,OverWriteZombieBornTime,OverWriteAIGroup,ZombieBornPoint,ZombieNumMax,ZombieNumMin,InitialPerZombieSpawnPointNumMin,InitialPerZombieSpawnPointNumMax,InitialPerZombieSpawnPointPercent,isBossRound,RoundTime,BossHPLayerCount,EnterCutSceneIndex,EnterCutSceneTime,LeaveCutSceneIndex,LeaveCutSceneTime,NeedInitDragonHeadType
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,T_37_PD_HuntingGround_EASYTITLE,1,T_44_PD_PVE_TASK01,,,T_37_PD_HuntingGround_EASY,38001,4,1,4;2,1,-1,20,,,,8,50,15,2,4,100,FALSE,600,10000,-1,,-1,,
+2,T_37_PD_HuntingGround_EASYTITLE,2,T_44_PD_PVE_TASK01,,,T_37_PD_HuntingGround_EASY,38001,4,2,4;2,2,-1,20,,,,9,50,15,2,4,100,FALSE,600,10000,-1,,-1,,
+3,T_37_PD_HuntingGround_EASYTITLE,3,T_44_PD_PVE_TASK01,,,T_37_PD_HuntingGround_EASY,38001,4,3,4;2,3,-1,20,,,,10,50,15,2,4,100,FALSE,600,10000,-1,,-1,,
+1,T_37_PD_HuntingGround_NORMALTITLE,1,T_44_PD_PVE_TASK01,,,T_37_PD_HuntingGround_NORMAL,38002,4,4,4;2,4,-1,20,,,,12,50,30,4,6,100,FALSE,600,10000,-1,,-1,,
+2,T_37_PD_HuntingGround_NORMALTITLE,2,T_44_PD_PVE_TASK01,,,T_37_PD_HuntingGround_NORMAL,38002,4,5,4;2,5,-1,10,,,,6,50,15,2,2,100,FALSE,600,10000,-1,,-1,,
+3,T_37_PD_HuntingGround_NORMALTITLE,3,T_44_PD_PVE_TASK01,,,T_37_PD_HuntingGround_NORMAL,38002,4,6,4;2,6,-1,10,,,,10,50,15,1,1,100,FALSE,600,10000,-1,,-1,,
+1,T_37_PD_HuntingGround_HARDTITLE,1,T_44_PD_PVE_TASK01,,,T_37_PD_HuntingGround_HARD,38003,4,7,4;2,7,-1,10,,,,24,100,35,10,10,100,FALSE,600,10000,-1,,-1,,
+2,T_37_PD_HuntingGround_HARDTITLE,2,T_38_PD_HuntingGround_SPEEAIM,,,T_37_PD_HuntingGround_HARD,38003,1,9,4;2,10,-1,10,,,,8,50,30,1,1,100,FALSE,120,10000,-1,,-1,,
+3,T_37_PD_HuntingGround_HARDTITLE,3,T_44_PD_PVE_TASK01,,,T_37_PD_HuntingGround_HARD,38003,4,8,4;2,8,-1,20,,,,12,50,10,1,1,100,FALSE,600,10000,-1,,-1,,
+1,T_44_PD_PVE_DRAGON_NAME,,T_41_PD_HuntingGroundSnow_BOSSAIM,T_44_PD_PVE_DRAGON_NAME,T_44_PD_PVE_DRAGON_NAME,T_44_PD_PVE_DRAGON_NAME,38004,3,99,4;2,100,-1,60,,,,2,2,0,,,,TRUE,600,10000,0,11370,-1,,TRUE
+1,T_37_PD_HuntingGround_BOSSTITLE,,T_37_PD_HuntingGround_BOSSAIM,,T_37_PD_HuntingGround_BOSSTITLE,,38005,2,8,3;1,18,200,50,,,,4,12,6,,,,TRUE,600,10000,3,11000,-1,,
+1,T_41_PD_HuntingGroundSnow_DOUBLEBOSS,,T_41_PD_HuntingGroundSnow_BOSSAIM,T_41_PD_HuntingGroundSnow_DOUBLEBOSS,T_41_PD_HuntingGroundSnow_DOUBLEBOSS,,38006,3,5,3;1,48,200,50,,,,4,12,0,,,,TRUE,600,10000,2,7600,-1,,
+1,T_38_PD_HuntingGround_SPEEDTITLE,,T_38_PD_HuntingGround_SPEEAIM,,,,38007,1,6,3;1,6,-1,40,64;128;192;256;320;384,40;30;30;20;20;15,6;6;6;6;6;6,8,50,1,,,,FALSE,210,10000,-1,,-1,,
+1,T_41_PD_HuntingGroundSnow_DOUBLEBOSS,,T_41_PD_HuntingGroundSnow_BOSSAIM,T_41_PD_HuntingGroundSnow_DOUBLEBOSS,T_41_PD_HuntingGroundSnow_DOUBLEBOSS,,38008,2,99,3;1,100,200,50,,,,4,12,0,,,,TRUE,600,10000,2,7600,-1,,

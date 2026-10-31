@@ -1,0 +1,3 @@
+Id,Name,Desc,Icon,BigIcon,Rare
+unread,unread,unread,,,unread
+1,T_35_ZF_ROOM_ROOMCARD_FREEUGC,T_35_ZF_ROOM_ROOMCARD_FREEUGC_DESC,UI_Customize_tvouchers_icon2,UI_Customize_tvouchers_icon2,5

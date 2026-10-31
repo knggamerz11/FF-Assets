@@ -1,0 +1,8 @@
+Region,WebSite
+unread,unread
+default,https://my.closedbeta.freefiremax.garena.com
+VN,https://vn.closedbeta.freefiremax.garena.com
+TH,https://th.closedbeta.freefiremax.garena.com
+BR,https://br.closedbeta.freefiremax.garena.com
+SG,https://my.closedbeta.freefiremax.garena.com
+SAC,https://bo.closedbeta.freefiremax.garena.com

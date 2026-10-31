@@ -1,0 +1,980 @@
+{
+    "Prefabs" : [
+        {
+            "PrefabName" : "ForbiddenJutsuScroll",
+            "PrefabUUID" : "jztd1XKu.36e6w65k26c-m1iox3q2-8pb4c2w4jmh",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID": 94397646100004,
+            "EntityType": "jztd1XKu00CustomComponent47353237",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "NB_Building001",
+            "PrefabUUID" : "jztd1XKu.hu8i32m277k-m1htxfem-ijrpq5mh36",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 80,
+			"Numlimit": 1,
+            "ComponentID": 94397646100006,
+            "EntityType": "jztd1XKu00CustomComponent59044964",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Kunai",
+            "PrefabUUID" : "jztd1XKu.ckcehutbnfw-m1htxrst-jvybl4o8949",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 10,
+            "ComponentID": 94397646100003,
+            "EntityType": "jztd1XKu00CustomComponent91885573",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "Rasengan",
+            "PrefabUUID" : "jztd1XKu.kitzf2eceej-m1hstqnd-z9z2w9dpvwd",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+			"SelectionRange"	: {
+				"x": 0.2,
+				"y": 0.2,
+				"z": 0.2
+			},
+            "ComponentID": 94397646100001,
+            "EntityType": "jztd1XKu00CustomComponent77490862",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "50",
+						"MinValue"     : "1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "50",
+						"MinValue"     : "1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "50",
+						"MinValue"     : "1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "RasenganPreparation",
+            "PrefabUUID" : "jztd1XKu.v3mt26jfids-m1hst1ih-i7sdr3ccgx",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+			"SelectionRange"	: {
+				"x": 0.2,
+				"y": 0.2,
+				"z": 0.2
+			},
+            "ComponentID": 94397646100000,
+            "EntityType": "jztd1XKu00CustomComponent74156404",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+        },
+		{
+            "PrefabName" : "NB_Building002",
+            "PrefabUUID" : "jztd1XKu.xrbevjzanyg-m1j4odex-vmgh68htqif",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 30,
+			"Numlimit": 1,
+            "ComponentID": 94397646100007,
+            "EntityType": "jztd1XKu00CustomComponent84119856",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Building003",
+            "PrefabUUID" : "jztd1XKu.tgzwgfosyki-m1j6380k-vetr9boa9i",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 30,
+            "ComponentID": 94397646100008,
+            "EntityType": "jztd1XKu00CustomComponent53116548",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Building004",
+            "PrefabUUID" : "jztd1XKu.zamh9d2y6fa-m1j648m4-0yqsm9v2ikf",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 30,
+            "ComponentID": 94397646100009,
+            "EntityType": "jztd1XKu00CustomComponent83889069",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Building005",
+            "PrefabUUID" : "jztd1XKu.i00j9lz7l1-m1j65ua8-1xl518p64zn",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+			"Numlimit": 1,
+            "ComponentID": 94397646100010,
+            "EntityType": "jztd1XKu00CustomComponent39023850",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Building006",
+            "PrefabUUID" : "jztd1XKu.nq4r67gfk1-m1j66xuc-ngzzti6imvb",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 30,
+            "ComponentID": 94397646100011,
+            "EntityType": "jztd1XKu00CustomComponent40248192",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Building007",
+            "PrefabUUID" : "jztd1XKu.6h4bkfjf8xg-m1j68che-vkxf1ju5zl",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 30,
+            "ComponentID": 94397646100012,
+            "EntityType": "jztd1XKu00CustomComponent53337733",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Building008",
+            "PrefabUUID" : "jztd1XKu.1nayaapugvd-m1j69inb-md9x0js86lg",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+            "ComponentID": 94397646100013,
+            "EntityType": "jztd1XKu00CustomComponent56115731",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Building009",
+            "PrefabUUID" : "jztd1XKu.t26fvqjedl-m1j6b9a6-pldsy10nltk",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 30,
+            "ComponentID": 94397646100014,
+            "EntityType": "jztd1XKu00CustomComponent37448591",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Building010",
+            "PrefabUUID" : "jztd1XKu.4vb7dd7fyiq-m1j6c6yd-cxnqo68zfws",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 30,
+            "ComponentID": 94397646100015,
+            "EntityType": "jztd1XKu00CustomComponent52579224",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Building011",
+            "PrefabUUID" : "jztd1XKu.0mhkpe958nah-m1j6izux-dheshrg52zg",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+			"Numlimit": 1,
+            "ComponentID": 94397646100016,
+            "EntityType": "jztd1XKu00CustomComponent37542075",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "3",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Shuriken",
+            "PrefabUUID" : "jztd1XKu.c1t7spv4hxt-m1j6trp6-h0cs8w7xcrm",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 10,
+            "ComponentID": 94397646100023,
+            "EntityType": "jztd1XKu00CustomComponent95010916",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_BigScrollOpen",
+            "PrefabUUID" : "jztd1XKu.22xirrvxvsi-m1j6yqwq-3peybjxrxfv",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID": 94397646100005,
+            "EntityType": "jztd1XKu00CustomComponent88427224",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_BigScrollClose",
+            "PrefabUUID" : "jztd1XKu.z4lxbiu9lch-m1j705zh-0rqq7vy492qk",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID": 94397646100002,
+            "EntityType": "jztd1XKu00CustomComponent35357090",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_RevivePointCoffin",
+            "PrefabUUID" : "jztd1XKu.o3bt7tol67-m1j71xg7-bkm4020fg3k",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 20,
+            "ComponentID": 94397646100021,
+            "EntityType": "jztd1XKu00CustomComponent57089782",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_RevivePointCoffinLid",
+            "PrefabUUID" : "jztd1XKu.t7vm15nrjfs-m1j72lxo-l2m8pjbcq4p",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 10,
+            "ComponentID":  94397646100022,
+            "EntityType": "jztd1XKu00CustomComponent32136749",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_Chidori",
+            "PrefabUUID" : "jztd1XKu.9n50a9d1tw9-m1j759j5-3riptlji9cx",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+			"SelectionRange"	: {
+				"x": 0.2,
+				"y": 0.2,
+				"z": 0.2
+			},
+            "ComponentID":  94397646100018,
+            "EntityType": "jztd1XKu00CustomComponent62300795",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_CherryImpact",
+            "PrefabUUID" : "jztd1XKu.31gpwl2abci-m1j75o75-43i4tisut6i",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+			"SelectionRange"	: {
+				"x": 0.2,
+				"y": 0.2,
+				"z": 0.2
+			},
+            "ComponentID":  94397646100017,
+            "EntityType": "jztd1XKu00CustomComponent52220951",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_FireballJutsu",
+            "PrefabUUID" : "jztd1XKu.j4ukcy7ser-m1j76hia-dpfxw6t4zhv",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+            "ComponentID":  94397646100020,
+            "EntityType": "jztd1XKu00CustomComponent44565816",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_WaterDragon",
+            "PrefabUUID" : "jztd1XKu.e5mm3yvwb8s-m1j77ryz-rqxlyx4cevh",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+            "ComponentID":  94397646100025,
+            "EntityType": "jztd1XKu00CustomComponent16865382",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_WindRelease",
+            "PrefabUUID" : "jztd1XKu.4k4ohcka3mb-m1j78nin-7rcddie4f88",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+            "ComponentID":  94397646100027,
+            "EntityType": "jztd1XKu00CustomComponent44609897",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_WindExplosionEffect",
+            "PrefabUUID" : "jztd1XKu.5q92xxw229b-m1j797xr-5nqmk7ndw6p",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+            "ComponentID":  94397646100026,
+            "EntityType": "jztd1XKu00CustomComponent15605956",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_TailedBeastBomb",
+            "PrefabUUID" : "jztd1XKu.llqoqg3bu3-m1j7acec-zytdgcev0es",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+            "ComponentID":  94397646100024,
+            "EntityType": "jztd1XKu00CustomComponent75424032",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "10",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		},
+		{
+            "PrefabName" : "NB_EdoTenseiEffect",
+            "PrefabUUID" : "jztd1XKu.0k5voxz9dnud-m1j7avb8-uwiu0i40r4c",
+			"ItemTipsLocKey"  : "",
+            "IconResID"  : "",
+			"Cost": 50,
+            "ComponentID":  94397646100019,
+            "EntityType": "jztd1XKu00CustomComponent23432202",
+			"EntityData": {
+				"Scale"      : [
+					{
+						"Name" : "ScaleX",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleY",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					},
+					{
+						"Name" : "ScaleZ",
+						"DefaultValue" : "1",
+						"MaxValue"     : "5",
+						"MinValue"     : "0.1",
+						"StepValue"    : "0.1"
+					}
+				]
+            }
+		}
+    ]
+}

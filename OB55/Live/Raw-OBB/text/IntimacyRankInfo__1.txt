@@ -1,0 +1,8 @@
+index,RelationType,IntimacyRank,LowerBound,UpperBound,RelationBadgeIcon,ProfileIcon
+unread,unread,unread,unread,unread,unread,unread
+1,1,1,0,100,FF_UI_Relationship_badge01,FF_UI_profile_badge01
+2,1,2,101,300,FF_UI_Relationship_badge01,FF_UI_profile_badge01
+3,1,3,301,500,FF_UI_Relationship_badge02,FF_UI_profile_badge02
+4,1,4,501,800,FF_UI_Relationship_badge02,FF_UI_profile_badge02
+5,1,5,801,1200,FF_UI_Relationship_badge03,FF_UI_profile_badge03
+6,1,6,1201,1800,FF_UI_Relationship_badge04,FF_UI_profile_badge04

@@ -1,0 +1,6 @@
+ID,ClothesID,EffectsTriggerID,ClothesUPID,EffectIDM,EffectIDF
+uniqueID,unread,unread,unread,unread,unread
+1,203000619,3,203000620,FF_VFX_Ingame_Male_Cos_HeadHunters_Up,
+2,203000620,9,203000621,FF_VFX_Ingame_Male_Cos_HeadHunters_Up,
+3,203000619,10,203000620,FF_VFX_Ingame_Male_Cos_HeadHunters_Up,
+4,203000620,11,203000621,FF_VFX_Ingame_Male_Cos_HeadHunters_Up,

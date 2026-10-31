@@ -1,0 +1,6 @@
+Quality,Myhand,Myback,Tmhand,Tmback,Enemyhand,Enemyback,MyFire,TmFire,EnemyFire,MyHit,TmHit,EnemyHit,MyKill,TmKill,EnemyKill,MyAnnounce,TmAnnounce,EnemyAnnounce,MyLastKillVFX,TmLastKillVFX,EnemyLastKillVFX,MyLastKillAnim,TmLastKillAnim,EnemyLastKillAnim,Myreload,TmReload,EnemyReload,MyGunTrace,TmGunTrace,EnemyGunTrace,MyFireSound,TmFireSound,EnemyFireSound,MyKillNumber,TmKillNumber,EnemyKillNumber,MyExecution,TmExecution,EnemyExecution,ObserverExecution,MyChangeWeaponEffect,TmChangeWeaponEffect,EnemyChangeWVeaponEffect
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+2,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0
+1,1,1,1,1,0,0,1,1,0,1,1,0,1,1,0,1,0,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0
+3,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0
+4,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,0

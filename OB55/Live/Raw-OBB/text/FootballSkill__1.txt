@@ -1,0 +1,4 @@
+id,skillid,name,desc,icon,SkillDescParam
+unread,unread,unread,unread,unread,unread
+1,64001,T_37_JL_FOOTBALL_SKILL1_N,T_37_JL_FOOTBALL_SKILL1_D,UI_Skill_Football_Forward,0.3;45;3
+3,64003,T_37_JL_FOOTBALL_SKILL3_N,T_37_JL_FOOTBALL_CHOOSESKILL3_D,UI_Skill_Football_Guard,2;60

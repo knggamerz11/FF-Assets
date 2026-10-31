@@ -1,0 +1,4 @@
+Id,RankType,BigEventName,RankDesc
+ID,unread,unread,unread
+1,1,BooyahDay,T_24_E_BOOYAH_MODE_RANK
+2,2,BooyahDay,T_24_E_BOOYAH_CHESS_RANK

@@ -1,0 +1,11 @@
+FunctionType,FunctionName,LevelLimit,Open
+unread,unread,unread,unread
+LadderMatch,TXT_LADDER_MATCH,8,TRUE
+GameMode_SpeedRoyal,TXT_MODE_SPEEDROYALE_NAME,5,TRUE
+GameMap_Azores,TXT_MODE_RUSHHOUR_NAME,5,TRUE
+GameMode_FateRoyal,TXT_OB8_XJL_FATEROYALE_NAME,5,TRUE
+GameMode_WinnerTakeAll,T_14_X_WTA_DESC,10,TRUE
+GameMode_Training,T_19_S_TRAINING_NAME,3,TRUE
+LadderMatchGuest,TXT_LADDER_MATCH,12,TRUE
+CSLadderMatch,TXT_LADDER_MATCH,8,TRUE
+CSLadderMatchGuest,TXT_LADDER_MATCH,12,TRUE

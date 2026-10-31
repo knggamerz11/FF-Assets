@@ -1,0 +1,5 @@
+HavingName,NameShowTime,NameMoveSpeed
+unread,unread,unread
+10,5,100
+15,5,100
+20,5,100

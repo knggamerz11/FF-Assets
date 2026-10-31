@@ -1,0 +1,12 @@
+ID,name,region,desc,Damage,Speed,Range,Reload,Cartridge,Accuracy,Throw_Speed,Explode_Range,Explode_time,Gloo_range,Gloo_height,Gloo_climb,Gloo_type,Bite_Armor,Player_Speed_Factor,Damage_Ratio_Body,Damage_Ratio_Limb,Damage_Ratio_Head,Sight_Shoot_Mindmg_Numx,Player_Speed_Factor_While_Firing,Charge_Time,Healing,Update
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+907104101,unread,DEFAULT,,15,4,,,,,,,,,,,,,,,,,,8,,,
+907104102,unread,DEFAULT,,12,4,,,,,,,,,,,,,,,,,,6,,,
+907104103,unread,DEFAULT,,9,,,,,,,,,,,,,,1,,,,,2,,,
+907104104,unread,DEFAULT,,9,,,,,,,,,,,,,,1,,,,,2,,,
+907104412,unread,DEFAULT,,18,4,,,,,,,,,,,,,,,,,,4,,,
+907104316,unread,DEFAULT,,15,4,,,10,,,,,,,,,,,,,,,,,,
+907104317,unread,DEFAULT,,10,4,,,,,,,,,,,,,,,,,,2,,,
+907104241,unread,DEFAULT,,10,4,10,,,,,,,,,,,,,,,,,,,,
+907104242,unread,DEFAULT,,8,,10,,,,,,,,,,,,,,,,,2,,,
+907104243,unread,DEFAULT,,,,5,,,,,,,,,,,,2,,,,,2,,,

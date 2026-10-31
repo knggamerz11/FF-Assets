@@ -1,0 +1,10 @@
+ZoneID,Key,Comments,MapOffset,MiniMapName,MiniMapScale,slide_path_minimap
+unread,unread,unread,unread,unread,unread,unread
+1,T_47_V_PONY_MINIMAP_CTT,unread,-213.80005;-331.7;66.19995;-51.7,minimap_cs_Bloomtown,5,
+4,T_47_V_PONY_MINIMAP_LHT,unread,315.48;335.28;595.48;615.28,minimap_cs_Windmill,5,
+5,T_47_V_PONY_MINIMAP_FLB,unread,-562.1252;-555.4316;-242.1252;-235.4316,minimap_cs_Studio,6,
+6,T_47_V_PONY_MINIMAP_CIN,unread,-59.92;-685.17;200.08;-425.17,minimap_cs_SewageWorks,6.5,
+7,T_47_V_PONY_MINIMAP_TNL,unread,-308.9;-2.5;-8.90000000000001;297.5,minimap_cs_Archway,5,
+9,T_47_V_PONY_MINIMAP_REC,unread,-706.8;-21.8;-386.8;298.2,minimap_cs_TheHub,5,
+11,T_47_V_PONY_MINIMAP_SBM,unread,572.0655;-307.6956;772.0655;-107.6956,minimap_cs_Aquarium,7,
+12,T_47_V_PONY_MINIMAP_MRN,unread,406.0012;-659.5752;666.0012;-399.5752,minimap_cs_Bayside,6.5,

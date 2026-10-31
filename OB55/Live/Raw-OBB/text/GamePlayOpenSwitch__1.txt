@@ -1,0 +1,4 @@
+id,var_name,value,drop_limit,drop_open,drop_path
+unread,unread,unread,unread,unread,
+0,IsOpenNewIceWall,true,1201,1288,
+2,closeVaultKey,true,50010,,

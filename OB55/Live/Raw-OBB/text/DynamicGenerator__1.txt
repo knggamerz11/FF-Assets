@@ -1,0 +1,4 @@
+MapName,ResourceName
+MapName,unread
+PVP_Shangrila,FakeBunker_Group
+PVP_Hippo,FakeHippo_Group

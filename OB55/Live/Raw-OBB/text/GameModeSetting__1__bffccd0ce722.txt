@@ -1,0 +1,11 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+NoJumping,,bool,true
+UnlimitBagCapacity,unread,bool,true
+BanAimAssist,unread,bool,TRUE
+AutoFireAvailable,unread,bool,TRUE
+IsSafeZoneNoRadomGenerate,unread,bool,TRUE
+SpawnGodTimeSec,unread,float,3
+UnlimitedAmmo,unread,bool,true
+PVE_LightTowerPrepareTime,unread,float,2
+LuckyDrawBoxOpenMatchMode,unread,string,4

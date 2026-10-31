@@ -1,0 +1,9 @@
+ResponseIconType,ResponseIconRes
+unread,unread
+1,icon_Helmet_2
+2,UI_icon_backpack
+3,UI_icon_Grenade
+4,Icon_HUD_USP
+5,UI_btn_fire
+6,UI_icon_FirstAidKit
+7,UI_icon_shop_Exchange

@@ -1,0 +1,140 @@
+ID,ClipName,ClipIndex,MotionType,FadeTime,Speed,WrapMode,ParentStateTesName,ParentStateName,Layer,BlendTreeKey,HideInFE,OverrideStateName
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,BlendTreeKey,unread,unread
+1,Stand_Idle_1,,1,,1,2,ANIM_0_WALKING,Walking,Base Layer,Stand_Idle,,StandIdle&Run
+2,Run_F_1,,1,,1,2,ANIM_0_WALKING,Walking,Base Layer,Run_F,,StandIdle&Run
+3,SlowMove_F_1,,1,,1,2,ANIM_0_WALKING,Walking,Base Layer,SlowMove_F,,StandIdle&Run
+4,UGC_Female_Run_Back,,1,,1,4,ANIM_0_WALKING,Walking,Base Layer,UGC_Female_Run_Back,,StandIdle&Run
+5,UGC_Female_Run_Right,,1,,1,4,ANIM_0_WALKING,Walking,Base Layer,UGC_Female_Run_Right,,StandIdle&Run
+6,UGC_Female_Run_Left,,1,,1,4,ANIM_0_WALKING,Walking,Base Layer,UGC_Female_Run_Left,,StandIdle&Run
+7,Jump_Land_1,,,,1,4,ANIM_0_JUMP_LAND,Jump_Land,Base Layer,Jump_Land,,Jump_Land
+8,Stand_To_Crawl_1,,,,1,4,ANIM_0_STAND_TO_CRAWL,Stand_To_Crawl,Base Layer,Stand_To_Crawl,,Stand_To_Crawl
+9,Crawl_To_Stand_1,,,,1,4,ANIM_0_CRAWL_TO_STAND,Crawl_To_Stand,Base Layer,Crawl_To_Stand,,Crawl_To_Stand
+10,Crawl_Idle_1,,1,,1,2,ANIM_0_CRAWL,Crawl,Base Layer,Crawl_Idle,,Crawl
+11,Crawl_F_1,,1,,1,2,ANIM_0_CRAWL,Crawl,Base Layer,Crawl_F,,Crawl
+12,UGC_Female_Creep_Back,,1,,1,4,ANIM_0_CRAWL,Crawl,Base Layer,UGC_Female_Creep_Back,,Crawl
+13,UGC_Female_Creep_Right,,1,,1,4,ANIM_0_CRAWL,Crawl,Base Layer,UGC_Female_Creep_Right,,Crawl
+14,UGC_Female_Creep_Left,,1,,1,4,ANIM_0_CRAWL,Crawl,Base Layer,UGC_Female_Creep_Left,,Crawl
+15,Falling_1,,,,1,2,ANIM_0_FALLING,Falling,Base Layer,Falling,,Falling
+16,JumpLanding_1,,,,1,4,ANIM_0_FALLING_LAND,Falling_Land,Base Layer,JumpLanding,,Falling_Land
+17,Dash_Run_F_1,,,,1,2,ANIM_0_DASH,Dash_Run_F,Base Layer,Dash_Run_F,,Sprint
+18,Crouch_Idle_1,,1,,1,2,ANIM_0_CROUCH,Crouch,Base Layer,Crouch_Idle,,Crouch
+19,Crouch_F_1,,1,,1,2,ANIM_0_CROUCH,Crouch,Base Layer,Crouch_F,,Crouch
+20,Crouch_B_1,,1,,1,2,ANIM_0_CROUCH,Crouch,Base Layer,Crouch_B,,Crouch
+21,Crouch_R_1,,1,,1,2,ANIM_0_CROUCH,Crouch,Base Layer,Crouch_R,,Crouch
+22,Crouch_L_1,,1,,1,2,ANIM_0_CROUCH,Crouch,Base Layer,Crouch_L,,Crouch
+23,Jump_Down_2,1,,0.03,1,4,ANIM_0_JUMP_DOWN,Jump_Up,Base Layer,Jump_Down,,Jump_Up
+24,Jump_Up_1,,,,1,,ANIM_0_JUMP,Jump_Up,Base Layer,Jump_Up,,Jump_Up
+25,Walk_F_1,,1,,1,2,ANIM_0_LOCKWALKING,LockWalk,Base Layer,Walk_F,,Walk_While_Attack
+26,Walk_B_1,,1,,1,2,ANIM_0_LOCKWALKING,LockWalk,Base Layer,Walk_B,,Walk_While_Attack
+27,Walk_L_1,,1,,1,2,ANIM_0_LOCKWALKING,LockWalk,Base Layer,Walk_L,,Walk_While_Attack
+28,Walk_R_1,,1,,1,2,ANIM_0_LOCKWALKING,LockWalk,Base Layer,Walk_R,,Walk_While_Attack
+29,Shooting_Idle_1,,1,,1,2,ANIM_0_LOCKWALKING,LockWalk,Base Layer,Shooting_Idle,,Walk_While_Attack
+30,Crawl_Fire_1,,,,1,4,ANIM_0_CRAWL_FIRE,Crawl_Fire,Base Layer,Crawl_Fire,,Crawl_Attack
+31,Crawl_Change_Clip_1,,,,1,4,ANIM_0_CRAWL_CHANGECLIP,Crawl_Change_Clip,Base Layer,Crawl_Change_Clip,,Crawl_Reload_Weapon
+32,Crawl_Change_Weapon_1,,,,1,4,ANIM_0_CRAWL_CHANGEWEAPON,Crawl_Change_Weapon,Base Layer,Crawl_Change_Weapon,,Crawl_Switch_Weapon
+33,Crawl_To_Crouch_1,,,,1,4,ANIM_0_CRAWL_TO_CROUCH,Crawl_To_Crouch,Base Layer,Crawl_To_Crouch,,Crawl_To_Crouch
+34,Crouch_To_Crawl_1,,,,1,4,ANIM_0_CROUCH_TO_CRAWL,Crouch_To_Crawl,Base Layer,Crouch_To_Crawl,,Crouch_To_Crawl
+35,Run_To_Craw_1,,,,1,4,ANIM_0_RUN_TO_CRAWL,Run_To_Craw,Base Layer,Run_To_Craw,,Run_To_Crawl
+36,Swim_Idle01,,1,,1,2,ANIM_0_SWIMMING,Swimming,Base Layer,Swim_Idle01,,Swim
+37,Swim_F_1,,1,,1,2,ANIM_0_SWIMMING,Swimming,Base Layer,Swim_F,,Swim
+38,Jump_To_Swim_1,,,,1,4,ANIM_0_JUMP_TO_SWIM,JumpToSwim,Base Layer,Jump_To_Swim,,Jump_To_Swim
+39,Walk_To_Swim_1,,,,1,4,ANIM_0_WALK_TO_SWIM,WalktoSwim,Base Layer,Walk_To_Swim,1,Walk_To_Swim
+40,Swim_F_F_1,,,,1,2,ANIM_0_SWIMMING_DASH,SwimDash,Base Layer,Swim_F_F,,Swim_Sprint
+41,Female_Surf_Idle01,,,,1,2,ANIM_0_SWIMMING_SURF,SwimSurfing,Base Layer,Female_Surf_Idle01,,Water_Surf
+42,Idle_To_CrossOver_1,,,,1,4,ANIM_0_IDLE_TO_CROSSOVER,Idle_To_CrossOver,Base Layer,Idle_To_CrossOver,,Idle_To_Cross_Over
+43,Crawl_Dead_1,,,,1,4,ANIM_0_DEAD_CRAWL,CrawlDead,Base Layer,Crawl_Dead,,Die_While_Crawling
+44,Dead_F_1,,,,1,4,ANIM_0_DEAD_NORMAL,NormalDead,Base Layer,Dead_F,,Die_While_Standing
+45,Dead_ShotDead_1,,,,1,4,ANIM_0_DEAD_HEADSHOT,HeadShotDead,Base Layer,Dead_ShotDead,,Die_By_Headshot
+46,vehicleAccident_DeadEnd_1,,,,1,4,ANIM_0_DEAD_HITFLY,HitflyDead,Base Layer,vehicleAccident_DeadEnd,,Die_While_HitFly
+47,Swim_Death_1,,,,1,4,ANIM_0_DEAD_SWIMMING,SwimmingDead,Base Layer,Swim_Death,,Die_While_Swimming
+48,Crawl_Self_Rescue_Start_1,,,,1,,ANIM_0_CRAWL_CURE_BEGIN,CrawCureBegin,Base Layer,Crawl_Self_Rescue_Start,,Crawl_Heal_Start
+49,Crawl_Self_Rescue_Loop_1,1,,0.25,1,2,ANIM_0_CRAWL_CURE_LOOP,CrawCureBegin,Base Layer,Crawl_Self_Rescue_Loop,,Crawl_Heal_Start
+50,Crawl_Self_Rescue_End_1,,,,1,4,ANIM_0_CRAWL_CURE_END,CrawCureEnd,Base Layer,Crawl_Self_Rescue_End,,Crawl_Heal_End
+51,Crawl_Fire_Start_1,,,,1,,ANIM_0_CRAWL_GRENADE_START_FIRE,Crawl_Fire_Start,Base Layer,Crawl_Fire_Start,1,Crawl_Throwable_Prepare
+52,Crawl_Fire_Loop_1,1,,0.25,1,2,ANIM_0_CRAWL_FIRE_LOOP,Crawl_Fire_Start,Base Layer,Crawl_Fire_Loop,1,Crawl_Throwable_Prepare
+53,Crawl_Fire_End_1,,,,1,4,ANIM_0_CRAWL_GRENADE_END_FIRE,Crawl_Fire_End,Base Layer,Crawl_Fire_End,1,Crawl_Throwable_Throw
+54,Crawl_Bolt_1,,,,1,4,ANIM_0_CRAWL_PULLBOLT,CrawlPullBolt,Base Layer,Crawl_Bolt,1,Crawl_Bolt
+55,vehicleAccident_Start_1,,,,1,4,ANIM_0_HITFLY_START,StartHitFly,Base Layer,vehicleAccident_Start,,Hit_Fly_Start
+56,vehicleAccident_Loop_1,,,,1,4,ANIM_0_HITFLY,HitFlying,Base Layer,vehicleAccident_Loop,,Hit_Fly_Loop
+57,vehicleAccident_End_1,,,,1,4,ANIM_0_HITFLY_END,Standup,Base Layer,vehicleAccident_End,,Hit_Fly_End
+58,Female_Jeep_Driver_R,,1,,1,4,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Jeep_Driver_R,1,In_Vehicle
+59,Female_Jeep_Driver_Idle,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Jeep_Driver_Idle,1,In_Vehicle
+60,Female_Jeep_Driver_L,,1,,1,4,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Jeep_Driver_L,1,In_Vehicle
+61,Female_Jeep_Incar_Idle,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Jeep_Incar_Idle,1,In_Vehicle
+62,Female_Vehicle_TUTU_Driver_IdleR,,1,,1,4,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_TUTU_Driver_IdleR,1,In_Vehicle
+63,Female_Vehicle_TUTU_Driver_Idle,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_TUTU_Driver_Idle,1,In_Vehicle
+64,Female_Vehicle_TUTU_Driver_IdleL,,1,,1,4,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_TUTU_Driver_IdleL,1,In_Vehicle
+65,Female_Vehicle_TUTU_InCar_IdleL,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_TUTU_InCar_IdleL,1,In_Vehicle
+66,Female_Vehicle_TUTU_InCar_IdleR,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_TUTU_InCar_IdleR,1,In_Vehicle
+67,Female_Vehicle_Amphibian_Idle,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_Amphibian_Idle,1,In_Vehicle
+68,Female_Vehicle_Amphibian_Idle02,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_Amphibian_Idle02,1,In_Vehicle
+69,Female_Vehicle_MOTO_Driver_IdleR,,1,,1,4,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_MOTO_Driver_IdleR,1,In_Vehicle
+70,Female_Vehicle_MOTO_Driver_Idle,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_MOTO_Driver_Idle,1,In_Vehicle
+71,Female_Vehicle_MOTO_Driver_IdleL,,1,,1,4,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_MOTO_Driver_IdleL,1,In_Vehicle
+72,Female_Vehicle_Roadster_Default_Driver_Idle,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_Roadster_Default_Driver_Idle,1,In_Vehicle
+73,Female_Vehicle_Roadster_Default_Incar_Idle,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_Roadster_Default_Incar_Idle,1,In_Vehicle
+74,Female_Vehicle_MOTO_Passenger_Idle02,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_MOTO_Passenger_Idle02,1,In_Vehicle
+75,Female_Vehicle_MOTO_Passenger_IdleR,,1,,1,4,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_MOTO_Passenger_IdleR,1,In_Vehicle
+76,Female_Vehicle_MOTO_Passenger_Idle01,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_MOTO_Passenger_Idle01,1,In_Vehicle
+77,Female_Vehicle_MOTO_Passenger_IdleL,,1,,1,4,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Vehicle_MOTO_Passenger_IdleL,1,In_Vehicle
+78,Female_Incar_Idle_Back,,1,,1,2,ANIM_0_IN_VEHICLE,InVehicle,Base Layer,Female_Incar_Idle_Back,1,In_Vehicle
+79,Female_Surf_transition,,,,1,4,ANIM_0_SWIMMING_TO_SURF,SwimmingToSurf,Base Layer,Female_Surf_transition,,Swim_To_Surf
+80,Female_NearDeathIdle,,1,,1,2,ANIM_0_KNOCKDOWN,KnockDown,Base Layer,Female_NearDeathIdle,,Knockdown
+81,Female_NearDeathMove,,1,,1,2,ANIM_0_KNOCKDOWN,KnockDown,Base Layer,Female_NearDeathMove,,Knockdown
+82,Female_NearDeathMove_Creep_Back,,1,,1,2,ANIM_0_KNOCKDOWN,KnockDown,Base Layer,Female_NearDeathMove_Creep_Back,,Knockdown
+83,Female_NearDeathMove_Creep_Left,,1,,1,2,ANIM_0_KNOCKDOWN,KnockDown,Base Layer,Female_NearDeathMove_Creep_Left,,Knockdown
+84,Female_NearDeathMove_Creep_Right,,1,,1,2,ANIM_0_KNOCKDOWN,KnockDown,Base Layer,Female_NearDeathMove_Creep_Right,,Knockdown
+85,Jump_DoubleJump_1,,,,1,,ANIM_0_SECONDJUMP,JumpSecond,Base Layer,Jump_DoubleJump,,JumpingShoes_Double_Jump
+86,Jump_Down_2,1,,0.25,1,4,ANIM_0_JUMP_SECOND_DOWN,JumpSecond,Base Layer,Jump_Down,,JumpingShoes_Double_Jump
+87,Female_HB_Jump_Down,,,,1,4,ANIM_0_SKATEBOARD_JUMP_LAND,Skateboard_Jump_Land,Base Layer,Female_HB_Jump_Down,,Surfboard_Jump_Land
+88,Female_HB_Jump_Loop,1,,0.04,1,4,ANIM_0_SKATEBOARD_JUMP_DOWN,Skateboard_Jump_Up,Base Layer,Female_HB_Jump_Loop,,Surfboard_Jump_Up
+89,Female_HB_Jump_Up,,,,1,,ANIM_0_SKATEBOARD_JUMP,Skateboard_Jump_Up,Base Layer,Female_HB_Jump_Up,,Surfboard_Jump_Up
+90,Female_HB_Lean_L,,1,,1,2,ANIM_0_SKATEBOARD_DASH,Skateboard_Dash,Base Layer,Female_HB_Lean_L,,Surfboard_Sprint
+91,Female_HB_Sprint,,1,,1,2,ANIM_0_SKATEBOARD_DASH,Skateboard_Dash,Base Layer,Female_HB_Sprint,,Surfboard_Sprint
+92,Female_HB_Lean_R,,1,,1,2,ANIM_0_SKATEBOARD_DASH,Skateboard_Dash,Base Layer,Female_HB_Lean_R,,Surfboard_Sprint
+93,Female_HB_Idle,,1,,1,2,ANIM_0_SKATEBOARD,Skateboard,Base Layer,Female_HB_Idle,,Surfboard
+94,Female_HB_Forward,,1,,1,2,ANIM_0_SKATEBOARD,Skateboard,Base Layer,Female_HB_Forward,,Surfboard
+95,Female_HB_Turn_L,,1,,1,2,ANIM_0_SKATEBOARD,Skateboard,Base Layer,Female_HB_Turn_L,,Surfboard
+96,Female_HB_Lean_L,,1,,1,2,ANIM_0_SKATEBOARD,Skateboard,Base Layer,Female_HB_Lean_L,,Surfboard
+97,Female_HB_Lean_R,,1,,1,2,ANIM_0_SKATEBOARD,Skateboard,Base Layer,Female_HB_Lean_R,,Surfboard
+98,Female_HB_Turn_R,,1,,1,2,ANIM_0_SKATEBOARD,Skateboard,Base Layer,Female_HB_Turn_R,,Surfboard
+99,Crawl_Fire_Start_1,,,,1,,ANIM_0_CRAWL_GRENADE_TRIGGER,Crawl_TriggerGrenade,Base Layer,Crawl_Fire_Start,1,Crawl_Throwable_Pin_Pull
+100,dieing_from_dash,,,,1,4,ANIM_0_DASH_TO_DIEING,Dash_To_Dieing,Base Layer,dieing_from_dash,1,Dash_To_Knockdown
+101,dieing_from_crouch,,,,1,4,ANIM_0_CROUCH_TO_DIEING,Crouch_To_Dieing,Base Layer,dieing_from_crouch,1,Crouch_To_Knockdown
+102,dieing_from_creep,,,,1,4,ANIM_0_CREEP_TO_DIEING,Creep_To_Dieing,Base Layer,dieing_from_creep,1,Crawl_To_Knockdown
+103,dieing_from_stand,,,,1,4,ANIM_0_STAND_TO_DIEING,Stand_To_Dieing,Base Layer,dieing_from_stand,1,Stand_To_Knockdown
+104,Combo_3_Attack_1,,,,1,4,ANIM_0_WHOLE_BODY_FIRE3,WholeBodyAttack3,Base Layer,Combo_3_Attack,,Katana_Attack_3
+105,Combo_1_Attack_1,,,,1,4,ANIM_0_WHOLE_BODY_FIRE1,WholeBodyAttack1,Base Layer,Combo_1_Attack,,Katana_Attack_1
+106,Combo_2_Attack_1,,,,1,4,ANIM_0_WHOLE_BODY_FIRE2,WholeBodyAttack2,Base Layer,Combo_2_Attack,,Katana_Attack_2
+107,Female_Swim_To_LastKill,,,,1,,ANIM_0_SWIM_TO_LASTKILL,SwimToLastKill,Base Layer,Female_Swim_To_LastKill,1,Swim_To_Being_Finished
+108,Female_Crawl_To_LastKill,,,,1,,ANIM_0_CRAWL_TO_LASTKILL,CrawlToLastKill,Base Layer,Female_Crawl_To_LastKill,1,Crawl_To_Being_Finished
+109,Female_Normal_To_LastKill,,,,1,,ANIM_0_NORMAL_TO_LASTKILL,NormalToLastKill,Base Layer,Female_Normal_To_LastKill,1,Being_Finished
+110,LastKillCustom,1,,,1,4,ANIM_0_LASTKILL_CUSTOM,SwimToLastKill,Base Layer,LastKillCustom,1,Swim_To_Being_Finished
+111,Female_JumpShoesX_Jump_Start,,,,1,,ANIM_0_SECONDJUMP2,JumpShoesX_Jump_Start,Base Layer,Female_JumpShoesX_Jump_Start,,JumpingShoes_Jump_Start
+112,Female_JumpShoesX_Jump_Loop,1,,0.25,1,2,ANIM_0_SECONDJUMP2_LOOP,JumpShoesX_Jump_Start,Base Layer,Female_JumpShoesX_Jump_Loop,,JumpingShoes_Jump_Start
+113,Fire_1,,,,1,4,ANIM_1_STAND_FIRE,Fire,UpperBody,Fire,,Attack_1
+114,Change_Clip_1,,,,1,4,ANIM_1_STAND_CHANGECLIP,ChangeClip,UpperBody,Change_Clip,,Reload_Weapon
+115,Change_Weapon_1,,,,1,4,ANIM_1_STAND_CHANGEWEAPON,ChangeWeapon,UpperBody,Change_Weapon,,Switch_Weapon
+116,Crouch_Fire_1,,,,1,4,ANIM_1_CROUCH_FIRE,Crouch_Fire,UpperBody,Crouch_Fire,,Crouch_Attack_1
+117,Crouch_Change_Clip_1,,,,1,4,ANIM_1_CROUCH_CHANGECLIP,Crouch_Change_Clip,UpperBody,Crouch_Change_Clip,,Crouch_Reload_Weapon
+118,Crouch_Change_Weapon_1,,,,1,4,ANIM_1_CROUCH_CHANGEWEAPON,Crouch_Change_Weapon,UpperBody,Crouch_Change_Weapon,,Crouch_Switch_Weapon
+119,Crouch_Attack2_1,,,,1,4,ANIM_1_CROUCH_FIRE_1,Crouch_Fire1,UpperBody,Crouch_Attack2,,Crouch_Attack_2
+120,Attack2_1,,,,1,4,ANIM_1_STAND_FIRE_1,Fire1,UpperBody,Attack2,,Attack_2
+121,Stand_Self_Rescue_Start_1,,1,,1,,ANIM_1_CURE_BEGIN,BeginCure,UpperBody,Stand_Self_Rescue_Start,,Heal_Start
+122,Crouch_Self_Rescue_Start_1,,1,,1,,ANIM_1_CURE_BEGIN,BeginCure,UpperBody,Crouch_Self_Rescue_Start,,Heal_Start
+123,Stand_Self_Rescue_Loop_1,1,1,,1,2,ANIM_1_CURE_LOOP,BeginCure,UpperBody,Stand_Self_Rescue_Loop,,Heal_Start
+124,Crouch_Self_Rescue_Loop_1,1,1,,1,2,ANIM_1_CURE_LOOP,BeginCure,UpperBody,Crouch_Self_Rescue_Loop,,Heal_Start
+125,Stand_Self_Rescue_End_1,,1,,1,4,ANIM_1_CURE_END,EndCure,UpperBody,Stand_Self_Rescue_End,,Heal_End
+126,Crouch_Self_Rescue_End_1,,1,,1,4,ANIM_1_CURE_END,EndCure,UpperBody,Crouch_Self_Rescue_End,,Heal_End
+127,Fire_Start_1,,1,,1,,ANIM_1_GRENADE_START_FIRE,GrenadeStartFire,UpperBody,Fire_Start,1,Throwable_Prepare
+128,Crouch_Fire_Start_1,,1,,1,,ANIM_1_GRENADE_START_FIRE,GrenadeStartFire,UpperBody,Crouch_Fire_Start,1,Throwable_Prepare
+129,Fire_Loop_1,1,1,0.25,1,2,ANIM_1_GRENADE_FIRE_LOOP,GrenadeStartFire,UpperBody,Fire_Loop,1,Throwable_Prepare
+130,Crouch_Fire_Loop_1,1,1,0.25,1,2,ANIM_1_GRENADE_FIRE_LOOP,GrenadeStartFire,UpperBody,Crouch_Fire_Loop,1,Throwable_Prepare
+131,Fire_End_1,,1,,1,4,ANIM_1_GRENADE_END_FIRE,GrenadeEndFire,UpperBody,Fire_End,1,Throwable_Throw
+132,Crouch_Fire_End_1,,1,,1,4,ANIM_1_GRENADE_END_FIRE,GrenadeEndFire,UpperBody,Crouch_Fire_End,1,Throwable_Throw
+133,Fire_Start_1,,1,,1,,ANIM_1_GRENADE_TRIGGER,GrenadeTrigger,UpperBody,Fire_Start,1,Throwable_Pin_Pull
+134,Crouch_Fire_Start_1,,1,,1,,ANIM_1_GRENADE_TRIGGER,GrenadeTrigger,UpperBody,Crouch_Fire_Start,1,Throwable_Pin_Pull
+135,Hit_1,,,,1,4,ANIM_2_NORMAL_HIT,NormalHit,UpperBodyAdditive,Hit,,Hit
+136,Crouch_Hit_1,,,,1,4,ANIM_2_CROUCH_HIT,CrounchHit,UpperBodyAdditive,Crouch_Hit,,Hit_While_Crouching
+137,Crawl_Hit_1,,,,1,4,ANIM_2_CRAWL_HIT,CrawlHit,UpperBodyAdditive,Crawl_Hit,,Hit_While_Crawling
+138,Swim_Idle_Hit_1,,,,1,4,ANIM_2_SWIM_HIT,SwimHit,UpperBodyAdditive,Swim_Idle_Hit,,Hit_While_Swimming

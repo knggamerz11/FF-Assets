@@ -1,0 +1,15 @@
+mushroom_id,desc,mushroom_type,mushroom_VFX,param
+unread,unread,unread,unread,unread
+711,unread,6,,scan_radius=100;marking_duration=6;advanced_uav_item_id=50014
+712,unread,7,,health_speed=20;energy_return_speed=20;duration_time=11;range=3.75;advanced_shield_point_tmp=20;advanced_shield_point_tmp_limit=60
+713,unread,8,,duration_time=11;range=3.75;buff_id=350;advanced_eca_buff_id=52/53;driver_buff_id=248
+714,unread,10,,coin_cnt=200;range=3.75
+715,unread,7,,health_speed=15;energy_return_speed=20;duration_time=5;range=3.75;advanced_shield_point_tmp=20;advanced_shield_point_tmp_limit=60
+716,unread,8,,duration_time=5;range=3.75;buff_id=350;advanced_eca_buff_id=52/53
+717,unread,7,,health_speed=10;energy_return_speed=20;duration_time=11;range=3.75;advanced_shield_point_tmp=20;advanced_shield_point_tmp_limit=60
+718,unread,11,,energy_cnt=100
+719,unread,12,,energy_cnt=200
+720,unread,13,,duration_time=1;range=0.75;eca_buff_id=282
+721,unread,14,,duration_time=11;range=3.75;eca_buff_id=281
+722,unread,15,,duration_time=11;range=3.75;eca_buff_id=280
+723,unread,16,,duration_time=11;range=3.75;buff_id=190

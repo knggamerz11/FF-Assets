@@ -1,0 +1,5 @@
+id,ammo_id,fire_interval,over_heat,pre_time,recover_per_sec,heat_per_shot,icon_res
+unread,unread,unread,unread,unread,unread,unread,unread
+1,611,1,200,1,5,20,Icon_HUD_Cannon
+2,6111,0.4,80,1,10,1,Icon_HUD_Helicopter_Cannon
+3,611,1,1,999,1,20,Icon_HUD_Helicopter_Cannon

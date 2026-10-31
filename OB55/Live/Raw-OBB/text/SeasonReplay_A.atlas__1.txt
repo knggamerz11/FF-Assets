@@ -1,0 +1,251 @@
+
+SeasonReplay_A.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kelly_Hair_01
+  rotate: false
+  xy: 405, 944
+  size: 37, 80
+  orig: 85, 164
+  offset: 48, 60
+  index: -1
+Kelly_Hair_02
+  rotate: false
+  xy: 598, 536
+  size: 85, 121
+  orig: 97, 245
+  offset: 0, 124
+  index: -1
+Kelly_Hair_03
+  rotate: false
+  xy: 557, 218
+  size: 113, 84
+  orig: 128, 156
+  offset: 0, 72
+  index: -1
+Kelly_Hair_05
+  rotate: false
+  xy: 652, 850
+  size: 84, 173
+  orig: 84, 186
+  offset: 0, 0
+  index: -1
+Kelly_Hair_06
+  rotate: false
+  xy: 586, 942
+  size: 50, 83
+  orig: 82, 161
+  offset: 32, 25
+  index: -1
+Kelly_Hair_07
+  rotate: false
+  xy: 428, 976
+  size: 52, 47
+  orig: 83, 165
+  offset: 0, 0
+  index: -1
+Kelly_Hair_09
+  rotate: false
+  xy: 199, 916
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1
+Kelly_Hair_10
+  rotate: false
+  xy: 1, 713
+  size: 80, 149
+  orig: 87, 149
+  offset: 0, 0
+  index: -1
+Kelly_L_arm_01
+  rotate: true
+  xy: 867, 639
+  size: 385, 135
+  orig: 497, 178
+  offset: 0, 0
+  index: -1
+Kelly_U_arm_01
+  rotate: false
+  xy: 1, 455
+  size: 614, 569
+  orig: 614, 569
+  offset: 0, 0
+  index: -1
+Kelly_body_01
+  rotate: 180
+  xy: 1, 319
+  size: 483, 288
+  orig: 515, 408
+  offset: 32, 0
+  index: -1
+Kelly_body_02
+  rotate: true
+  xy: 248, 658
+  size: 366, 498
+  orig: 366, 498
+  offset: 0, 0
+  index: -1
+Kelly_body_03
+  rotate: false
+  xy: 1, 500
+  size: 169, 213
+  orig: 169, 213
+  offset: 0, 0
+  index: -1
+Kelly_body_04
+  rotate: 180
+  xy: 97, 235
+  size: 557, 219
+  orig: 557, 219
+  offset: 0, 0
+  index: -1
+Kelly_body_06
+  rotate: false
+  xy: 303, 924
+  size: 113, 100
+  orig: 121, 107
+  offset: 0, 7
+  index: -1
+Kelly_body_07
+  rotate: false
+  xy: 383, 207
+  size: 179, 147
+  orig: 179, 147
+  offset: 0, 0
+  index: -1
+Kelly_body_08
+  rotate: false
+  xy: 1, 960
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+Kelly_face_01
+  rotate: false
+  xy: 801, 304
+  size: 222, 309
+  orig: 256, 309
+  offset: 34, 0
+  index: -1
+Kelly_finger_01
+  rotate: false
+  xy: 689, 924
+  size: 133, 99
+  orig: 133, 99
+  offset: 0, 0
+  index: -1
+Kelly_finger_02
+  rotate: false
+  xy: 256, 189
+  size: 126, 42
+  orig: 169, 51
+  offset: 43, 0
+  index: -1
+Kelly_finger_03
+  rotate: false
+  xy: 57, 96
+  size: 156, 52
+  orig: 156, 66
+  offset: 0, 0
+  index: -1
+Kelly_finger_04
+  rotate: false
+  xy: 422, 105
+  size: 161, 74
+  orig: 178, 74
+  offset: 0, 0
+  index: -1
+Kelly_finger_05
+  rotate: false
+  xy: 215, 223
+  size: 178, 66
+  orig: 178, 70
+  offset: 0, 4
+  index: -1
+Kelly_finger_06
+  rotate: false
+  xy: 320, 674
+  size: 154, 133
+  orig: 154, 133
+  offset: 0, 0
+  index: -1
+Kelly_finger_07
+  rotate: false
+  xy: 476, 655
+  size: 174, 60
+  orig: 174, 60
+  offset: 0, 0
+  index: -1
+Kelly_finger_08
+  rotate: false
+  xy: 1, 198
+  size: 150, 143
+  orig: 150, 143
+  offset: 0, 0
+  index: -1
+Kelly_finger_09
+  rotate: false
+  xy: 1, 126
+  size: 103, 144
+  orig: 103, 144
+  offset: 0, 0
+  index: -1
+Kelly_finger_10
+  rotate: false
+  xy: 166, 108
+  size: 95, 126
+  orig: 95, 126
+  offset: 0, 0
+  index: -1
+Kelly_foot_01
+  rotate: false
+  xy: 727, 826
+  size: 74, 97
+  orig: 74, 97
+  offset: 0, 0
+  index: -1
+Kelly_foot_02
+  rotate: false
+  xy: 16, 476
+  size: 105, 65
+  orig: 105, 65
+  offset: 0, 0
+  index: -1
+Kelly_hand_01
+  rotate: false
+  xy: 810, 130
+  size: 213, 147
+  orig: 326, 179
+  offset: 0, 32
+  index: -1
+Kelly_hand_02
+  rotate: true
+  xy: 671, 185
+  size: 236, 212
+  orig: 319, 224
+  offset: 83, 12
+  index: -1
+Kelly_thigh_01
+  rotate: 180
+  xy: 656, 371
+  size: 274, 653
+  orig: 310, 745
+  offset: 36, 0
+  index: -1
+Kelly_thigh_02
+  rotate: 180
+  xy: 317, 106
+  size: 355, 306
+  orig: 406, 332
+  offset: 42, 0
+  index: -1
+Kelly_thigh_light
+  rotate: 270
+  xy: 520, 82
+  size: 128, 428
+  orig: 128, 428
+  offset: 0, 0
+  index: -1

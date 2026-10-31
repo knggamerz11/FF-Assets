@@ -1,0 +1,14 @@
+@ModuleLib=FU3Ze4IW
+@ScriptName=Legendarysphere_Low
+type FU3Ze4IW00CustomComponent70105111 : (Component & CustomLevelObject) = 24303784100000 { #Legendarysphere_Low
+}
+
+@ModuleLib=FU3Ze4IW
+@ScriptName=LevelDetailItemGenerator_Low
+type FU3Ze4IW00CustomComponent97132022 : (Component & CustomLevelObject) = 24303784100001 { #LevelDetailItemGenerator_Low
+}
+
+@ModuleLib=FU3Ze4IW
+@ScriptName=Moco_Phone_Low
+type FU3Ze4IW00CustomComponent75208304 : (Component & CustomLevelObject) = 24303784100002 { #Moco_Phone_Low
+}

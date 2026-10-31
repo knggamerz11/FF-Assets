@@ -1,0 +1,17 @@
+Region,CreditWebSwitch
+unread,unread
+BD,1
+BR,1
+EUROPE,1
+ID,1
+IND,1
+ME,1
+NA,1
+PK,1
+RU,1
+SAC,1
+SG,1
+TH,1
+TW,1
+US,1
+VN,1

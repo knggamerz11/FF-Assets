@@ -1,0 +1,13 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+MatchStartWaitingTime,unread,float,5
+MatchStartPrepareTime,unread,float,20
+ScoreToWinEndTime,unread,int,300
+ScoreToWin,unread,int,7
+NoJumping,unread,bool,true
+AutoReviveOnTimeUp,unread,bool,true
+SpawnGodTimeSec,unread,float,2
+NeedResultShowData,unread,bool,TRUE
+PlayerCountPerTeam,unread,int,2
+VVBuffGeneratorResourceID,unread,string,PETSTAT_BUFFER_CUBE
+VVBuffGeneratorCountDownResourceID,unread,string,PETSTAT_BUFFER_CD

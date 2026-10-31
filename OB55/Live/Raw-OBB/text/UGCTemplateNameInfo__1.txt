@@ -1,0 +1,15 @@
+Template,Name,Description
+unread,unread,unread
+0,T_32_T_WS_ME_ENDTYPE1,unread
+1,T_32_T_WS_ME_ENDTYPE2,unread
+2,T_32_T_WS_ME_ENDTYPE3,unread
+3,T_32_T_WS_ME_CUSTOM,unread
+4,T_34_WT_WS_PVENAME1,unread
+5,T_34_WT_WS_PVENAME2,unread
+6,T_37_HZ_WS_CATMODEDESC1,unread
+7,T_39_WT_WS_TAG3,GunKing
+8,T_41_XYL_WS_MODELMATCHNAME,unread
+9,T_17_B_CS_MODE_NAME,unread
+10,T_39_WT_WS_TAG3,Gunking
+11,T_45_QL_CSFPP_RANKNAME,unread
+15,T_52_M_WS_PARTYPARKOUR,unread

@@ -1,0 +1,8 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+TK_BoxDestoryTime,unread,int,0
+ReviveTimeout,unread,int,4
+EnableReconnect,unread,bool,TRUE
+CS_RoundStartItems,unread,string,102-4;1201;3;202-60
+EnergyStoneDropKeepTime,unread,float,10
+BombLikeShopReviveShopCoin,unread,int,0

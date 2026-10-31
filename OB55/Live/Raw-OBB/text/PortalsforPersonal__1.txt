@@ -1,0 +1,3 @@
+id,max_y_distance,max_distance,min_distance,manufacturing_delay
+unread,unread,unread,unread,unread
+5011,20,80,3,0.5

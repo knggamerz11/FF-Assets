@@ -1,0 +1,14 @@
+@ModuleLib=LHFcO1Ih
+@ScriptName=RedEnvelope_Bounty_Low
+type LHFcO1Ih00CustomComponent87846928 : (Component & CustomLevelObject) = 88032703100000 { #RedEnvelope_Bounty_Low
+}
+
+@ModuleLib=LHFcO1Ih
+@ScriptName=RedEnvelope_CandyPumpkin_Low
+type LHFcO1Ih00CustomComponent42209654 : (Component & CustomLevelObject) = 88032703100001 { #RedEnvelope_CandyPumpkin_Low
+}
+
+@ModuleLib=LHFcO1Ih
+@ScriptName=RedEnvelope_FastbreakingB_Low
+type LHFcO1Ih00CustomComponent34581384 : (Component & CustomLevelObject) = 88032703100002 { #RedEnvelope_FastbreakingB_Low
+}

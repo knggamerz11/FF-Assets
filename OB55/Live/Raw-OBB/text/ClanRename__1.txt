@@ -1,0 +1,3 @@
+Id,DiamondCost
+unread,unread
+1,500

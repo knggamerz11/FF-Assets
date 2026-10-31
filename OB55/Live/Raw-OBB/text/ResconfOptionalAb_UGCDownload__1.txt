@@ -1,0 +1,17 @@
+Region,Switch,Time,ScreenTime,Scale,DelayTime,AutoDownload
+unread,unread,unread,unread,unread,unread,unread
+US,0,30,10,60,3,2
+TW,0,30,10,60,3,2
+TH,0,30,10,60,3,2
+SAC,0,30,10,60,3,2
+RU,0,30,10,60,3,2
+NA,0,30,10,60,3,2
+ME,0,30,10,60,3,2
+IND,0,30,10,60,3,2
+ID,0,30,10,60,3,2
+EUROPE,0,30,10,60,3,2
+BR,0,30,10,60,3,2
+BD,0,30,10,60,3,2
+VN,0,30,10,60,3,2
+SG,0,30,10,60,3,2
+PK,0,30,10,60,3,2

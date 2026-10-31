@@ -1,0 +1,10 @@
+ZombieTypeDesc,ZombieType,ZombieName,DefaultEP,DefaultItem,comment,DefaultBuff,DefaultSkill,Model,DefaultEffect,ZombieIcon,isEvo,params
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,
+unread,2,,0,151,unread,155;164,58001,240580001,VFX_UGCInfection_MOM,,FALSE,
+unread,3,T_35_PD_INFECTION_ZOMBIENAME_1,0,140,,155;164,,240580006,VFX_UGCInfection_MOM,,FALSE,
+unread,4,T_35_PD_INFECTION_ZOMBIENAME_1,0,140,,155;164,58003,240580005,VFX_UGCInfection_MOM,Icon_Infection_EvolvedCharacters_01,TRUE,
+unread,5,T_35_PD_INFECTION_ZOMBIENAME_2,0,140,,155;164,58002,240580002,VFX_UGCInfection_MOM,Icon_Infection_EvolvedCharacters_04,TRUE,
+unread,6,T_35_PD_INFECTION_ZOMBIENAME_3,0,140;616,unread,155;159;164,,240580003,VFX_UGCInfection_MOM,Icon_Infection_EvolvedCharacters_03,TRUE,
+unread,7,T_35_PD_INFECTION_ZOMBIENAME_4,0,140,,155;164,58004,240580004,VFX_UGCInfection_MOM,Icon_Infection_EvolvedCharacters_02,TRUE,
+unread,1,,0,141;201-1000,,180;179;181,,240580007,VFX_UGCInfection_HUNTER,,FALSE,174
+unread,0,T_35_PD_INFECTION_HUMAN,0,,,,,,,,FALSE,

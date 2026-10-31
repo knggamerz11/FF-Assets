@@ -1,0 +1,15 @@
+ZoneID,Key,Comments
+unread,unread,unread
+0,T_23_B_FACTORY,unread
+1,T_23_B_CLOCKTOWER,ClockTower
+2,T_23_B_OBSERVATORY,unread
+3,T_23_B_KATULISTIWA,unread
+4,T_23_B_SHIPYARD,unread
+5,T_23_B_MARSELECTRIC,unread
+6,T_23_B_POCHINOK,unread
+7,T_23_B_GARDEN,unread
+8,T_28_T_MAPNAME_THECIRCUIT,unread
+9,T_23_B_MILL,Mill
+10,T_23_B_FISHERMAN,unread
+11,T_23_B_ACADEMY,unread
+12,T_23_B_DAM,unread

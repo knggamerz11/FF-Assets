@@ -1,0 +1,6 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+Profile_BattleTagTimes_First,unread,int,1
+Profile_BattleTagTimes_Second,unread,int,30
+Profile_BattleTagTimes_Third,unread,int,80
+Profile_Battle_Tag_4,unread,int,300

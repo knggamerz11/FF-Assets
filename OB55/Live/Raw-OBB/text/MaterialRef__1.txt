@@ -1,0 +1,5 @@
+ClothesID,Male Ref ID,FeMale Ref ID,InGameMaleRefID,InGameFeMaleRefID
+unread,Male MatRef ID,FeMale MatRef ID,unread,unread
+203034031,VFX_Male_Lobby_Top_Cos_Rampage4_Cloud_UMAEffectRef,,,
+203035056,VFX_Male_Lobby_Top_Cos_Jumpsuit2022_Lobby_UMAEffectRef,VFX_Male_Lobby_Top_Cos_Jumpsuit2022_Lobby_UMAEffectRef,,
+203035038,VFX_Male_Lobby_Top_Cos_CATeam2_Bule_UMAEffectRef,,,

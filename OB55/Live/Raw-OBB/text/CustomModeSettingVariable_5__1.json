@@ -1,0 +1,1306 @@
+{
+	"comment": "New PVE Mode: A mode for players to fight against AI enemies. And survive for a certain time to win.",
+	"version": "1",
+	"variables": [
+		{
+			"type": "Int",
+			"name": "local_tab_index",
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "custom_game_mode",
+			"serialize": {
+				"id": 1
+			},
+			"defaultValue": 5
+		},
+		{
+			"type": "Float",
+			"name": "custom_map_max_size",
+			"defaultValue": 100,
+			"internalRule": {
+				"ruleType": "ValueByMapID",
+				"dictionary": [
+					{
+						"mapID": 25,
+						"defaultValue": 50
+					}
+				]
+			}
+		},
+		{
+			"type": "Float",
+			"name": "custom_map_min_size",
+			"defaultValue": 25,
+			"internalRule": {
+				"ruleType": "ValueByMapID",
+				"dictionary": [
+					{
+						"mapID": 25,
+						"defaultValue": 12
+					}
+				]
+			}
+		},
+		{
+			"type": "Int",
+			"name": "custom_map_max_circle_size",
+			"defaultValue": 180
+		},
+		{
+			"type": "Int",
+			"name": "custom_map_min_circle_size",
+			"defaultValue": 90
+		},
+		{
+			"type": "Boolean",
+			"name": "Min8MemberRoom",
+			"defaultValue": false,
+			"internalRule": {
+				"ruleType": "IsBigMapGlobal",
+				"value": true
+			}
+		},
+		{
+			"type": "Int",
+			"name": "temVal",
+			"defaultValue": 2
+		},
+		{
+			"type": "Int",
+			"name": "EnableMapPlayer",
+			"defaultValue": 469
+		},
+		{
+			"type": "Boolean",
+			"name": "PVE2_KillZombieTartget_enabled",
+			"serialize": {
+				"id": 91
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Int",
+			"name": "PVE2_KillZombie_num",
+			"serialize": {
+				"id": 92
+			},
+			"defaultValue": 500
+		},
+		{
+			"type": "Boolean",
+			"name": "PVE2_multirounds_enabled",
+			"serialize": {
+				"id": 27
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Int",
+			"name": "PVE2_game_prepare_time",
+			"serialize": {
+				"id": 189
+			},
+			"defaultValue": 15
+		},
+		{
+			"type": "Int",
+			"name": "PVE2_round_num",
+			"serialize": {
+				"id": 8
+			},
+			"defaultValue": 1
+		},
+		{
+			"type": "Int",
+			"name": "PVE2_round_preparing_time",
+			"serialize": {
+				"id": 29
+			},
+			"defaultValue": 5
+		},
+		{
+			"type": "Int",
+			"name": "PVE2_round_time",
+			"serialize": {
+				"id": 9
+			},
+			"defaultValue": 600
+		},
+		{
+			"type": "Int",
+			"name": "PVE2_team_num",
+			"serialize": {
+				"id": 6
+			},
+			"defaultValue": 1
+		},
+		{
+			"type": "Int",
+			"name": "PVE2_team_member",
+			"serialize": {
+				"id": 7
+			},
+			"defaultValue": 2
+		},
+		{
+			"type": "Boolean",
+			"name": "PVE2_safezone_enabled",
+			"serialize": {
+				"id": 11
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Float",
+			"name": "PVE2_safezone_size",
+			"serialize": {
+				"id": 12
+			},
+			"defaultValue": 100,
+			"internalRule": {
+				"ruleType": "ValueByMapID",
+				"dictionary": [
+					{
+						"mapID": 25,
+						"defaultValue": 50
+					}
+				]
+			}
+		},
+		{
+			"type": "Float",
+			"name": "PVE2_safezone_start_time",
+			"serialize": {
+				"id": 13
+			},
+			"defaultValue": 60
+		},
+		{
+			"type": "Float",
+			"name": "PVE2_safezone_shrink_time",
+			"serialize": {
+				"id": 28
+			},
+			"defaultValue": 60
+		},
+		{
+			"type": "Float",
+			"name": "PVE2_safezone_damage",
+			"serialize": {
+				"id": 14
+			},
+			"defaultValue": 20
+		},
+		{
+			"type": "Boolean",
+			"name": "PVE2_revive_enabled",
+			"serialize": {
+				"id": 3
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Int",
+			"name": "PVE2_revive_rule",
+			"serialize": {
+				"id": 26
+			},
+			"defaultValue": 1
+		},
+		{
+			"type": "Int",
+			"name": "PVE2_revive_time",
+			"serialize": {
+				"id": 5
+			},
+			"defaultValue": 10
+		},
+		{
+			"type": "Int",
+			"name": "PVE2_MinNumOfMatchStart",
+			"serialize": {
+				"id": 82
+			},
+			"defaultValue": 2
+		},
+		{
+			"type": "Int",
+			"name": "max_hp",
+			"serialize": {
+				"id": 15
+			},
+			"defaultValue": 200
+		},
+		{
+			"type": "Int",
+			"name": "max_ep",
+			"serialize": {
+				"id": 16
+			},
+			"defaultValue": 200
+		},
+		{
+			"type": "Int",
+			"name": "start_ep",
+			"serialize": {
+				"id": 17
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Boolean",
+			"name": "auto_healing",
+			"serialize": {
+				"id": 18
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "limited_ammo",
+			"serialize": {
+				"id": 23
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "unlimited_bullet",
+			"serialize": {
+				"id": 144
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "unlimited_gloowall",
+			"serialize": {
+				"id": 145
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "unlimited_throwables",
+			"serialize": {
+				"id": 146
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Int",
+			"name": "damage",
+			"serialize": {
+				"id": 19
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "damaged",
+			"serialize": {
+				"id": 20
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Float",
+			"name": "move_speed",
+			"serialize": {
+				"id": 21
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Float",
+			"name": "jump_height",
+			"serialize": {
+				"id": 22
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_active_skill",
+			"serialize": {
+				"id": 30
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_passive_skill",
+			"serialize": {
+				"id": 31
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Int",
+			"name": "global_active_skill_cd_percent",
+			"serialize": {
+				"id": 32
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_transform_cd_percent",
+			"serialize": {
+				"id": 33
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_epchangetohp_cd_percent",
+			"serialize": {
+				"id": 34
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_healingdance_cd_percent",
+			"serialize": {
+				"id": 35
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_graffitimonitor_cd_percent",
+			"serialize": {
+				"id": 36
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_detective_cd_percent",
+			"serialize": {
+				"id": 37
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_epfastandupper_cd_percent",
+			"serialize": {
+				"id": 38
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_adddamagebycosthp_cd_percent",
+			"serialize": {
+				"id": 39
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_spaceshield_cd_percent",
+			"serialize": {
+				"id": 40
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_blowupicewall_cd_percent",
+			"serialize": {
+				"id": 41
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_tempincreasehp_cd_percent",
+			"serialize": {
+				"id": 42
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_addhpandrescure_cd_percent",
+			"serialize": {
+				"id": 43
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_dwshield_cd_percent",
+			"serialize": {
+				"id": 44
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "eco_round_money",
+			"serialize": {
+				"id": 75
+			},
+			"defaultValue": 1000
+		},
+		{
+			"type": "Int",
+			"name": "eco_kill_money",
+			"serialize": {
+				"id": 76
+			},
+			"defaultValue": 200
+		},
+		{
+			"type": "Int",
+			"name": "eco_win_money",
+			"serialize": {
+				"id": 77
+			},
+			"defaultValue": 500
+		},
+		{
+			"type": "Boolean",
+			"name": "coin_hud_show",
+			"serialize": {
+				"id": 78
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Int",
+			"name": "MaxHPDefender",
+			"serialize": {
+				"id": 49
+			},
+			"defaultValue": 60
+		},
+		{
+			"type": "Int",
+			"name": "DamageDefender",
+			"serialize": {
+				"id": 50
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "DamagedDefender",
+			"serialize": {
+				"id": 51
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "MoveSpeedDefender",
+			"serialize": {
+				"id": 52
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "JumpHeightDefender",
+			"serialize": {
+				"id": 53
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "MaxHPHuman",
+			"serialize": {
+				"id": 54
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "DamageHuman",
+			"serialize": {
+				"id": 55
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "DamagedHuman",
+			"serialize": {
+				"id": 56
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "MoveSpeedHuman",
+			"serialize": {
+				"id": 57
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "JumpHeightHuman",
+			"serialize": {
+				"id": 58
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "MaxHPZombie",
+			"serialize": {
+				"id": 60
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "DamageZombie",
+			"serialize": {
+				"id": 61
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "DamagedZombie",
+			"serialize": {
+				"id": 62
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "MoveSpeedZombie",
+			"serialize": {
+				"id": 63
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "JumpHeightZombie",
+			"serialize": {
+				"id": 64
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "MaxHPMainzombie",
+			"serialize": {
+				"id": 65
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "DamageMainzombie",
+			"serialize": {
+				"id": 66
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "DamagedMainzombie",
+			"serialize": {
+				"id": 67
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "MoveSpeedMainzombie",
+			"serialize": {
+				"id": 68
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "JumpHeightMainzombie",
+			"serialize": {
+				"id": 69
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Boolean",
+			"name": "reversoSwitch",
+			"serialize": {
+				"id": 70
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Int",
+			"name": "MainZombieNum",
+			"serialize": {
+				"id": 72
+			},
+			"defaultValue": 15
+		},
+		{
+			"type": "Boolean",
+			"name": "TransfromSwitch",
+			"serialize": {
+				"id": 73
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "LevelUpSwitch",
+			"serialize": {
+				"id": 74
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "pet_enable",
+			"serialize": {
+				"id": 88
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "pet_skillenable",
+			"serialize": {
+				"id": 89
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Int",
+			"name": "RaceLastTime",
+			"serialize": {
+				"id": 90
+			},
+			"defaultValue": 30
+		},
+		{
+			"type": "Boolean",
+			"name": "ParkourRankSwitch",
+			"serialize": {
+				"id": 81
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_throwsilence_cd_percent",
+			"serialize": {
+				"id": 95
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_createflightbomb_cd_percent",
+			"serialize": {
+				"id": 96
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_markicewall_cd_percent",
+			"serialize": {
+				"id": 97
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_runspeedup_cd_percent",
+			"serialize": {
+				"id": 98
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_fireboyflame_cd_percent",
+			"serialize": {
+				"id": 158
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_immortality_cd_percent",
+			"serialize": {
+				"id": 166
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_teleporter_cd_percent",
+			"serialize": {
+				"id": 167
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_alokawakening_cd_percent",
+			"serialize": {
+				"id": 168
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_autopathbomb_cd_percent",
+			"serialize": {
+				"id": 173
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_cityhero_cd_percent",
+			"serialize": {
+				"id": 182
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_electricgirl_cd_percent",
+			"serialize": {
+				"id": 183
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_auroraboy_cd_percent",
+			"serialize": {
+				"id": 184
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "playerskill_eclipseman_cd_percent",
+			"serialize": {
+				"id": 204
+			},
+			"defaultValue": 100
+		},
+		{
+			"type": "Int",
+			"name": "CameraType",
+			"serialize": {
+				"id": 99
+			},
+			"defaultValue": 1
+		},
+		{
+			"type": "Int",
+			"name": "CameraFov_2",
+			"serialize": {
+				"id": 100,
+				"rule": "IfEquals|CameraType|2"
+			},
+			"defaultValue": 60
+		},
+		{
+			"type": "Int",
+			"name": "CameraFov_3",
+			"serialize": {
+				"id": 100,
+				"rule": "IfEquals|CameraType|3"
+			},
+			"defaultValue": 60
+		},
+		{
+			"type": "Int",
+			"name": "CameraFov_4",
+			"serialize": {
+				"id": 100,
+				"rule": "IfEquals|CameraType|4"
+			},
+			"defaultValue": 60
+		},
+		{
+			"type": "Int",
+			"name": "CameraFov_5",
+			"serialize": {
+				"id": 100,
+				"rule": "IfEquals|CameraType|5"
+			},
+			"defaultValue": 60
+		},
+		{
+			"type": "Int",
+			"name": "CameraFov_7",
+			"serialize": {
+				"id": 100,
+				"rule": "IfEquals|CameraType|7"
+			},
+			"defaultValue": 60
+		},
+		{
+			"type": "Float",
+			"name": "CameraPitch_2",
+			"serialize": {
+				"id": 101,
+				"rule": "IfEquals|CameraType|2"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Float",
+			"name": "CameraPitch_7",
+			"serialize": {
+				"id": 101,
+				"rule": "IfEquals|CameraType|7"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Float",
+			"name": "CameraPitch_5",
+			"serialize": {
+				"id": 101,
+				"rule": "IfEquals|CameraType|5"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Float",
+			"name": "CameraYaw",
+			"serialize": {
+				"id": 102
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Float",
+			"name": "CameraDistance",
+			"serialize": {
+				"id": 103
+			},
+			"defaultValue": 10
+		},
+		{
+			"type": "Vector3",
+			"name": "CameraOffset_2",
+			"serialize": {
+				"id": 104,
+				"rule": "IfEquals|CameraType|2"
+			},
+			"defaultValue": "0, 0, 0"
+		},
+		{
+			"type": "Vector3",
+			"name": "CameraOffset_4",
+			"serialize": {
+				"id": 104,
+				"rule": "IfEquals|CameraType|4"
+			},
+			"defaultValue": "0, 4, 0"
+		},
+		{
+			"type": "Vector3",
+			"name": "CameraOffset_5",
+			"serialize": {
+				"id": 104,
+				"rule": "IfEquals|CameraType|5"
+			},
+			"defaultValue": "0, 1, -6"
+		},
+		{
+			"type": "Vector3",
+			"name": "CameraOffset_7",
+			"serialize": {
+				"id": 104,
+				"rule": "IfEquals|CameraType|7"
+			},
+			"defaultValue": "0, 0, 0"
+		},
+		{
+			"type": "Int",
+			"name": "CameraProjectionMode_2",
+			"serialize": {
+				"id": 132,
+				"rule": "IfEquals|CameraType|2"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "CameraProjectionMode_3",
+			"serialize": {
+				"id": 132,
+				"rule": "IfEquals|CameraType|3"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "CameraProjectionMode_4",
+			"serialize": {
+				"id": 132,
+				"rule": "IfEquals|CameraType|4"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "CameraProjectionMode_5",
+			"serialize": {
+				"id": 132,
+				"rule": "IfEquals|CameraType|5"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "CameraProjectionMode_7",
+			"serialize": {
+				"id": 132,
+				"rule": "IfEquals|CameraType|7"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "CameraBlockMode_2",
+			"serialize": {
+				"id": 133,
+				"rule": "IfEquals|CameraType|2"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "CameraBlockMode_3",
+			"serialize": {
+				"id": 133,
+				"rule": "IfEquals|CameraType|3"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "CameraBlockMode_4",
+			"serialize": {
+				"id": 133,
+				"rule": "IfEquals|CameraType|4"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "CameraBlockMode_5",
+			"serialize": {
+				"id": 133,
+				"rule": "IfEquals|CameraType|5"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Int",
+			"name": "CameraBlockMode_7",
+			"serialize": {
+				"id": 133,
+				"rule": "IfEquals|CameraType|7"
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Boolean",
+			"name": "TwoDimensionCamEnableZAxis",
+			"serialize": {
+				"id": 147
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Int",
+			"name": "observer_mode",
+			"serialize": {
+				"id": 129
+			},
+			"defaultValue": 0
+		},
+		{
+			"type": "Boolean",
+			"name": "observer_mode_enabled",
+			"serialize": {
+				"id": 130
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_death_observer",
+			"serialize": {
+				"id": 143
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "SceneEdit_StartCamera",
+			"defaultValue": false
+		},
+		{
+			"type": "Int",
+			"name": "recommend_start_game_number",
+			"serialize": {
+				"id": 135
+			},
+			"defaultValue": 2,
+			"internalRule": {
+				"ruleType": "IsBigMapGlobal",
+				"value": 4
+
+			}
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_halfway_join",
+			"serialize": {
+				"id": 136
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "EnableQuickStartMatch",
+			"serialize": {
+				"id": 175
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Int",
+			"name": "halfway_join_effect_time",
+			"serialize": {
+				"id": 137
+			},
+			"defaultValue": 120
+		},
+		{
+			"type": "Boolean",
+			"name": "halfway_join_number_limit",
+			"serialize": {
+				"id": 138
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Int",
+			"name": "halfway_join_number",
+			"serialize": {
+				"id": 139
+			},
+			"defaultValue": 5
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_halfway_join_effect_time",
+			"serialize": {
+				"id": 140
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_weapon_skin",
+			"serialize": {
+				"id": 141
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "EnablePveWeaponSkinProperty",
+			"serialize": {
+				"id": 176
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_weapon_skill",
+			"serialize": {
+				"id": 142
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_total_token",
+			"serialize": {
+				"id": 151
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_ugc_token",
+			"serialize": {
+				"id": 152
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_minimap_v2",
+			"serialize": {
+				"id": 153
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "disable_depth_map",
+			"serialize": {
+				"id": 154
+			},
+			"defaultValue": true
+		},
+		{
+			"type": "Boolean",
+			"name": "enable_dynamic_navmesh",
+			"serialize": {
+				"id": 155
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "IsHoudiniUsed",
+			"serialize": {
+				"id": 181
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "IsRaceHoudiniUsed",
+			"serialize": {
+				"id": 186
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "IsAIGenUsed",
+			"serialize": {
+				"id": 187
+			},
+			"defaultValue": false
+		},
+		{
+			"type": "Boolean",
+			"name": "temp_union_1_tip_enable",
+			"defaultValue": false
+		},
+		{
+			"type": "Vector3",
+			"name": "RigidbodyGravity",
+			"defaultValue": "0, -9.8, 0",
+			"serialize": {
+				"id": 190
+			}
+		},
+		{
+			"type": "Boolean",
+			"name": "TRSSyncEnabled",
+			"defaultValue": false,
+			"serialize": {
+				"id": 191
+			}
+		},
+		{
+			"type": "Int",
+			"name": "TRSSyncSmoothingMethod",
+			"defaultValue": "2",
+			"serialize": {
+				"id": 192
+			}
+		},
+		{
+			"type": "Float",
+			"name": "TRSSyncMaxErrorAccumulationSeconds",
+			"defaultValue": "15",
+			"serialize": {
+				"id": 193
+			}
+		},
+		{
+			"type": "Float",
+			"name": "TRSSyncMinError",
+			"defaultValue": "0.1",
+			"serialize": {
+				"id": 194
+			}
+		},
+		{
+			"type": "Float",
+			"name": "TRSSyncMaxPositionError",
+			"defaultValue": "5",
+			"serialize": {
+				"id": 195
+			}
+		},
+		{
+			"type": "Float",
+			"name": "TRSSyncPredictRatio",
+			"defaultValue": "1",
+			"serialize": {
+				"id": 196
+			}
+		},
+		{
+			"type": "Float",
+			"name": "TRSSyncPredictBlendRatio",
+			"defaultValue": "0.85",
+			"serialize": {
+				"id": 197
+			}
+		},
+		{
+			"type": "Boolean",
+			"name": "EnableSocialFriendList",
+			"defaultValue": "true",
+			"serialize": {
+				"id": 200
+			}
+		},
+		{
+			"type": "Boolean",
+			"name": "EnableSocialDialogBox",
+			"defaultValue": "true",
+			"serialize": {
+				"id": 201
+			}
+		},
+		{
+			"type": "Boolean",
+			"name": "EnableSocialPlayerDetail",
+			"defaultValue": "false",
+			"serialize": {
+				"id": 202
+			}
+		}
+	]
+}

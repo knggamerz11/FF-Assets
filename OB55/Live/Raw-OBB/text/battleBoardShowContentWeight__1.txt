@@ -1,0 +1,8 @@
+Id,Order,Content,Weight,PKWeight
+id,unread,unread,unread,unread
+1,1,unread,1000,1000
+2,2,unread,1,0.5
+3,3,unread,800,500
+4,4,unread,1200,500
+5,5,unread,0.8,
+6,6,unread,1500,1500

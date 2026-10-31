@@ -1,0 +1,468 @@
+
+{
+    "scene" : "PVP_Paradise_CS",
+    "GameZoneInfo" : [
+        {
+            "ZoneIndex" : 0,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "369.0837",
+                        "18.5942",
+                        "-262.6712"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-90.0552",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "474.1386",
+                        "17.3074",
+                        "-250.3785"
+                    ],
+                    "EulerAngles" : [
+                        "-0.0150",
+                        "89.8379",
+                        "-0.2491"
+                    ],
+                    "BoardScale"  : "0.0080"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 1,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "291.9722",
+                        "4.0270",
+                        "-86.6349"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "70.1191",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "163.0977",
+                        "1.5453",
+                        "-146.7072"
+                    ],
+                    "EulerAngles" : [
+                        "-0.0307",
+                        "-106.6127",
+                        "-0.2476"
+                    ],
+                    "BoardScale"  : "0.0080"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 2,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "-149.4679",
+                        "31.5180",
+                        "324.0697"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-162.0372",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0060"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "-123.7246",
+                        "28.9254",
+                        "406.6068"
+                    ],
+                    "EulerAngles" : [
+                        "-0.0279",
+                        "2.7459",
+                        "-0.2480"
+                    ],
+                    "BoardScale"  : "0.0040"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 3,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "196.9812",
+                        "3.9984",
+                        "281.1638"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "155.3395",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "132.7241",
+                        "3.5334",
+                        "412.1188"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-24.9641",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 4,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "416.9267",
+                        "11.2392",
+                        "705.4614"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "115.1363",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "310.3391",
+                        "11.2350",
+                        "772.0027"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-65.5670",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0070"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 5,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "564.9499",
+                        "26.7610",
+                        "-546.1690"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "177.1981",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "486.4393",
+                        "26.7100",
+                        "-519.2758"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-84.2178",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 7,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "1164.1970",
+                        "7.7893",
+                        "-479.1818"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-166.0693",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "1187.7330",
+                        "7.3922",
+                        "-379.1522"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "15.0646",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 8,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "1232.6250",
+                        "1.3663",
+                        "115.4024"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-91.5919",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "1331.3850",
+                        "2.4490",
+                        "133.9468"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "62.3641",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 9,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "906.0433",
+                        "49.3586",
+                        "542.1701"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-1.8786",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "909.7842",
+                        "51.5100",
+                        "453.5943"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-179.2539",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0070"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 10,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "28.3905",
+                        "2.3900",
+                        "114.1376"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "36.8092",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0120"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "-13.6646",
+                        "2.2540",
+                        "48.7665"
+                    ],
+                    "EulerAngles" : [
+                        "-0.0500",
+                        "-144.8027",
+                        "-0.2444"
+                    ],
+                    "BoardScale"  : "0.0120"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 11,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "514.5281",
+                        "15.1359",
+                        "496.3313"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-92.5064",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0050"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "597.2841",
+                        "15.2939",
+                        "490.3389"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "89.0226",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0060"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 13,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "704.9200",
+                        "70.5910",
+                        "41.1963"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "142.2399",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "646.9273",
+                        "70.2317",
+                        "109.1722"
+                    ],
+                    "EulerAngles" : [
+                        "-0.2484",
+                        "-36.1516",
+                        "0.0236"
+                    ],
+                    "BoardScale"  : "0.0080"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 12,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "-197.9416",
+                        "-12.9100",
+                        "-291.7959"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-75.9563",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "-95.8146",
+                        "-12.9333",
+                        "-295.5966"
+                    ],
+                    "EulerAngles" : [
+                        "-0.0084",
+                        "121.3714",
+                        "-0.2494"
+                    ],
+                    "BoardScale"  : "0.0080"
+                }
+            ]
+        },
+        {
+            "ZoneIndex" : 6,
+            "BattleBoardSpawnPoints" : [
+                {
+                    "TeamIndex" : 0,
+                    "Position"  : [
+                        "645.8443",
+                        "26.5645",
+                        "-331.9152"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "-176.1622",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                },
+                {
+                    "TeamIndex" : 1,
+                    "Position"  : [
+                        "659.3391",
+                        "26.6550",
+                        "-230.1001"
+                    ],
+                    "EulerAngles" : [
+                        "0.0000",
+                        "3.8378",
+                        "0.0000"
+                    ],
+                    "BoardScale"  : "0.0080"
+                }
+            ]
+        }
+    ]
+}

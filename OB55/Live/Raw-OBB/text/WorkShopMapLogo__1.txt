@@ -1,0 +1,7 @@
+MapLogoType,LogoIcon,TransifyKey
+unread,unread,unread
+1,unread,unread
+2,unread,unread
+3,unread,unread
+4,unread,unread
+5,unread,KEY

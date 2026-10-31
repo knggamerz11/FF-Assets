@@ -1,0 +1,89 @@
+{
+	"name": "TrainingMiniGameData",
+	"TrainingShootingGameData": {
+		"level_L": {
+			"id":0,
+			"hp":200,
+			"duration":3,
+			"count":20,
+			"vest":0,
+			"name":"T_32_S_TG_D_1",
+			"interval":1
+		},
+		"level_M":	
+			{
+				"id":1,
+				"hp":200,
+				"duration":2,
+				"count":20,
+				"vest":0,
+				"name":"T_32_S_TG_D_2",
+				"interval":1
+			},
+		"level_H":
+			{
+				"id":2,
+				"hp":200,
+				"duration":1.5,
+				"count":20,
+				"vest":0,
+				"name":"T_32_S_TG_D_3",
+				"interval":0.5
+			}
+	},
+	"TrainingIceWallPracticeData": {
+		"Rule": 1,
+		"ItemID": 1201,
+		"GiveCount": 25,
+		"GameTime": 45,
+		"EndGameHp": 0,
+		"PartChangeTime": 3,
+		"WeaponShowTime": 2,
+		"WeaponCntPerGroup": 1,
+		"IceWallHP": 19,
+		"IceWallMaxNum": 1
+	},
+	"TrainingGrenadePracticeData": {
+		"Rule": 1,
+		"GiveItemId": 601,
+		"GiveItemCnt": 15,
+		"EndGameNeedHitCnt": 99,
+		"GameTime": 45,
+		"InitOccurCnt": 3,
+		"HP": 300,
+		"OccurMoveTargetPerTime": 4,
+		"OccurMultiTargetPerTime": 8,
+		"OccurNormalCntAfterTargetDown": 1
+	},
+	"TrainingBillBoardData": {
+		"CdnUrl": "https://dl.dir.freefiremobile.com/common/OB33/CSH/CBtrainingisland/FFWSTrainingIsland.ff",
+		"StartTime": "2022-04-29 00:00:00",
+		"EndTime": "2022-05-11 23:59:59",
+		"TextureWidth": 1024,
+		"TextureHeight": 1024
+	},
+	"TrainingServerMiniGameData": [
+		{
+			"GameType": 0,
+			"MarkIconRes": "UI_Icon_Boxing1",
+			"GameTitleKey": "T_27_V_TRAINING_DUAL_BOXING",
+			"RewardActivitId" : 210331121,
+			"RewardItemId" : 801000892,
+			"RewardItemNum" : 1,
+			"RewardIconRes" : "Icon_Ingame_ob27_ko_night_blue_belt",
+			"GameEffectRes" : "EFFECT_HYPE_FULL_FIRE;EFFECT_HYPE_FULL_FIRE_ALT",
+			"BigEventId" : 11
+		},
+		{
+			"GameType": 1,
+			"MarkIconRes": "UI_Icon_Boxing1",
+			"GameTitleKey": "T_27_V_TRAINING_DUAL_BOXING",
+			"RewardActivitId" : 210521110,
+			"RewardItemId" : 801001005,
+			"RewardItemNum" : 1,
+			"RewardIconRes" : "Icon_exchange_ob28_sutorito_controller_white",
+			"GameEffectRes" : "EFFECT_HYPE_FULL_FIRE;EFFECT_HYPE_FULL_FIRE_ALT02",
+			"BigEventId" : 13
+		}
+	]
+}

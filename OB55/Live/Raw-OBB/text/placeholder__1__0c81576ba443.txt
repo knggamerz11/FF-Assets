@@ -1,0 +1,5 @@
+Placeholder file created by BigActivityAssetFolderCreator
+Created at: 2026-01-19 17:40:40
+
+This file is used to maintain Big Activity asset folder structure in P4.
+Each activity includes sub-directories: __Package, __Hotfix, __AbOptional

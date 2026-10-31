@@ -1,0 +1,19 @@
+@ModuleLib=8AbNyHFi
+@ScriptName=RoadPlane
+type 8AbNyHFi00CustomComponent28821109 : (Component & CustomLevelObject) = 41066655100000 { #RoadPlane
+}
+
+@ModuleLib=8AbNyHFi
+@ScriptName=YellowPlane
+type 8AbNyHFi00CustomComponent89008232 : (Component & CustomLevelObject) = 41066655100001 { #YellowPlane
+}
+
+@ModuleLib=8AbNyHFi
+@ScriptName=WhitePlane
+type 8AbNyHFi00CustomComponent70586112 : (Component & CustomLevelObject) = 41066655100002 { #WhitePlane
+}
+
+@ModuleLib=8AbNyHFi
+@ScriptName=FoundmentalPlane
+type 8AbNyHFi00CustomComponent79712367 : (Component & CustomLevelObject) = 41066655100003 { #FoundmentalPlane
+}

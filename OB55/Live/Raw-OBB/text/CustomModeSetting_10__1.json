@@ -1,0 +1,1189 @@
+{
+    "comment": "GunKing Mode",
+    "version": "1",
+    "entranceInfo": {
+        "iconUrl": "https://dl.dir.freefiremobile.com/common/OB32/CSH/Designers/SeaTalk_IMG_1641540036.jpg",
+        "offsetX": 0,
+        "offsetY": 0,
+        "width": 250,
+        "height": 338
+    },
+    "windowComponent": {
+        "componentType": "FullScreenWindow_VTabsPanel",
+        "labelKey": "T_32_T_WS_ME_CUSTOM",
+        "itemIndex": {
+            "binding": "local_tab_index"
+        },
+        "items": [
+            {
+                "labelKey": "T_31_T_WS_ME_FLOW",
+                "contentComponent": {
+                    "componentType": "HTabsPanel",
+                    "unselectable": true,
+                    "itemIndex": {
+                        "binding": "custom_game_mode"
+                    },
+                    "items": [
+                        {
+                            "labelKey": "T_39_WT_WS_TAG3",
+                            "subLabelKey": "T_32_T_WS_ME_ENDTYPEDESC1",
+                            "contentComponent": {
+                                "componentType": "VScrollTableContainer",
+                                "items": [
+                                    {
+                                        "componentType": "TableContainer",
+                                        "labelKey": "T_51_XJ_WS_BASIC_SETTING",
+                                        "items": [
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_51_XJ_WS_GMSTART_TIME",
+                                                "maxValue": 30,
+                                                "minValue": 10,
+                                                "step": 1,
+                                                "unitKey": "T_51_XJ_WS_GAME_START_TIME_UNIT",
+                                                "value": {
+                                                    "binding": "game_prepare_time"
+                                                }
+                                            } 
+                                        ]
+                                    },
+                                    {
+                                        "componentType": "TableContainer",
+                                        "labelKey": "T_32_T_WS_ME_ROUNDSETTING",
+                                        "items": [
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_32_T_WS_ME_PREGAMETIME",
+                                                "maxValue": 20,
+                                                "minValue": 5,
+                                                "step": 1,
+                                                "unitKey": "T_33_WT_WS_UNIT_SECOND",
+                                                "value": {
+                                                    "binding": "GK_round_preparing_time"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_32_T_WS_ME_MATCHTIME",
+                                                "maxValue": 1200,
+                                                "minValue": 60,
+                                                "step": 1,
+                                                "unitKey": "T_33_WT_WS_UNIT_SECOND",
+                                                "value": {
+                                                    "binding": "GK_round_time"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "componentType": "TableContainer",
+                                        "labelKey": "T_32_T_WS_ME_TEAMSETTING",
+                                        "subLabelKey": "T_32_T_WS_ME_PLAYERNUMLIMIT",
+                                        "items": [
+                                            {
+                                                "componentType": "Union",
+                                                "labelKey": "T_39_WT_WS_MAPPLAYER",
+                                                "tipKey": "T_48_XYL_WS_MAPPLAYERSTIPS",
+                                                "showInSettingPanel":true,
+                                                "unionIndex": 1,
+                                                "labelTipKey": "T_48_XYL_WS_MAPPLAYERSWARNING",
+                                                "tipEnabled": {
+                                                    "binding":"temp_union_1_tip_enable",
+                                                    "modifier": {
+                                                        "modifierType": "ReversePolishNotation",
+                                                        "expression": "GK_team_member GK_team_num * 5 >"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_32_T_WS_ME_TEAMMATENUM",
+                                                "maxValue": {
+                                                        "binding": "GK_team_num",
+                                                        "modifier": {
+                                                            "modifierType": "KeyValueInt",
+                                                            "values": [
+                                                                6,
+                                                                6,
+                                                                6,
+                                                                4,
+                                                                3,
+                                                                2,
+                                                                2,
+                                                                1,
+                                                                1,
+                                                                1,
+                                                                1,
+                                                                1,
+                                                                1
+                                                            ]
+                                                        }
+                                                    },
+                                                "minValue": 1,
+                                                "step": 1,                                                
+                                                "value": {
+                                                    "binding": "GK_team_member"
+                                                },
+                                                "showInSettingPanel":true,
+                                                "unionIndex": 1,
+                                                "bindLogName":"team_num_btn_cnt"
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_53_GT_ROOM_LIMIT",
+                                                "tipKey": "T_53_GT_ROOM_TIP",                                                
+                                                "maxValue": {
+                                                    "binding": "temVal",
+                                                    "modifier": {
+                                                        "modifierType": "ReversePolishNotation",
+                                                        "expression": "GK_team_member GK_team_num *"
+                                                    }
+                                                },
+                                                "minValue": 2,
+                                                "step": 1,
+                                                "value": {
+                                                    "binding": "GK_MinNumOfMatchStart"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "labelKey": "T_32_T_WS_ME_MECHANIC",
+                "contentComponent": {
+                    "componentType": "HTabsPanel",
+                    "unselectable": true,
+                    "itemIndex": {
+                        "binding": "custom_game_mode"
+                    },
+                    "items": [
+                        {
+                            "labelKey": "T_39_WT_WS_TAG3",
+                            "subLabelKey": "T_32_T_WS_ME_ENDTYPEDESC1",
+                            "contentComponent": {
+                                "componentType": "VScrollTableContainer",
+                                "items": [
+                                    {
+                                        "componentType": "TableContainer",
+                                        "labelKey": "T_35_PD_Infection_HUMANSELECT",
+                                        "items": [
+                                            {
+                                                "componentType": "PopMenu",
+                                                "labelKey": "T_38_R_TACTICS_N",
+                                                "width": 400,
+                                                "dirUp": false,
+                                                "items": [
+                                                    {
+                                                        "labelKey": "T_31_T_WS_BUFFTYPE_RANDOM",
+                                                        "value": 0
+                                                    },
+                                                    {
+                                                        "labelKey": "T_25_E_HUD_01",
+                                                        "value": 1
+                                                    },
+                                                    {
+                                                        "labelKey": "T_25_E_HUD_02",
+                                                        "value": 2
+                                                    },
+                                                    {
+                                                        "labelKey": "T_36_YF_SETTING_TYPE3",
+                                                        "value": 3
+                                                    }
+                                                ],
+                                                "value": {
+                                                    "binding": "GK_Weapon_ListIndex"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "componentType": "TableContainer",
+                                        "labelKey": "T_38_WZY_WS_OBSERVER",
+                                        "items": [
+                                            {
+                                                "componentType": "Toggle",
+                                                "labelKey": "T_39_XXJ_WS_SPECTATORSWITCH",
+                                                "value": {
+                                                    "binding": "enable_death_observer"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "PopMenu",
+                                                "labelKey": "T_38_WZY_WS_OBSERVER",
+                                                "width": 400,
+                                                "dirUp": true,
+                                                "items": [
+                                                    {
+                                                        "labelKey": "T_38_WZY_WS_OBTEAM",
+                                                        "value": 0
+                                                    },
+                                                    {
+                                                        "labelKey": "T_38_WZY_WS_OBGLOBAL",
+                                                        "value": 1
+                                                    },
+                                                    {
+                                                        "labelKey": "T_38_WZY_WS_OBFACTION",
+                                                        "value": 2
+                                                    }
+                                                ],
+                                                "value": {
+                                                    "binding": "observer_mode"
+                                                },
+                                                "enabled": {
+                                                    "operate": "and",
+                                                    "left": {
+                                                        "binding": "observer_mode_enabled"
+                                                    },
+                                                    "right": {
+                                                        "binding": "enable_death_observer"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "labelKey": "T_36_JH_WS_ECONOMIC",
+                "contentComponent": {
+                    "componentType": "VScrollTableContainer",
+                    "visibleHeight": 590,
+                    "items": [
+                        {
+                            "componentType": "TableContainer",
+                            "labelKey": "T_36_JH_WS_CRAFTSHOP",
+                            "items": [
+                                {
+                                    "componentType": "Shop",
+                                    "labelKey": "T_36_JH_WS_CHOOSEEDITSHOP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "labelKey": "T_31_T_WS_ME_GENERALSETTING",
+                "enabled": {
+                    "binding": "custom_game_mode",
+                    "modifier": {
+                        "modifierType": "InIntArray",
+                        "values": [
+                            10
+                        ]
+                    }
+                },
+                "contentComponent": {
+                    "componentType": "VScrollTableContainer",
+                    "visibleHeight": 590,
+                    "items": [
+                        {
+                            "componentType": "TableContainer",
+                            "labelKey": "T_53_GT_MATCHING_SETTING",
+                            "enabled": {
+                                "binding": "EnableMapPlayer",
+                                "modifier": {
+                                    "modifierType": "RegionSwitch"
+                                }
+                            },
+                            "items": [
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_53_GT_MATCHING_LIMIT",
+                                    "tipKey": "T_53_GT_MATCHING_TIP",
+                                    "maxValue": {
+                                        "binding": "temVal",
+                                        "modifier": {
+                                            "modifierType": "ReversePolishNotation",
+                                            "expression": "GK_team_member GK_team_num *"
+                                        }
+                                    },
+                                    "minValue": 2,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "recommend_start_game_number"
+                                    }
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_39_WT_WS_MIDENTER",
+                                    "tipKey": "T_39_WT_WS_MIDENTERTIP",
+                                    "value": {
+                                        "binding": "enable_halfway_join"
+                                    }
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_44_JH_WS_CLHALF1",
+                                    "value": {
+                                        "binding": "EnableQuickStartMatch"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_halfway_join"
+                                    }
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_39_WT_WS_MIDENTERTIME1",
+                                    "value": {
+                                        "binding": "enable_halfway_join_effect_time"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_halfway_join"
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_39_WT_WS_MIDENTERTIME2",
+                                    "tipKey": "T_39_WT_WS_MIDENTERTIMETIP",
+                                    "maxValue": 6000,
+                                    "minValue": 1,
+                                    "step": 1,
+                                    "unitKey": "T_33_WT_WS_UNIT_SECOND",
+                                    "value": {
+                                        "binding": "halfway_join_effect_time"
+                                    },
+                                    "enabled": {
+                                        "operate": "and",
+                                        "left": {
+                                            "binding": "enable_halfway_join"
+                                        },
+                                        "right": {
+                                            "binding": "enable_halfway_join_effect_time"
+                                        }
+                                    }
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_39_WT_WS_MEDENTERNUM",
+                                    "value": {
+                                        "binding": "halfway_join_number_limit"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_halfway_join"
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_39_WT_WS_MIDENTERCOUNT",
+                                    "maxValue": 30,
+                                    "minValue": 1,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "halfway_join_number"
+                                    },
+                                    "enabled": {
+                                        "operate": "and",
+                                        "left": {
+                                            "binding": "enable_halfway_join"
+                                        },
+                                        "right": {
+                                            "binding": "halfway_join_number_limit"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "componentType": "TableContainer",
+                            "labelKey": "T_33_WT_WS_BASICSET1",
+                            "items": [
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_31_T_WS_ME_MAXHP",
+                                    "maxValue": 1000,
+                                    "minValue": 1,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "max_hp"
+                                    },
+                                    "showInSettingPanel":true,
+                                    "bindLogName":"max_hp_btn_cnt"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_31_T_WS_ME_MAXEP",
+                                    "maxValue": 200,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "max_ep"
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_31_T_WS_ME_DEFAULTEPPERCENT",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "unitKey": "%",
+                                    "value": {
+                                        "binding": "start_ep"
+                                    }
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_31_T_WS_ME_EPQUICKRESTORE",
+                                    "tipKey": "T_33_WT_WS_QCEPRTIP",
+                                    "value": {
+                                        "binding": "auto_healing"
+                                    }
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_31_T_WS_UNLIMITEDAMMO",
+                                    "value": {
+                                        "binding": "unlimited_bullet"
+                                    }
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_39_HJ_WS_UNLIMITEDGLOOWALL",
+                                    "value": {
+                                        "binding": "unlimited_gloowall"
+                                    }
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_39_HJ_WS_UNLIMITEDTHROWABLES",
+                                    "value": {
+                                        "binding": "unlimited_throwables"
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_31_T_WS_ME_DAMAGE",
+                                    "maxValue": 500,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "unitKey": "%",
+                                    "value": {
+                                        "binding": "damage"
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_31_T_WS_ME_DAMAGED",
+                                    "maxValue": 500,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "unitKey": "%",
+                                    "value": {
+                                        "binding": "damaged"
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_17_Z_ROOM_SPEED_SWITCH",
+                                    "maxValue": 500,
+                                    "minValue": 50,
+                                    "step": 1,
+                                    "unitKey": "%",
+                                    "value": {
+                                        "binding": "move_speed"
+                                    },
+                                    "showInSettingPanel":true,
+                                    "bindLogName":"move_speed_btn_cnt"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_17_Z_ROOM_JUMP_SWITCH",
+                                    "maxValue": 500,
+                                    "minValue": 10,
+                                    "step": 1,
+                                    "unitKey": "%",
+                                    "value": {
+                                        "binding": "jump_height"
+                                    },
+                                    "showInSettingPanel":true
+                                }
+                            ]
+                        },
+                        {
+                            "componentType": "TableContainer",
+                            "labelKey": "T_33_WT_WS_SKILLSET1",
+                            "items": [
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_33_WT_WS_SKILLSET2",
+                                    "value": {
+                                        "binding": "enable_passive_skill"
+                                    },
+                                    "tipKey": "T_33_WT_WS_SKILLSET2_TIP"
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_33_WT_WS_SKILLSET3",
+                                    "value": {
+                                        "binding": "enable_active_skill"
+                                    },
+                                    "tipKey": "T_33_WT_WS_SKILLSET3_TIP"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_33_WT_WS_SKILLSET4",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_transform_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "Transform"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_33_WT_WS_SKILLSET5",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_epchangetohp_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "ExChangeEpToHp"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_33_WT_WS_SKILLSET6",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_healingdance_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "PlayerSkillAlokHealAndAddSpeed"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_33_WT_WS_SKILLSET7",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_graffitimonitor_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "GraffitiSanctuary"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_33_WT_WS_SKILLSET8",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_detective_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "Detective"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_33_WT_WS_SKILLSET9",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_epfastandupper_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "EPFastAndUpper"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_33_WT_WS_SKILLSET10",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_spaceshield_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "SpaceShield"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_33_WT_WS_SKILLSET11",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_blowupicewall_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "BlowUpIceWall"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_33_WT_WS_SKILLSET12",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_tempincreasehp_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "BoostHPAndRegeneration"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_33_WT_WS_SKILLSET13",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_addhpandrescure_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "AddHPAndRescure"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_34_WT_WS_SKILLSET14",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_dwshield_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "DWShield"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_38_WT_WS_SKILLSET15",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_throwsilence_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "ThrowSilence"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_38_WT_WS_SKILLSET16",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_createflightbomb_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "CreateFlightBomb"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_38_WT_WS_SKILLSET17",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_markicewall_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "MarkIceWall"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_38_WT_WS_SKILLSET18",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_runspeedup_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "RunSpeedUp"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_42_JH_WS_SKILLSETFIREWALL",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_fireboyflame_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "FireBoyFlame"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_42_JH_WS_SKILLSETSONIA",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_immortality_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "Immortality"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+								{
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_42_JH_WS_SKILLSETSANTINO",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_teleporter_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "Teleporter"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_42_JH_WS_SKILLSETALOKAWAKEN",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_alokawakening_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "PlayerSkillAlokAwakening"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_43_JH_WS_SKILLSETAUTOPATHBOMB",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_autopathbomb_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "AutoPathBomb"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_49_JH_WS_SKILLKASSIE",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_electricgirl_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "ElectricGirl"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_49_JH_WS_SKILLKODA",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_auroraboy_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "AuroraBoy"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_49_JH_WS_SKILLOSCAR",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_cityhero_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "CityHeroBoy"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_55_JH_SKILLSET_ECLIPSEMAN",
+                                    "maxValue": 100,
+                                    "minValue": 0,
+                                    "step": 1,
+                                    "value": {
+                                        "binding": "playerskill_eclipseman_cd_percent"
+                                    },
+                                    "enabled": {
+                                        "binding": "enable_active_skill",
+                                        "modifier": {
+                                            "modifierType": "ControlSkillCDByRegion",
+                                            "skillType": "EclipseMan"
+                                        }
+                                    },
+                                    "unitKey": "%"
+                                }
+                            ]
+                        },
+                        {
+                            "componentType": "TableContainer",
+                            "labelKey": "T_37_WZY_WS_PETSET",
+                            "items": [
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_12_O_PET_TITLE",
+                                    "value": {
+                                        "binding": "pet_enable"
+                                    },
+                                    "tipKey": "T_45_JH_WS_PETSWITCH1"
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_37_WZY_WS_PETSKILL",
+                                    "value": {
+                                        "binding": "pet_skillenable"
+                                    },
+                                    "tipKey": "T_37_WZY_WS_PETSWITCH2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "labelKey": "T_40_XXJ_WS_PHYSICS",
+                "contentComponent": {
+                    "componentType": "VScrollTableContainer",
+                    "visibleHeight": 590,
+                    "items": [
+                        
+                        {
+                            "componentType": "TableContainer",
+                            "labelKey": "T_41_XXJ_WS_RIGIDBODY",
+                            "items": [
+                                {
+                                    "componentType": "Vector3",
+                                    "labelKey": "T_42_XXJ_WS_GRAVITY",
+                                    "value": {
+                                        "binding": "RigidbodyGravity"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "componentType": "TableContainer",
+                            "labelKey": "T_51_TYC_TRS",
+                            "items": [
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_44_XXJ_WS_ENABLE",
+                                    "value": {
+                                        "binding": "TRSSyncEnabled"
+                                    }
+                                },
+                                {
+                                    "componentType": "PopMenu",
+                                    "labelKey": "T_51_TYC_TRS_INTERPOLATION_METHOD",
+                                    "width": 400,
+                                    "items": [
+                                        {
+                                            "labelKey": "T_51_TYC_TRS_ENUM_INTRAPOLATION",
+                                            "value": 1
+                                        },
+                                        {
+                                            "labelKey": "T_51_TYC_TRS_ENUM_EXTRAPOLATION",
+                                            "value": 2
+                                        }
+                                    ],
+                                    "value": {
+                                        "binding": "TRSSyncSmoothingMethod"
+                                    },
+                                    "tipKey": "T_51_TYC_TRS_INTERPOLATION_METHOD_DESC",
+                                    "enabled": {
+                                        "binding": "TRSSyncEnabled"
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_51_TYC_TRS_MIN_ERROR",
+                                    "minValue": 0,
+                                    "maxValue": 10,
+                                    "step": 0.01,
+                                    "floatPrecision": 2,
+                                    "value": {
+                                        "binding": "TRSSyncMinError"
+                                    },
+                                    "tipKey": "T_51_TYC_TRS_MIN_ERROR_DESC",
+                                    "enabled": {
+                                        "binding": "TRSSyncEnabled"
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_51_TYC_TRS_MAX_ERROR_TIME",
+                                    "minValue": 0,
+                                    "maxValue": 30,
+                                    "step": 0.01,
+                                    "floatPrecision": 2,
+                                    "value": {
+                                        "binding": "TRSSyncMaxErrorAccumulationSeconds"
+                                    },
+                                    "tipKey": "T_51_TYC_TRS_MAX_ERROR_TIME_DESC",
+                                    "enabled": {
+                                        "binding": "TRSSyncEnabled"
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_51_TYC_TRS_MAX_ERROR",
+                                    "minValue": 0,
+                                    "maxValue": 100,
+                                    "step": 0.01,
+                                    "floatPrecision": 2,
+                                    "value": {
+                                        "binding": "TRSSyncMaxPositionError"
+                                    },
+                                    "tipKey": "T_51_TYC_TRS_MAX_ERROR_DESC",
+                                    "enabled": {
+                                        "binding": "TRSSyncEnabled"
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_51_TYC_TRS_PREDICT_RATIO",
+                                    "minValue": 0,
+                                    "maxValue": 1,
+                                    "step": 0.01,
+                                    "floatPrecision": 2,
+                                    "value": {
+                                        "binding": "TRSSyncPredictRatio"
+                                    },
+                                    "tipKey": "T_51_TYC_TRS_PREDICT_RATIO_DESC",
+                                    "enabled": {
+                                        "operate": "and",
+                                        "left": {
+                                            "binding": "TRSSyncEnabled"
+                                        },
+                                        "right": {
+                                            "binding": "TRSSyncSmoothingMethod",
+                                            "modifier": {
+                                            "modifierType": "InIntArray",
+                                                "values": [
+                                                    2
+                                                ]
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "componentType": "InputSlider",
+                                    "labelKey": "T_51_TYC_TRS_BLEND_RATIO",
+                                    "minValue": 0,
+                                    "maxValue": 1,
+                                    "step": 0.01,
+                                    "floatPrecision": 2,
+                                    "value": {
+                                        "binding": "TRSSyncPredictBlendRatio"
+                                    },
+                                    "tipKey": "T_51_TYC_TRS_BLEND_RATIO_DESC",
+                                    "enabled": {
+                                        "operate": "and",
+                                        "left": {
+                                            "binding": "TRSSyncEnabled"
+                                        },
+                                        "right": {
+                                            "binding": "TRSSyncSmoothingMethod",
+                                            "modifier": {
+                                            "modifierType": "InIntArray",
+                                                "values": [
+                                                    2
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "labelKey": "T_53_ZCS_INGAMESOCIALSYS_SOCIALSYSTEM",
+                "contentComponent": {
+                    "componentType": "VScrollTableContainer",
+                    "visibleHeight": 590,
+                    "items": [
+                        {
+                            "componentType": "TableContainer",
+                            "labelKey": "T_53_ZCS_INGAMESOCIALSYS_SOCIALSYSTEM",
+                            "items": [
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_53_ZCS_INGAMESOCIALSYS_FRIENDLIST",
+                                    "value": {
+                                        "binding": "EnableSocialFriendList"
+                                    },
+                                    "tipKey": "T_53_ZCS_INGAMESOCIALSYS_FRIENDLIST_DESC"
+                                },
+                                
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_53_ZCS_INGAMESOCIALSYS_DIALOGBOX",
+                                    "value": {
+                                        "binding": "EnableSocialDialogBox"
+                                    },
+                                    "tipKey": "T_53_ZCS_INGAMESOCIALSYS_DIALOGBOX_DESC"
+                                },
+                                {
+                                    "componentType": "Toggle",
+                                    "labelKey": "T_53_ZCS_INGAMESOCIALSYS_PLAYERDETAIL",
+                                    "value": {
+                                        "binding": "EnableSocialPlayerDetail"
+                                    },
+                                    "tipKey": "T_53_ZCS_INGAMESOCIALSYS_PLAYERDETAIL_DESC"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+id,model_id,damage,interval,hit_chance,range,angle_speed,angle_up,angle_down,hp,life_time,max_count,fire_pos,size_width,size_height,fire_angle,dead_disappear,invalidation_range,invalidation_time,revalidation_time,invalidation_disappear,buff_trigger_time,buff_trigger_attack_number,buff_id,warning_sound_time
+id,model_id,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+2102,INGAME_MINISENTRY,25,0.5,1,50,60,60,30,200,240,2,0.75,0.5,1,15,3,100,5,5,5,2,1,,10
+2103,INGAME_MINISENTRY,80,0.15,1,30,180,60,30,200,60,2,0.75,0.5,1,15,60,30,5,5,5,5,3,,10
+2104,INGAME_MINISENTRY,5,1,1,15,180,60,40,80,60,1,0.75,0.5,1,15,60,20,5,1,30,1,1,,10
+1652102,INGAME_MINISENTRY,5,1,1,15,180,60,40,80,60,1,0.75,0.5,1,15,60,20,5,1,30,1,1,,10
+2105,INGAME_MINISENTRY,5,0.5,1,50,60,60,30,100,10,2,0.75,0.5,1,15,3,100,5,5,5,2,1,,10

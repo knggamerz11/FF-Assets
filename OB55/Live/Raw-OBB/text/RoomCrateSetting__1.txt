@@ -1,0 +1,10 @@
+ID,GameMode,Environment,UnlimitedAmmoSwitch,FallDamage,LoadoutSwitch,AirDropSwitch,CharacterSkill,CarDropSwitch,BanGunSkinAttr,UAV,Airstrike,AirShipSwitch,HideEnemyFashion,HideHud,FriendlyFire,PreciseAim,SaveZoneSpeed,SaveZoneDamage,AutoRevival,GlobalMission,HotZoneSwitch,GameMission,MovingSafezone,EnableRoomAfk,HeadShotOnly,SoloActiveSkill,DoubleKillScore,BRWeaponBox,UnlimitedThrowablesSwitch,EnableScoreBoard,EnableInGameVoice,GameAffix,SkillBP
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,1,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,3,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1
+3,201,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1
+4,15,0,0,1,0,0,0,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0
+5,24,0,0,1,0,0,0,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1
+6,27,0,0,1,0,1,0,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1
+7,43,0,0,1,1,1,0,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+8,61,1,1,1,1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1

@@ -1,0 +1,13 @@
+propertyid,property,propertydesc
+id,unread,unread
+1,range,TXT_OB9_ZXR_WEAPONSKIN_RAGE
+2,boost_damage,T_32_YS_WEAPON_TAG_18
+3,silencer,T_42_JL_ATTACHPROPERTY_SILENCER
+4,once_ammo,T_32_YS_WEAPON_TAG_2
+5,ammo_clip_size,TXT_OB9_ZXR_WEAPONSKIN_CARTRIDGE
+6,reload_speed,T_13_R_PVE_WEAPONSKIN_RELOAD
+7,fire_interval,T_13_R_PVE_WEAPONSKIN_SPEED
+8,scatter_speed,TXT_OB9_ZXR_WEAPONSKIN_ACCURACY
+9,scatter_speed_crouch_creep,T_37_TT_ATTACHPROPERTY_CROUCHCREEP
+10,scatter_recover_speed,T_37_TT_ATTACHPROPERTY_RECOVERSPEED
+11,player_speed_factor_while_firing,T_32_YS_WEAPON_TAG_16

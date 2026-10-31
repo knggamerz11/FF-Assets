@@ -1,0 +1,188 @@
+
+NB1RE_Reskin_SYS_Hayato_A.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hayato_Arm_L
+  rotate: false
+  xy: 88, 107
+  size: 71, 77
+  orig: 81, 77
+  offset: 10, 0
+  index: -1
+Hayato_Arm_R
+  rotate: false
+  xy: 258, 140
+  size: 63, 39
+  orig: 80, 39
+  offset: 17, 0
+  index: -1
+Hayato_Body
+  rotate: true
+  xy: 385, 78
+  size: 118, 77
+  orig: 118, 121
+  offset: 0, 7
+  index: -1
+Hayato_Calf_R
+  rotate: false
+  xy: 2, 65
+  size: 164, 124
+  orig: 164, 137
+  offset: 0, 0
+  index: -1
+Hayato_Clothes_01
+  rotate: 180
+  xy: 172, 55
+  size: 169, 137
+  orig: 169, 137
+  offset: 0, 0
+  index: -1
+Hayato_Clothes_02
+  rotate: true
+  xy: 420, 185
+  size: 70, 64
+  orig: 119, 141
+  offset: 48, 77
+  index: -1
+Hayato_Clothes_03
+  rotate: true
+  xy: 403, 3
+  size: 47, 83
+  orig: 119, 141
+  offset: 48, 2
+  index: -1
+Hayato_Crotch
+  rotate: false
+  xy: 2, 4
+  size: 110, 86
+  orig: 116, 97
+  offset: 6, 11
+  index: -1
+Hayato_Eyeball_L
+  rotate: false
+  xy: 45, 248
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Hayato_Eyeball_R
+  rotate: false
+  xy: 13, 233
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+Hayato_EyesCosed_L_1
+  rotate: false
+  xy: 22, 242
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Hayato_EyesCosed_R_1
+  rotate: false
+  xy: 33, 249
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Hayato_Hair_01
+  rotate: false
+  xy: 2, 75
+  size: 50, 37
+  orig: 50, 38
+  offset: 0, 1
+  index: -1
+Hayato_Hair_02
+  rotate: false
+  xy: 2, 240
+  size: 20, 15
+  orig: 20, 16
+  offset: 0, 1
+  index: -1
+Hayato_Hair_03
+  rotate: false
+  xy: 339, 211
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+Hayato_Hand_L
+  rotate: false
+  xy: 35, 142
+  size: 42, 44
+  orig: 43, 44
+  offset: 1, 0
+  index: -1
+Hayato_Head
+  rotate: true
+  xy: 317, 5
+  size: 64, 94
+  orig: 66, 102
+  offset: 2, 8
+  index: -1
+Hayato_Leg_L
+  rotate: false
+  xy: 2, 179
+  size: 339, 76
+  orig: 343, 82
+  offset: 2, 5
+  index: -1
+Hayato_Sclera_L
+  rotate: false
+  xy: 34, 240
+  size: 13, 7
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Hayato_Sclera_R
+  rotate: false
+  xy: 2, 234
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Hayato_Thigh_R
+  rotate: true
+  xy: 330, 65
+  size: 149, 67
+  orig: 149, 67
+  offset: 0, 0
+  index: -1
+Hayato_UpperArm_L
+  rotate: false
+  xy: 402, 31
+  size: 83, 87
+  orig: 84, 87
+  offset: 1, 0
+  index: -1
+Hayato_Weapon1
+  rotate: false
+  xy: 111, 19
+  size: 200, 46
+  orig: 202, 84
+  offset: 2, 37
+  index: -1
+Hayato_Weapon2
+  rotate: false
+  xy: 168, 155
+  size: 23, 33
+  orig: 202, 84
+  offset: 62, 15
+  index: -1
+Hayato_Weapon3
+  rotate: true
+  xy: 125, 153
+  size: 32, 47
+  orig: 202, 84
+  offset: 109, 2
+  index: -1
+Hayato_Weapon4
+  rotate: false
+  xy: 21, 227
+  size: 24, 14
+  orig: 202, 84
+  offset: 87, 32
+  index: -1

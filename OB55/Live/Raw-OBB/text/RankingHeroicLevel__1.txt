@@ -1,0 +1,7 @@
+Rank,Level,HeroicLevelOpen,RankScore
+unread,unread,unread,unread
+20,1,TRUE,6500
+20,2,TRUE,7150
+20,3,TRUE,8000
+20,4,TRUE,9100
+20,5,TRUE,10800

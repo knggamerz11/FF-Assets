@@ -1,0 +1,60 @@
+Id,Region,undefine2,Name,Damage,Speed,Acceleration,ReduceDamage,HP,Controllabilty
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+908028001,BD;EUROPE;ID;IND;ME;NA;PK;RU;SAC;SG;TH;TW;US;VN;ZA,unread,gold,-1,2,,,1,
+908028001,BR,unread,gold,,,,,,
+908028002,BD;EUROPE;ID;IND;ME;NA;PK;RU;SAC;SG;TH;TW;US;VN;ZA,unread,purple,-1,2,,1,,
+908028002,BR,unread,purple,,,,,,
+908028003,BD;EUROPE;ID;IND;ME;NA;PK;RU;SAC;SG;TH;TW;US;VN;ZA,unread,orange,,2,,-1,,
+908028003,BR,unread,orange,,,,,,
+908028004,BD;EUROPE;ID;IND;ME;NA;PK;RU;SAC;SG;TH;TW;US;VN;ZA,unread,green,-1,1,,,,
+908028004,BR,unread,green,,,,,,
+908029008,default,unread,MCEL GOLD,,2,,,1,-1
+908029008,BR,unread,MCEL GOLD,,,,,,
+908029009,default,unread,MCEL PURPLE,,1,,,-1,1
+908029009,BR,unread,MCEL PURPLE,,,,,,
+908029010,default,unread,MCEL BLUE,1,2,,,,-1
+908029010,BR,unread,MCEL BLUE,,,,,,
+908029011,default,unread,MCEL YELLOW,,1,,-1,,
+908029011,BR,unread,MCEL YELLOW,,,,,,
+908000002,default,unread,unread,,,,1,,
+908000002,BR,unread,unread,,,,,,
+908031001,default,unread,unread,1,1,,,,-1
+908031001,BR,unread,unread,,,,,,
+908032005,default,unread,unread,1,,,,1,-1
+908032005,BR,unread,unread,,,,,,
+908033007,default,unread,unread,-1,1,,1,,
+908033007,BR,unread,unread,,,,,,
+908034008,default,unread,unread,1,1,,,,-1
+908034008,BR,unread,unread,,,,,,
+908035005,default,unread,unread,,1,,,1,-1
+908035005,BR,unread,unread,,,,,,
+908036005,default,unread,unread,1,,,1,,-1
+908036005,BR,unread,unread,,,,,,
+908037001,default,unread,unread,,2,,1,,-1
+908037001,BR,unread,unread,,,,,,
+908038010,default,unread,unread,1,,,,1,-1
+908038010,BR,unread,unread,,,,,,
+908039005,default,unread,unread,,1,,,2,-1
+908039005,BR,unread,unread,,,,,,
+908041004,default,unread,unread,,1,,1,,-1
+908041004,BR,unread,unread,,,,,,
+908042008,default,unread,unread,2,,,-1,1,
+908042008,BR,unread,unread,,,,,,
+908042009,default,unread,unread,2,,,-1,1,
+908042009,BR,unread,unread,,,,,,
+908042010,default,unread,unread,,2,,1,,-1
+908042010,BR,unread,unread,,,,,,
+908042011,default,unread,unread,,2,,1,,-1
+908042011,BR,unread,unread,,,,,,
+908043005,default,unread,unread,1,,,1,,-1
+908043005,BR,unread,unread,,,,,,
+908045008,default,unread,unread,2,,,,-1,1
+908045008,BR,unread,unread,,,,,,
+908047004,default,unread,unread,,,,1,2,-1
+908047004,BR,unread,unread,,,,,,
+908048008,default,unread,unread,2,,,1,,-1
+908048008,BR,unread,unread,,,,,,
+908051006,default,unread,unread,1,,,2,,-1
+908051006,BR,unread,unread,,,,,,
+908053001,default,unread,unread,-1,1,,,2,
+908053001,BR,unread,unread,,,,,,

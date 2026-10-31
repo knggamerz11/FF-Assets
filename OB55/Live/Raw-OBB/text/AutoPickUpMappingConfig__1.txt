@@ -1,0 +1,4 @@
+Type,GameMode,Text,AutoPickUpSettingItem
+unread,unread,unread,unread
+1,1,T_32_YF_SETTING_TYPE1,1;2;3;4;5;6;7;8;9
+2,15;16;24;27;36;39;46,T_32_YF_SETTING_TYPE2,1001;1002;1003;1004;1005;1006;1007;1008;1009

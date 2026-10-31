@@ -1,0 +1,13 @@
+BehaviorID,BehaviorContent,ActionDesc,RecommendScore
+unread,unread,Key,unread
+1,unread,T_38_JQ_RECOMMEND_BUY,0
+2,unread,T_38_JQ_RECOMMEND_RESCUE,0
+3,unread,T_38_JQ_RECOMMEND_MARK,0
+4,unread,T_38_JQ_RECOMMEND_LIKE,0
+5,unread,T_38_JQ_RECOMMEND_RESPONSE,0
+6,unread,T_38_JQ_RECOMMEND_ATTACK,0
+7,unread,T_38_JQ_RECOMMEND_REVIVAL,0
+8,unread,T_38_JQ_RECOMMEND_MVP,0
+9,unread,T_38_JQ_RECOMMEND_ACE,0
+10,unread,T_38_JQ_RECOMMEND_KILLER,0
+11,unread,T_38_JQ_RECOMMEND_LIKE,0

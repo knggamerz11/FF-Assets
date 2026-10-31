@@ -1,0 +1,6 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+TK_BoxDestoryTime,unread,int,0
+ReviveTimeout,unread,int,3
+EnableReconnect,unread,bool,TRUE
+BombLikeShopDefaultWeaponSet,unread,string,2;201-150;18;102-2;1201-2

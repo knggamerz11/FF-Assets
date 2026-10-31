@@ -1,0 +1,3 @@
+CounterDamage,BeCounteredDamage,NoCounterDamage,LV1Buff,LV2Buff,LV3Buff,LV4Buff,LV5Buff
+unread,unread,unread,unread,unread,unread,unread,unread
+103,97,100,0,3,6,9,12

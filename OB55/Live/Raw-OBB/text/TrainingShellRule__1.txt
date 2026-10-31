@@ -1,0 +1,3 @@
+token_id,stay_in_social_mins,kill_players,shooting_game_param,icewall_practice_param,grenade_practice_param
+unread,unread,unread,unread,unread,unread
+811000002,5,20,50;1,140;1,80;1

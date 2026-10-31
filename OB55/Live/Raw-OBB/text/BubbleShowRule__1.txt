@@ -1,0 +1,11 @@
+Name,LevelLimit,Note
+unread,unread,unread
+Bubble_Championship,5,unread
+Bubble_Gacha,5,unread
+Bubble_BigEvent,5,unread
+Bubble_FlashStore,5,unread
+Bubble_Clan,5,unread
+Bubble_LadderMatch,5,unread
+Bubble_NewMode,5,unread
+Bubble_Loudout,5,unread
+Bubble_Loudout,5,unread

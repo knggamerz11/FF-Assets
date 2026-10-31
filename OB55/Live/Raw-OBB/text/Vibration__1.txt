@@ -1,0 +1,15 @@
+ID,Desc,"OldPattern",IosVibrateID,"Timings","Amplitudes"
+unread,unread,unread,unread,unread,unread
+1,unread,100;200,,,
+2,unread,100;200,,,
+7,unread,0;1000,,,
+8,unread,100;200,,,
+9,unread,100;200,,,
+10,unread,0;10,9,,
+11,unread,0;10,9,,
+12,unread,0;10,9,,
+13,unread,0;10,9,,
+14,unread,0;100;150;100;150;100;150;100;2000,,100;150;100;150;100;150;100;2000,25;0;25;0;25;0;25;0
+15,unread,100;200,,,
+16,unread,10;100,,,
+17,unread,10;1000,,,

@@ -1,0 +1,4 @@
+ID,type,desc_name,param,desc_param
+ID,unread,unread,unread,unread
+10101,1,unread,DamageDecrease=0.2;VehicleDamageDecrease=0.4;MaxSpeedDecrease=0.2,unread
+10102,2,unread,Radius=110;CD=6;GetoffCD=3;ScanPointShowTime=2.1;VehicleExposeTime=2.1,unread

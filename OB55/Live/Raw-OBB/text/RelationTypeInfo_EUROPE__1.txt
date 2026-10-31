@@ -1,0 +1,3 @@
+index,RelationType,RelationName,RelationFriendMax,RelationItem,RejectCountDown,RelationBreakUpCD,RelationBreakUpCountDown,ChatIntimacyValue,ItemIntimacyDiamondRate,ItemIntimacyCoinRate,IntimacyWeekMax,RelationBrokenBadgeIcon,RelationBgUrl,RelationLetterUrl
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,1,T_26_AG_RELATION_CLOSEFRIEND,1,1600000001,28800,86400,172800,0,0.1,0.001,100,FF_UI_Relationship_badge_rupture,https://dl.cdn.freefiremobile.com/common/OB26/system/closefriend_bg.jpg,https://dl.cdn.freefiremobile.com/common/OB26/system/closefriend_letter_bg.png

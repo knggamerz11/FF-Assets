@@ -1,0 +1,5 @@
+ID,EventType,GroupMode,Region,EventEnabled,Probability,StartTimeMin,StartTimeMax,IntervalMin,IntervalMax,Count,Param1Des,Param1,Param2Des,Param2,Param3Des,Param3,Param4Des,Param4,Param5Des,Param5,Param6Des,Param6,Param7Des,Param7,Param8Des,Param8,Param9Des,Param9,Param10Des,Param10,Param11Des,Param11,Param12Des,Param12,VisualParam,groupid,endtime
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+3,Bomb,1;3,,1;2;3;4;13;999,1,280,280,60,60,2,DangerRadius,150,BombRadius,15,Bombcount,10,BombInterval,1.5,Damage,300,,,,,,,,,,,,,,,0,,500
+4,Bomb,0,,1;2;3;4;13;999,1,280,280,60,60,2,DangerRadius,150,BombRadius,15,Bombcount,10,BombInterval,1.5,Damage,300,,,,,,,,,,,,,,,0,,500
+90001,Bloodmoon_GP,0;1;3,,1;2;3;4;13;999,1,65,65,9999,9999,1,unread,4,unread,5,unread,2,unread,5,unread,20,unread,5,unread,2,unread,535,unread,2,unread,45,unread,30,unread,3;3,0,30,360

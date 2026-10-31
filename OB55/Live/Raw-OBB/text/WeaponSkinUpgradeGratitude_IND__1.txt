@@ -1,0 +1,2 @@
+WeaponSet2,WeaponSet1,WeaponSet1Level,Item,Num
+unread,unread,unread,unread,unread

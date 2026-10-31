@@ -1,0 +1,177 @@
+{
+	"windowComponent":
+	{
+		"componentType": "VScrollTableContainer",
+		"visibleHeight": 470,
+		"items":
+		[
+			{
+				"componentType": "TableContainer",
+				"labelKey": "T_34_LY_WS_ATTR",
+				"items": [
+					{
+						"componentType": "InputSlider",
+						"labelKey": "T_33_LO_WS_PARA_HP",
+						"maxValue": 20000,
+						"minValue": 50,
+						"step": 10,
+						"unitKey": "",
+						"value": {
+							"binding": "zombie_hp"
+						}
+					},
+					{
+						"componentType": "InputSlider",
+						"labelKey": "T_33_LO_WS_PARA_DM",
+						"maxValue": 500,
+						"minValue": 50,
+						"step": 10,
+						"unitKey": "",
+						"value": {
+							"binding": "zombie_attack"
+						}
+					},
+					{
+						"componentType": "InputSlider",
+						"labelKey": "T_33_LO_WS_PARA_SP",
+						"maxValue": 5,
+						"minValue": 1,
+						"step": 1,
+						"unitKey": "",
+						"value": {
+							"binding": "zombie_speed"
+						}
+					},
+					{
+						"componentType": "InputSlider",
+						"labelKey": "T_37_XYL_WS_DAMAGERATIO",
+						"maxValue": 10000,
+						"minValue": 10,
+						"step": 10,
+						"unitKey": "%",
+						"value": {
+							"binding": "zombie_injury_scale"
+						}
+					},
+					{
+						"componentType": "ToggleGroup",
+						"labelKey": "T_33_LO_WS_PARA_RANGE",
+						"tipKey": "T_34_LY_WS_RANGE_TIP",
+						"value": {
+							"binding": "zombie_detect_range"
+						},
+						"items": [
+							{
+								"labelKey": "T_34_LY_WS_RANGE_N",
+								"value": 2
+							},
+							{
+								"labelKey": "T_34_LY_WS_RANGE_M",
+								"value": 5
+							},
+							{
+								"labelKey": "T_34_LY_WS_RANGE_F",
+								"value": 10
+							}
+						]
+					}
+				]
+			},
+			{
+				"componentType": "TableContainer",
+				"labelKey": "T_34_LY_WS_ACT",
+				"items":
+				[
+					{
+						"componentType": "Toggle",
+						"labelKey": "T_34_LY_WS_AUTO_A",
+						"value":
+						{
+							"binding": "zombie_chase_enemy_enabled"
+						}
+					},
+					{
+						"componentType": "ToggleGroup",
+						"labelKey": "T_33_LO_WS_BHPARA_ATKMODE",
+						"value":
+						{
+							"binding": "zombie_attack_mode"
+						},
+						"items":
+						[
+							{
+								"labelKey": "T_33_LO_WS_BHPARA_A",
+								"value": 0
+							},
+							{
+								"labelKey": "T_33_LO_WS_BHPARA_P",
+								"value": 1
+							},
+							{
+								"labelKey": "T_33_LO_WS_BHPARA_NA",
+								"value": 2
+							}
+						],
+						"enabled":
+						{
+							"binding": "zombie_chase_enemy_enabled"
+						}
+					},
+					{
+						"componentType": "PopMenu",
+						"labelKey": "T_34_LY_WS_BOT_PATH",
+						"width": 328,
+						"dirUp": true,
+						"addDepth": 1,
+						"hasPicker":true,
+						"value":
+						{
+							"binding": "zombie_move_path"
+						},
+						"items":
+						[
+							{
+								"labelKey": "T_34_LY_WS_NOT_SET",
+								"value": 0
+							}
+						],
+						"enabled": 
+						{
+							"binding": "zombie_path_enabled"
+						}
+					},
+					{
+						"componentType": "PopMenu",
+						"labelKey": "T_33_LO_WS_BHPARA_GROUP",
+						"width": 328,
+						"dirUp": true,
+						"addDepth": 2,
+						"value":
+						{
+							"binding": "zombie_team"
+						},
+						"items":
+						[
+							{
+								"labelKey": "T_34_LY_WS_NOT_SET",
+								"value": 0
+							}
+						],
+						"enabled": 
+						{
+							"binding": "zombie_team_enabled"
+						}
+					},
+					{
+						"componentType": "Toggle",
+						"labelKey": "T_35_XYL_WS_BOTDROP",
+						"value":
+						{
+							"binding": "zombie_enable_dead_drop"
+						}
+					}
+				]
+			}
+		]
+	}
+}

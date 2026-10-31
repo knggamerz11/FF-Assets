@@ -1,0 +1,7 @@
+PrivilegeId,undefine1,PrivilegeIcon,PrivilegeDesc
+unread,unread,unread,unread
+1,unread,UI_Cloth_Privilege_02_Trigger,T_40_R_TRIGGEREFFECT_SINGLE
+2,unread,UI_Cloth_Privilege_01_MultiTrigger,T_40_R_TRIGGEREFFECT_MULTI
+3,unread,UI_Cloth_Privilege_01_Newmat,
+4,unread,UI_Cloth_Privilege_01_CountTrigger,T_51_SY_CD_COUNTEFFECT
+5,unread,UI_Cloth_Privilege_01_Footprints,T_53_SY_TRIGGEREFFECT_FOOTPRINTS

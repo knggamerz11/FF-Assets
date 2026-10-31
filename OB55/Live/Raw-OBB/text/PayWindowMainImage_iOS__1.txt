@@ -1,0 +1,3 @@
+id,paid_cdn_url_key,unpaid_cdn_url_key,paid_resource_name,unpaid_resource_name
+unread,unread,unread,unread,unread
+1,TXT_PAY_WINDOW_MAIN_IMAGE_IOS_PAID_1,TXT_PAY_WINDOW_MAIN_IMAGE_IOS_UNPAID_1,Icon_PayMainAd_Paid,

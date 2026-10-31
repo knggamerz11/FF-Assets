@@ -1,0 +1,12 @@
+SkinID,name,region,desc,WeaponID,damage,ammo_clip_size,fire_interval,multi_fire_interval,bite_armor,armordestroy,range,full_damage_distance,min_damage_distance,min_damage,scatter_num,scatter_speed,scatter_move,scatter_max,scatter_recover_speed,player_speed_factor,player_speed_factor_while_firing,once_ammo,reload_speed,buff_id,damage_ratio_head,damage_ratio_body,damage_ratio_limb,sight_shoot_mindmg_numx,charge_time
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+907104101,unread,DEFAULT,,12,15,,-0.02,,,,,,,,,,,,,,0.4,,,,,,,,
+907104102,unread,DEFAULT,,6,12,,-0.02,,,,,,,,,,,,,,0.3,,,,,,,,
+907104103,unread,DEFAULT,,30,9,,,,,,,,,,,,,,,0.05,0.1,,,,,,,,
+907104104,unread,DEFAULT,,19,9,,,,,,,,,,,,,,,0.05,0.1,,,,,,,,
+907104412,unread,DEFAULT,,7,18,,-0.015,,,,,,,6,,,,,,,0.2,,,,,,,,
+907104316,unread,DEFAULT,,2,15,10,-0.02,,,,,,,4,,,,,,,,,,,,,,,
+907104317,unread,DEFAULT,,33,10,,-0.02,,,,,,,3,,,,,,,0.1,,,,,,,,
+907104241,unread,DEFAULT,,28,10,,-0.02,,,,0,10,10,3,,,,,,,,,,,,,,,
+907104242,unread,DEFAULT,,7,8,,,,,,10,10,10,2,,,,,,,0.1,,,,,,,,
+907104243,unread,DEFAULT,,5,,,,,,,5,5,5,,,,,,,0.1,0.1,,,,,,,,

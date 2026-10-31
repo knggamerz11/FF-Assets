@@ -1,0 +1,5 @@
+ListID,ListProbability,Comment,Item1ID,Item1Weight,Item2ID,Item2Weight,Item3ID,Item3Weight,Item4ID,Item4Weight,Item5ID,Item5Weight,Item6ID,Item6Weight,Item7ID,Item7Weight,Item8ID,Item8Weight,Item9ID,Item9Weight,Item10ID,Item10Weight,Item11ID,Item11Weight,Item12ID,Item12Weight,Item13ID,Item13Weight,Item14ID,Item14Weight,Item15ID,Item15Weight,Item16ID,Item16Weight,Item17ID,Item17Weight,Item18ID,Item18Weight,Item19ID,Item19Weight,Item20ID,Item20Weight
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,100,unread,306;303;403,4,4;203-10,5,601;88;205-30,5,301;304;401;2;201-30,20,302;305;402;89;201-30,20,7;205-30;205-30,10,3008-1;47;201-30,10,127;201-30;201-30,5,150;205-30;302;403,10,43;205-30;50;204-12;302;402,10,,,,,,,,,,,,,,,,,,,,
+3,100,unread,102,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,100,unread,106,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

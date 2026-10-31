@@ -1,0 +1,983 @@
+{
+	"version": "1",
+	"entranceInfo":
+	{
+		"iconUrl":"https://dl.dir.freefiremobile.com/common/OB32/CSH/Designers/SeaTalk_IMG_1641540036.jpg",
+		"offsetX": 0,
+		"offsetY": 0,
+		"width": 250,
+		"height": 338
+	},
+	"windowComponent":
+	{
+		"componentType": "FullScreenWindow_VTabsPanel",
+		"labelKey": "T_32_T_WS_ME_CUSTOM",
+		"itemIndex":
+		{
+			"binding": "local_tab_index"
+		},
+		"items":
+		[
+			{
+				"labelKey": "T_31_T_WS_ME_FLOW",
+				"contentComponent":
+				{
+					"componentType": "HTabsPanel",
+					"unselectable": true,
+					"itemIndex":0,
+					"items":
+					[
+						{
+							"labelKey": "T_37_HZ_WS_CATMODEDESC1",
+							"subLabelKey": "T_37_HZ_WS_CAT_MODEDESC2",
+							"contentComponent":
+							{
+								"componentType": "VScrollTableContainer",
+								"items":
+								[
+									{
+                                        "componentType": "TableContainer",
+                                        "labelKey": "T_51_XJ_WS_BASIC_SETTING",
+                                        "items": [
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_51_XJ_WS_GMSTART_TIME",
+                                                "maxValue": 30,
+                                                "minValue": 10,
+                                                "step": 1,
+                                                "unitKey": "T_51_XJ_WS_GAME_START_TIME_UNIT",
+                                                "value": {
+                                                    "binding": "cat_game_prepare_time"
+                                                }
+                                            } 
+                                        ]
+                                    },
+									{
+										"componentType": "TableContainer",
+										"labelKey": "T_32_T_WS_ME_ROUNDSETTING",
+										"items":
+										[
+											{
+												"componentType": "Toggle",
+												"labelKey": "T_32_T_WS_ME_ROUNDOPEN",
+												"value":
+												{
+													"binding": "cat_multirounds_enabled"
+												}
+											},											
+											{
+												"componentType": "PopMenu",
+												"labelKey": "T_32_T_WS_ME_ROUNDNUM",
+												"width": 200,
+												"value":
+												{
+													"binding": "cat_round_num"
+												},
+												"intItems":
+												{
+													"start": 2,
+													"end": 7
+												},
+												"enabled":
+												{
+														"binding": "cat_multirounds_enabled"												
+												},
+                                                "showInSettingPanel":true,
+                                                "bindLogName":"team_num_btn_cnt"
+											},											
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_32_T_WS_ME_PREGAMETIME",
+												"maxValue": 30,
+												"minValue": 5,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "cat_round_preparing_time"
+												},
+												"enabled":
+												{
+													"binding": "cat_multirounds_enabled",
+													"modifier":
+													{
+														"modifierType": "ReverseBoolean"
+													}
+												}
+											},
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_37_HZ_WS_CAT_HIDETIME",
+												"maxValue": 45,
+												"minValue": 15,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "HideTime"
+												},
+												"enabled":
+												{
+													"binding": "cat_multirounds_enabled",
+													"modifier":
+													{
+														"modifierType": "ReverseBoolean"
+													}
+												},
+                                                "showInSettingPanel":true
+											},
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_32_T_WS_ME_MATCHTIME",
+												"maxValue": 300,
+												"minValue": 30,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "cat_round_time"
+												},
+												"enabled":
+												{
+													"binding": "cat_multirounds_enabled",
+													"modifier":
+													{
+														"modifierType": "ReverseBoolean"
+													}
+												},
+                                                "showInSettingPanel":true
+											},
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_32_T_WS_ME_PREGAMETIME",
+												"maxValue": 20,
+												"minValue": 5,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "cat_round_preparing_time"
+												},
+												"enabled":
+												{
+														"binding": "cat_multirounds_enabled"
+												}
+											},
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_37_HZ_WS_CAT_HIDETIME",
+												"maxValue": 45,
+												"minValue": 15,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "HideTime"
+												},
+												"enabled":
+												{
+														"binding": "cat_multirounds_enabled"
+												},
+                                                "showInSettingPanel":true
+											},
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_32_T_WS_ME_MATCHTIME",
+												"maxValue": 300,
+												"minValue": 30,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "cat_round_time"
+												},
+												"enabled":
+												{
+														"binding": "cat_multirounds_enabled"
+												},
+                                                "showInSettingPanel":true
+											}
+										]
+									},
+									{
+										"componentType": "TableContainer",
+										"labelKey": "T_32_T_WS_ME_TEAMSETTING",
+										"items":
+										[	
+                                            {
+                                                "componentType": "Union",
+                                                "labelKey": "T_39_WT_WS_MAPPLAYER",
+                                                "tipKey": "T_48_XYL_WS_MAPPLAYERSTIPS",
+                                                "showInSettingPanel":true,
+                                                "unionIndex": 1,
+                                                "labelTipKey": "T_48_XYL_WS_MAPPLAYERSWARNING",
+                                                "tipEnabled": {
+                                                    "binding":"temp_union_1_tip_enable",
+                                                    "modifier": {
+                                                        "modifierType": "ReversePolishNotation",
+                                                        "expression": "cat_team_num cat_team_member * 5 >"
+                                                    }
+                                                }
+                                            },
+											{
+												"componentType": "PopMenu",
+												"labelKey": "T_32_T_WS_ME_TEAMNUM",
+												"width": 200,
+												"dirUp": true,
+												"addDepth": 1,
+												"intItems":
+												{
+													"start": 8,
+													"end": 16
+													
+												},
+												"value":
+												{
+													"binding": "cat_team_num"
+												},
+                                                "showInSettingPanel":true,
+                                                "unionIndex": 1
+											},
+											{
+												"componentType": "PopMenu",
+												"labelKey": "T_32_T_WS_ME_TEAMMATENUM",
+												"width": 200,
+												"dirUp": true,
+												"addDepth": 2,
+												"intItems":
+												{
+													"start": 1,
+													"end": 1
+												},
+												"value":
+												{
+													"binding": "cat_team_member"
+												},
+                                                "showInSettingPanel":true,
+                                                "unionIndex": 1
+											},
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_37_ZF_ROOM_UGC_MINPLAYER",
+												"maxValue":
+												{
+													"binding": "temVal",
+													"modifier":
+													{
+														"modifierType": "ReversePolishNotation",
+														"expression": "cat_team_member cat_team_num *"
+													}
+												},
+												"minValue": 6,
+												"step": 1,											
+												"value":
+												{
+													"binding": "cat_MinNumOfMatchStart"
+												},
+                                                "showInSettingPanel":true
+											}
+										]
+									},
+									{
+										"componentType": "TableContainer",
+										"labelKey": "T_37_HZ_WS_CATMODEDESC1",
+										"items":
+										[
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_37_HZ_WS_CAT_SEEKERNUM",
+												"maxValue": 50,
+												"minValue": 10,
+												"step": 1,
+												"unitKey": "%",
+												"value":
+												{
+													"binding": "SeekerNum"
+												},
+                                                "showInSettingPanel":true
+											}
+										]	
+									}
+								]
+							}
+						}
+					]
+				}
+			},
+			{
+				"labelKey": "T_32_T_WS_ME_MECHANIC",				
+				"contentComponent":
+				{
+					"componentType": "HTabsPanel",
+					"unselectable": true,
+					"itemIndex": 0,
+					"items":
+					[
+						{
+							"labelKey": "T_37_HZ_WS_CATMODEDESC1",
+							"subLabelKey": "T_37_HZ_WS_CAT_MODEDESC2",
+							"contentComponent":
+							{
+								"componentType": "VScrollTableContainer",
+								"items":
+								[
+									{
+										"componentType": "TableContainer",
+										"labelKey": "T_32_T_WS_ME_BLUECIRCLESETTING",
+										"items":
+										[
+											{
+												"componentType": "Toggle",
+												"labelKey": "T_32_T_WS_ME_BLUECIRCLE",
+												"value":
+												{
+													"binding": "cat_safezone_enabled"
+												}
+											},
+											{
+												"componentType": "SafeZone",
+												"labelKey": "T_31_T_WS_ME_DEFAULTSAFERADIUS",
+												"maxValue":
+												{
+													"binding": "custom_map_max_size"
+												},
+												"minValue":
+												{
+													"binding": "custom_map_min_size"
+												},
+												"maxCircleSize": 
+												{
+													"binding": "custom_map_max_circle_size"
+												},
+												"minCircleSize": 
+												{
+													"binding": "custom_map_min_circle_size"
+												},
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_METER",
+												"value":
+												{
+													"binding": "cat_safezone_size"
+												},
+												"enabled":
+												{
+													"binding": "cat_safezone_enabled"
+												}
+											},
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_31_T_WS_ME_SAFEZONESHRINKTIME",
+												"maxValue": 600,
+												"minValue": 0,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "cat_safezone_start_time"
+												},
+												"enabled":
+												{
+													"binding": "cat_safezone_enabled"
+												}
+											},
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_32_T_WS_ME_SAFEZONESHRINKTIME2",
+												"maxValue": 180,
+												"minValue": 10,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "cat_safezone_shrink_time"
+												},
+												"enabled":
+												{
+													"binding": "cat_safezone_enabled"
+												}
+											},
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_32_T_WS_ME_BLUECIRCLEDAMAGE",
+												"maxValue": 100,
+												"minValue": 0,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_HPSECOND",
+												"value":
+												{
+													"binding": "cat_safezone_damage"
+												},
+												"enabled":
+												{
+													"binding": "cat_safezone_enabled"
+												}
+											}
+										]
+									},
+									{
+										"componentType": "TableContainer",
+										"labelKey": "T_32_T_WS_ME_RESPAWNSETTING",
+										"items":
+										[
+											{
+												"componentType": "Toggle",
+												"labelKey": "T_32_T_WS_ME_RESPAWN",
+												"value":
+												{
+													"binding": "cat_revive_enabled"
+												}
+											},
+											{
+												"componentType": "PopMenu",
+												"labelKey": "T_31_T_WS_ME_REBIRTHLOCATION",
+												"width": 400,
+												"dirUp": false,
+												"items":
+												[
+													{
+														"labelKey": "T_31_T_WS_ME_INRANDOMSPAWN",
+														"value": 0
+													}
+												],
+												"value":
+												{
+													"binding": "cat_revive_rule"
+												},
+												"enabled":
+												{
+													"binding": "cat_revive_enabled"
+												}
+											},
+											{
+												"componentType": "InputSlider",
+												"labelKey": "T_31_T_WS_ME_REBIRTH",
+												"maxValue": 15,
+												"minValue": 5,
+												"step": 1,
+												"unitKey": "T_33_WT_WS_UNIT_SECOND",
+												"value":
+												{
+													"binding": "HiderReviveTime"
+												},
+												"enabled":
+												{
+													"binding": "cat_revive_enabled"
+												}
+											}
+											
+										]
+									},
+									{
+										"componentType": "TableContainer",
+										"labelKey": "T_38_WZY_WS_OBSERVER",
+										"items":
+										[
+											{
+												"componentType": "Toggle",
+												"labelKey": "T_39_XXJ_WS_SPECTATORSWITCH",
+												"value":
+												{
+													"binding": "enable_death_observer"
+												}
+											},
+											{
+												"componentType": "PopMenu",
+												"labelKey": "T_38_WZY_WS_OBSERVER",
+												"width": 400,
+												"dirUp": true,
+												"items":
+												[
+													{
+														"labelKey": "T_38_WZY_WS_OBTEAM",
+														"value": 0
+													},
+													{
+														"labelKey": "T_38_WZY_WS_OBGLOBAL",
+														"value": 1
+													},
+													{
+														"labelKey": "T_38_WZY_WS_OBFACTION",
+														"value": 2
+													}
+												],
+												"value": 
+												{
+													"binding": "observer_mode"
+												},
+												"enabled":
+												{
+													"binding": "observer_mode_enabled"
+												}
+											}
+										]
+									}
+								]
+							}
+						}
+					]
+				}
+			},
+			{
+				"labelKey": "T_31_T_WS_ME_GENERALSETTING",				
+				"contentComponent":
+				{
+					"componentType": "VScrollTableContainer",
+					"visibleHeight": 590,
+					"items":
+					[
+						{
+							"componentType": "TableContainer",
+							"labelKey": "T_39_WT_WS_MAPPLAYER",
+							"enabled" :{
+								"binding": "temVal"
+							},
+							"items":
+							[
+								{
+									"componentType": "InputSlider",
+									"labelKey": "T_39_WT_WS_PLAYERCOUNT",
+									"tipKey": "T_39_WT_WS_PLAYERCOUNTTIP",
+									"maxValue":
+									{
+										"binding": "temVal",
+										"modifier":
+										{
+											"modifierType": "ReversePolishNotation",
+											"expression": "cat_team_member cat_team_num *"
+										}
+									},
+									"minValue": 2,
+									"step": 1,
+									"value":
+									{
+										"binding": "recommend_start_game_number"
+									}
+								},
+								{
+									"componentType": "Toggle",
+									"labelKey": "T_39_WT_WS_MIDENTER",
+									"tipKey": "T_39_WT_WS_MIDENTERTIP",
+									"value":
+									{
+										"binding": "enable_halfway_join"
+									}
+								},
+								{
+									"componentType": "Toggle",
+									"labelKey": "T_39_WT_WS_MIDENTERTIME1",
+									"value":
+									{
+										"binding": "enable_halfway_join_effect_time"
+									},
+									"enabled":
+									{
+										"binding" : "enable_halfway_join"
+									}
+								},
+								{
+									"componentType": "InputSlider",
+									"labelKey": "T_39_WT_WS_MIDENTERTIME2",
+									"tipKey": "T_39_WT_WS_MIDENTERTIMETIP",
+									"maxValue": 6000,
+									"minValue": 1,
+									"step": 1,
+									"unitKey": "T_33_WT_WS_UNIT_SECOND",
+									"value":
+									{
+										"binding": "halfway_join_effect_time"
+									},
+									"enabled":
+									{
+										"operate" : "and",
+										"left":
+										{
+											"binding": "enable_halfway_join"
+										},
+										"right" : 
+										{
+											"binding": "enable_halfway_join_effect_time"
+										}
+									}
+								},
+								{
+									"componentType": "Toggle",
+									"labelKey": "T_39_WT_WS_MEDENTERNUM",
+									"value":
+									{
+										"binding": "halfway_join_number_limit"
+									},
+									"enabled":
+									{
+										"binding" : "enable_halfway_join"
+									}
+								},
+								{
+									"componentType": "InputSlider",
+									"labelKey": "T_39_WT_WS_MIDENTERCOUNT",
+									"maxValue": 30,
+									"minValue": 1,
+									"step": 1,
+									"value":
+									{
+										"binding": "halfway_join_number"
+									},
+									"enabled":
+									{
+										"operate" : "and",
+										"left":
+										{
+											"binding": "enable_halfway_join"
+										},
+										"right" : 
+										{
+											"binding": "halfway_join_number_limit"
+										}
+									}
+								}
+							]
+						},
+						{
+							"componentType": "TableContainer",
+							"labelKey": "T_33_WT_WS_BASICSET1"
+						},
+						{
+							"componentType":"HTabsPanel",
+							"subType": 1,
+							"ignoreBounds": true,
+							"itemIndex":
+							{
+								"binding":"basicsetting_role_index"
+							},
+							"items":
+							[
+								{
+									"labelKey":"T_37_HZ_WS_CAT_SEEKER",
+									"contentComponent":
+									{
+										"componentType":"TableContainer",
+										"items":
+                                        [
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_MAXHP",
+                                                "maxValue": 1000,
+                                                "minValue": 20,
+                                                "step": 1,
+                                                "value":
+                                                {
+                                                    "binding": "MaxHPSeeker"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_MAXEP",
+                                                "maxValue": 200,
+                                                "minValue": 0,
+                                                "step": 1,
+                                                "value":
+                                                {
+                                                    "binding": "MaxEPSeeker"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "Toggle",
+                                                "labelKey": "T_31_T_WS_ME_EPQUICKRESTORE",
+                                                "tipKey": "T_33_WT_WS_QCEPRTIP",
+                                                "value":
+                                                {
+                                                    "binding": "auto_healing"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_DAMAGE",
+                                                "maxValue": 500,
+                                                "minValue": 0,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "DamageSeeker"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_DAMAGED",
+                                                "maxValue": 500,
+                                                "minValue": 0,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "DamagedSeeker"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_17_Z_ROOM_SPEED_SWITCH",
+                                                "maxValue": 500,
+                                                "minValue": 50,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "MoveSpeedSeeker"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_17_Z_ROOM_JUMP_SWITCH",
+                                                "maxValue": 500,
+                                                "minValue": 10,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "JumpHeightSeeker"
+                                                }
+                                            }
+                                        ]
+									}
+								},
+								{
+									"labelKey":"T_37_HZ_WS_CAT_HIDER",
+									"contentComponent":
+									{
+										"componentType":"TableContainer",
+										"items":
+                                        [
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_MAXHP",
+                                                "maxValue": 1000,
+                                                "minValue": 20,
+                                                "step": 1,
+                                                "value":
+                                                {
+                                                    "binding": "MaxHPHider"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_MAXEP",
+                                                "maxValue": 200,
+                                                "minValue": 0,
+                                                "step": 1,
+                                                "value":
+                                                {
+                                                    "binding": "MaxEPHider"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "Toggle",
+                                                "labelKey": "T_31_T_WS_ME_EPQUICKRESTORE",
+                                                "tipKey": "T_33_WT_WS_QCEPRTIP",
+                                                "value":
+                                                {
+                                                    "binding": "auto_healing"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_DAMAGE",
+                                                "maxValue": 500,
+                                                "minValue": 0,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "DamageHider"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_DAMAGED",
+                                                "maxValue": 500,
+                                                "minValue": 0,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "DamagedHider"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_17_Z_ROOM_SPEED_SWITCH",
+                                                "maxValue": 500,
+                                                "minValue": 50,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "MoveSpeedHider"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_17_Z_ROOM_JUMP_SWITCH",
+                                                "maxValue": 500,
+                                                "minValue": 10,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "JumpHeightHider"
+                                                }
+                                            }
+                                        ]
+									}
+								},
+                                {
+									"labelKey":"T_37_HZ_WS_CAT_SUBSEEKER",
+									"contentComponent":
+									{
+										"componentType":"TableContainer",
+										"items":
+                                        [
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_MAXHP",
+                                                "maxValue": 1000,
+                                                "minValue": 20,
+                                                "step": 1,
+                                                "value":
+                                                {
+                                                    "binding": "MaxHPSubSeeker"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_MAXEP",
+                                                "maxValue": 200,
+                                                "minValue": 0,
+                                                "step": 1,
+                                                "value":
+                                                {
+                                                    "binding": "MaxEPSubSeeker"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "Toggle",
+                                                "labelKey": "T_31_T_WS_ME_EPQUICKRESTORE",
+                                                "tipKey": "T_33_WT_WS_QCEPRTIP",
+                                                "value":
+                                                {
+                                                    "binding": "auto_healing"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_DAMAGE",
+                                                "maxValue": 300,
+                                                "minValue": 0,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "DamageSubSeeker"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_31_T_WS_ME_DAMAGED",
+                                                "maxValue": 300,
+                                                "minValue": 0,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "DamagedSubSeeker"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_17_Z_ROOM_SPEED_SWITCH",
+                                                "maxValue": 400,
+                                                "minValue": 40,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "MoveSpeedSubSeeker"
+                                                }
+                                            },
+                                            {
+                                                "componentType": "InputSlider",
+                                                "labelKey": "T_17_Z_ROOM_JUMP_SWITCH",
+                                                "maxValue": 500,
+                                                "minValue": 10,
+                                                "step": 1,
+                                                "unitKey": "%",
+                                                "value":
+                                                {
+                                                    "binding": "JumpHeightSubSeeker"
+                                                }
+                                            }
+                                        ]
+									}
+								}
+							]
+						},
+						{
+							"componentType": "TableContainer",
+							"labelKey": "T_33_WT_WS_SKILLSET1",
+							"items":
+							[
+								{
+									"componentType": "InputSlider",
+									"labelKey": "T_38_HZ_WS_CAT_MORPHCD",
+									"maxValue": 20,
+									"minValue": 1,
+									"step": 1,
+									"unitKey": "T_33_WT_WS_UNIT_SECOND",
+									"value":
+									{
+										"binding": "TransformCD"
+									}
+								},
+								{
+									"componentType": "PopMenu",
+									"labelKey": "T_38_HZ_WS_CAT_PHANTOMNUM",
+									"width": 200,
+									"value":
+									{
+										"binding": "PhantomNum"
+									},
+									"intItems":
+									{
+										"start": 2,
+										"end": 5
+									}
+								},	
+								{
+									"componentType": "InputSlider",
+									"labelKey": "T_38_HZ_WS_CAT_PHANTOMCD",
+									"maxValue": 20,
+									"minValue": 1,
+									"step": 1,
+									"unitKey": "T_33_WT_WS_UNIT_SECOND",
+									"value":
+									{
+										"binding": "PhantomCD"
+									}
+								},
+								{
+									"componentType": "InputSlider",
+									"labelKey": "T_38_HZ_WS_CAT_PHANTOMHPNUM",
+									"maxValue": 20,
+									"minValue": 1,
+									"step": 1,
+									"value":
+									{
+										"binding": "PhantomHPNum"
+									}
+								}
+							]
+						}
+					]
+				}
+			}
+		]
+	}
+}

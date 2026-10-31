@@ -1,0 +1,7 @@
+Id,Name,ModelRes,LobbyModelRes,FlagRes,EffectRes,duration,level_threshold,link_id,HandPoint,InfoMessage,InfoRevision
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1410000001,unread,BattleFlag_Pirate,BattleFlag_Pirate_Store,,,60,0,909000034,1,1,
+1410000002,unread,BattleFlag_Pirate_GuildWar,BattleFlag_Pirate_GuildWar_Store,,,60,0,909000128,1,1,
+1410000003,FFWS,BattleFlag_Pirate_BRFFWS,BattleFlag_Pirate_BRFFWS_Store,,,60,0,909046013,2,1,-0.5|0|0
+1410000004,unread,BattleFlag_Pirate_BLACKDRESS,BattleFlag_Pirate_BLACKDRESS_Store,,,60,0,909048011,2,1,-0.5|0|0
+1410000005,FFWS,BattleFlag_Pirate_BRFFWS,BattleFlag_Pirate_BRFFWS_Store,,,60,0,909055014,2,1,-0.5|0|0

@@ -1,0 +1,4 @@
+VBuffId,EffectType,EffectPara,Summary,EffectResId,EffectTime,EffectSoundId
+unread,unread,unread,unread,unread,unread,unread
+1,1,200,unread,PETSTAR_HEALING,1,SOUND_PETSTAR_BUFFPICK
+2,2,200,unread,PETSTAT_BUFFER_THUNDER,1,SOUND_PETSTAR_BUFFPICK

@@ -1,0 +1,9 @@
+indexid,varname,comment,key,min,max,default,step,open,eventkey
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+151,CS_PhasePrepareTime,unread,unread,5,50,22,1,false,phase_prepare_time
+152,CS_GainCashWinning,unread,T_27_Z_R__WIN_ECONOMY,0,5000,500,50,true,gain_cash_winning
+153,CS_GainCashKilling,unread,T_27_Z_R_KILL_ECONOMY,0,5000,200,50,true,gain_cash_killing
+154,CS_GainCashLosing,unread,T_27_Z_R_LOSE_ECONOMY,0,5000,200,50,true,gain_cash_losing
+155,CS_GainCashLosingStreak_2,unread,T_27_Z_R_DUOLOSE_ECONOMY,0,5000,1000,50,true,gain_cash_losing_streak_2
+156,CS_GainCashLosingStreak_3,unread,T_27_Z_R_TRDLOSE_ECONOMY,0,5000,2400,50,true,gain_cash_losing_streak_3
+157,CS_FirstBloodBonus,unread,T_27_Z_R_FSTBLOOD,0,5000,100,50,true,first_blood_bonus

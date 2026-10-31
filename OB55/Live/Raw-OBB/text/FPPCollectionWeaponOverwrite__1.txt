@@ -1,0 +1,2 @@
+ItemID,Name,WeaponID,FPPInGameResID,WeaponBindPosOffset,WeaponBindRotateOffset,WeaponBindScale,IKTargetPos,IKTargetRotate,IKSwitch,SpecialSkin,IKTargetRightPos,IKTargetRightRotate,IKSwitchRight,MuzzleOffset,FPPBulletPos,FPPBulletRotate
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,,,,,unread,unread

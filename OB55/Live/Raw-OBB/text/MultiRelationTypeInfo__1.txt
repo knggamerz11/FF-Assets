@@ -1,0 +1,3 @@
+TrainingCampTitle,RelationName1,RelationName2,RelationBgUrl,RelationApplyUrl
+unread,unread,unread,unread,unread
+T_31_AG_MENTOR_NAME,T_31_AG_MENTOR,T_31_AG_STUDENT_TITLE,OB31/rank/Mentors_Role.png,OB31/rank/Mentors_letterbg.png

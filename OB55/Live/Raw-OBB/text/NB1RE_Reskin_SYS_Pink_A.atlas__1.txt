@@ -1,0 +1,440 @@
+
+NB1RE_Reskin_SYS_Pink_A.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pink_Arm_L
+  rotate: true
+  xy: 200, 8
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+Pink_Arm_R
+  rotate: true
+  xy: 272, 20
+  size: 60, 92
+  orig: 60, 93
+  offset: 0, 1
+  index: -1
+Pink_Bag
+  rotate: false
+  xy: 437, 3
+  size: 38, 46
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Pink_Body_R
+  rotate: false
+  xy: 188, 3
+  size: 34, 31
+  orig: 53, 44
+  offset: 17, 0
+  index: -1
+Pink_Calf_L
+  rotate: 180
+  xy: 252, 81
+  size: 109, 47
+  orig: 109, 47
+  offset: 0, 0
+  index: -1
+Pink_Calf_R
+  rotate: false
+  xy: 2, 11
+  size: 93, 92
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+Pink_Clothes
+  rotate: false
+  xy: 2, 106
+  size: 139, 149
+  orig: 139, 149
+  offset: 0, 0
+  index: -1
+Pink_Clothes_1
+  rotate: false
+  xy: 2, 173
+  size: 9, 12
+  orig: 11, 12
+  offset: 1, 0
+  index: -1
+Pink_Clothes_2
+  rotate: false
+  xy: 210, 232
+  size: 46, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Pink_Clothes_3
+  rotate: false
+  xy: 327, 135
+  size: 11, 38
+  orig: 11, 40
+  offset: 0, 1
+  index: -1
+Pink_Collar_After
+  rotate: true
+  xy: 381, 205
+  size: 50, 38
+  orig: 51, 38
+  offset: 1, 0
+  index: -1
+Pink_Eyeball_L
+  rotate: false
+  xy: 2, 186
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Pink_Eyeball_R
+  rotate: false
+  xy: 23, 147
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+Pink_Eyebrow_L
+  rotate: false
+  xy: 253, 159
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Pink_Eyebrow_R
+  rotate: false
+  xy: 80, 250
+  size: 17, 5
+  orig: 18, 5
+  offset: 1, 0
+  index: -1
+Pink_EyesCosed_L_1
+  rotate: false
+  xy: 123, 106
+  size: 19, 18
+  orig: 20, 18
+  offset: 1, 0
+  index: -1
+Pink_EyesCosed_R_1
+  rotate: false
+  xy: 126, 245
+  size: 19, 10
+  orig: 20, 10
+  offset: 1, 0
+  index: -1
+Pink_Face
+  rotate: 180
+  xy: 284, 174
+  size: 76, 81
+  orig: 78, 82
+  offset: 1, 0
+  index: -1
+Pink_Finger_L
+  rotate: false
+  xy: 2, 235
+  size: 10, 20
+  orig: 10, 21
+  offset: 0, 1
+  index: -1
+Pink_Finger_R_01
+  rotate: false
+  xy: 343, 241
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+Pink_Finger_R_02
+  rotate: false
+  xy: 295, 70
+  size: 37, 21
+  orig: 37, 22
+  offset: 0, 1
+  index: -1
+Pink_Finger_R_03
+  rotate: false
+  xy: 2, 216
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Pink_Finger_R_04
+  rotate: false
+  xy: 96, 3
+  size: 11, 49
+  orig: 11, 50
+  offset: 0, 0
+  index: -1
+Pink_Foot_L
+  rotate: 270
+  xy: 109, 6
+  size: 55, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+Pink_Foot_R
+  rotate: 180
+  xy: 355, 168
+  size: 49, 63
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+Pink_Hair_1
+  rotate: true
+  xy: 108, 31
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Pink_Hair_10
+  rotate: false
+  xy: 421, 179
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+Pink_Hair_11
+  rotate: 270
+  xy: 429, 101
+  size: 41, 69
+  orig: 43, 70
+  offset: 1, 1
+  index: -1
+Pink_Hair_12
+  rotate: true
+  xy: 432, 56
+  size: 49, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+Pink_Hair_13
+  rotate: true
+  xy: 403, 5
+  size: 50, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+Pink_Hair_14
+  rotate: 270
+  xy: 405, 157
+  size: 65, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+Pink_Hair_15
+  rotate: false
+  xy: 448, 48
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+Pink_Hair_16
+  rotate: 270
+  xy: 401, 45
+  size: 75, 32
+  orig: 91, 85
+  offset: 16, 53
+  index: -1
+Pink_Hair_2
+  rotate: false
+  xy: 144, 92
+  size: 60, 25
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+Pink_Hair_3
+  rotate: false
+  xy: 245, 238
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+Pink_Hair_4
+  rotate: 270
+  xy: 370, 108
+  size: 60, 45
+  orig: 61, 46
+  offset: 1, 0
+  index: -1
+Pink_Hair_5
+  rotate: false
+  xy: 126, 132
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+Pink_Hair_6
+  rotate: false
+  xy: 461, 202
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+Pink_Hair_7
+  rotate: false
+  xy: 76, 3
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+Pink_Hair_8
+  rotate: false
+  xy: 2, 152
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Pink_Hair_9
+  rotate: false
+  xy: 452, 102
+  size: 32, 27
+  orig: 46, 29
+  offset: 11, 0
+  index: -1
+Pink_Hand_L
+  rotate: false
+  xy: 341, 125
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+Pink_Hand_R
+  rotate: true
+  xy: 2, 9
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+Pink_Headband_After
+  rotate: 270
+  xy: 336, 10
+  size: 83, 78
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+Pink_Headband_Up
+  rotate: false
+  xy: 142, 3
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+Pink_LowerEyelid_L
+  rotate: false
+  xy: 179, 75
+  size: 20, 16
+  orig: 20, 17
+  offset: 0, 1
+  index: -1
+Pink_LowerEyelid_R
+  rotate: false
+  xy: 91, 48
+  size: 15, 11
+  orig: 17, 11
+  offset: 1, 0
+  index: -1
+Pink_Neck
+  rotate: 180
+  xy: 345, 47
+  size: 48, 75
+  orig: 70, 88
+  offset: 7, 6
+  index: -1
+Pink_Sclera_L
+  rotate: false
+  xy: 29, 239
+  size: 16, 16
+  orig: 17, 16
+  offset: 1, 0
+  index: -1
+Pink_Sclera_R
+  rotate: false
+  xy: 2, 110
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+Pink_Skirt_02
+  rotate: true
+  xy: 259, 11
+  size: 27, 77
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+Pink_Skirt_03
+  rotate: true
+  xy: 84, 51
+  size: 57, 102
+  orig: 57, 104
+  offset: 0, 0
+  index: -1
+Pink_Skirt_04
+  rotate: true
+  xy: 177, 28
+  size: 83, 101
+  orig: 122, 116
+  offset: 0, 15
+  index: -1
+Pink_Skirt_1
+  rotate: false
+  xy: 431, 157
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+Pink_Skirt_2
+  rotate: false
+  xy: 405, 107
+  size: 61, 68
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+Pink_Skirt_3
+  rotate: 270
+  xy: 456, 135
+  size: 110, 19
+  orig: 110, 22
+  offset: 0, 3
+  index: -1
+Pink_Thigh_L
+  rotate: 270
+  xy: 147, 164
+  size: 91, 139
+  orig: 91, 139
+  offset: 0, 0
+  index: -1
+Pink_Thigh_R
+  rotate: false
+  xy: 93, 115
+  size: 117, 140
+  orig: 117, 140
+  offset: 0, 0
+  index: -1
+Pink_UpperArm_L
+  rotate: 180
+  xy: 2, 47
+  size: 99, 101
+  orig: 104, 101
+  offset: 3, 0
+  index: -1
+Pink_UpperArm_R
+  rotate: 180
+  xy: 206, 109
+  size: 122, 69
+  orig: 155, 70
+  offset: 15, 1
+  index: -1
+Pink_UpperEyelid_L
+  rotate: false
+  xy: 211, 147
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Pink_UpperEyelid_R
+  rotate: false
+  xy: 92, 110
+  size: 16, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1

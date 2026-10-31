@@ -1,0 +1,6 @@
+Id,Type,Icon,Title,Context,Num,Gopos,SubGopos,GoposText,StartTime,EndTime,VeteranRightsStyle
+id,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,1,FF_UI_Veteran_tequan08,T_40_P_VETERAN_PC_T,T_40_P_VETERAN_PC_D,,,,,2020-08-06 04:00:00,2024-11-08 03:59:59,
+2,2,FF_UI_Veteran_tequan09,T_40_P_VETERAN_RW_T,T_40_P_VETERAN_RW_D,,,,,2020-08-06 04:00:00,2024-11-08 03:59:59,
+3,3,FF_UI_Veteran_tequan10,T_40_P_VETERAN_SB_T,T_40_P_VETERAN_SB_D,,3,V2_mallType_5_tabType_801001846,T_40_P_VETERAN_SB_GOTO,2020-08-06 04:00:00,2024-11-08 03:59:59,
+4,4,FF_UI_Veteran_tequan11,T_40_P_VETERAN_ACT_T,T_40_P_VETERAN_ACT_D,,,,T_17_P_SEVENDAY_FOR_NEW_GOTO,2020-08-06 04:00:00,2024-11-08 03:59:59,VFX_VETERANV3_PRIVILEGEICON;T_40_P_VET_ENTRANCE_TIP;FF_UI_Veteran_powerIcon02

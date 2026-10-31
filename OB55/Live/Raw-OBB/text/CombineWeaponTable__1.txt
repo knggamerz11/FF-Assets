@@ -1,0 +1,10 @@
+id,name,damage,fire_interval,range,full_damage_distance,min_damage_distance,min_damage,scatter_num,scatter_move,scatter_max,player_speed_factor,player_speed_factor_while_firing,once_ammo,repeat_fire_interval,delta_y_on_left_hand,headshot_full_ratio_distance,headshot_min_ratio_distance,headshot_min_ratio
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,,unread,unread,unread,unread
+2,M4A1,-10,0.018,-20,-10,-10,-4,-2,0.3,0.5,-0.4,-0.2,0,,,,,
+6,AK,-10,0.0185,-20,-10,-10,-4,-1,0.3,0.5,-0.4,-0.2,0,,,,,
+5,M1014,-6,0.1,-2,-5,-5,-2,0,0.3,0.5,-0.5,-0.3,-2,,,,,
+15,MP40,-3,0.1,-1,-5,-5,-2,-3,0.3,0.5,-0.5,-0.3,0,,,,,
+8,MP5,-10,-0.03,-1,-5,-5,-2,10,0.3,0.5,0.3,0.3,0,,,,,
+49,Vector,0,0.014,-180,-13,-20,-4,-1,0.25,1.9,-0.02,-0.01,0,,0.048,,,
+69,Vector,0,0.014,-180,-13,-20,-4,-1,0.25,1.9,-0.02,-0.01,0,,0.048,,,
+20069,Vector,0,0.014,-160,-5,-10,-2,-1,0.25,1.9,-0.02,-0.01,0,,0.048,,,

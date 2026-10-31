@@ -1,0 +1,6 @@
+Id,Type,Icon,Title,Context,Num,Gopos,SubGopos,GoposText,StartTime,EndTime,VeteranRightsStyle
+id,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,unread
+1,1,,,T_36_YY_SOCIALBUFF_VETERAN_DES,0;0;0,,,,,,
+2,2,,,T_36_MF_VETERAN_RIGHTS2,7;14;14,,,,,,
+3,3,,,T_36_MF_VETERAN_RIGHTS3,3;3;3,,,,,,
+4,4,,,T_36_MF_VETERAN_RIGHTS3,3;3;3,,,,,,

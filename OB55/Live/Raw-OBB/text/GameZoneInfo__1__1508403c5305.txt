@@ -1,0 +1,8 @@
+ZoneID,Key,MapOffset,MiniMapName,Comments
+unread,unread,unread,unread,unread
+1,T_37_YM_SNOWDUEL_MAPNAME,-20;-20;20;20,minimap_SnowDuelMelee_1,scene7
+2,T_37_YM_SNOWDUEL_MAPNAME,-20;280;20;320,minimap_SnowDuelMelee_2,scene8
+3,T_37_YM_SNOWDUEL_MAPNAME,-320;280;-280;320,minimap_SnowDuelMelee_3,scene9
+4,T_37_YM_SNOWDUEL_MAPNAME,280;-20;320;20,minimap_SnowDuelMelee_4,scene10
+5,T_37_YM_SNOWDUEL_MAPNAME,280;280;320;320,minimap_SnowDuelMelee_5,scene11
+6,T_37_YM_SNOWDUEL_MAPNAME,-320;-20;-280;20,minimap_SnowDuelMelee_6,scene12

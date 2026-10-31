@@ -1,0 +1,3849 @@
+{
+    "Weapon_UMP_ChangeClip": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 71,
+                    "Type": "continuous",
+                    "Duration": 269,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 170,
+                                "Intensity": 0.2,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 212,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 269,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 79,
+                        "Frequency": 32
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 548,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 48,
+                        "Frequency": 0
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 596,
+                    "Type": "continuous",
+                    "Duration": 73,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 24,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 25,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 73,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 66,
+                        "Frequency": 73
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 1236,
+                    "Type": "continuous",
+                    "Duration": 223,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 73,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 76,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 223,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 58,
+                        "Frequency": 37
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 1504,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 66,
+                        "Frequency": 75
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_Healinggun_shotgun": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 50
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_M249_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 103,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 70,
+                                "Intensity": 0.45,
+                                "Frequency": 26
+                            },
+                            {
+                                "Time": 71,
+                                "Intensity": 1,
+                                "Frequency": 17
+                            },
+                            {
+                                "Time": 103,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 60,
+                        "Frequency": 39
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_M1917_Mag_Out": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 16,
+                    "Type": "continuous",
+                    "Duration": 70,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 23,
+                                "Intensity": 1,
+                                "Frequency": 34
+                            },
+                            {
+                                "Time": 24,
+                                "Intensity": 0.08,
+                                "Frequency": -28
+                            },
+                            {
+                                "Time": 70,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 65,
+                        "Frequency": 45
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_MP40_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 70
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Copy from mp5",
+            "Version": 1
+        }
+    },
+    "Car_run": {
+        "duration": 2000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Duration": 5000,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 50,
+                        "Intensity": 70,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0.5,
+                                "Time": 910,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 4997,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 5000,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-28 14:21:44",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_M4A1_ChangeClip": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 2,
+                    "Type": "continuous",
+                    "Duration": 200,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 111,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 127,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 200,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 58,
+                        "Frequency": 42
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 433,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 48,
+                        "Frequency": 78
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 918,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 83,
+                        "Frequency": 82
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_MINI14_Reload_Magout": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 76,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 25,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 26,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 76,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 60,
+                        "Frequency": 52
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 263,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 91,
+                        "Frequency": 69
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 347,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 44,
+                        "Frequency": 28
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_M79_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 50
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Copy from healinggun",
+            "Version": 1
+        }
+    },
+    "Weapon_UZI_Mag_out": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 35,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 72,
+                        "Frequency": 65
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 169,
+                    "Type": "continuous",
+                    "Duration": 109,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 36,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 37,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 109,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 51,
+                        "Frequency": 45
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "HP-M416": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 90,
+                        "Frequency": 45
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 25,
+                    "Duration": 30,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 55,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 15,
+                                "Intensity": 0.2,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 29,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 30,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2020-08-10",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "HP-M16A4": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 62
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-20",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Hear_fire": {
+        "duration": 300,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 67,
+                        "Frequency": 74
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-27",
+            "Version": 1,
+            "Description": "Export from RichTap Creator Editor"
+        }
+    },
+    "Weapon_MP5_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 70
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_M1014_Fire_new_1112": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 17,
+                    "Type": "continuous",
+                    "Duration": 100,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 15
+                            },
+                            {
+                                "Time": 30,
+                                "Intensity": 1,
+                                "Frequency": 22
+                            },
+                            {
+                                "Time": 87,
+                                "Intensity": 0,
+                                "Frequency": 18
+                            },
+                            {
+                                "Time": 100,
+                                "Intensity": 0,
+                                "Frequency": 15
+                            }
+                        ],
+                        "Intensity": 100,
+                        "Frequency": 50
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-11-11",
+            "Version": 1,
+            "Description": "Export from RichTap Creator Editor"
+        }
+    },
+    "Weapon_MP5_ChangeClip": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 29,
+                        "Frequency": 33
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 28,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 80
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_M21A5_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 52
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Copy from g18",
+            "Version": 1
+        }
+    },
+    "Weapon_Spas12_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Duration": 36,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 66,
+                        "Intensity": 92,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 17,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 18,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 36,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Copy from sks",
+            "Version": 1
+        }
+    },
+    "Weapon_M14_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 55
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_USP_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 65
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Get_fire": {
+        "duration": 10,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 90
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2020-08-10",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_SuperheatGun_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 40
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 34,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 38,
+                        "Frequency": 0
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Bag_Drop": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 50,
+                        "Frequency": 40
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 34,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 38,
+                        "Frequency": 0
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Parachute_Leader":  {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Duration": 73,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 61,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 56,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 73,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 106,
+                    "Duration": 120,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 27,
+                        "Intensity": 26,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 46,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 48,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 120,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-26 18:20:19",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_M500_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 112,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 65,
+                                "Intensity": 0.29,
+                                "Frequency": 26
+                            },
+                            {
+                                "Time": 66,
+                                "Intensity": 1,
+                                "Frequency": 17
+                            },
+                            {
+                                "Time": 112,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 68,
+                        "Frequency": 65
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_AKM_ChangeClip": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 89,
+                    "Type": "continuous",
+                    "Duration": 146,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 84,
+                                "Intensity": 0.35,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 91,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 146,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 71,
+                        "Frequency": 50
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 305,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 81,
+                        "Frequency": 65
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 509,
+                    "Type": "continuous",
+                    "Duration": 66,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 28,
+                                "Intensity": 0.92,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 29,
+                                "Intensity": 0.33,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 66,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 62,
+                        "Frequency": 50
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 772,
+                    "Type": "continuous",
+                    "Duration": 179,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 77,
+                                "Intensity": 0.92,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 78,
+                                "Intensity": 0.33,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 179,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 81,
+                        "Frequency": 35
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 998,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 75,
+                        "Frequency": 46
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_MAG7_fire_01": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 61
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_G18_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 52
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_M1014_Fire_new": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Duration": 100,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 50,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 15
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 30,
+                                "Frequency": 22
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 87,
+                                "Frequency": 18
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 100,
+                                "Frequency": 15
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-26 18:22:30",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_MAC10_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 80
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_SVD_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 89,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 29,
+                                "Intensity": 1,
+                                "Frequency": 23
+                            },
+                            {
+                                "Time": 44,
+                                "Intensity": 0.08,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 89,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 81,
+                        "Frequency": 36
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 149,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 48,
+                        "Frequency": 38
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_M1873_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 40,
+                        "Frequency": 36
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 30,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 65
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_AWM_ChangeClip": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 152,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 96,
+                                "Intensity": 0.2,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 120,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 152,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 79,
+                        "Frequency": 50
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 239,
+                    "Type": "continuous",
+                    "Duration": 37,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 12,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 13,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 37,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 48,
+                        "Frequency": 73
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 606,
+                    "Type": "continuous",
+                    "Duration": 125,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 41,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 43,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 125,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 75,
+                        "Frequency": 37
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 807,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 86,
+                        "Frequency": 72
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 1106,
+                    "Type": "continuous",
+                    "Duration": 193,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 110,
+                                "Intensity": 0.16,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 119,
+                                "Intensity": 0.86,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 193,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 83,
+                        "Frequency": 45
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_MGL140_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 121,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 77,
+                                "Intensity": 0.2,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 96,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 121,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 79,
+                        "Frequency": 50
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 152,
+                    "Type": "continuous",
+                    "Duration": 76,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 25,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 26,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 76,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 48,
+                        "Frequency": 73
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 551,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 61,
+                        "Frequency": 0
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 772,
+                    "Type": "continuous",
+                    "Duration": 88,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 48,
+                                "Intensity": 0.29,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 49,
+                                "Intensity": 0.95,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 88,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 77,
+                        "Frequency": 55
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 1150,
+                    "Type": "continuous",
+                    "Duration": 188,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 62,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 64,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 188,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 57,
+                        "Frequency": 38
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 1381,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 67,
+                        "Frequency": 50
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 1419,
+                    "Type": "continuous",
+                    "Duration": 78,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 26,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 27,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 78,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 42,
+                        "Frequency": 73
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_SVD_Fire1112": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 19,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 67
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 54,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 43,
+                        "Frequency": 0
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-11-11",
+            "Version": 1,
+            "Description": "Export from RichTap Creator Editor"
+        }
+    },
+    "Weapon_Kar98k_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Duration": 60,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 61,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 33,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 34,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 60,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 110,
+                    "Duration": 74,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 27,
+                        "Intensity": 20,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 41,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 42,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 74,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Copy from awm",
+            "Version": 1
+        }
+    },
+    "RouletteCancelVibrate": {
+        "duration": 30,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 20,
+                        "Frequency": 50
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 25,
+                    "Duration": 57,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 53,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 19
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 20,
+                                "Frequency": 19
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 48,
+                                "Frequency": 22
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 57,
+                                "Frequency": 19
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-21 17:48:50",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_M4A1_Fire_04": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 90,
+                        "Frequency": 45
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 25,
+                    "Duration": 30,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 55,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0.96248203516006,
+                                "Time": 14,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 29,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 30,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-21 17:43:16",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_VSS_Clipout": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 5,
+                    "Type": "continuous",
+                    "Duration": 37,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 12,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 13,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 37,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 62,
+                        "Frequency": 81
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 66,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 83,
+                        "Frequency": 77
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_FAMAS_Fire1112": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 20,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 90,
+                        "Frequency": 60
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-11-11",
+            "Version": 1,
+            "Description": "Export from RichTap Creator Editor"
+        }
+    },
+    "Weapon_HealingSniper_shot": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 73
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 17,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 21,
+                        "Frequency": 73
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_Kar98k_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 27,
+                    "Type": "continuous",
+                    "Duration": 37,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 25,
+                                "Intensity": 0.08,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 26,
+                                "Intensity": 1,
+                                "Frequency": 6
+                            },
+                            {
+                                "Time": 37,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 67,
+                        "Frequency": 33
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 83,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 80,
+                        "Frequency": 75
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_AKM_Fire1112": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 19,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 55
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 54,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 100
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-11-11",
+            "Version": 1,
+            "Description": "Export from RichTap Creator Editor"
+        }
+    },
+    "HP-MK47": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 10,
+                        "Frequency": 45
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 35,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 45
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 130,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 85,
+                        "Frequency": 100
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2020-08-10",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "HP-M24": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Duration": 65,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 55,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": -9
+                            },
+                            {
+                                "Time": 30,
+                                "Intensity": 1,
+                                "Frequency": 20
+                            },
+                            {
+                                "Time": 45,
+                                "Intensity": 0.5,
+                                "Frequency": -10
+                            },
+                            {
+                                "Time": 65,
+                                "Intensity": 0,
+                                "Frequency": -10
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-20",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_M82B_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Duration": 55,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 35,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 31,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 32,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 55,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Copy from akm",
+            "Version": 1
+        }
+    },
+    "groza_Levelup_5_1112": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 22,
+                    "Type": "continuous",
+                    "Duration": 41,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 1,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 40,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 41,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 70,
+                        "Frequency": 37
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 94,
+                    "Type": "continuous",
+                    "Duration": 55,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 1,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 54,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 55,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 100,
+                        "Frequency": 80
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-11-11",
+            "Version": 1,
+            "Description": "Export from RichTap Creator Editor"
+        }
+    },
+    "HP-MINI14": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 30,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 64
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 70,
+                    "Duration": 42,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 55,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 50
+                            },
+                            {
+                                "Time": 20,
+                                "Intensity": 0.5,
+                                "Frequency": 50
+                            },
+                            {
+                                "Time": 35,
+                                "Intensity": 0,
+                                "Frequency": 50
+                            },
+                            {
+                                "Time": 42,
+                                "Intensity": 0,
+                                "Frequency": 50
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-20",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "RouletteSwitchVibrate": {
+        "duration": 30,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 20,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 90,
+                        "Frequency": 60
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-11-11",
+            "Version": 1,
+            "Description": "Export from RichTap Creator Editor"
+        }
+    },
+    "Weapon_AR15_MagOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 43,
+                    "Type": "continuous",
+                    "Duration": 135,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 91,
+                                "Intensity": 0.08,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 93,
+                                "Intensity": 1,
+                                "Frequency": 6
+                            },
+                            {
+                                "Time": 135,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 67,
+                        "Frequency": 62
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 319,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 67,
+                        "Frequency": 73
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_MGL140_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 67
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 35,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 43,
+                        "Frequency": 0
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Copy from healinggun",
+            "Version": 1
+        }
+    },
+    "Weapon_XM8_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 95,
+                    "Type": "continuous",
+                    "Duration": 123,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 68,
+                                "Intensity": 0.25,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 69,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 123,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 71,
+                        "Frequency": 35
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 344,
+                    "Type": "continuous",
+                    "Duration": 172,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 57,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 59,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 172,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 51,
+                        "Frequency": 61
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_M14_ChangeClip": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 20,
+                    "Type": "continuous",
+                    "Duration": 50,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 38,
+                                "Intensity": 0.93,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 39,
+                                "Intensity": 0.95,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 50,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 55,
+                        "Frequency": 64
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 92,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 74
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Hear_car": {
+        "duration": 10,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Duration": 876,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 31,
+                        "Intensity": 64,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 19
+                            },
+                            {
+                                "Intensity": 0.74603176116943,
+                                "Time": 170,
+                                "Frequency": 5
+                            },
+                            {
+                                "Intensity": 0.76479077339172,
+                                "Time": 736,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 876,
+                                "Frequency": -12
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 876,
+                    "Type": "continuous",
+                    "Duration": 876,
+                    "Parameters": {
+                        "Frequency": 31,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 33
+                            },
+                            {
+                                "Time": 245,
+                                "Intensity": 0.58999997377396,
+                                "Frequency": -23
+                            },
+                            {
+                                "Time": 762,
+                                "Intensity": 0.50999999046326,
+                                "Frequency": -10
+                            },
+                            {
+                                "Time": 876,
+                                "Intensity": 0,
+                                "Frequency": -8
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 1752,
+                    "Type": "continuous",
+                    "Duration": 1074,
+                    "Parameters": {
+                        "Frequency": 31,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": -1
+                            },
+                            {
+                                "Time": 300,
+                                "Intensity": 0.58999997377396,
+                                "Frequency": -27
+                            },
+                            {
+                                "Time": 934,
+                                "Intensity": 0.50999999046326,
+                                "Frequency": 4
+                            },
+                            {
+                                "Time": 1074,
+                                "Intensity": 0,
+                                "Frequency": 13
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 2826,
+                    "Type": "continuous",
+                    "Duration": 1074,
+                    "Parameters": {
+                        "Frequency": 31,
+                        "Intensity": 74,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": -1
+                            },
+                            {
+                                "Time": 300,
+                                "Intensity": 0.58999997377396,
+                                "Frequency": -27
+                            },
+                            {
+                                "Time": 934,
+                                "Intensity": 0.50999999046326,
+                                "Frequency": 4
+                            },
+                            {
+                                "Time": 1074,
+                                "Intensity": 0,
+                                "Frequency": 13
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-26 17:11:46",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_MINI_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 15,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 60
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 70,
+                    "Duration": 55,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 50,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 40,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 55,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-26 18:18:24",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_P90_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 50,
+                    "Type": "continuous",
+                    "Duration": 66,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 36,
+                                "Intensity": 0.25,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 37,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 66,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 78,
+                        "Frequency": 72
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 258,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 51,
+                        "Frequency": 26
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 339,
+                    "Type": "continuous",
+                    "Duration": 75,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 41,
+                                "Intensity": 0.25,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 42,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 75,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 62,
+                        "Frequency": 35
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Aug_Gun_Clip_Out": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 76
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 30,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 77,
+                        "Frequency": 80
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "M82B_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 70,
+                        "Frequency": 36
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 63,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 80
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_AN94_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 22,
+                    "Type": "continuous",
+                    "Duration": 135,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 91,
+                                "Intensity": 0.08,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 93,
+                                "Intensity": 1,
+                                "Frequency": 6
+                            },
+                            {
+                                "Time": 135,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 67,
+                        "Frequency": 37
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_M1917_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 43
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_M60_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 119,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 81,
+                                "Intensity": 0.25,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 82,
+                                "Intensity": 1,
+                                "Frequency": 6
+                            },
+                            {
+                                "Time": 119,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 67,
+                        "Frequency": 62
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_FAMAS_CLIPOUT": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 135,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 92,
+                                "Intensity": 0.45,
+                                "Frequency": 26
+                            },
+                            {
+                                "Time": 93,
+                                "Intensity": 1,
+                                "Frequency": 17
+                            },
+                            {
+                                "Time": 135,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 60,
+                        "Frequency": 56
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_M79_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 269,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 170,
+                                "Intensity": 0.2,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 212,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 269,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 79,
+                        "Frequency": 32
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 315,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 65,
+                        "Frequency": 50
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 591,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 53,
+                        "Frequency": 0
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 681,
+                    "Type": "continuous",
+                    "Duration": 82,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 27,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 28,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 82,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 69,
+                        "Frequency": 73
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 775,
+                    "Type": "continuous",
+                    "Duration": 110,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 36,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 37,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 110,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 37,
+                        "Frequency": 38
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Hear_Foot": {
+        "duration": 2500,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 40,
+                        "Frequency": 60
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 250,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 40,
+                        "Frequency": 60
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 500,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 40,
+                        "Frequency": 60
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 750,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 40,
+                        "Frequency": 60
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-29 16:16:07",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Hear_Foot_Short":{
+        "duration":250,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 40,
+                        "Frequency": 60
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2024-12-04",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Hear_Foot_Long":{
+        "duration":1750,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 40,
+                        "Frequency": 60
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2024-12-04",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_M1873_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 62,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 20,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 21,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 62,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 76,
+                        "Frequency": 58
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_MP40_ClipOut": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 71,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 23,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 24,
+                                "Intensity": 0.22,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 71,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 66,
+                        "Frequency": 65
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_SKS_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 20,
+                        "Frequency": 50
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 25,
+                    "Duration": 57,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 53,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 19
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 20,
+                                "Frequency": 19
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 48,
+                                "Frequency": 22
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 57,
+                                "Frequency": 19
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-21 17:48:50",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_SCAR_ChangeClip": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "continuous",
+                    "Duration": 77,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 49,
+                                "Intensity": 0.2,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 61,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 77,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 77,
+                        "Frequency": 65
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_AKM_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 55
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 35,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 100
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2020-08-10",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_M1014_ChangeClip": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 66,
+                    "Type": "continuous",
+                    "Duration": 51,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 36,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 37,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 51,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 63,
+                        "Frequency": 57
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 265,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 80
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Weapon_USP_ChangeClip": {
+        "duration": 1000,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 32,
+                    "Type": "continuous",
+                    "Duration": 107,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 61,
+                                "Intensity": 0.35,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 66,
+                                "Intensity": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 107,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 71,
+                        "Frequency": 50
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 173,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 85,
+                        "Frequency": 63
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 200,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 42,
+                        "Frequency": 25
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 436,
+                    "Type": "continuous",
+                    "Duration": 167,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 48,
+                                "Intensity": 0.9,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 54,
+                                "Intensity": 0.18,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 167,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 54,
+                        "Frequency": 34
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 790,
+                    "Type": "continuous",
+                    "Duration": 73,
+                    "Parameters": {
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 21,
+                                "Intensity": 0.9,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 24,
+                                "Intensity": 0.18,
+                                "Frequency": 0
+                            },
+                            {
+                                "Time": 73,
+                                "Intensity": 0,
+                                "Frequency": 0
+                            }
+                        ],
+                        "Intensity": 65,
+                        "Frequency": 50
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-19",
+            "Version": 1,
+            "Description": "Export from RichTap HeConvert"
+        }
+    },
+    "Car_Get_Fire": {
+        "duration": 50,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Duration": 100,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 39,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 37
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 8,
+                                "Frequency": 56
+                            },
+                            {
+                                "Intensity": 0.85137087106705,
+                                "Time": 63,
+                                "Frequency": 14
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 100,
+                                "Frequency": -30
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-26 17:01:47",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_AWM_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Duration": 73,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 61,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 1,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 56,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 73,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 106,
+                    "Duration": 85,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 27,
+                        "Intensity": 26,
+                        "Curve": [
+                            {
+                                "Intensity": 0,
+                                "Time": 0,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 46,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 1,
+                                "Time": 48,
+                                "Frequency": 0
+                            },
+                            {
+                                "Intensity": 0,
+                                "Time": 85,
+                                "Frequency": 0
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-26 18:20:19",
+            "Version": 1,
+            "Description": "Design by iOS RichTap Creator"
+        }
+    },
+    "Weapon_SCAR_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 100,
+                        "Frequency": 48
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2020-08-10",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "HP-G36C": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 80,
+                        "Frequency": 34
+                    }
+                }
+            },
+            {
+                "Event": {
+                    "RelativeTime": 25,
+                    "Duration": 35,
+                    "Type": "continuous",
+                    "Parameters": {
+                        "Frequency": 50,
+                        "Intensity": 100,
+                        "Curve": [
+                            {
+                                "Time": 0,
+                                "Intensity": 0,
+                                "Frequency": -20
+                            },
+                            {
+                                "Time": 18,
+                                "Intensity": 0.16,
+                                "Frequency": -20
+                            },
+                            {
+                                "Time": 34,
+                                "Intensity": 0,
+                                "Frequency": -25
+                            },
+                            {
+                                "Time": 35,
+                                "Intensity": 0,
+                                "Frequency": -25
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2020-08-10",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    },
+    "Weapon_UZI_Fire": {
+        "duration": 0,
+        "Pattern": [
+            {
+                "Event": {
+                    "RelativeTime": 0,
+                    "Type": "transient",
+                    "Parameters": {
+                        "Intensity": 74,
+                        "Frequency": 67
+                    }
+                }
+            }
+        ],
+        "Metadata": {
+            "Created": "2021-10-18",
+            "Description": "Haptic editor design",
+            "Version": 1
+        }
+    }
+}

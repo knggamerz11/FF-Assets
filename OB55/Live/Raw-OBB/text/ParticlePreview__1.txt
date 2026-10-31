@@ -1,0 +1,3 @@
+ID,ResID,PosX,PosY,PosZ,RotX,RotY,RotZ
+unread,unread,unread,unread,unread,unread,unread,unread
+10001,EFFECT_VEHICLE_SMOKE_02,0,0,0,0,0,0

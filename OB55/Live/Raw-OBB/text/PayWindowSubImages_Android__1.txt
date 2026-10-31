@@ -1,0 +1,3 @@
+id,iap_cdn_url_key,ad_cdn_url_key,iap_resource_name,ad_resource_name
+unread,unread,unread,unread,unread
+1,TXT_PAY_WINDOW_IAP_IMAGE_ANDROID_1,,,

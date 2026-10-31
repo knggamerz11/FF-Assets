@@ -1,0 +1,933 @@
+{
+  "Config": [
+    {
+      "HudName": "HudMiniMap",
+      "Anchor": "TopLeft",
+      "coordinateX": 106.0,
+      "coordinateY": -104.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudPlayerStats",
+      "Anchor": "Bottom",
+      "coordinateX": -181.0,
+      "coordinateY": 51.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudPlayerSkillBuff",
+      "Anchor": "Bottom",
+      "coordinateX": 8.5,
+      "coordinateY": 96.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudPlayerArmorStats",
+      "Anchor": "Bottom",
+      "coordinateX": -258.0,
+      "coordinateY": 49.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudReloadBtn",
+      "Anchor": "BottomRight",
+      "coordinateX": -424.0,
+      "coordinateY": 50.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudTeammatesInfo",
+      "Anchor": "TopLeft",
+      "coordinateX": 92.0,
+      "coordinateY": -259.2,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudPlayerFollowEmote",
+      "Anchor": "TopLeft",
+      "coordinateX": 305.0,
+      "coordinateY": -81.2,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudInventoryEntry",
+      "Anchor": "Left",
+      "coordinateX": 69.0,
+      "coordinateY": -30.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudQuickUseMedkit",
+      "Anchor": "Left",
+      "coordinateX": 69.0,
+      "coordinateY": -110.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudDirectionRuler",
+      "Anchor": "Top",
+      "coordinateX": 0.0,
+      "coordinateY": -55.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": true
+    },
+
+    {
+      "HudName": "HudMovingJoystick",
+      "Anchor": "BottomLeft",
+      "coordinateX": 224.0,
+      "coordinateY": 186.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudSpeedupArea",
+      "Anchor": "Left",
+      "coordinateX": 224.0,
+      "coordinateY": 51.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudFire",
+      "Anchor": "BottomRight",
+      "coordinateX": -204.0,
+      "coordinateY": 201.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudAuxAim",
+      "Anchor": "BottomRight",
+      "coordinateX": -374.0,
+      "coordinateY": 556.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudSwapWeaponQuick",
+      "Anchor": "BottomRight",
+      "coordinateX": -424.0,
+      "coordinateY": 131.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudReaperTransform",
+      "Anchor": "BottomRight",
+      "coordinateX": -216.0,
+      "coordinateY": 315.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudAuxFire",
+      "Anchor": "Left",
+      "coordinateX": 321.0,
+      "coordinateY": 51.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudWeaponInfo",
+      "Anchor": "TopRight",
+      "coordinateX": -126.0,
+      "coordinateY": -71.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudWeaponSwitch",
+      "Anchor": "TopRight",
+      "coordinateX": -126.0,
+      "coordinateY": -152.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudTeamRally",
+      "Anchor": "TopRight",
+      "coordinateX": -446.0,
+      "coordinateY": -194.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudWeaponInfoUpgrade",
+      "Anchor": "TopRight",
+      "coordinateX": -281.0,
+      "coordinateY": -91.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudExchangeItemPanel",
+      "Anchor": "TopRight",
+      "coordinateX": -356.0,
+      "coordinateY": -184.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudTKWeaponInfo",
+      "Anchor": "TopRight",
+      "coordinateX": -126.0,
+      "coordinateY": -74.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudCrouch",
+      "Anchor": "BottomRight",
+      "coordinateX": -85.0,
+      "coordinateY": 82.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudCreep",
+      "Anchor": "BottomRight",
+      "coordinateX": -236.0,
+      "coordinateY": 56.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudRescure",
+      "Anchor": "BottomRight",
+      "coordinateX": -380.0,
+      "coordinateY": 250.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudSuicide",
+      "Anchor": "Center",
+      "coordinateX": 0.0,
+      "coordinateY": 0.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudJump",
+      "Anchor": "BottomRight",
+      "coordinateX": -49.0,
+      "coordinateY": 230.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudJumpSecond",
+      "Anchor": "BottomRight",
+      "coordinateX": -49.0,
+      "coordinateY": 330.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudSight",
+      "Anchor": "BottomRight",
+      "coordinateX": -51.0,
+      "coordinateY": 344.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudPickupList",
+      "Anchor": "TopRight",
+      "coordinateX": -186.0,
+      "coordinateY": -280.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudGrenadeChange",
+      "Anchor": "Left",
+      "coordinateX": 69.0,
+      "coordinateY": -191.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudGrenadeChange2",
+      "Anchor": "Bottom",
+      "coordinateX": 197.0,
+      "coordinateY": 281.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudGrenadeChange2Ob38Old",
+      "Anchor": "Left",
+      "coordinateX": 88.0,
+      "coordinateY": -288.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudVehicleBoost",
+      "Anchor": "Left",
+      "coordinateX": 224.0,
+      "coordinateY": 51.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudVehicleJump",
+      "Anchor": "BottomRight",
+      "coordinateX": -49.0,
+      "coordinateY": 230.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudEmotionEntry",
+      "Anchor": "TopLeft",
+      "coordinateX": 248.0,
+      "coordinateY": -136.6,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudCombineWeapon",
+      "Anchor": "TopRight",
+      "coordinateX": -304.0,
+      "coordinateY": -163.0,
+      "btnScale": 0.75,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudSwitchWeapon",
+      "Anchor": "TopRight",
+      "coordinateX": -314.0,
+      "coordinateY": -53.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudBattleFlag",
+      "Anchor": "Left",
+      "coordinateX": 535.0,
+      "coordinateY": 247.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudAutoFire",
+      "Anchor": "TopRight",
+      "coordinateX": -318.0,
+      "coordinateY": -174.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudSwimmingSurf",
+      "Anchor": "Left",
+      "coordinateX": 410.5,
+      "coordinateY": 136.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudJetFly",
+      "Anchor": "BottomRight",
+      "coordinateX": -490.0,
+      "coordinateY": 189.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudJetFlyUp",
+      "Anchor": "BottomRight",
+      "coordinateX": -81.0,
+      "coordinateY": 247.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudJetFlyDown",
+      "Anchor": "BottomRight",
+      "coordinateX": -85.0,
+      "coordinateY": 83.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+
+    {
+      "HudName": "HudPetAnim",
+      "Anchor": "Left",
+      "coordinateX": 435.0,
+      "coordinateY": 247.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudActiveSkill",
+      "Anchor": "BottomRight",
+      "coordinateX": -374.7,
+      "coordinateY": 89.9,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudSkillMightyUpgrade",
+      "Anchor": "Bottom",
+      "coordinateX": 94.3,
+      "coordinateY": 113.4,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudCatapultLaunch",
+      "Anchor": "BottomRight",
+      "coordinateX": -495.0,
+      "coordinateY": 370.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudItemMarkBtn",
+      "Anchor": "TopRight",
+      "coordinateX": -444.0,
+      "coordinateY": -265.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudBotAgentMarkBtn",
+      "Anchor": "TopLeft",
+      "coordinateX": 309.0,
+      "coordinateY": -198.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudKillNotification",
+      "Anchor": "Bottom",
+      "coordinateX": 0.0,
+      "coordinateY": 300.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudSignal",
+      "Anchor": "TopLeft",
+      "coordinateX": 361.0,
+      "coordinateY": -23.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudInteract",
+      "Anchor": "BottomRight",
+      "coordinateX": -380.0,
+      "coordinateY": 380.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudChatBtn",
+      "Anchor": "TopLeft",
+      "coordinateX": 248.0,
+      "coordinateY": -192.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudQuickChatContainer",
+      "Anchor": "TopLeft",
+      "coordinateX": 302.0,
+      "coordinateY": -248.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudResponseChatBtn",
+      "Anchor": "TopRight",
+      "coordinateX": -412.3,
+      "coordinateY": -144.5,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },    
+    {
+      "HudName": "HudQuickChatV2Combo",
+      "Anchor": "TopRight",
+      "coordinateX": -408.0,
+      "coordinateY": -96.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudThumbUp",
+      "Anchor": "TopRight",
+      "coordinateX": -412.0,
+      "coordinateY": -70.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudSetting",
+      "Anchor": "TopRight",
+      "coordinateX": -24.0,
+      "coordinateY": -16.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudGameMissionMiniInfoPanel",
+      "Anchor": "Bottom",
+      "coordinateX": 0.0,
+      "coordinateY": 105.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudVehicleHorn",
+      "Anchor": "BottomLeft",
+      "coordinateX": 360.0,
+      "coordinateY": 330.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudSpeakerMute",
+      "Anchor": "TopLeft",
+      "coordinateX": 248.0,
+      "coordinateY": -26.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudMicroPhoneMute",
+      "Anchor": "TopLeft",
+      "coordinateX": 248.0,
+      "coordinateY": -81.3,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudMetroMessage",
+      "Anchor": "TopLeft",
+      "coordinateX": 213.0,
+      "coordinateY": -214.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudMetroGuide",
+      "Anchor": "TopLeft",
+      "coordinateX": -6.0,
+      "coordinateY": -214.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudMetroOption",
+      "Anchor": "TopRight",
+      "coordinateX": -30.0,
+      "coordinateY": -225.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudSwingAction",
+      "Anchor": "BottomRight",
+      "coordinateX": -210.0,
+      "coordinateY": 220.0,
+      "btnScale": 1.8,
+      "btnMaxScale": 3.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudTowAction",
+      "Anchor": "BottomRight",
+      "coordinateX": -50.0,
+      "coordinateY": 330.0,
+      "btnScale": 1.2,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudTeamParachuteAction",
+      "Anchor": "BottomLeft",
+      "coordinateX": 450.0,
+      "coordinateY": 350.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "UIHudPlayerRemainingInfo",
+      "Anchor": "TopRight",
+      "coordinateX": -126.0,
+      "coordinateY": -54.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "UIHudOBCount",
+      "Anchor": "TopLeft",
+      "coordinateX": 406.0,
+      "coordinateY": -10.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "UIHudToken",
+      "Anchor": "Top",
+      "coordinateX": 300.0,
+      "coordinateY": 0.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudCameraEntry",
+      "Anchor": "TopLeft",
+      "coordinateX": 305.0,
+      "coordinateY": -136.6,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudTriggerGrenade",
+      "Anchor": "Left",
+      "coordinateX": 239.0,
+      "coordinateY": 51.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudWLSnowSlidePlayerStats",
+      "Anchor": "Bottom",
+      "coordinateX": -240.2,
+      "coordinateY": 106.3,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudModeCommonEntrance",
+      "Anchor": "Bottom",
+      "coordinateX": -220.0,
+      "coordinateY": 102.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudQuitButton",
+      "coordinateX": -356.5,
+      "coordinateY": -110.0,
+      "Anchor": "TopRight",
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudPresetPickEntrance",
+      "coordinateX": 230.0,
+      "coordinateY": 200.0,
+      "Anchor": "Bottom",
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudPassiveDevice",
+      "coordinateX": -157.0,
+      "coordinateY": 88.0,
+      "Anchor": "Bottom",
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    },
+    {
+      "HudName": "HudLoginAge18",
+      "Anchor": "BottomLeft",
+      "coordinateX": 37.0,
+      "coordinateY": 54.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "MinAlpha": 0.3,
+      "Locked": false
+    },
+    {
+      "HudName": "HudAdminAbuseEntry",
+      "Anchor": "TopRight",
+      "coordinateX": -310.0,
+      "coordinateY": -180.0,
+      "btnScale": 1.0,
+      "btnMaxScale": 2.0,
+      "btnMinScale": 0.5,
+      "ShowAlpha": 1.0,
+      "Locked": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+ID,Type,EventName,undefine3,ParamDes,Param,Key,SpriteName,ActiveKey,GroupModeBan
+ID,unread,unread,unread,unread,unread,KEY,unread,unread,
+1,1,Airdrop,unread,,,T_31_Z_R_OB_AIRDROP,FF_ingame_hud_cheatcode_icon_airdrop,,
+2,1,AirVehicle,unread,,,T_31_Z_R_OB_AIRCAR,FF_ingame_hud_cheatcode_icon_vehicle,,
+3,1,AirDropInGameShop,unread,,,T_31_Z_R_OB_AIRMC,FF_ingame_hud_cheatcode_icon_Sell,,
+4,1,Bomb,unread,,,T_31_Z_R_OB_BOMB,FF_ingame_hud_cheatcode_icon_bomb,,
+5,1,UAV,UAV,,,T_31_Z_OB_UAV,FF_ingame_hud_cheatcode_icon_UAV,,
+6,2,UnlimitedAmmo,unread,,,T_31_Z_OB_AMMO,,T_32_Z_OB_AMMO_OPEN,
+7,2,CharacterSkillCd,unread,,0.5,T_31_Z_OB_SKILLCD,,T_32_Z_OB_SKILLCD_OPEN,
+8,2,JumpHeightOne,unread,unread,2,T_31_Z_OB_JUMP,,T_32_Z_OB_JUMP_OPEN,
+9,2,JumpHeightTwo,unread,unread,4,T_31_Z_OB_JUMP,,T_32_Z_OB_JUMP_OPEN,
+10,2,MovementSpeedOne,unread,unread,0.5,T_31_Z_OB_SPEED,,T_32_Z_OB_SPEED_OPEN,
+11,2,MovementSpeedTwo,unread,unread,0.75,T_31_Z_OB_SPEED,,T_32_Z_OB_SPEED_OPEN,
+12,2,MovementSpeedThree,unread,unread,2,T_31_Z_OB_SPEED,,T_32_Z_OB_SPEED_OPEN,
+13,2,FriendlyFire,unread,,,T_31_Z_OB_FDFIRE,,T_32_Z_OB_FDFIRE_OPEN,0
+14,2,HideName,unread,,,T_31_Z_OB_FDHUD,,T_32_Z_OB_FDHUD_OPEN,0

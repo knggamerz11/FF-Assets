@@ -1,0 +1,39 @@
+@ModuleLib=wkWd7IQK
+@ScriptName=Base_Chair
+type wkWd7IQK00CustomComponent60159144 : (Component & CustomLevelObject) = 63578912100000 { #Base_Chair
+}
+
+@ModuleLib=wkWd7IQK
+@ScriptName=Blue_Chair
+type wkWd7IQK00CustomComponent48628203 : (Component & CustomLevelObject) = 63578912100001 { #Blue_Chair
+}
+
+@ModuleLib=wkWd7IQK
+@ScriptName=Chairs
+type wkWd7IQK00CustomComponent89527175 : (Component & CustomLevelObject) = 63578912100002 { #Chairs
+}
+
+@ModuleLib=wkWd7IQK
+@ScriptName=Green_Chair
+type wkWd7IQK00CustomComponent92158931 : (Component & CustomLevelObject) = 63578912100003 { #Green_Chair
+}
+
+@ModuleLib=wkWd7IQK
+@ScriptName=Plastic_Chair
+type wkWd7IQK00CustomComponent96995056 : (Component & CustomLevelObject) = 63578912100004 { #Plastic_Chair
+}
+
+@ModuleLib=wkWd7IQK
+@ScriptName=Red_Chair
+type wkWd7IQK00CustomComponent65666785 : (Component & CustomLevelObject) = 63578912100005 { #Red_Chair
+}
+
+@ModuleLib=wkWd7IQK
+@ScriptName=Table
+type wkWd7IQK00CustomComponent26033121 : (Component & CustomLevelObject) = 63578912100006 { #Table
+}
+
+@ModuleLib=wkWd7IQK
+@ScriptName=Yellow_Chair
+type wkWd7IQK00CustomComponent57147110 : (Component & CustomLevelObject) = 63578912100007 { #Yellow_Chair
+}

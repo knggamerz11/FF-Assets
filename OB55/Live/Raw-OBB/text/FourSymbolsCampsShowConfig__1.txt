@@ -1,0 +1,6 @@
+camp,icon_SelelctAttribute,buff_color,effect_levelup,effect_chain,audio_chain,effect_levelupPlayer
+unread,unread,unread,unread,unread,unread,unread
+1,,,,,,
+2,,,,,,
+3,,,,,,
+4,,,,,,

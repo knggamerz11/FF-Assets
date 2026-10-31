@@ -1,0 +1,11 @@
+MapID,MapMaskResource,IsSpeciMap
+unread,unread,unread
+1,MapBG,0
+3,MapBG_Azores,0
+4,MapBG_Sonoran,0
+5,MapBG_NeoParadise,0
+14,MapBG_Shangri-La,0
+22,MapBG,0
+15,MapBG_NewBlast,1
+13,MapBG_RushB,1
+29,MapBG_Pony,1

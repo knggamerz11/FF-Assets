@@ -1,0 +1,11 @@
+catag_id,weaponbox_id,icon,comment
+unread,unread,unread,unread
+101,1001,Icon_HUD_M4A1,unread
+102,1001,Icon_HUD_AWM,unread
+103,1001,Icon_HUD_USP,unread
+104,1001,Icon_HUD_MP5,unread
+105,1001,Icon_HUD_M1014,unread
+106,1001,Icon_HUD_Changuo,unread
+109,1001,Icon_HUD_TREATMENTGUN,unread
+201,1002,UI_icon_gun_part_3,unread
+301,1003,UI_icon_FirstAidKit,unread

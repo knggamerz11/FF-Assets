@@ -1,0 +1,14 @@
+var_name,comment,var_type,var_value
+unread,unread,unread,unread
+EnableReconnect,unread,bool,TRUE
+ReconnectAllowTime,unread,int,90
+ObserverReconnectAllowTime,unread,int,90
+SpectatorReconnectAllowTime,unread,int,90
+EnterAllowTime,unread,int,330
+ReviveTimeout,unread,int,20
+SafeZoneIndexToObsoleteExtraLife,unread,int,3
+BonusHpForObsoletedExtraLife,unread,int,150
+ReviveTimeout,unread,int,5
+DropBoxDestroyTime,unread,int,10
+BombLikeShopDefaultWeaponSet,unread,string,2;201-150;18;102-2;1201-2
+BombLikeServerSyncShopData,unread,bool,TRUE

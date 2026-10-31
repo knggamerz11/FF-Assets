@@ -1,0 +1,12 @@
+Level,Exp,Name,Icon,MaxCost,Subscriptions,FollowNum,FollowLikeNum,explain,AwardType1,AwardId1,AwardNum1,AwardTime1,ReturnType1,ReturnId1,ReturnNum1,IsPreview1,PreviewAvatar1,AwardType2,AwardId2,AwardNum2,AwardTime2,ReturnType2,ReturnId2,ReturnNum2,IsPreview2,PreviewAvatar2,AwardType3,AwardId3,AwardNum3,AwardTime3,ReturnType3,ReturnId3,ReturnNum3,IsPreview3,PreviewAvatar3
+unread,unread,unread,unread,unread,unread,unread,unread,unread,unread,ItemID,unread,unread,unread,unread,unread,unread,unread,unread,ItemID,unread,unread,unread,unread,unread,unread,unread,unread,ItemID,unread,unread,unread,unread,unread,unread,unread
+1,0,T_30_M_WS_UGCLEVEL1,UI_Customize_lv_icon1,100000,50,50,50,T_35_HQ_UGC_LEVELUPREWARD_LEVEL1,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,100,T_30_M_WS_UGCLEVEL2,UI_Customize_lv_icon2,100000,50,50,50,,1,802000001,1,,,,,,,1,802000001,1,,,,,,,,,,,,,,,
+3,230,T_30_M_WS_UGCLEVEL3,UI_Customize_lv_icon3,100000,50,50,50,,1,905035001,1,,,,,,,2,,1000,,,,,,,,,,,,,,,
+4,940,T_30_M_WS_UGCLEVEL4,UI_Customize_lv_icon4,100000,50,50,50,,1,902035015,1,,,,,,,2,,2000,,,,,,,,,,,,,,,
+5,2710,T_30_M_WS_UGCLEVEL5,UI_Customize_lv_icon5,100000,50,50,50,,1,901035022,1,,,,,,,2,,3000,,,,,,,,,,,,,,,
+6,6020,T_30_M_WS_UGCLEVEL6,UI_Customize_lv_icon6,100000,50,50,50,,1,907103501,1,,,,,,,1,802000001,1,,,,,,,,,,,,,,,
+7,11350,T_30_M_WS_UGCLEVEL7,UI_Customize_lv_icon7,100000,50,50,50,,1,903035001,1,,,,,,,2,,4000,,,,,,,,,,,,,,,
+8,19180,T_30_M_WS_UGCLEVEL8,UI_Customize_lv_icon8,100000,50,50,50,,1,906035001,1,,,,,,,2,,6000,,,,,,,,,,,,,,,
+9,29990,T_30_M_WS_UGCLEVEL9,UI_Customize_lv_icon9,100000,50,50,50,,1,910035002,1,,,,,,,2,,8000,,,,,,,,,,,,,,,
+10,44260,T_30_M_WS_UGCLEVEL10,UI_Customize_lv_icon10,100000,50,50,50,,1,909035015,1,,,,,,,2,,10000,,,,,,,,,,,,,,,
